@@ -14,19 +14,18 @@
     <!--[if lt IE 8]>
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-  </head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"
+ </head>
   <body>
       <div id="header">
         <nav>
-          <center><li class="fork">
+          <!--><li class="fork">
             <a href="http://hcr2.info" class="button"><strong>hcr2.info</strong></a>
             <a href="https://dadahcr2.github.io/gbgo/#events" class="button"><strong>events</strong></a>
             <a href="https://dadahcr2.github.io/gbgo/#contests" class="button"><strong>contests</strong></a>
             <a href="https://dadahcr2.github.io/gbgo/#adventure-setups" class="button"><strong>advice</strong></a>
             <a href="http://friends.hcr2.info" class="button"><strong>friends</strong></a>
-      </li>  </center>  
+      </li>   
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
@@ -34,17 +33,15 @@
           {% endif %}
         </nav>
       </div><!-- end header -->
-
     <div class="wrapper">
-
       <section>
-        <div id="title">
-      <!--    <h1>{{ site.title | default: site.github.repository_name }}</h1>
+       <!-- <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
           <span class="credits left">Project maintained by <a href="mailto:dadahcr2@gmail.com">dada</a></span>
-          <span class="credits right">for gas brake go</a></span> -->
-        </div>
+          <span class="credits right">for gas brake go</a></span> 
+        </div>-->
         {{ content }}
 
       </section>
