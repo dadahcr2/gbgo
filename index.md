@@ -226,7 +226,7 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 
 ***
 
-[email](mailto:dadahcr2@gmail.com) — dada#1710 — [Leave a comment](https://rentry.co/gcom1)   
+[email](mailto:dadahcr2@gmail.com) ~ dada#1710 ~ [Leave a comment](https://rentry.co/gcom1)   
 {: style="text-align: center;"}  
 
 [![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)]()  
