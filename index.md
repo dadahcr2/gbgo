@@ -37,7 +37,6 @@ videos
 - [vokope howto](https://www.youtube.com/watch?v=p9VJHiptOeQ)
 - [vokope 40k]( https://youtu.be/HXHkfxOQAVU)
 - [cis 40k](https://youtu.be/RGHkHxgmZoI)
-- 
 
 ### Public Event: Dark side of the hill (Moon Jump)
 ![](https://pbs.twimg.com/media/E1LeN02X0AAHE1G.jpg:small)
@@ -174,7 +173,7 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 **Frostfire Caverns** | Go under the second mountain i.e.down into the cavern  
 **Lonely Camper** (Boggy Road 3) | Generally smoother to go the low route at 320m to go (near the start)  
 **Muddy Road** (Boggy Road 1) | Often quicker to break through the board at 200m to go, and go down  
-0**Snappy Swamps** (Alligator Cup 2) | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
+**Snappy Swamps** (Alligator Cup 2) | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
 **Tunnel Vision** (Tunnels 1) | Go down the tunnel at 280m to go. It is a shortcut  
 **Watery Tunnel** (Cup of City Water 2) | Generally quicker to brake and go low route through the water  
 
