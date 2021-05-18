@@ -1,3 +1,4 @@
+![](https://media.discordapp.net/attachments/806343355264401478/844290109741858857/Image.png?width=100&height=100)  
 [hcr2.info](http://hcr2.info) - [Friends](http://friends.hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://faq.hcr2.info)  
 [Tips](http://tips.hcr2.info) - [Memes](http://memes.hcr2.info) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
@@ -226,5 +227,5 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 ***
 
 [email](mailto:dadahcr2@gmail.com) | dada#1710 | [Leave a comment](https://rentry.co/gcom1)   
-[![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)]()  
+[![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/844290109741858857/Image.png?width=100&height=100)]()  
 {: style="text-align: center;"}  
