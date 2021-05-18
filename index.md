@@ -25,7 +25,7 @@
 1. **RT AB AC coin/tires/wheelie**, no-air the one with lots of stones - rally weight tire coin/AB or RT?
 > it's better to take your time here and go slower.  turn air control down to 10
 2. **rally wing fuel AB**/LB, first 2km of moon adventure -buggy magnet/wing/coin/fuel or bus?
-> <https://youtu.be/MBXqU8YgdVU>
+> <https://youtu.be/MBXqU8YgdVU>  
 > 1.11 <https://youtu.be/SYSYhQ0bzi8>
 3. **bus wings thrust** JS, target jump - or moonlander?
 > 9.5k <https://youtu.be/ViML0hA56Go>
