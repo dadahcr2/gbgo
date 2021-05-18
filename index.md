@@ -139,9 +139,9 @@ Doc                 1
 
 ### Coleader Season Contest
 **Joins in May**  
-2 Getzata  
+2 Getzata 
+2 Groot   
 1 Spyder  
-1 Groot  
 ### Adventure Contest
 Adventure - May until mid-month: ***Scooter in Countryside***  
 🥇Date 4071m    
