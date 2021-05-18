@@ -1,5 +1,5 @@
 ![](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)[  ]()  
-[hcr2.info](http://hcr2.info) - [Friends](http://friends.hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://faq.hcr2.info)  
+<hcr2.info> - [Friends](http://friends.hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://faq.hcr2.info)  
 [Tips](http://tips.hcr2.info) - [Memes](http://memes.hcr2.info) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
 
@@ -25,19 +25,19 @@
 1. **RT AB AC coin/tires/wheelie**, no-air the one with lots of stones - rally weight tire coin/AB or RT?
 > it's better to take your time here and go slower.  turn air control down to 10
 2. **rally wing fuel AB**/LB, first 2km of moon adventure -buggy magnet/wing/coin/fuel or bus?
-> [route](https://youtu.be/MBXqU8YgdVU)
-> [1.11](https://youtu.be/SYSYhQ0bzi8)
+> <https://youtu.be/MBXqU8YgdVU>
+> 1.11 <https://youtu.be/SYSYhQ0bzi8>
 3. **bus wings thrust** JS, target jump - or moonlander?
-> [9.5k]( https://youtu.be/ViML0hA56Go)
+> 9.5k <https://youtu.be/ViML0hA56Go>
 4. **buggy rc=1 wing land JS**, beach adventure distance- racingtruck df=1 wing fume coin or buggy kangaroo?
 
 videos
-- [TD 33k](https://youtu.be/bsiDO4YFy_s)
-- [vere 37k (2nd run)](  https://youtu.be/o4bDTU7RMYI)
-- [zorro 37k]( https://youtu.be/Cbmzx3LXl4U)
-- [vokope howto](https://www.youtube.com/watch?v=p9VJHiptOeQ)
-- [vokope 40k]( https://youtu.be/HXHkfxOQAVU)
-- [cis 40k](https://youtu.be/RGHkHxgmZoI)
+- TD 33k <https://youtu.be/bsiDO4YFy_s>
+- vere 37k (2nd run) <https://youtu.be/o4bDTU7RMYI>
+- zorro 37k <https://youtu.be/Cbmzx3LXl4U>
+- vokope howto <https://www.youtube.com/watch?v=p9VJHiptOeQ>
+- vokope 40k <https://youtu.be/HXHkfxOQAVU>
+- cis 40k <https://youtu.be/RGHkHxgmZoI>
 
 ### Public Event: Dark side of the hill (Moon Jump)
 ![](https://pbs.twimg.com/media/E1LeN02X0AAHE1G.jpg:small)
@@ -226,7 +226,7 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 
 ***
 
-[email](mailto:dadahcr2@gmail.com) ~ dada#1710 ~ [Leave a comment](https://rentry.co/gcom1)   
+[dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710 ~ [Leave a comment](https://rentry.co/gcom1)   
 {: style="text-align: center;"}  
 
 [![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)]()[ ]()    
