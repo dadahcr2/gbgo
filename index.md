@@ -138,10 +138,10 @@ Doc                 1
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)
 
 ### Coleader Season Contest
-**Joins in May**  
-2 Getzata 
-2 Groot   
-1 Spyder  
+**Joins in May**   
+2 Getzata  
+2 Groot    
+1 Spyder   
 ### Adventure Contest
 Adventure - May until mid-month: ***Scooter in Countryside***  
 🥇Date 4071m    
