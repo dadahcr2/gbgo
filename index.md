@@ -1,6 +1,6 @@
 ![](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)[  ]()  
-[hcr2.info](http://hcr2.info) - [Friends](http://friends.hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://faq.hcr2.info)  
-[Tips](http://tips.hcr2.info) - [Memes](http://memes.hcr2.info) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
+[hcr2.info](http://hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://faq.hcr2.info) - [Tips](http://tips.hcr2.info)   
+[FS Memes](http://memes.hcr2.info) - [FS News](https://fingersoft.com/news/) - [FS Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
 
 ***
@@ -228,31 +228,32 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 
 Name | Link
 -- | --
-*Lonestar | https://playhcr.com/invite?id=YAKzzp
-69Camaro | https://playhcr.com/invite?id=6YgJX4
-Canis | https://playhcr.com/invite?id=oBy7Md
-Dada | https://playhcr.com/invite?id=XN7N73
-Date | https://playhcr.com/invite?id=rdKaOg
-Diezel | https://playhcr.com/invite?id=Wrq05d
-G🐝G | https://playhcr.com/invite?id=z57dp1
-Getzata | https://playhcr.com/invite?id=jEDooe
-Gramps | https://playhcr.com/invite?id=NKxKxJ
-Harry | https://playhcr.com/invite?id=5mnOj0
-Josey | https://playhcr.com/invite?id=Z46v9Z
-Max | https://playhcr.com/invite?id=e9YZ4W
-Nesorac | https://playhcr.com/invite?id=Zlapzy
-Omelette | https://playhcr.com/invite?id=jDn5A9
-PassDaB | https://playhcr.com/invite?id=Z4zea4
-PsyKotk | https://playhcr.com/invite?id=IOoOaN
-Rock | https://playhcr.com/invite?id=pBVAYN
-Rush | https://playhcr.com/invite?id=Ao4nZe
-Slicksam | https://playhcr.com/invite?id=bEgMXb
-Spyder | https://playhcr.com/invite?id=1Y1v73
-Swan | https://playhcr.com/invite?id=Q4rWYA
-T | https://playhcr.com/invite?id=3YgYnj
-Terd | https://playhcr.com/invite?id=K14e32
-Wolf | https://playhcr.com/invite?id=d5B5V2
-Zay | https://playhcr.com/invite?id=avmvPP
+*Lonestar | <https://playhcr.com/invite?id=YAKzzp>
+69Camaro | <https://playhcr.com/invite?id=6YgJX4>
+Canis | <https://playhcr.com/invite?id=oBy7Md>
+Dada | <https://playhcr.com/invite?id=XN7N73>
+Date | <https://playhcr.com/invite?id=rdKaOg>
+Diezel | <https://playhcr.com/invite?id=Wrq05d>
+G🐝G | <https://playhcr.com/invite?id=z57dp1>
+Getzata | <https://playhcr.com/invite?id=jEDooe>
+Gramps | <https://playhcr.com/invite?id=NKxKxJ>
+Harry | <https://playhcr.com/invite?id=5mnOj0>
+IamGroot | <https://playhcr.com/invite?id=rBr31M>
+Jimbob | <https://playhcr.com/invite?id=wznXZW>
+Josey | <https://playhcr.com/invite?id=Z46v9Z>
+Max | <https://playhcr.com/invite?id=e9YZ4W>
+Nesorac | <https://playhcr.com/invite?id=Zlapzy>
+Omelette | <https://playhcr.com/invite?id=jDn5A9>
+PassDaB | <https://playhcr.com/invite?id=Z4zea4>
+Rock | <https://playhcr.com/invite?id=pBVAYN>
+Rush | <https://playhcr.com/invite?id=Ao4nZe>
+Slicksam | <https://playhcr.com/invite?id=bEgMXb>
+Spyder | <https://playhcr.com/invite?id=1Y1v73>
+Swan | <https://playhcr.com/invite?id=Q4rWYA>
+T | <https://playhcr.com/invite?id=3YgYnj>
+Terd | <https://playhcr.com/invite?id=K14e32>
+Wolf | <https://playhcr.com/invite?id=d5B5V2>
+Zay | <https://playhcr.com/invite?id=avmvPP>
 
 ### Where can I find my invite code?
 ![Find your invite code](https://i.imgur.com/WiWRznr.jpg)
