@@ -175,15 +175,15 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 
  Track | Cup | Tip 
  -- | -- | --   
-**The Carousel** | Bill's Circuit_2 | Do a backflip at high point in cave e.g. with rally  
-**Flying Log** | Forest Cup_3 | Wait five seconds to reposition fuel  
+**The Carousel** | Bill'sCircuit 2 | Do a backflip at high point in cave e.g. with rally  
+**Flying Log** | ForestCup 3 | Wait five seconds to reposition fuel  
 **Forgotten Highway** | | High roads are generally quicker if you can make them  
 **Frostfire Caverns** | | Go under the second mountain i.e.down into the cavern  
-**Lonely Camper** | Boggy Road_3 | Generally smoother to go the low route at 320m to go (near the start)  
-**Muddy Road** | Boggy Road_1 | Often quicker to break through the board at 200m to go, and go down  
-**Snappy Swamps** | Alligator Cup_2 | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
-**Tunnel Vision** | Tunnels_1 | Go down the tunnel at 280m to go. It is a shortcut  
-**Watery Tunnel** | Cup of City Water_2 | Generally quicker to brake and go low route through the water  
+**Lonely Camper** | BoggyRoad 3 | Generally smoother to go the low route at 320m to go (near the start)  
+**Muddy Road** | BoggyRoad 1 | Often quicker to break through the board at 200m to go, and go down  
+**Snappy Swamps** | AlligatorCup 2 | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
+**Tunnel Vision** | Tunnels 1 | Go down the tunnel at 280m to go. It is a shortcut  
+**Watery Tunnel** | CupofCityWater 2 | Generally quicker to brake and go low route through the water  
 
 
 ### General HCR2 Advice  
@@ -273,7 +273,7 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 ***
 
-[dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710 ~ [Leave a comment](https://rentry.co/gcom1)   
+[dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710     
 {: style="text-align: center;"}  
 
 [![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)]()[ ]()    
