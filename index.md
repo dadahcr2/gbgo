@@ -128,7 +128,7 @@ Doc                 1
 ```
 
 **To compete in the daily Time Trial contest**
-1. Make sure that "dada" is on your friend list (if not, the link is on friends.hcr2.info)
+1. Make sure that "dada" is on your friend list (if not, the link is under [#friends](#friends)
 2. See the day’s vehicle and time trial on fw.hcr2.info or in-game chat (will be the same)
 3. Choose CUPS Tab at top
 4. Choose 4-square tab under flag tab on left
@@ -274,5 +274,5 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 [dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710     
 {: style="text-align: center;"}  
 
-[![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)]()[ ]()    
+[![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)](#top)[ ]()    
 {: style="text-align: center;"}  
