@@ -174,7 +174,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 ### Track Tips
 
  Track | Cup | Tip 
- -- | -- | --   
+ :--: | :--: | --   
 **The Carousel** | Bill'sCircuit 2 | Do a backflip at high point in cave e.g. with rally  
 **Flying Log** | ForestCup 3 | Wait five seconds to reposition fuel  
 **Forgotten Highway** | | High roads are generally quicker if you can make them  
