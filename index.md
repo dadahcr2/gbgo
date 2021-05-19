@@ -21,7 +21,7 @@
 ![](https://media.discordapp.net/attachments/750874271022317678/842788778799923230/image0.jpg?width=500&height=402)
 
 ***bus buggy rally racingtruck moonlander***
-1. **RT AB AC coin/tires/wheelie**, no-air the one with lots of stones - rally weight tire coin/AB or RT?
+1. **RT AB AC start/coin/tires/wheelie**, no-air the one with lots of stones - rally weight tire coin/AB or RT?
 > it's better to take your time here and go slower.  turn air control down to 10
 2. **rally wing fuel AB**/LB, first 2km of moon adventure -buggy magnet/wing/coin/fuel or bus?
 > <https://youtu.be/MBXqU8YgdVU>  
