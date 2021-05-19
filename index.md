@@ -41,9 +41,8 @@ videos
 - deflo 40k <https://youtu.be/ilqcRwpt2TI>
 
 ### Public Event: Momentous Momentum (time-attack)
-![](https://25.media.tumblr.com/30fc8f504047a0180e51b3372ef8a830/tumblr_mght2pJ3e31qdlh1io1_r1_400.gif)  
+![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)  
 
-I expect the following to be the time-trial tracks in the Public Event. The first four are confirmed in the chinese preview. The rest are from the last event that had the same four tracks: 
 
 Downhill Trials:**Trial of Balance** - sbike AB coin start  
 Spring City:**Whipclash** - sbike AB coin wing  
@@ -55,6 +54,7 @@ Dirty Rally:**Flipway** - rotator AB coin wing
 Bill's Circuit:**Hot Tarmac** - rally AB OT wing / sbike coin OT wing   
 Interstate Cup:**No Step on Snek** - rally AB coin OT  
 Stormrider Cup:**Like a Hawk** - rotator AB coin wing  
+Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing
 
 ### Leagues
 ![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
