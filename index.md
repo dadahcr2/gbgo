@@ -40,7 +40,8 @@ videos
 - deflo 40k <https://youtu.be/ilqcRwpt2TI>
 
 ### Public Event: Momentous Momentum (time-attack)
-![](https://25.media.tumblr.com/30fc8f504047a0180e51b3372ef8a830/tumblr_mght2pJ3e31qdlh1io1_r1_400.gif) 
+![](https://25.media.tumblr.com/30fc8f504047a0180e51b3372ef8a830/tumblr_mght2pJ3e31qdlh1io1_r1_400.gif)  
+
 I expect the following to be the time-trial tracks in the Public Event. The first four are confirmed in the chinese preview. The rest are from the last event that had the same four tracks: 
 
 Downhill Trials:**Trial of Balance** - sbike AB coin start  
