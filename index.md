@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)[  ]()  
+[![](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)](#bottom)[  ]()  
 [hcr2.info](http://hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://faq.hcr2.info) - [Tips](http://tips.hcr2.info)   
 [Memes](http://memes.hcr2.info) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
