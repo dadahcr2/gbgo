@@ -175,15 +175,15 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 
  Track | Cup | Tip 
  :--: | :--: | --   
-**The Carousel** | Bill'sCircuit 2 | Do a backflip at high point in cave e.g. with rally  
-**Flying Log** | ForestCup 3 | Wait five seconds to reposition fuel  
+**The Carousel** | Bill's Circuit 2 | Do a backflip at high point in cave e.g. with rally  
+**Flying Log** | Forest Cup 3 | Wait five seconds to reposition fuel  
 **Forgotten Highway** | | High roads are generally quicker if you can make them  
 **Frostfire Caverns** | | Go under the second mountain i.e.down into the cavern  
-**Lonely Camper** | BoggyRoad 3 | Generally smoother to go the low route at 320m to go (near the start)  
-**Muddy Road** | BoggyRoad 1 | Often quicker to break through the board at 200m to go, and go down  
-**Snappy Swamps** | AlligatorCup 2 | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
+**Lonely Camper** | Boggy Road 3 | Generally smoother to go the low route at 320m to go (near the start)  
+**Muddy Road** | Boggy Road 1 | Often quicker to break through the board at 200m to go, and go down  
+**Snappy Swamps** | Alligator Cup 2 | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
 **Tunnel Vision** | Tunnels 1 | Go down the tunnel at 280m to go. It is a shortcut  
-**Watery Tunnel** | CupofCityWater 2 | Generally quicker to brake and go low route through the water  
+**Watery Tunnel** | Cup of City Water 2 | Generally quicker to brake and go low route through the water  
 
 
 ### General HCR2 Advice  
