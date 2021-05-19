@@ -192,7 +192,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 5. Open the daily 10-win chest  
 6. Open six free 3h chests (resets every 12 hours)  
 7. Do all the adventure tasks (at least to level 1 chest)  
-8. Finish the 3 daily tasks   
+8. Finish the 3 daily tasks (at least the easy ones)   
 9. Have a chest timing down  
 10. Scrap excess parts  
 11. Make sure the team km chest reaches at least level 18 for legendary parts   
