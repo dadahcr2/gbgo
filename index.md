@@ -204,7 +204,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 
 **Only**  
 1. Use gems to open cup chests, except:  
-	- to buy epic or legendary parts in the shop if it is the first or last of that part that you need  
+	- to buy epic or legendary parts in the shop if it is the first or last of that part that you need
  	- to finish the public event if needed  
 2. Use scrap for parts needed for the team event - preferably legendary parts 
 
