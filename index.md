@@ -162,6 +162,11 @@ Spyder            1
 ```
 Until May month-end: ***Snowmobile-Rustbucket Reef***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/843620725738569758/image0.gif)  
+
+### Tournaments 
+- Tractor Wars: <http://tw.hcr2.info>
+- Friendly Wars: <http://fw.hcr2.info>
+
 ## Advice
 ### Adventure Setups
 Draft based on VMinchBosch data - **work-in-progress do not distribute!**  
@@ -208,7 +213,8 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 3. Scrap parts that may be needed in the future
 4. Use the scrapyard if tired or impaired
 
-## Friends
+## Team
+### Friends
 
 Name | Link
 -- | --
@@ -250,9 +256,6 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 5. Six-character invite code is visible after “id=“
 6. Post in GBG team chat for others to see
 
-## Tournaments
-- Tractor Wars: <http://tw.hcr2.info>
-- Friendly Wars: <http://fw.hcr2.info>
 
 ## Team Philosophy
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
