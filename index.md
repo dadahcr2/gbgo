@@ -255,7 +255,7 @@ Terd | <https://playhcr.com/invite?id=K14e32>
 Wolf | <https://playhcr.com/invite?id=d5B5V2>
 Zay | <https://playhcr.com/invite?id=avmvPP>
 
-### Where can I find my invite code?
+**Where can I find my invite code?**
 ![Find your invite code](https://i.imgur.com/WiWRznr.jpg)
 1.  Go to EVENTS tab  
 2. Click on friends square in bottom left 
