@@ -10,7 +10,7 @@
 
 ***
 
-18 May - deflo 40k - incorporated friends - new host - new PE
+18 May - deflo 40k - incorporated friends - new host - new PE  
 17 May - 1.11 T2  
 16 May - Adventure contest - T2 video - cis 40k - weekly km contest  
 15 May - vokope howto & 40k - weekly time trial results  
@@ -44,16 +44,16 @@ videos
 ### Public Event: Momentous Momentum (time-attack)
 I expect the following to be the time-trial tracks in the Public Event. The first four are confirmed in the chinese preview. The rest are from the last event that had the same four tracks: 
 
-Downhill Trials:**Trial of Balance** - sbike AB coin start
-Spring City:**Whipclash** - sbike AB coin wing
-Dark Roads:**Visions of Victory** - diesel JS start wing
-Cup in the Woods:**Captain's Log** - sbike start tire AB/OT
-Sand in Swimsuit:**The Big Dunes** - Tank fuel OT thrust
-Countryside Cup:**Four-Wheel Park** - rally AB coin OT
-Dirty Rally:**Flipway** - rotator AB coin wing
-Bill's Circuit:**Hot Tarmac** - rally AB OT wing / sbike coin OT wing 
-Interstate Cup:**No Step on Snek** - rally AB coin OT
-Stormrider Cup:**Like a Hawk** - rotator AB coin wing
+Downhill Trials:**Trial of Balance** - sbike AB coin start  
+Spring City:**Whipclash** - sbike AB coin wing  
+Dark Roads:**Visions of Victory** - diesel JS start wing  
+Cup in the Woods:**Captain's Log** - sbike start tire AB/OT  
+Sand in Swimsuit:**The Big Dunes** - Tank fuel OT thrust  
+Countryside Cup:**Four-Wheel Park** - rally AB coin OT  
+Dirty Rally:**Flipway** - rotator AB coin wing  
+Bill's Circuit:**Hot Tarmac** - rally AB OT wing / sbike coin OT wing   
+Interstate Cup:**No Step on Snek** - rally AB coin OT  
+Stormrider Cup:**Like a Hawk** - rotator AB coin wing  
 
 ### Leagues
 ![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
