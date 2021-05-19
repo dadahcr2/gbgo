@@ -10,6 +10,7 @@
 
 ***
 
+18 May - deflo 40k
 17 May - 1.11 T2
 16 May - Adventure contest - T2 video - cis 40k - weekly km contest  
 15 May - vokope howto & 40k - weekly time trial results  
@@ -38,6 +39,7 @@ videos
 - vokope howto <https://www.youtube.com/watch?v=p9VJHiptOeQ>
 - vokope 40k <https://youtu.be/HXHkfxOQAVU>
 - cis 40k <https://youtu.be/RGHkHxgmZoI>
+- deflo 40k <https://youtu.be/ilqcRwpt2TI>
 
 ### Public Event: Dark side of the hill (Moon Jump)
 ![](https://pbs.twimg.com/media/E1LeN02X0AAHE1G.jpg:small)
