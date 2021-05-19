@@ -10,6 +10,7 @@
 
 ***
 
+19 May - T1 +startboost
 18 May - deflo 40k - incorporated friends - new host - new PE  
 17 May - 1.11 T2  
 16 May - Adventure contest - T2 video - cis 40k - weekly km contest  
