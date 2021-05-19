@@ -175,46 +175,46 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 
  Track | Cup | Tip 
  -- | -- | --   
-**The Carousel** | Bill's Circuit 2 | Do a backflip at high point in cave e.g. with rally  
-**Flying Log** | Forest Cup 3 | Wait five seconds to reposition fuel  
+**The Carousel** | Bill's Circuit_2 | Do a backflip at high point in cave e.g. with rally  
+**Flying Log** | Forest Cup_3 | Wait five seconds to reposition fuel  
 **Forgotten Highway** | | High roads are generally quicker if you can make them  
 **Frostfire Caverns** | | Go under the second mountain i.e.down into the cavern  
-**Lonely Camper** | Boggy Road 3 | Generally smoother to go the low route at 320m to go (near the start)  
-**Muddy Road** | Boggy Road 1 | Often quicker to break through the board at 200m to go, and go down  
-**Snappy Swamps** | Alligator Cup 2 | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
-**Tunnel Vision** | Tunnels 1 | Go down the tunnel at 280m to go. It is a shortcut  
-**Watery Tunnel** | Cup of City Water 2 | Generally quicker to brake and go low route through the water  
+**Lonely Camper** | Boggy Road_3 | Generally smoother to go the low route at 320m to go (near the start)  
+**Muddy Road** | Boggy Road_1 | Often quicker to break through the board at 200m to go, and go down  
+**Snappy Swamps** | Alligator Cup_2 | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
+**Tunnel Vision** | Tunnels_1 | Go down the tunnel at 280m to go. It is a shortcut  
+**Watery Tunnel** | Cup of City Water_2 | Generally quicker to brake and go low route through the water  
 
 
-### General HCR2 Advice
-1. Be respectful and friendly to others
-2. Finish the weekly public event
-3. Finish the monthly 50k season
-4. Open the free and video chests in the shop
-5. Open the daily 10-win chest
-6. Open six free 3h chests (resets every 12 hours)
-7. Do all the adventure tasks (at least to level 1 chest)
-8. Finish the 3 daily tasks 
-9. Have a chest timing down
-10. Scrap excess parts
-11. Make sure the team km chest reaches at least level 18 for legendary parts 
-12. Compete in every team event
-13. Buy 10k common and 50k rare parts in the shop with coins if available
+### General HCR2 Advice  
+1. Be respectful and friendly to others  
+2. Finish the weekly public event  
+3. Finish the monthly 50k season  
+4. Open the free and video chests in the shop  
+5. Open the daily 10-win chest  
+6. Open six free 3h chests (resets every 12 hours)  
+7. Do all the adventure tasks (at least to level 1 chest)  
+8. Finish the 3 daily tasks   
+9. Have a chest timing down  
+10. Scrap excess parts  
+11. Make sure the team km chest reaches at least level 18 for legendary parts   
+12. Compete in every team event  
+13. Buy 10k common and 50k rare parts in the shop with coins if available  
 
-**Only** 
-1. Use gems to open cup chests, except: 
-	- to buy epic or legendary parts in the shop if it is the first or last of that part that you need
- 	- to finish the public event if needed
+**Only**  
+1. Use gems to open cup chests, except:  
+	- to buy epic or legendary parts in the shop if it is the first or last of that part that you need  
+ 	- to finish the public event if needed  
 2. Use scrap for parts needed for the team event - preferably legendary parts 
 
 **Never** 
-1. Cheat 
-2. Buy chests/coins with gems in the shop
-3. Scrap parts that may be needed in the future
-4. Use the scrapyard if tired or impaired
+1. Cheat  
+2. Buy chests/coins with gems in the shop  
+3. Scrap parts that may be needed in the future  
+4. Use the scrapyard if tired or impaired  
 
-## Team
-### Friends
+## Team  
+### Friends  
 
 Name | Link
 -- | --
@@ -245,24 +245,24 @@ Terd | <https://playhcr.com/invite?id=K14e32>
 Wolf | <https://playhcr.com/invite?id=d5B5V2>
 Zay | <https://playhcr.com/invite?id=avmvPP>
 
-### Where can I find my invite code?
-![Find your invite code](https://i.imgur.com/WiWRznr.jpg)
-1.  Go to EVENTS tab  
-2. Click on friends square in bottom left 
-3. Press + in top right
+### Where can I find my invite code?  
+![Find your invite code](https://i.imgur.com/WiWRznr.jpg)  
+1.  Go to EVENTS tab    
+2. Click on friends square in bottom left  
+3. Press + in top right  
 
 ![Find your invite code](https://i.imgur.com/lw0A9k3.jpg)
-4. Press “SEND LINK” button
-5. Six-character invite code is visible after “id=“
-6. Post in GBG team chat for others to see
+4. Press “SEND LINK” button  
+5. Six-character invite code is visible after “id=“  
+6. Post in GBG team chat for others to see  
 
 
-### Philosophy
-1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
+### Philosophy  
+1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another.    
 
-2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
+2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.  
 
-3. **In-game chat** is the preferred means of communication. In the rare event of not being able to communicate in-game, feel free to use other means ( e.g. my contact detail at the bottom or the discord server https://discord.gg/HHJB2qcR )
+3. **In-game chat** is the preferred means of communication. In the rare event of not being able to communicate in-game, feel free to use other means ( e.g. my contact detail at the bottom or the discord server https://discord.gg/HHJB2qcR )  
 
 4. **Relax and have fun!**  Rankings are secondary. (Please don't pressure anyone to perform better. If there is an issue that detracts from the positive environment, steps will be taken to address it.) 
 
