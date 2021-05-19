@@ -209,8 +209,8 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 4. Use the scrapyard if tired or impaired
 
 ## Tournaments
-- Tractor Wars: <tw.hcr2.info>
-- Friendly Wars: <fw.hcr2.info>
+- Tractor Wars: <http://tw.hcr2.info>
+- Friendly Wars: <http://fw.hcr2.info>
 
 ## Team Philosophy
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
