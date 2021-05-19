@@ -10,8 +10,8 @@
 
 ***
 
-18 May - deflo 40k
-17 May - 1.11 T2
+18 May - deflo 40k - incorporated friends   
+17 May - 1.11 T2  
 16 May - Adventure contest - T2 video - cis 40k - weekly km contest  
 15 May - vokope howto & 40k - weekly time trial results  
 14 May - new TE    
