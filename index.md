@@ -245,7 +245,7 @@ Terd | <https://playhcr.com/invite?id=K14e32>
 Wolf | <https://playhcr.com/invite?id=d5B5V2>
 Zay | <https://playhcr.com/invite?id=avmvPP>
 
-**Where can I find my invite code?**
+### Where can I find my invite code?
 ![Find your invite code](https://i.imgur.com/WiWRznr.jpg)
 1.  Go to EVENTS tab  
 2. Click on friends square in bottom left 
@@ -257,7 +257,7 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 6. Post in GBG team chat for others to see
 
 
-## Team Philosophy
+### Philosophy
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
