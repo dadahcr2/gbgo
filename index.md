@@ -224,6 +224,47 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 5. **Eat plenty fiber!!** 😀
 	 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
+## Friends
+
+Name | Link
+-- | --
+*Lonestar | https://playhcr.com/invite?id=YAKzzp
+69Camaro | https://playhcr.com/invite?id=6YgJX4
+Canis | https://playhcr.com/invite?id=oBy7Md
+Dada | https://playhcr.com/invite?id=XN7N73
+Date | https://playhcr.com/invite?id=rdKaOg
+Diezel | https://playhcr.com/invite?id=Wrq05d
+G🐝G | https://playhcr.com/invite?id=z57dp1
+Getzata | https://playhcr.com/invite?id=jEDooe
+Gramps | https://playhcr.com/invite?id=NKxKxJ
+Harry | https://playhcr.com/invite?id=5mnOj0
+Josey | https://playhcr.com/invite?id=Z46v9Z
+Max | https://playhcr.com/invite?id=e9YZ4W
+Nesorac | https://playhcr.com/invite?id=Zlapzy
+Omelette | https://playhcr.com/invite?id=jDn5A9
+PassDaB | https://playhcr.com/invite?id=Z4zea4
+PsyKotk | https://playhcr.com/invite?id=IOoOaN
+Rock | https://playhcr.com/invite?id=pBVAYN
+Rush | https://playhcr.com/invite?id=Ao4nZe
+Slicksam | https://playhcr.com/invite?id=bEgMXb
+Spyder | https://playhcr.com/invite?id=1Y1v73
+Swan | https://playhcr.com/invite?id=Q4rWYA
+T | https://playhcr.com/invite?id=3YgYnj
+Terd | https://playhcr.com/invite?id=K14e32
+Wolf | https://playhcr.com/invite?id=d5B5V2
+Zay | https://playhcr.com/invite?id=avmvPP
+
+### Where can I find my invite code?
+![Find your invite code](https://i.imgur.com/WiWRznr.jpg)
+1.  Go to EVENTS tab  
+2. Click on friends square in bottom left 
+3. Press + in top right
+
+![Find your invite code](https://i.imgur.com/lw0A9k3.jpg)
+4. Press “SEND LINK” button
+5. Six-character invite code is visible after “id=“
+6. Post in GBG team chat for others to see
+
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
 ***
