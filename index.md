@@ -164,7 +164,7 @@ Until May month-end: ***Snowmobile-Rustbucket Reef***
 ![](https://cdn.discordapp.com/attachments/776132655192211478/843620725738569758/image0.gif)  
 ## Advice
 ### Adventure Setups
-Draft base on VMinchBosch data - **work-in-progress do not distribute!**  
+Draft based on VMinchBosch data - **work-in-progress do not distribute!**  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
 ### Track Tips
 
