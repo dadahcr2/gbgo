@@ -208,22 +208,6 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 3. Scrap parts that may be needed in the future
 4. Use the scrapyard if tired or impaired
 
-## Tournaments
-- Tractor Wars: <http://tw.hcr2.info>
-- Friendly Wars: <http://fw.hcr2.info>
-
-## Team Philosophy
-1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
-
-2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
-
-3. **In-game chat** is the preferred means of communication. In the rare event of not being able to communicate in-game, feel free to use other means ( e.g. my contact detail at the bottom or the discord server https://discord.gg/HHJB2qcR )
-
-4. **Relax and have fun!**  Rankings are secondary. (Please don't pressure anyone to perform better. If there is an issue that detracts from the positive environment, steps will be taken to address it.) 
-
-5. **Eat plenty fiber!!** 😀
-	 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
-
 ## Friends
 
 Name | Link
@@ -265,6 +249,22 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 4. Press “SEND LINK” button
 5. Six-character invite code is visible after “id=“
 6. Post in GBG team chat for others to see
+
+## Tournaments
+- Tractor Wars: <http://tw.hcr2.info>
+- Friendly Wars: <http://fw.hcr2.info>
+
+## Team Philosophy
+1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
+
+2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
+
+3. **In-game chat** is the preferred means of communication. In the rare event of not being able to communicate in-game, feel free to use other means ( e.g. my contact detail at the bottom or the discord server https://discord.gg/HHJB2qcR )
+
+4. **Relax and have fun!**  Rankings are secondary. (Please don't pressure anyone to perform better. If there is an issue that detracts from the positive environment, steps will be taken to address it.) 
+
+5. **Eat plenty fiber!!** 😀
+	 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
