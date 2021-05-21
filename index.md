@@ -9,15 +9,12 @@
 {:toc}
 
 ***
+21 May - new TE videos
 20 May - TE Preview  
 > ![](https://cdn.discordapp.com/attachments/762882439604600842/845112938859200512/image0.gif)  
 	
 19 May - T1 +startboost  
-18 May - deflo 40k - incorporated friends - new host - new PE  
-17 May - 1.11 T2  
-16 May - Adventure contest - T2 video - cis 40k - weekly km contest  
-15 May - vokope howto & 40k - weekly time trial results  
-14 May - new TE    
+18 May - deflo 40k - incorporated friends - new host - new PE    
 
 ## Events
 ### Team event: The Last Neckbender
@@ -53,9 +50,12 @@ videos
 4. cargo, Lost in Transmission, Dirty Rally 3
 5. timed, Four-Wheel Park Countryside Cup 2
 
+videos
+- vokope how to https://youtu.be/YrqOXLA1Eww
+- vere https://youtu.be/Tmnncebqirs
+
 ### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)  
-
 
 Downhill Trials:**Trial of Balance** - sbike AB coin start  
 Spring City:**Whipclash** - sbike AB coin wing  
