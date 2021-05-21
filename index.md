@@ -10,6 +10,7 @@
 
 ***
 20 May - TE Preview  
+
 	![](https://cdn.discordapp.com/attachments/762882439604600842/845112938859200512/image0.gif)  
 	
 19 May - T1 +startboost  
