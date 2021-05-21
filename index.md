@@ -42,7 +42,7 @@ videos
 - deflo 40k <https://youtu.be/ilqcRwpt2TI>
 
 ### Team Event: Preview
-***Jeep, mk2, sportscar, rotator, hotrod, sbike** 
+***Jeep, mk2, sportscar, rotator, hotrod, sbike***  
 
 1. timed TideWaves FingerTravels1
 2. timed rotator PE track
