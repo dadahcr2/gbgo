@@ -44,11 +44,11 @@ videos
 ### Team Event: Preview
 ***Jeep, mk2, sportscar, rotator, hotrod, sbike***  
 
-1. timed TideWaves FingerTravels1
-2. timed rotator PE track
+1. timed, Tide Waves, Finger Travels 1
+2. timed, rotator PE track
 3. multijump
-4. cargo LostinTransmission DirtyRally3
-5. timed FourWheelPark CountrysideCup2
+4. cargo, Lost in Transmission, Dirty Rally 3
+5. timed, Four-Wheel Park Countryside Cup 2
 
 ### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)  
