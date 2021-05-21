@@ -9,7 +9,8 @@
 {:toc}
 
 ***
-20 May ![](https://cdn.discordapp.com/attachments/762882439604600842/845112938859200512/image0.gif)  
+20 May TE Preview  
+![](https://cdn.discordapp.com/attachments/762882439604600842/845112938859200512/image0.gif)  
 19 May - T1 +startboost  
 18 May - deflo 40k - incorporated friends - new host - new PE  
 17 May - 1.11 T2  
@@ -39,6 +40,15 @@ videos
 - vokope 40k <https://youtu.be/HXHkfxOQAVU>
 - cis 40k <https://youtu.be/RGHkHxgmZoI>
 - deflo 40k <https://youtu.be/ilqcRwpt2TI>
+
+### Team Event: Preview
+***Jeep, mk2, sportscar, rotator, hotrod, sbike** 
+
+1. timed TideWaves FingerTravels1
+2. timed rotator PE track
+3. multijump
+4. cargo LostinTransmission DirtyRally3
+5. timed FourWheelPark CountrysideCup2
 
 ### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)  
