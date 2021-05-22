@@ -32,8 +32,9 @@
 5. ![Mk2](https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25) or ![Sportscar](https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=40&height=25)	![SB](https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25), timed, Four-Wheel Park Countryside Cup 2
 
 videos
-- vokope how to https://youtu.be/YrqOXLA1Eww
-- vere https://youtu.be/Tmnncebqirs
+- vokope how to <https://youtu.be/YrqOXLA1Eww>
+- vere <https://youtu.be/Tmnncebqirs>
+- cis <https://www.youtube.com/watch?v=uwd9uYT0DWM>
 
 ### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)  
