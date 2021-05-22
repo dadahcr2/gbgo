@@ -18,27 +18,7 @@
 18 May - deflo 40k - incorporated friends - new host - new PE    
 
 ## Events
-### Team event: The Last Neckbender
-![](https://media.discordapp.net/attachments/750874271022317678/842788778799923230/image0.jpg?width=500&height=402)
 
-***bus buggy rally racingtruck moonlander***
-1. **RT AB AC start/coin/tires/wheelie**, no-air the one with lots of stones - rally weight tire coin/AB or RT?
-> it's better to take your time here and go slower.  turn air control down to 10
-2. **rally wing fuel AB**/LB, first 2km of moon adventure -buggy magnet/wing/coin/fuel or bus?
-> <https://youtu.be/MBXqU8YgdVU>  
-> 1.11 <https://youtu.be/SYSYhQ0bzi8>
-3. **bus wings thrust** JS, target jump - or moonlander?
-> 9.5k <https://youtu.be/ViML0hA56Go>
-4. **buggy rc=1 wing land JS**, beach adventure distance- racingtruck df=1 wing fume coin or buggy kangaroo?
-
-videos
-- TD 33k <https://youtu.be/bsiDO4YFy_s>
-- vere 37k (2nd run) <https://youtu.be/o4bDTU7RMYI>
-- zorro 37k <https://youtu.be/Cbmzx3LXl4U>
-- vokope howto <https://www.youtube.com/watch?v=p9VJHiptOeQ>
-- vokope 40k <https://youtu.be/HXHkfxOQAVU>
-- cis 40k <https://youtu.be/RGHkHxgmZoI>
-- deflo 40k <https://youtu.be/ilqcRwpt2TI>
 
 ### Team Event: Fenderbender Friends
 ![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
