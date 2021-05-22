@@ -25,11 +25,12 @@
 
 ***Jeep, mk2, sportscar, rotator, hotrod, sbike***  
 
-1. ![Superbike](https://media.discordapp.net/attachments/834727162984005632/834729620930560050/800px-Superbike.png?width=40&height=25)	![WT](https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)		Su=18 Df=1, timed, Tide Waves, Finger Travels 1
+1. ![Superbike](https://media.discordapp.net/attachments/834727162984005632/834729620930560050/800px-Superbike.png?width=35&height=20)	![WT](https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png?width=20&height=20)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=20&height=20)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=20&height=20)		Susp=15/18 Df=1, timed, Tide Waves, Finger Travels 1
 2. ![Rotator](https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![SB](https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25), timed, rotator PE track Hang On?
-3. ![Hill Climber](https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25)		Su=19, multijump
+3. ![Hill Climber](https://media.discordapp.net/attachments/834726148663017472/834726944284344330/Jeep.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25)		Susp=19?, multijump
 4. ![Hotrod](https://media.discordapp.net/attachments/834727111440859146/834729400514773012/Hotrod.png?width=40&height=25)	![Ma](https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)	, cargo, Lost in Transmission, Dirty Rally 3
-5. ![Mk2](https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25) or ![Sportscar](https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=40&height=25)	![SB](https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25), timed, Four-Wheel Park Countryside Cup 2
+5. ![Mk2](https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25) or  
+    ![Sportscar](https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=40&height=25)	![SB](https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25), timed, Four-Wheel Park Countryside Cup 2
 
 videos
 - vokope how to <https://youtu.be/YrqOXLA1Eww>
@@ -102,16 +103,16 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/843721025446346772/image0.png)
 
-**Daily Time Trial Contest**
+### Daily Time Trial Contest
 
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
 **Week 6 Results**
-🥇 Getzata 3+3+3+2+2+3+2 =18
-🥈 Dada      2+2+2+3+3+2+3 =17
-🥉 Date     1+1+1+1+1+1=6
+🥇 Getzata 3+3+3+2+2+3+2 =18  
+🥈 Dada      2+2+2+3+3+2+3 =17  
+🥉 Date     1+1+1+1+1+1=6  
 🏅 JB 1
 
 **2021 Time Trial Roll of Honor**
@@ -141,7 +142,7 @@ Doc                 1
 **Joins in May**   
 2 Getzata  
 2 Groot    
-1 Spyder
+1 Spyder  
 1 Wolf
 ### Adventure Contest
 Adventure - May until mid-month: ***Scooter in Countryside***  
@@ -172,8 +173,9 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
 ### Track Tips
 
+ 
  Track | Cup | Tip 
- :--: | :--: | --   
+ :--: | :--: | :--   
 **The Carousel** | Bill's Circuit 2 | Do a backflip at high point in cave e.g. with rally  
 **Flying Log** | Forest Cup 3 | Wait five seconds to reposition fuel  
 **Forgotten Highway** | | High roads are generally quicker if you can make them  
@@ -183,6 +185,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 **Snappy Swamps** | Alligator Cup 2 | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
 **Tunnel Vision** | Tunnels 1 | Go down the tunnel at 280m to go. It is a shortcut  
 **Watery Tunnel** | Cup of City Water 2 | Generally quicker to brake and go low route through the water  
+
 
 
 ### General HCR2 Advice  
@@ -216,8 +219,8 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 ### Friends  
 
 Name | Link
--- | --
-*Lonestar | <https://playhcr.com/invite?id=YAKzzp>
+:-- | :--
+\*Lonestar | <https://playhcr.com/invite?id=YAKzzp>
 69Camaro | <https://playhcr.com/invite?id=6YgJX4>
 Canis | <https://playhcr.com/invite?id=oBy7Md>
 Dada | <https://playhcr.com/invite?id=XN7N73>
@@ -243,6 +246,8 @@ T | <https://playhcr.com/invite?id=3YgYnj>
 Terd | <https://playhcr.com/invite?id=K14e32>
 Wolf | <https://playhcr.com/invite?id=d5B5V2>
 Zay | <https://playhcr.com/invite?id=avmvPP>
+
+
 
 ### Where can I find my invite code?  
 ![Find your invite code](https://i.imgur.com/WiWRznr.jpg)  
