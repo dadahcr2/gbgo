@@ -44,11 +44,11 @@ videos
 
 ***Jeep, mk2, sportscar, rotator, hotrod, sbike***  
 
-1. timed, Tide Waves, Finger Travels 1
-2. timed, rotator PE track
-3. multijump
-4. cargo, Lost in Transmission, Dirty Rally 3
-5. timed, Four-Wheel Park Countryside Cup 2
+1. **sbike s=18 Df=1 tire AB coin**, timed, Tide Waves, Finger Travels 1
+2. **rotator wing start AB**, timed, rotator PE track Hang On?
+3. **jeep s=19 wing JS LB**, multijump
+4. **Hotrod magnet coin fuel**, cargo, Lost in Transmission, Dirty Rally 3
+5. **mk2 wing JS LB**, timed, Four-Wheel Park Countryside Cup 2
 
 videos
 - vokope how to https://youtu.be/YrqOXLA1Eww
