@@ -9,6 +9,7 @@
 {:toc}
 
 ***
+22 May - TE setups and videos
 21 May - new TE videos
 20 May - TE Preview  
 > ![](https://cdn.discordapp.com/attachments/762882439604600842/845112938859200512/image0.gif)  
