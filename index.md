@@ -121,27 +121,29 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/843721025446346772/image0.png)
 
-### Daily Time Trial Contest
+**Daily Time Trial Contest**
+
 Rules:
 - Compete each day in same daily as fw.hcr2.info
-- Points added up over the week: 🥇=3, 🥈=2, 🥉=1
+- Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 5 Results**  
-🥇 Dada 2+2+3+3+3+3+2=18  
-🥈 Getzata 3+3+2+1+2+2+1=14  
-🥉 Date 1+1+2+1+1+3=9  
-🏅 Doc 1  
+**Week 6 Results**
+🥇 Getzata 3+3+3+2+2+3+2 =18
+🥈 Dada      2+2+2+3+3+2+3 =17
+🥉 Date     1+1+1+1+1+1=6
+🏅 JB 1
 
-**2021 Time Trial Roll of Honor**  
+**2021 Time Trial Roll of Honor**
 ```
          🥇   🥈   🥉
 ——————————————————————
-Dada      4    1 
+Dada      4    2 
+Getzata   1    3 
 Date      1    1    2   
-Getzata        3
 PDB                 1 
 Spyder              1 
 Doc                 1
+——————————————————————
 ```
 
 **To compete in the daily Time Trial contest**
@@ -158,7 +160,8 @@ Doc                 1
 **Joins in May**   
 2 Getzata  
 2 Groot    
-1 Spyder   
+1 Spyder
+1 Wolf
 ### Adventure Contest
 Adventure - May until mid-month: ***Scooter in Countryside***  
 🥇Date 4071m    
