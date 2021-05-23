@@ -59,7 +59,8 @@ Stormrider Cup:**Like a Hawk** - rotator AB coin wing
 Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing
 
 ![](https://25.media.tumblr.com/30fc8f504047a0180e51b3372ef8a830/tumblr_mght2pJ3e31qdlh1io1_r1_400.gif )
-
+### Public Event: Next (2km)
+![](https://cdn.discordapp.com/attachments/750906124454330429/845958040674107422/Screenshot_2021-05-23-05-32-28_Original.jpg)
 ### Leagues
 ![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
 - Eight divisions with an incentive to be in the top division - Top 100, 500, 2000, 4000, 8000, 16000, 32000, rest
