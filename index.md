@@ -22,7 +22,6 @@
 
 
 ### Team Event: Fenderbender Friends
-![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
 
 ***Jeep, mk2, sportscar, rotator, hotrod, sbike***  
 
@@ -43,6 +42,8 @@ videos
 - [vokope how to]( <https://youtu.be/YrqOXLA1Eww>)
 - [vere]( <https://youtu.be/Tmnncebqirs>)
 - [cis]( <https://www.youtube.com/watch?v=uwd9uYT0DWM>)
+
+![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
 
 ### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)  
