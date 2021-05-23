@@ -39,9 +39,9 @@
 > [sports](https://imgur.com/a/6vkvIAU), [jeep](https://imgur.com/a/R8jcLGV), [sbike](https://imgur.com/a/F1qWvzX), [rotator](https://imgur.com/a/4Q6U5Lo)
 
 videos
-- vokope how to <https://youtu.be/YrqOXLA1Eww>
-- vere <https://youtu.be/Tmnncebqirs>
-- cis <https://www.youtube.com/watch?v=uwd9uYT0DWM>
+- [vokope how to]( <https://youtu.be/YrqOXLA1Eww>)
+- [vere]( <https://youtu.be/Tmnncebqirs>)
+- [cis]( <https://www.youtube.com/watch?v=uwd9uYT0DWM>)
 
 ### Public Event: Momentous Momentum (time-attack)
 ![](https://pbs.twimg.com/media/E1vrpiNWEAQumq0.jpg:small)  
