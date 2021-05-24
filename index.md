@@ -108,11 +108,11 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 🥇Getzata  
 🥈Stand09  
 🥉dada  
-🏅Omelette  
-🎖Chicken  
+🏅Chicken  
+🎖sb 
 
 **Top Ten**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/843721025446346772/image0.png)
+![](https://cdn.discordapp.com/attachments/777301191474282546/846225075719110686/IMG_4425.jpg)
 
 ### Daily Time Trial Contest
 
