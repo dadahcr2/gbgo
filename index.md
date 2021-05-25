@@ -120,7 +120,6 @@ Getzata   1    3
 Date      1    1    3   
 PDB                 1 
 Spyder              1 
-Doc                 1
 ——————————————————————
 ```
 
