@@ -9,7 +9,7 @@
 {:toc}
 
 ***
-25 May - GL 41k video  
+25 May - GL 41k video  - lenny 42k
 24 May - TE tips  
 23 May - Next Pe teaser
 22 May - TE setups and videos
@@ -46,6 +46,7 @@ videos
 - [vere]( <https://youtu.be/Tmnncebqirs>)
 - [cis]( <https://www.youtube.com/watch?v=uwd9uYT0DWM>)
 - [gl](https://youtu.be/UMXqRI-vVP8)
+- [lenny](https://youtu.be/T0MsK3Ho0Zw)
 
 ![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
 
