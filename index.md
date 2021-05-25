@@ -136,7 +136,7 @@ Doc                 1
 
 ### Coleader Season Contest
 **Joins in May**   
-2 Getzata  
+3 Getzata  
 2 Groot    
 1 Spyder  
 1 Wolf
