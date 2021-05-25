@@ -9,11 +9,11 @@
 {:toc}
 
 ***
-25 May - GL 41k video  - lenny 42k
+25 May - GL 41k video  - lenny 42k  
 24 May - TE tips  
-23 May - Next Pe teaser
-22 May - TE setups and videos
-21 May - new TE videos
+23 May - Next Pe teaser  
+22 May - TE setups and videos  
+21 May - new TE videos  
 20 May - TE Preview  
 > ![](https://cdn.discordapp.com/attachments/762882439604600842/845112938859200512/image0.gif)  
 	
