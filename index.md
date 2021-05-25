@@ -90,7 +90,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
 ## Contests
-### Weekly Kms Contest
+### Weekly Kms Contest  
 **Top 5**  
 🥇Getzata  
 🥈Stand09  
