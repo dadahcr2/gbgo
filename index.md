@@ -9,6 +9,7 @@
 {:toc}
 
 ***
+26 May - New PE
 25 May - GL 41k video  - lenny 42k  
 24 May - TE tips  
 23 May - Next Pe teaser  
