@@ -59,7 +59,9 @@ videos
 Timed first 2 km of adventure tracks
 - Beach
 - City
-- etc.
+- Forest
+- Desert
+- Bog
 
 Rally Wing AB Fuel and remove hood at the start
 
