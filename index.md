@@ -49,7 +49,7 @@ videos
 - [gl](https://youtu.be/UMXqRI-vVP8)
 - [lenny](https://youtu.be/T0MsK3Ho0Zw)
 
-![](https://memeguy.com/photos/images/get-your-jimmies-rustled-in-a-fender-bender-258964.jpg)
+![](https://cdn.discordapp.com/attachments/797964357089755176/845327870297243658/unknown.gif)
 
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
