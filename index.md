@@ -52,6 +52,16 @@ videos
 
 ### Public Event: The Fast and the Last (2km)
 ![](https://cdn.discordapp.com/attachments/750906124454330429/845958040674107422/Screenshot_2021-05-23-05-32-28_Original.jpg)
+
+***diesel rally sbike supercar***
+
+Timed first 2 km of adventure tracks
+- Beach
+- City
+- etc.
+
+Rally Wing AB Fuel and remove hood at the start
+
 ### Leagues
 ![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
 - Eight divisions with an incentive to be in the top division - Top 100, 500, 2000, 4000, 8000, 16000, 32000, rest
