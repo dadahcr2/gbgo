@@ -49,7 +49,7 @@ videos
 - [cis]( <https://www.youtube.com/watch?v=uwd9uYT0DWM>)
 - [gl](https://youtu.be/UMXqRI-vVP8)
 - [lenny](https://youtu.be/T0MsK3Ho0Zw)
-- imperio <https://youtu.be/9so1Aaul98s>
+- [imperio]( <https://youtu.be/9so1Aaul98s>)
 
 ![](https://cdn.discordapp.com/attachments/797964357089755176/845327870297243658/unknown.gif)
 
