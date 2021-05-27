@@ -75,7 +75,7 @@ videos
 When in doubt
 ![Rally](https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25) and remove hood at the start
 
-Most up-to-date version on <www.hcr2.info>
+Most up-to-date version on www.hcr2.info
 
 ### Leagues
 ![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
