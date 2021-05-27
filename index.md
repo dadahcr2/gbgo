@@ -9,7 +9,7 @@
 {:toc}
 
 ***
-27 May - imperio video  
+27 May - imperio video - 7.5s T4    
 26 May - New PE  
 25 May - GL 41k video  - lenny 42k  
 24 May - TE tips  
@@ -38,10 +38,11 @@
 >  [hotrod](https://imgur.com/a/KYJ8epk)  
 >  Go very carefully into the first valley with the platform to try retain as much cargo as possible.  
 >  When you see the water puddle near the end, it is safe to blow the engine this close to the finish line. 
+>  [<https://cdn.discordapp.com/attachments/655701833255354371/847408742651920384/720_30_1.42_May272021.mp4>](https://cdn.discordapp.com/attachments/655701833255354371/847408742651920384/720_30_1.42_May272021.mp4)  
 5. ![Mk2](https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25) or  
     ![Sportscar](https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=40&height=25)	![SB](https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25), timed, Four-Wheel Park Countryside Cup 2, 10k=15s  
     ![Sportscar](https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=40&height=25)	![OT](https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25) to be safe (18.5s)  
-> [sports](https://imgur.com/a/6vkvIAU), [jeep](https://imgur.com/a/R8jcLGV), [sbike](https://imgur.com/a/F1qWvzX), [rotator](https://imgur.com/a/4Q6U5Lo)
+> [sports](https://imgur.com/a/6vkvIAU), [jeep](https://imgur.com/a/R8jcLGV), [sbike](https://imgur.com/a/F1qWvzX), [rotator](https://imgur.com/a/4Q6U5Lo)  
 
 videos
 - [vokope how to]( <https://youtu.be/YrqOXLA1Eww>)
