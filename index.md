@@ -9,7 +9,7 @@
 {:toc}
 
 ***
-27 May - imperio video
+27 May - imperio video  
 26 May - New PE  
 25 May - GL 41k video  - lenny 42k  
 24 May - TE tips  
