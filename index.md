@@ -14,10 +14,7 @@
 26 May - New PE  
 25 May - GL 41k video  - lenny 42k  
 24 May - TE tips  
-23 May - Next Pe teaser  
-22 May - TE setups and videos  
-21 May - new TE videos  
-20 May - TE Preview  
+
 > ![](https://cdn.discordapp.com/attachments/762882439604600842/845112938859200512/image0.gif)  
 	
 
@@ -28,8 +25,8 @@
 ***scooter tractor diesel snowmobile rally***
 
 1. ![Rally] ![AB] ![OT] ![cb], Timed classic, 10k=15s
-2. ![Snowmobile] ![wing  ![fume] ![OT, distance water, 10k=900m
-3. ![diesel] ![wing] ![LB]/![JS] ![thruster, longjump, 10k=180m
+2. ![Snowmobile] ![wi]  ![fume] ![OT] , distance water, 10k=900m
+3. ![diesel] ![wi] ![LB]/![JS] ![thruster] , longjump, 10k=180m
 4. ![tractor] ![RC] ![AB] ![cb], Breaking,  10k=7s
 
 ### Team Event: Fenderbender Friends
