@@ -26,7 +26,7 @@
 
 1. ![Rally] ![AB]  ![OT]  ![CB] , Timed classic, 10k=15s
 2. ![Snowmobile] ![wi]  ![Fume] ![OT] , distance water, 10k=900m
-3. ![diesel] ![wi] ![LB] / ![JS] ![th] , longjump, 10k=180m
+3. ![diesel] ![wi] ![LB] / ![JS] ![th] , long jump, 10k=180m
 4. ![tractor] ![RC] ![AB] ![CB] , Breaking,  10k=7s
 
 ### Team Event: Fenderbender Friends
