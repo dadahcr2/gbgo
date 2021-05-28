@@ -24,12 +24,12 @@
 
 ### Team Event: Preview
 
-![scooter] ![tractor] ,[diesel] ![snowmobile] ![rally]
+***scooter tractor diesel snowmobile rally***
 
-1. Time Attack in - HCR1,  _Time attack, 10k=15s_  - rally/tractor?
-2. Distance in Water, _Distance, 10k=900m_  - Snowmobile?
-3. Loooooong - Jump, _Long jump, 10k=180m_  - scooter/rally?
-4. One of the usual - Breaking Maps, _Time attack, breaking, 10k=7s_ - diesel/tractor?
+1. Time Attack in - HCR1,  _Time attack, 10k=15s_  - ![rally]/![tractor]?
+2. Distance in Water, _Distance, 10k=900m_  - ![Snowmobile]?
+3. Loooooong - Jump, _Long jump, 10k=180m_  - ![scooter]/![rally]?
+4. One of the usual - Breaking Maps, _Time attack, breaking, 10k=7s_ - ![diesel]/![tractor]?
 
 ### Team Event: Fenderbender Friends
 
