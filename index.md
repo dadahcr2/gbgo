@@ -25,7 +25,7 @@
 ***scooter tractor diesel snowmobile rally***
 
 1. ![Rally] ![AB] ![OT] ![cb], Timed classic, 10k=15s
-2. ![Snowmobile] ![wi]  ![fume] ![OT] , distance water, 10k=900m
+2. ![Snowmobile] ![wi]  ![Fume] ![OT] , distance water, 10k=900m
 3. ![diesel] ![wi] ![LB]/![JS] ![thruster] , longjump, 10k=180m
 4. ![tractor] ![RC] ![AB] ![cb], Breaking,  10k=7s
 
@@ -325,12 +325,12 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 [SB]: https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=25&height=25  
 [Fuel]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25  
 [DF]: https://media.discordapp.net/attachments/833731111031930920/833731332370464859/item_formula_downforce.png?width=25&height=25  
-[Dr]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png?width=25&height=25  
+[Dr]: https://media.discordapp.net/attachments/833731111031930920/833731571865485392/item_truckairdrag.png?width=25&height=25   
 [Fume]: https://media.discordapp.net/attachments/831974892538560523/831975056539123742/fumeboost.png?width=25&height=25  
 [JS]: https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25  
 [LB]: https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25  
 [Ma]: https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25  
-[OT]: https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png?width=25&height=25  
+[OT]: https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png?width=25&height=25   
 [RC]: https://media.discordapp.net/attachments/831974892538560523/831975101947445298/roll-cage-icon.png?width=25&height=25  
 [SW]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png?width=25&height=25  
 [Th]: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png?width=25&height=25  
