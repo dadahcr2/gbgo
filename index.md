@@ -347,7 +347,8 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 [Scooter]: https://media.discordapp.net/attachments/834726193956651018/834727049063039006/Scooter.png?width=40&height=25  
 [Bus]: https://media.discordapp.net/attachments/834726213527797772/834727171704094751/Bus.png?width=40&height=25    
 [Mk2]: https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png?width=40&height=25    
-[Tractor]: https://media.discordapp.net/attachments/833681748688633877/837807599696609320/icon-vehicle-tractor.png?width=40&height=25    
+[Tractor]: https://media.discordapp.net/attachments/833681748688633877/837807599696609320/icon-vehicle-tractor.png     
+{: height="25px" width="40px"}  
 [Moto]: https://media.discordapp.net/attachments/834726546454740992/834727591646461974/Motocross.png?width=40&height=25   
 [Buggy]: https://media.discordapp.net/attachments/834726573885095996/834727694162985000/Buggy.png?width=40&height=25  
 [Sportscar]: https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=40&height=25  
