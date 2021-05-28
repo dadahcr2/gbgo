@@ -25,38 +25,7 @@
 3. ![diesel] ![wi] ![LB] ![th]=3 , long jump, 10k=180m
 4. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s
 
-![](https://memecreator.org/static/images/memes/5268440.jpg)
-
-### Team Event: Fenderbender Friends
-
-***Jeep, mk2, sportscar, rotator, hotrod, sbike***  
-
-1. ![Superbike](https://media.discordapp.net/attachments/834727162984005632/834729620930560050/800px-Superbike.png?width=40&height=25)	![WT](https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	Susp=15/18 Df=1, timed, Tide Waves, Finger Travels 1, 10k=15s  
-> [sbike](https://imgur.com/a/HaDiQXv)
-2. ![Rotator](https://media.discordapp.net/attachments/834726692819566592/834728098544746526/Rotator.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![SB](https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![WT](https://media.discordapp.net/attachments/831974892538560523/831975152630890586/snow-chain-icon.png?width=25&height=25), timed, rotator PE track Hang On?, 10k=13s  
-> [rotator](https://imgur.com/a/eF6MtaR)  
-> if you are struggling with the first cave, it may be worth taking your finger off the gas as you enter.  
-3. ![Hill Climber]	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25)		Susp=19?, multijump, 10k=550m   
->   [jeep](https://imgur.com/a/yibl42T)
-4. ![Hotrod](https://media.discordapp.net/attachments/834727111440859146/834729400514773012/Hotrod.png?width=40&height=25)	![Ma](https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)	, cargo, Lost in Transmission, Dirty Rally 3,10k=10s    
->  [hotrod](https://imgur.com/a/KYJ8epk)  
->  Go very carefully into the first valley with the platform to try retain as much cargo as possible.  
->  When you see the water puddle near the end, it is safe to blow the engine this close to the finish line. 
-> **7.5s! [<https://cdn.discordapp.com/attachments/655701833255354371/847408742651920384/720_30_1.42_May272021.mp4>]( https://cdn.discordapp.com/attachments/655701833255354371/847408742651920384/720_30_1.42_May272021.mp4)  
-5. ![Mk2](https://media.discordapp.net/attachments/834726288353656852/834727358388109322/Superjeep.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25) or  
-    ![Sportscar](https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=40&height=25)	![SB](https://media.discordapp.net/attachments/831974892538560523/831975090920226866/rocket.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25), timed, Four-Wheel Park Countryside Cup 2, 10k=15s  
-    ![Sportscar](https://media.discordapp.net/attachments/834726602083401739/834727813651234846/Sportscar.png?width=40&height=25)	![OT](https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25) to be safe (18.5s)  
-> [sports](https://imgur.com/a/6vkvIAU), [jeep](https://imgur.com/a/R8jcLGV), [sbike](https://imgur.com/a/F1qWvzX), [rotator](https://imgur.com/a/4Q6U5Lo)  
-
-videos
-- [vokope how to]( <https://youtu.be/YrqOXLA1Eww>)
-- [vere]( <https://youtu.be/Tmnncebqirs>)
-- [cis]( <https://www.youtube.com/watch?v=uwd9uYT0DWM>)
-- [gl](https://youtu.be/UMXqRI-vVP8)
-- [lenny](https://youtu.be/T0MsK3Ho0Zw)
-- [imperio]( <https://youtu.be/9so1Aaul98s>)
-
-![](https://cdn.discordapp.com/attachments/797964357089755176/845327870297243658/unknown.gif)
+![](https://memecreator.org/static/images/memes/5268440)
 
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
