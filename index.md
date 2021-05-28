@@ -29,6 +29,8 @@
 3. ![diesel] ![wi] ![LB] ![th] , long jump, 10k=180m
 4. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s
 
+![](https://memecreator.org/static/images/memes/5268440.jpg)
+
 ### Team Event: Fenderbender Friends
 
 ***Jeep, mk2, sportscar, rotator, hotrod, sbike***  
