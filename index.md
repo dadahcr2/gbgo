@@ -23,7 +23,8 @@
 1. ![tractor] ![AB]  ![OT]  ![CB] , Timed classic, 10k=15s
 2. ![Snowmobile] ![wi]  ![Fume] ![OT] , distance water, 10k=900m
 3. ![diesel] ![wi] ![LB] ![th]=3 , long jump, 10k=180m
-4. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s
+> Slow to not overshoot the fuel
+5. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s
 
 ![](https://memecreator.org/static/images/memes/5268440.jpg)
 
