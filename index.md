@@ -59,23 +59,27 @@ videos
 
 ***diesel rally sbike supercar***
 
+[AB]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25  
+[Fuel]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25  
+[LB]: https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25  
 [Rally]: https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png?width=40&height=25
+[Wi]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25  
 
 **2km PE Order and Best Setups**
 1. **Beach** 54s/45s   
-	![Rally]	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)  
-	![Diesel](https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=40&height=25)	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)
+	![Rally]	![Wi] ![LB] ![Fuel]
+	![Diesel](https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=40&height=25)	![Wi] ![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![Fuel]
 3. **City** 55s   
-	![Rally]	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)	
+	![Rally] ![Wi] ![LB]t=25) ![Fuel]  
 5. **Forest** 1:13  
-	![Rally]	![Ma](https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)
+	![Rally]	![Ma](https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	![Fuel]
 7. **Desert** 46s    
-	![Rally]	![LB](https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)
+	![Rally]: ![LB] ![AB] ![Fuel]
 9. **Bog** 1:36    
-	![Rally]	![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)
+	![Rally] ![Wi] ![AB] ![Fuel]
 
 When in doubt
-![Rally] ![Wi](https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25)	![AB](https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25)	![Fuel](https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25)   
+![Rally] ![Wi]	![AB]	![Fuel]
 and remove hood at start
 
 Most up-to-date version on <http://www.hcr2.info>
