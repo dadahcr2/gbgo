@@ -142,9 +142,12 @@ Spyder              1
 1 Spyder  
 1 Wolf
 
-**`Tablet of Honor`**  
+**`---------------`**  
+**`Tablet of Honor`**    
+`===============`    
 `Getzata I`  
 `Groot   I`  
+**`---------------`**
 
 ### Adventure Contest
 Adventure - May until mid-month: ***Scooter in Countryside***  
