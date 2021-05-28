@@ -25,7 +25,7 @@
 3. ![diesel] ![wi] ![LB] ![th]=3 , long jump, 10k=180m
 4. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s
 
-![](https://memecreator.org/static/images/memes/5268440)
+![](https://memecreator.org/static/images/memes/5268440.jpg)
 
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
