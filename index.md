@@ -144,10 +144,10 @@ Spyder              1
 
 **`---------------`**  
 **`Tablet of Honor`**    
-`===============`    
-`Getzata       1`   
-`Groot         1`  
-**`---------------`**
+`===============`      
+`Getzata.......1`     
+`Groot.........1`    
+**`---------------`**  
 
 ### Adventure Contest
 Adventure - May until mid-month: ***Scooter in Countryside***  
