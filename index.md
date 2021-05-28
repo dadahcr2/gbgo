@@ -65,12 +65,6 @@ videos
 
 ***diesel rally sbike supercar***
 
-[AB]: https://media.discordapp.net/attachments/831974892538560523/831975036528623677/afterburner.png?width=25&height=25  
-[Fuel]: https://media.discordapp.net/attachments/831974892538560523/831975181211533423/tunepart_NOS.png?width=25&height=25  
-[LB]: https://media.discordapp.net/attachments/831974892538560523/831975078291046419/landing-boost.png?width=25&height=25  
-[Rally]: https://media.discordapp.net/attachments/834726978594275369/834728996029071370/icon-vehicle-rally1.png?width=40&height=25
-[Wi]: https://media.discordapp.net/attachments/831974892538560523/831975191408017458/wing.png?width=25&height=25  
-
 **2km PE Order and Best Setups**
 1. **Beach** 54s/45s   
 	![Rally]	![Wi] ![LB] ![Fuel]  
