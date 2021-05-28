@@ -67,10 +67,10 @@ videos
 
 **2km PE Order and Best Setups**
 1. **Beach** 54s/45s   
-	![Rally]	![Wi] ![LB] ![Fuel]
+	![Rally]	![Wi] ![LB] ![Fuel]  
 	![Diesel](https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=40&height=25)	![Wi] ![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![Fuel]
 3. **City** 55s   
-	![Rally] ![Wi] ![LB]t=25) ![Fuel]  
+	![Rally] ![Wi] ![LB] ![Fuel]  
 5. **Forest** 1:13  
 	![Rally]	![Ma](https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	![Fuel]
 7. **Desert** 46s    
@@ -79,7 +79,7 @@ videos
 	![Rally] ![Wi] ![AB] ![Fuel]
 
 When in doubt
-![Rally] ![Wi]	![AB]	![Fuel]
+![Rally] ![Wi]	![AB]	![Fuel]  
 and remove hood at start
 
 Most up-to-date version on <http://www.hcr2.info>
