@@ -27,10 +27,10 @@
 
 ***scooter tractor diesel snowmobile rally***
 
-1. Time Attack in - HCR1,  _Time attack, 10k=15s_  - ![rally]/![tractor]?
-2. Distance in Water, _Distance, 10k=900m_  - ![Snowmobile]?
-3. Loooooong - Jump, _Long jump, 10k=180m_  - ![scooter]/![rally]?
-4. One of the usual - Breaking Maps, _Time attack, breaking, 10k=7s_ - ![diesel]/![tractor]?
+1. ![Rally] ![AB] ![OT] ![cb], Timed classic, 10k=15s
+2. ![Snowmobile] ![wing  ![fume] ![OT, distance water, 10k=900m
+3. ![diesel] ![wing] ![LB]/![JS] ![thruster, longjump, 10k=180m
+4. ![tractor] ![RC] ![AB] ![cb], Breaking,  10k=7s
 
 ### Team Event: Fenderbender Friends
 
