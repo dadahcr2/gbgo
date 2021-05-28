@@ -24,10 +24,10 @@
 
 ***scooter tractor diesel snowmobile rally***
 
-1. ![Rally] ![AB]  ![OT]  ![CB] , Timed classic, 10k=15s
+1. ![tractor] ![AB]  ![OT]  ![CB] , Timed classic, 10k=15s
 2. ![Snowmobile] ![wi]  ![Fume] ![OT] , distance water, 10k=900m
-3. ![diesel] ![wi] ![LB]or![JS] ![th] , long jump, 10k=180m
-4. ![tractor] ![RC] ![AB] ![CB] , Breaking,  10k=7s
+3. ![diesel] ![wi] ![LB] ![th] , long jump, 10k=180m
+4. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s
 
 ### Team Event: Fenderbender Friends
 
