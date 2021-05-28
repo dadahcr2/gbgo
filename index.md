@@ -12,10 +12,6 @@
 28 May - New TE
 27 May - imperio video - 7.5s T4    
 26 May - New PE  
-25 May - GL 41k video  - lenny 42k  
-24 May - TE tips  
-
-> ![](https://cdn.discordapp.com/attachments/762882439604600842/845112938859200512/image0.gif)  
 	
 
 ## Events
