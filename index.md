@@ -145,8 +145,10 @@ Spyder              1
 **`---------------`**  
 **`Tablet of Honor`**    
 `===============`    
-`Getzata I`  
-`Groot   I`  
+```
+Getzata I   
+Groot   I  
+```
 **`---------------`**
 
 ### Adventure Contest
