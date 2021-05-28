@@ -138,9 +138,15 @@ Spyder              1
 ### Coleader Season Contest
 **Joins in May**   
 3 Getzata  
-2 Groot    
+3 Groot    
 1 Spyder  
 1 Wolf
+
+**`Tablet of Honor`**
+`Getzata I`
+`Groot   I`
+
+#Joins Tablet of Honor
 ### Adventure Contest
 Adventure - May until mid-month: ***Scooter in Countryside***  
 🥇Date 4071m    
