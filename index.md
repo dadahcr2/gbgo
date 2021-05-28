@@ -9,6 +9,7 @@
 {:toc}
 
 ***
+28 May - New TE
 27 May - imperio video - 7.5s T4    
 26 May - New PE  
 25 May - GL 41k video  - lenny 42k  
