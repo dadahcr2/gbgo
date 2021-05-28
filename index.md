@@ -336,7 +336,7 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 [OT]: https://media.discordapp.net/attachments/831974892538560523/831975046171066388/exhaust_yellow.png?width=25&height=25   
 
-[RC]: https://cdn.discordapp.com/attachments/831974892538560523/831975142129270794/roll-cage-tractor.png?width=25&height=25  
+[RC]: https://media.discordapp.net/attachments/831974892538560523/831975142129270794/roll-cage-tractor.png?width=25&height=25  
 [SW]: https://media.discordapp.net/attachments/833731111031930920/833731477195849768/item_snowmobile_skiwax.png?width=25&height=25  
 [Th]: https://media.discordapp.net/attachments/831974892538560523/831975163036696626/thruster_icon.png?width=25&height=25  
 [WB]: https://media.discordapp.net/attachments/831974892538560523/831975167890554890/topspeed.png?width=25&height=25  
