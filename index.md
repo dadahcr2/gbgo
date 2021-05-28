@@ -103,7 +103,7 @@ Most up-to-date version on <http://www.hcr2.info>
 ![](https://cdn.discordapp.com/attachments/616461538978693141/835147547797487637/image0.png)
 
 ### Season Rewards
-![](https://cdn.discordapp.com/attachments/617353655468687390/841897325411827723/IMG_4050.jpg)
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)
 
 **Season Bonus Chest** - requires premium pass
 
