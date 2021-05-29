@@ -118,10 +118,10 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 7 Results**
-🥇 Dada 3+2+2+2+3+3+3=18
-🥈 Date 0+1+1+3+2+1+2=10
-🥉 Getzata 1+0+3+1+1+2+1=9
+**Week 7 Results**  
+🥇 Dada 3+2+2+2+3+3+3=18  
+🥈 Date 0+1+1+3+2+1+2=10  
+🥉 Getzata 1+0+3+1+1+2+1=9  
 🏅 Harry 2+3+1=6
 
 **2021 Time Trial Roll of Honor**
