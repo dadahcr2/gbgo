@@ -9,7 +9,7 @@
 {:toc}
 
 ***
-28 May - New TE - cis vid - vokope howto
+28 May - New TE - cis vid - vokope howto & snapshots
 27 May - imperio video - 7.5s T4    
 26 May - New PE  
 	
@@ -20,11 +20,16 @@
 
 ***scooter tractor diesel snowmobile rally***
 
-1. ![tractor] ![AB]  ![OT]  ![CB] , Timed classic, 10k=15s
-2. ![Snowmobile] ![wi]  ![Fume] ![OT] , distance water, 10k=900m
-3. ![diesel] ![wi] ![LB] ![th]=3 , long jump, 10k=180m
-	> 	Slow to not overshoot the fuel
-5. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s
+1. ![tractor] ![AB]  ![OT]  ![CB] , Timed classic, 10k=15s  
+   > ![](https://cdn.discordapp.com/attachments/750874271022317678/848029840853827615/IMG_4543.jpg)  
+3. ![Snowmobile] ![wi]  ![Fume] ![OT] , distance water, 10k=900m  
+   > ![](https://cdn.discordapp.com/attachments/750874271022317678/848029906973622282/IMG_4544.jpg)  
+   > ![](https://cdn.discordapp.com/attachments/750874271022317678/848029974261661696/IMG_4545.jpg)  
+5. ![diesel] ![wi] ![LB] ![th]=3 , long jump, 10k=180m  
+    > Slow to not overshoot the fuel  
+    > ![](https://cdn.discordapp.com/attachments/750874271022317678/848030067799883806/IMG_4548.jpg)  
+6. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s  
+    > ![](https://cdn.discordapp.com/attachments/750874271022317678/848030128835133460/IMG_4550.jpg)  
 
 videos
 - cis <https://youtu.be/oH6u3TUVORM>
