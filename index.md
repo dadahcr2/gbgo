@@ -112,27 +112,28 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/846225075719110686/IMG_4425.jpg)
 
-### Daily Time Trial Contest
+**Daily Time Trial Contest**
 
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 6 Results**  
-🥇 Getzata 3+3+3+2+2+3+2 =18   
-🥈 Dada      2+2+2+3+3+2+3 =17  
-🥉 Date     1+1+1+1+1+1=6  
-🏅 JB 1  
+**Week 7 Results**
+🥇 Dada 3+2+2+2+3+3+3=18
+🥈 Date 0+1+1+3+2+1+2=10
+🥉 Getzata 1+0+3+1+1+2+1=9
+🏅 Harry 2+3+1=6
 
-**2021 Time Trial Roll of Honor**  
+**2021 Time Trial Roll of Honor**
 ```
          🥇   🥈   🥉
 ——————————————————————
-Dada      4    2 
-Getzata   1    3 
-Date      1    1    3   
+
+Dada      5    2 
+Getzata   1    3    1
+Date      1    2    3   
 PDB                 1 
-Spyder              1 
+Spyder              1   
 ——————————————————————
 ```
 
