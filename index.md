@@ -28,14 +28,17 @@
    > ![](https://cdn.discordapp.com/attachments/750874271022317678/848029974261661696/IMG_4545.jpg)  
 5. ![diesel] ![wi] ![LB] ![th]=3 , long jump, 10k=180m  
     > Slow to not overshoot the fuel  
-    > ![](https://cdn.discordapp.com/attachments/750874271022317678/848030067799883806/IMG_4548.jpg)  
+    > ![](https://cdn.discordapp.com/attachments/750874271022317
+    > 678/848030067799883806/IMG_4548.jpg)  
 6. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s  
+    > tap brake and end of ramp before box pile  
     > ![](https://cdn.discordapp.com/attachments/750874271022317678/848030128835133460/IMG_4550.jpg)  
 
 videos
 - cis <https://youtu.be/oH6u3TUVORM>
 - vokope howto <https://youtu.be/MTevoQxavps> 
 - cis 37k <https://youtu.be/lhi86ClAg08>
+- b&a <https://youtu.be/4gS7xgWwsPo>
 
 ![](https://memecreator.org/static/images/memes/5268440.jpg)
 
