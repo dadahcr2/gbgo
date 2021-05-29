@@ -9,7 +9,7 @@
 {:toc}
 
 ***
-28 May - New TE
+28 May - New TE - cis vid - vokope howto
 27 May - imperio video - 7.5s T4    
 26 May - New PE  
 	
@@ -25,6 +25,10 @@
 3. ![diesel] ![wi] ![LB] ![th]=3 , long jump, 10k=180m
 	> 	Slow to not overshoot the fuel
 5. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s
+
+videos
+- cis <https://youtu.be/oH6u3TUVORM>
+- vokope howto <https://youtu.be/MTevoQxavps> 
 
 ![](https://memecreator.org/static/images/memes/5268440.jpg)
 
