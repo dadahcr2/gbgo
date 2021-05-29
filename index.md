@@ -9,8 +9,8 @@
 {:toc}
 
 ***
-29 May - cis 37k
-28 May - New TE - cis vid - vokope howto & snapshots
+29 May - cis 37k - b&a - T4 tip  
+28 May - New TE - cis vid - vokope howto & snapshots  
 27 May - imperio video - 7.5s T4    
 26 May - New PE  
 	
