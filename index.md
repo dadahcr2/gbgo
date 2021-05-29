@@ -9,6 +9,7 @@
 {:toc}
 
 ***
+29 May - cis 37k
 28 May - New TE - cis vid - vokope howto & snapshots
 27 May - imperio video - 7.5s T4    
 26 May - New PE  
@@ -34,6 +35,7 @@
 videos
 - cis <https://youtu.be/oH6u3TUVORM>
 - vokope howto <https://youtu.be/MTevoQxavps> 
+- cis 37k <https://youtu.be/lhi86ClAg08>
 
 ![](https://memecreator.org/static/images/memes/5268440.jpg)
 
