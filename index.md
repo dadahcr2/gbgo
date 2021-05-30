@@ -65,6 +65,10 @@ When in doubt
 and remove hood at start
 
 Most up-to-date version on <http://www.hcr2.info>
+### Public Event: Next (Moon Stunts)
+![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
+
+In general, I use ![buggy] ![WT] ![AC] ![Ma]
 
 ### Leagues
 ![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
