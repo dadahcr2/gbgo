@@ -56,7 +56,7 @@ videos
 5. **Forest** 1:13  
 	![Rally]	![Ma](https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	![Fuel]
 7. **Desert** 46s    
-	![Rally]: ![LB] ![AB] ![Fuel]
+	![Rally] ![LB] ![AB] ![Fuel]
 9. **Bog** 1:36    
 	![Rally] ![Wi] ![AB] ![Fuel]
 
