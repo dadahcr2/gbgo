@@ -68,7 +68,7 @@ Most up-to-date version on <http://www.hcr2.info>
 ### Public Event: Next (Moon Stunts)
 ![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
 
-In general, I use ![buggy] ![WT] ![AC] ![Ma]
+![I mostly use ![buggy] ![WT] ![AC] ![Ma]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
 ### Leagues
 ![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
