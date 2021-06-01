@@ -190,7 +190,7 @@ Spyder            1
 Omelette          1
 ————————————————————
 ```  
-Adventure contest until June mid-month: is ***Sportscar- DesertValley***  
+Adventure contest until June mid-month is ***Sportscar- DesertValley***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/849421990107545600/image0.gif)  
 
 ### Tournaments 
@@ -205,7 +205,6 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
 ### Track Tips
 
- 
  Track | Cup | Tip 
  :--: | :--: | :--   
 **The Carousel** | Bill's Circuit 2 | Do a backflip at high point in cave e.g. with rally  
@@ -308,16 +307,15 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
-[🔝](#top)    
-{: style="text-align: center;"}  
-
 ***
 
 [dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710     
 {: style="text-align: center;"}  
 
-[![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)](#top)[ ]()   
-{: style="text-align: center;"}   
+[![Gas Brake Go](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)](#top)[ ]()  
+[🔝](#top)    
+{: style="text-align: center;"}  
+
 
 
 
