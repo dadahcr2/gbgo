@@ -121,7 +121,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/849424114967773194/IMG_4586.jpg)
 
-**Daily Time Trial Contest**
+### **Daily Time Trial Contest**
 
 Rules:
 - Compete each day in same daily as fw.hcr2.info
