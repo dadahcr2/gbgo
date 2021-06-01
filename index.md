@@ -113,13 +113,13 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ### Weekly Kms Contest  
 **Top 5**  
 🥇Getzata  
-🥈Stand09  
-🥉dada  
-🏅Chicken  
-🎖sb 
+🥈LNL  
+🥉Stand09  
+🏅MrFixit  
+🎖omelette 
 
 **Top Ten**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/846225075719110686/IMG_4425.jpg)
+![](https://cdn.discordapp.com/attachments/777301191474282546/849424114967773194/IMG_4586.jpg)
 
 **Daily Time Trial Contest**
 
