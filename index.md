@@ -107,6 +107,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
+[🔝](#top)    
+{: style="text-align: center;"}  
 ## Contests
 ### Weekly Kms Contest  
 **Top 5**  
@@ -191,6 +193,8 @@ Until May month-end: ***Snowmobile-Rustbucket Reef***
 - Tractor Wars: <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
 
+[🔝](#top)    
+{: style="text-align: center;"}  
 ## Advice
 ### Adventure Setups
 Draft based on VMinchBosch data - **work-in-progress do not distribute!**  
@@ -284,7 +288,8 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 5. Six-character invite code is visible after “id=“  
 6. Post in GBG team chat for others to see  
 
-
+[🔝](#top)    
+{: style="text-align: center;"}  
 ### Philosophy  
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another.    
 
@@ -298,6 +303,9 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 	 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
+
+[🔝](#top)    
+{: style="text-align: center;"}  
 
 ***
 
