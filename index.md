@@ -178,7 +178,7 @@ Adventure - May until month-end results
 🥈Omelette 9330m
 🥉MrFixit 8177m
 
-**2021 Adventure Roll of Honor**```
+**2021 Adventure Roll of Honor**  
 ```
             🥇   🥈   
 ————————————————————
