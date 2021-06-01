@@ -170,24 +170,28 @@ Spyder              1
 **`---------------`**  
 
 ### Adventure Contest
-Adventure - May until mid-month: ***Scooter in Countryside***  
-🥇Date 4071m    
-🥈Lonestar 3923m  
-🥉JB 3738m  
 
-**2021 Adventure Roll of Honor**  
+Adventure - May until month-end results  
+***Snowmobile in Rustbucket Reef***
+
+🥇Nesorac 10737m
+🥈Omelette 9330m
+🥉MrFixit 8177m
+
+**2021 Adventure Roll of Honor**```
 ```
             🥇   🥈   
-————————————————————  
+————————————————————
 Date         3        
 T            1    2
-Nesorac      1
+Nesorac      2
 Lonestar          2
-Spyder            1  
-————————————————————  
-```
-Until May month-end: ***Snowmobile-Rustbucket Reef***  
-![](https://cdn.discordapp.com/attachments/776132655192211478/843620725738569758/image0.gif)  
+Spyder            1
+Omelette          1
+————————————————————
+```  
+Adventure contest until June mid-month: is ***Sportscar- DesertValley***  
+![](https://cdn.discordapp.com/attachments/776132655192211478/849421990107545600/image0.gif)  
 
 ### Tournaments 
 - Tractor Wars: <http://tw.hcr2.info>
