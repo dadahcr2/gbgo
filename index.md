@@ -41,29 +41,6 @@ videos
 
 ![](https://memecreator.org/static/images/memes/5268440.jpg)
 
-### Public Event: The Fast and the Last (2km)
-![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
-
-***diesel rally sbike supercar***
-
-**2km PE Order and Best Setups**
-1. **Beach** 54s/45s   
-	![Rally]	![Wi] ![LB] ![Fuel]  
-	![Diesel](https://media.discordapp.net/attachments/834726729264267284/834728231113719808/Super_Diesel.png?width=40&height=25)	![Wi] ![JS](https://media.discordapp.net/attachments/831974892538560523/831975065960448051/jump-shock-icon.png?width=25&height=25)	![Fuel]
-3. **City** 55s   
-	![Rally] ![Wi] ![LB] ![Fuel]  
-5. **Forest** 1:13  
-	![Rally]	![Ma](https://media.discordapp.net/attachments/831974892538560523/831975081973514280/magnet_coins.png?width=25&height=25)	![CB](https://media.discordapp.net/attachments/831974892538560523/831975034289127504/coinboost.png?width=25&height=25)	![Fuel]
-7. **Desert** 46s    
-	![Rally] ![LB] ![AB] ![Fuel]
-9. **Bog** 1:36    
-	![Rally] ![Wi] ![AB] ![Fuel]
-
-When in doubt
-![Rally] ![Wi]	![AB]	![Fuel]  
-and remove hood at start
-
-Most up-to-date version on <http://www.hcr2.info>
 ### Public Event: Next (Moon Stunts)
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
 
