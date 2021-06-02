@@ -67,7 +67,8 @@ and remove hood at start
 
 Most up-to-date version on <http://www.hcr2.info>
 ### Public Event: Next (Moon Stunts)
-![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
+![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
+
 
 ![I mostly use ![buggy] ![WT] ![AC] ![Ma]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
