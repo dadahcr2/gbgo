@@ -16,7 +16,8 @@
 
 ## Events
 
-### Team Event: Make the Dream Work
+### Team Event: Make the Dream Work  
+![](https://memecreator.org/static/images/memes/5268440.jpg)
 
 ***scooter tractor diesel snowmobile rally***
 
@@ -39,7 +40,6 @@ videos
 - cis 37k <https://youtu.be/lhi86ClAg08>
 - b&a <https://youtu.be/4gS7xgWwsPo>
 
-![](https://memecreator.org/static/images/memes/5268440.jpg)
 
 ### Public Event: Next (Moon Stunts)
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
