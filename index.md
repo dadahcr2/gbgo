@@ -1,6 +1,6 @@
 [![](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)](#bottom)[  ]()  
-[hcr2.info](http://hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://hcr2.info/faq) - [Tips](http://hcr2.info/tips)   
-[Memes](http://memes.hcr2info.com) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
+[hcr2.info](http://hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://hcr2.info/faq.html) - [Tips](http://hcr2.info/tips.html)   
+[Memes](http://hcr2.info/memes.html) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
 
 ***
