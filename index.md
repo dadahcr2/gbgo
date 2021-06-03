@@ -9,6 +9,8 @@
 {:toc}
 
 ***
+
+3 June - b&a vid
 1 June - various contest results  
 29 May - cis 37k - b&a - T4 tip  
 28 May - New TE - cis vid - vokope howto & snapshots    
@@ -39,6 +41,7 @@ videos
 - vokope howto <https://youtu.be/MTevoQxavps> 
 - cis 37k <https://youtu.be/lhi86ClAg08>
 - b&a <https://youtu.be/4gS7xgWwsPo>
+- b&a <https://youtu.be/AlKREQRejw8>
 
 
 ### Public Event: Next (Moon Stunts)
