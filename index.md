@@ -52,30 +52,6 @@ videos
 
 ![I mostly use ![buggy] ![WT] ![AC] ![Ma]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
-### Leagues
-![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
-- Eight divisions with an incentive to be in the top division - Top 100, 500, 2000, 4000, 8000, 16000, 32000, rest
-- Will have a monthly "season", with resetting at the end of the month
-- Points allocated to losing teams as well, so less active teams will fall behind
-> I am of the impression that the points for season rewards may be more related to each team member's scores rather than win/lose  
-> E.g. if everybody scores 40k and there are 50 players, the season team points will be increased by 50x40k=+2000k
-> This way they can compare teams in different divisions for purposes of promotion/relegation 
-> ...  but I could be wrong!
-- Points added up over month to determine level of season rewards and potential promotion/relegation
-> Important to start matches ASAP to ensure we play as many matches as possible
-- Will only face teams in the same division and never face the same team more than once per month
-- For champions division (top 100), up to 50 teams can be relegated at the end of the month
-- Champions division rewards: 1mm-1.5mm coins, 200-400 gems depending on month-end position, plus potential bonus rewards (chest?)
-- Can be demoted multiple divisions.  Cannot be promoted more than two divisions
-> This system means that every player's score counts as it could impact not only season rewards but also potential promotion/relegation
-> i.e. No more relaxing if it is a clear win/loss
-> Strong incentive to ensure every member pulls their weight. I would not be suprised if this results in more aggressive mergers, recruitment and pruning of teams.
-> I'm concerned that this could put pressure on the team culture, as strong players will be less happy about carrying weaker players.  I am very open to suggestions of how we can keep things harmonious given the increased incentives for mercenary action.
-> Let's keep in mind that our team is about relaxing and having fun.  And that we should not jeopardize this for a few extra rewards!
-> I expect us to be in the second best division - with perhaps occasional months in the top division?
-
-![](https://cdn.discordapp.com/attachments/616461538978693141/835147547797487637/image0.png)
-
 ### Season Rewards
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)
 
