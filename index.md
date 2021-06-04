@@ -16,6 +16,7 @@
 
 ***
 
+4 June - New TE  
 3 June - b&a vid
 1 June - various contest results  
 29 May - cis 37k - b&a - T4 tip  
@@ -55,6 +56,9 @@ videos
 2. ![moonlander] ![sb] ![ma] ![ac] remove wheels, moon timed 
 3. ![formula] ![WT]tires ![AB] ![cb] big air - seesaw rd, timed
 4. ![moto] s=17 balance=18 ![wi] ![JS] ![LB] countryside distance
+
+videos
+- https://youtu.be/XNFKajKFlxo
 
 ### Public Event: Next (Moon Stunts)
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
