@@ -49,6 +49,12 @@ videos
 - b&a <https://youtu.be/4gS7xgWwsPo>
 - b&a <https://youtu.be/AlKREQRejw8>
 
+### Team Event: Hits Different
+
+1. ![tank] s=18 ![wi] ![LB] ![fume] remove turret, uphill distance
+2. ![moonlander] ![sb] ![ma] ![ac] remove wheels, moon timed 
+3. ![formula] ![WT]tires ![AB] ![cb] big air - seesaw rd, timed
+4. ![moto] s=17 balance=18 ![wi] ![JS] ![LB] countryside distance
 
 ### Public Event: Next (Moon Stunts)
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
