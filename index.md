@@ -58,7 +58,8 @@ videos
 4. ![moto] s=17 balance=18 ![wi] ![JS] ![LB] countryside distance
 
 videos
-- https://youtu.be/XNFKajKFlxo
+- vokope <https://youtu.be/7tmjdk5leDw>
+- io <https://youtu.be/DTx2LRwn5WY>
 
 ### Public Event: Next (Moon Stunts)
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
