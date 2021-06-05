@@ -26,6 +26,7 @@
 ## Events
 
 ### Team Event: Hits Different
+![](https://cdn.discordapp.com/attachments/750874271022317678/850583630505836594/image0.png)
 
 1. ![tank] s=18 ![wi] ![LB] ![fume] remove turret, uphill distance
 2. ![moonlander] ![sb] ![ma] ![ac] remove wheels, moon timed 
@@ -36,6 +37,7 @@ videos
 - vokope <https://youtu.be/7tmjdk5leDw>
 - io <https://youtu.be/DTx2LRwn5WY>
 
+![](https://cdn.discordapp.com/attachments/750874271022317678/850583667393953812/image0.gif)
 ### Public Event: Next (Moon Stunts)
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
 
