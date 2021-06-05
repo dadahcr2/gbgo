@@ -29,9 +29,9 @@
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583630505836594/image0.png)  
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583667393953812/image0.gif)  
 
-1. ![tank] s=19 ![wi] ![LB] ![fume] remove turret, uphill distance
+1. ![tank] s=19 ![wi] ![fume] ![LB]/![cb] remove turret, uphill distance
 2. ![moonlander] ![ma] remove wheels, moon timed 
-3. ![formula] ![WT] ![AB] ![cb] big air - seesaw rd, no-air
+3. ![formula] ![WT] ![AB] ![cb]/![fuel] big air - seesaw rd, no-air
 4. ![moto] s=19 balance=19 ![wi] ![JS] ![LB] countryside distance
 
 videos
