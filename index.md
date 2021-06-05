@@ -15,7 +15,7 @@
 </details>
 
 ***
-
+5 June - vokope howto and screenshots
 4 June - New TE, io vokope videos
 3 June - b&a vid
 1 June - various contest results  
@@ -28,13 +28,13 @@
 ### Team Event: Hits Different
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583630505836594/image0.png)
 
-1. ![tank] s=18 ![wi] ![LB] ![fume] remove turret, uphill distance
-2. ![moonlander] ![sb] ![ma] ![ac] remove wheels, moon timed 
-3. ![formula] ![WT] ![AB] ![cb] big air - seesaw rd, timed
-4. ![moto] s=17 balance=18 ![wi] ![JS] ![LB] countryside distance
+1. ![tank] s=19 ![wi] ![LB] ![fume] remove turret, uphill distance
+2. ![moonlander] ![ma] remove wheels, moon timed 
+3. ![formula] ![WT] ![AB] ![cb] big air - seesaw rd, no-air
+4. ![moto] s=19 balance=19 ![wi] ![JS] ![LB] countryside distance
 
 videos
-- vokope <https://youtu.be/7tmjdk5leDw>
+- vokope howto <https://youtu.be/7tmjdk5leDw>
 - io <https://youtu.be/DTx2LRwn5WY>
 
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583667393953812/image0.gif)
