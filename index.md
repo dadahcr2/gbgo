@@ -15,7 +15,7 @@
 </details>
 
 ***
-5 June - vokope howto and screenshots
+5 June - vokope howto and screenshots, alternative parts  
 4 June - New TE, io vokope videos
 3 June - b&a vid
 1 June - various contest results  
