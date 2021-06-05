@@ -25,31 +25,6 @@
 
 ## Events
 
-### Team Event: Make the Dream Work  
-![](https://memecreator.org/static/images/memes/5268440.jpg)
-
-***scooter tractor diesel snowmobile rally***
-
-1. ![tractor] ![AB]  ![OT]  ![CB] , Timed classic, 10k=15s  
-   > ![](https://cdn.discordapp.com/attachments/750874271022317678/848029840853827615/IMG_4543.jpg)  
-3. ![Snowmobile] ![wi]  ![Fume] ![OT] , distance water, 10k=900m  
-   > ![](https://cdn.discordapp.com/attachments/750874271022317678/848029906973622282/IMG_4544.jpg)  
-   > ![](https://cdn.discordapp.com/attachments/750874271022317678/848029974261661696/IMG_4545.jpg)  
-5. ![diesel] ![wi] ![LB] ![th]=3 , long jump, 10k=180m  
-    > Slow to not overshoot the fuel  
-    > ![](https://cdn.discordapp.com/attachments/750874271022317
-    > 678/848030067799883806/IMG_4548.jpg)  
-6. ![rally] ![WT] ![HW] ![AB] , Breaking,  10k=7s  
-    > tap brake and end of ramp before box pile  
-    > ![](https://cdn.discordapp.com/attachments/750874271022317678/848030128835133460/IMG_4550.jpg)  
-
-videos
-- cis <https://youtu.be/oH6u3TUVORM>
-- vokope howto <https://youtu.be/MTevoQxavps> 
-- cis 37k <https://youtu.be/lhi86ClAg08>
-- b&a <https://youtu.be/4gS7xgWwsPo>
-- b&a <https://youtu.be/AlKREQRejw8>
-
 ### Team Event: Hits Different
 
 1. ![tank] s=18 ![wi] ![LB] ![fume] remove turret, uphill distance
