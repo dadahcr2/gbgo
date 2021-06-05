@@ -15,7 +15,7 @@
 </details>
 
 ***
-5 June - vokope howto and screenshots, alternative parts  
+5 June - vokope howto and screenshots, alternative parts, vere 39k
 4 June - New TE, io vokope videos
 3 June - b&a vid
 1 June - various contest results  
@@ -29,14 +29,15 @@
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583630505836594/image0.png)  
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583667393953812/image0.gif)  
 
-1. ![tank] s=19 ![wi] ![fume] ![LB]or![cb] remove turret, uphill distance
+1. ![tank] s=19/20 ![wi] ![fume] ![LB]or![cb] remove turret, uphill distance
 2. ![moonlander] ![ma] remove wheels, moon timed 
 3. ![formula] ![WT] ![AB] ![cb]or![fuel] big air - seesaw rd, no-air
-4. ![moto] s=19 balance=19 ![wi] ![JS] ![LB] countryside distance
+4. ![moto] s=19/18 balance=19/20 ![wi] ![JS] ![LB] countryside distance
 
 videos
 - vokope howto <https://youtu.be/7tmjdk5leDw>
 - io <https://youtu.be/DTx2LRwn5WY>
+- vere 39k <https://youtu.be/Igr0G99sqsU>
 
 Vokope Screenshots  
 
