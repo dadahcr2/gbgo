@@ -15,9 +15,9 @@
 </details>
 
 ***
-5 June - vokope howto and screenshots, alternative parts, vere 39k
-4 June - New TE, io vokope videos
-3 June - b&a vid
+5 June - vokope howto and screenshots, alternative parts, vere 39k  
+4 June - New TE, io vokope videos  
+3 June - b&a vid  
 1 June - various contest results  
 29 May - cis 37k - b&a - T4 tip  
 28 May - New TE - cis vid - vokope howto & snapshots    
