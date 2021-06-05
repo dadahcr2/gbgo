@@ -108,11 +108,8 @@ Spyder              1
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)
 
 ### Coleader Season Contest
-**Joins in May**   
-3 Getzata  
-3 Groot    
-1 Spyder  
-1 Wolf
+**Joins in June**     
+3 Groot 
 
 **`---------------`**  
 **`Tablet of Honor`**    
