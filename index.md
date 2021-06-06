@@ -15,7 +15,7 @@
 </details>
 
 ***
-6 june - biclas 10k T1 with OT
+6 june - biclas 10k T1 with OT  
 5 June - vokope howto and screenshots, alternative parts, vere 39k  
 4 June - New TE, io vokope videos  
 3 June - b&a vid  
