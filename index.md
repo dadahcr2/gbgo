@@ -51,7 +51,7 @@ Vokope Screenshots
 ![](https://cdn.discordapp.com/attachments/839524618891952128/850623088370647080/image0.png)   
 
 
-### Public Event: Next (Moon Stunts)
+### Public Event: moons of mischief (Moon Stunts)
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
 
 ![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
