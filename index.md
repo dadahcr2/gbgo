@@ -38,6 +38,7 @@ videos
 - vokope howto <https://youtu.be/7tmjdk5leDw>
 - io <https://youtu.be/DTx2LRwn5WY>
 - vere 39k <https://youtu.be/Igr0G99sqsU>
+- b&a <https://youtu.be/pILyVPo-bIM>
 
 Vokope Screenshots  
 
