@@ -15,6 +15,11 @@
 </details>
 
 ***
+<details markdown="block">
+  <summary>
+    Change Log
+  </summary>
+  {: .text-delta }
 6 june - biclas 10k T1 with OT  
 5 June - vokope howto and screenshots, alternative parts, vere 39k  
 4 June - New TE, io vokope videos  
@@ -22,10 +27,14 @@
 1 June - various contest results  
 29 May - cis 37k - b&a - T4 tip  
 28 May - New TE - cis vid - vokope howto & snapshots    
-	
+</details>	
 
 ## Events
-
+<details markdown="block">
+  <summary>
+    TE: Hits Different
+  </summary>
+  {: .text-delta }
 ### Team Event: Hits Different  
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583630505836594/image0.png)  
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583667393953812/image0.gif)  
@@ -35,13 +44,24 @@
 3. ![moonlander] ![ma] remove wheels, moon timed 
 4. ![formula] ![WT] ![AB] ![cb]or![fuel] big air - seesaw rd, no-air
 5. ![moto] s=19/18 balance=19/20 ![wi] ![JS] ![LB] countryside distance
-
+<details  markdown="block">
+  <summary>
+    Videos
+  </summary>
+  {: .text-delta }
 videos
 - vokope howto <https://youtu.be/7tmjdk5leDw>
 - io <https://youtu.be/DTx2LRwn5WY>
 - vere 39k <https://youtu.be/Igr0G99sqsU>
 - b&a <https://youtu.be/pILyVPo-bIM>
 
+	<;details>  
+		
+		<details  markdown="block">
+  <summary>
+    Screenshots
+  </summary>
+  {: .text-delta }
 Vokope Screenshots  
 
 ![](https://cdn.discordapp.com/attachments/839524540681420870/850622880202096640/image0.png)   
@@ -51,8 +71,13 @@ Vokope Screenshots
 ![](https://cdn.discordapp.com/attachments/839524590278541342/850623064289968158/image0.png)   
 
 ![](https://cdn.discordapp.com/attachments/839524618891952128/850623088370647080/image0.png)   
-
-
+		</details>
+	</details>
+<details  markdown="block">
+  <summary>
+    PE: Moon Stunts
+  </summary>
+  {: .text-delta }
 ### Public Event: moons of mischief (Moon Stunts)
 ![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
 
@@ -61,6 +86,12 @@ Vokope Screenshots
 
 ![I mostly use ![buggy] ![WT] ![AC] ![Ma]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
+	</details>
+<details  markdown="block">
+  <summary>
+    Season Bonus
+  </summary>
+  {: .text-delta }
 ### Season Rewards
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)
 
@@ -76,6 +107,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 [🔝](#top)    
 {: style="text-align: center;"}  
+
+	</details>
 ## Contests
 ### Weekly Kms Contest  
 **Top 5**  
