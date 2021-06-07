@@ -35,7 +35,7 @@
   <summary>
     TE: Hits Different
   </summary>
-  {: .text-delta }
+{: .text-delta }
 	
 ### Team Event: Hits Different  
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583630505836594/image0.png)  
@@ -48,7 +48,7 @@
 5. ![moto] s=19/18 balance=19/20 ![wi] ![JS] ![LB] countryside distance
 <details  markdown="block">
   <summary>
-    Videos {margin-left: 10em}
+    Videos {: margin-left: 10em }
   </summary>
   {: .text-delta }
 videos
@@ -61,9 +61,10 @@ videos
 		
 <details  markdown="block">
   <summary>
-    Screenshots {margin-left: 10em}
+    Screenshots 
   </summary>
-  {: .text-delta }
+{: margin-left: 10em }
+{: .text-delta }
 Vokope Screenshots  
 
 ![](https://cdn.discordapp.com/attachments/839524540681420870/850622880202096640/image0.png)   
