@@ -180,7 +180,7 @@ Spyder              1
 
 </details>  
 
-details markdown="block">
+<details markdown="block">
   <summary>
     Coleader joins
   </summary>
@@ -199,7 +199,7 @@ details markdown="block">
 
 </details>
 
-details markdown="block">
+<details markdown="block">
   <summary>
     Adventure
   </summary>
@@ -238,9 +238,22 @@ Adventure contest until June mid-month is ***Sportscar- DesertValley***
 [🔝](#top)    
 {: style="text-align: center;"}  
 ## Advice
+<details markdown="block">
+  <summary>
+    Adventure Setups
+  </summary>
+  {: .text-delta }
 ### Adventure Setups
 Draft based on VMinchBosch data - **work-in-progress do not distribute!**  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
+	
+</details>  
+
+<details markdown="block">
+  <summary>
+    Track Tips
+  </summary>
+  {: .text-delta }
 ### Track Tips
 
  Track | Cup | Tip 
@@ -255,6 +268,13 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 **Tunnel Vision** | Tunnels 1 | Go down the tunnel at 280m to go. It is a shortcut  
 **Watery Tunnel** | Cup of City Water 2 | Generally quicker to brake and go low route through the water  
 
+</advice>  
+
+<details markdown="block">
+  <summary>
+    General Advice 
+  </summary>
+  {: .text-delta }
 
 
 ### General HCR2 Advice  
@@ -284,7 +304,15 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 3. Scrap parts that may be needed in the future  
 4. Use the scrapyard if tired or impaired  
 
+</advice>
+
 ## Team  
+<details markdown="block">
+  <summary>
+    Friends
+  </summary>
+  {: .text-delta }
+
 ### Friends  
 
 Name | Link  
@@ -331,6 +359,15 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 [🔝](#top)    
 {: style="text-align: center;"}  
+
+</details>
+
+<details markdown="block">
+  <summary>
+    Philosophy
+  </summary>
+  {: .text-delta }
+	
 ### Philosophy  
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another.    
 
@@ -342,7 +379,9 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 5. **Eat plenty fiber!!** 😀
 	 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
-
+	
+</details> 
+	
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
 ***
