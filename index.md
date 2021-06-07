@@ -137,7 +137,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 </details>  
 
-details markdown="block">
+<details markdown="block">
   <summary>
     Daily Time Trial
   </summary>
