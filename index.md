@@ -78,7 +78,7 @@ Vokope Screenshots
 </details>
 <details  markdown="block">
   <summary>
-### PE: More Torque (wheelie)
+ PE: More Torque (wheelie)
   </summary>
   {: .text-delta }
 ![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
