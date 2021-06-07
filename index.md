@@ -87,7 +87,8 @@ Vokope Screenshots
 
 ![I mostly use ![buggy] ![WT] ![AC] ![Ma]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
-	</details>
+</details>  
+	
 <details  markdown="block">
   <summary>
     Season Bonus
@@ -109,9 +110,10 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 [🔝](#top)    
 {: style="text-align: center;"}  
 
-	</details>
+</details>  
+	
 ## Contests
-	<details  markdown="block">
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -126,7 +128,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/849424114967773194/IMG_4586.jpg)
-	</details>
+
+</details>  
 	
 ### Daily Time Trial Contest
 
