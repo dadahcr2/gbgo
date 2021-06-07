@@ -20,7 +20,8 @@
   <summary>
     Change Log
   </summary>
-  {: .text-delta }
+{: .text-delta }  
+7 June - Next PE thoughts	
 6 june - biclas 10k T1 with OT - collapsible sections - weekly km results - weekly time trial results    
 5 June - vokope howto and screenshots, alternative parts, vere 39k  
 4 June - New TE, io vokope videos  
@@ -82,7 +83,24 @@
   </summary>
   {: .text-delta }
 ![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
-	
+
+**Last Wheelie Event**
+Most people seem to use buggy. Given how “incredibly skilled” I am with buggy wheelie, I tend to stick to tracks 1 and 4 where there are good alternatives
+1. Country - Moonlander coin wheelie magnet, press gas and brake for 2s at start and thrust into wheelie position when crossing the start line
+4. Underwater - RacingTruck df=1 coin fume wheelie, reverse at start, can be less vertical after the bubble pops  
+
+
+**Wheelie PE records and corresponding setups**
+1. Country - RT fuel WB CB 2291 
+2. Beach - buggy Wi WB CB 1907 
+3. Mine - buggy (AB Ma)/(CB WB) Wi 2248
+4. Underwater - RacingTruck coin fume wheelie 1521
+5. Winter Wi Ma WB 962
+6. Bog - buggy Wi WB CB 1909
+7. Mountain RT Wi WB CB 1097
+8. Desert - buggy Wi WB CB 590
+9. Glacier buggy Wi WB CB/Ma 1509
+
 </details>  
 	
 <details  markdown="block">
