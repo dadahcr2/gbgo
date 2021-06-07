@@ -48,7 +48,7 @@
 5. ![moto] s=19/18 balance=19/20 ![wi] ![JS] ![LB] countryside distance
 <details  markdown="block">
   <summary>
-    Videos {: margin-left: 10em }
+    *Videos* 
   </summary>
   {: .text-delta }
 
@@ -61,9 +61,8 @@
 		
 <details  markdown="block">
   <summary>
-    Screenshots 
+    *Screenshots*
   </summary>
-{: margin-left: 10em }
 {: .text-delta }
   
 
