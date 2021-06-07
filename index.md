@@ -2,9 +2,9 @@
 [hcr2.info](https://ref.hcr2info.com) - [Checklist](https://ref.hcr2info.com/#daily-checklist)  - [Wiki](https://wiki.hcr2.info)  - [FAQ](https://ref.hcr2info.com/faq.html) - [Tips](https://ref.hcr2info.com/tips.html)   
 [Memes](https://ref.hcr2info.com/memes.html) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
-
+<!--
 ***
-<!--  
+  
 <details markdown="block">
   <summary>
     Table of contents
@@ -388,10 +388,12 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 5. **Eat plenty fiber!!** 😀
 	 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 	
-</details> 
+
 	
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
+</details> 
+	
 ***
 
 [dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710     
