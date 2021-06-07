@@ -51,7 +51,7 @@
     Videos {: margin-left: 10em }
   </summary>
   {: .text-delta }
-videos
+
 - vokope howto <https://youtu.be/7tmjdk5leDw>
 - io <https://youtu.be/DTx2LRwn5WY>
 - vere 39k <https://youtu.be/Igr0G99sqsU>
@@ -65,7 +65,7 @@ videos
   </summary>
 {: margin-left: 10em }
 {: .text-delta }
-Vokope Screenshots  
+  
 
 ![](https://cdn.discordapp.com/attachments/839524540681420870/850622880202096640/image0.png)   
 
