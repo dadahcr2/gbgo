@@ -5,7 +5,7 @@
 
 ***
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Table of contents
   </summary>
@@ -110,6 +110,11 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 	</details>
 ## Contests
+	<details  markdown="block">
+  <summary>
+    Weekly Kms
+  </summary>
+  {: .text-delta }
 ### Weekly Kms Contest  
 **Top 5**  
 🥇Getzata  
@@ -120,7 +125,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/849424114967773194/IMG_4586.jpg)
-
+	</details>
+	
 ### Daily Time Trial Contest
 
 Rules:
