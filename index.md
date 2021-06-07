@@ -78,17 +78,11 @@ Vokope Screenshots
 </details>
 <details  markdown="block">
   <summary>
-    PE: Moon Stunts
+### PE: More Torque (wheelie)
   </summary>
   {: .text-delta }
-### Public Event: moons of mischief (Moon Stunts)
-![](https://pbs.twimg.com/media/E23n3k9WEAEPKpk.jpg:small)  
-
-![](https://cdn.discordapp.com/attachments/750906124454330429/848659875100753930/image0.png)
-
-
-![I mostly use ![buggy] ![WT] ![AC] ![Ma]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
-
+![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
+	
 </details>  
 	
 <details  markdown="block">
