@@ -268,7 +268,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 **Tunnel Vision** | Tunnels 1 | Go down the tunnel at 280m to go. It is a shortcut  
 **Watery Tunnel** | Cup of City Water 2 | Generally quicker to brake and go low route through the water  
 
-</advice>  
+</details>  
 
 <details markdown="block">
   <summary>
