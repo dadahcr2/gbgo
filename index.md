@@ -21,7 +21,7 @@
     Change Log
   </summary>
   {: .text-delta }
-6 june - biclas 10k T1 with OT - collapsable sections - weekly km results - weekly time trial results  
+6 june - biclas 10k T1 with OT - collapsable sections - weekly km results - weekly time trial results    
 5 June - vokope howto and screenshots, alternative parts, vere 39k  
 4 June - New TE, io vokope videos  
 
