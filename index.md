@@ -21,7 +21,7 @@
     Change Log
   </summary>
 {: .text-delta }  
-7 June - Next PE thoughts	
+7 June - Next PE thoughts  	
 6 june - biclas 10k T1 with OT - collapsible sections - weekly km results - weekly time trial results    
 5 June - vokope howto and screenshots, alternative parts, vere 39k  
 4 June - New TE, io vokope videos  
