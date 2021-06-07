@@ -152,7 +152,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ### Daily Time Trial Contest
 
 Rules:
-- Compete each day in same daily as fw.hcr2.info
+- Compete each day in same daily as <http://fw.hcr2.info>
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
 **Week 8 Results**
