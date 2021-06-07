@@ -4,7 +4,7 @@
 {: style="text-align: center;"}
 
 ***
-
+<!--  
 <details markdown="block">
   <summary>
     Table of contents
@@ -14,7 +14,8 @@
 {:toc}
 </details>
 
-***
+*** -->
+
 <details markdown="block">
   <summary>
     Change Log
@@ -29,12 +30,16 @@
 28 May - New TE - cis vid - vokope howto & snapshots    
 </details>	
 
+***  
+
 ## Events
+
 <details markdown="block">
   <summary>
     TE: Hits Different
   </summary>
   {: .text-delta }
+	
 ### Team Event: Hits Different  
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583630505836594/image0.png)  
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583667393953812/image0.gif)  
@@ -113,6 +118,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 </details>  
 	
 ## Contests
+	
 <details  markdown="block">  
   <summary>
     Weekly Kms
@@ -130,7 +136,12 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 ![](https://cdn.discordapp.com/attachments/777301191474282546/849424114967773194/IMG_4586.jpg)
 
 </details>  
-	
+
+details markdown="block">
+  <summary>
+    Daily Time Trial
+  </summary>
+  {: .text-delta }	
 ### Daily Time Trial Contest
 
 Rules:
@@ -167,10 +178,18 @@ Spyder              1
 
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)
 
+</details>  
+
+details markdown="block">
+  <summary>
+    Coleader joins
+  </summary>
+  {: .text-delta }
 ### Coleader Season Contest
 **Joins in June**     
 3 Groot 
-
+1 Omelette
+	
 **`---------------`**  
 **`Tablet of Honor`**    
 `===============`      
@@ -178,6 +197,14 @@ Spyder              1
 `Groot.........1`    
 **`---------------`**  
 
+</details>
+
+details markdown="block">
+  <summary>
+    Adventure
+  </summary>
+  {: .text-delta }
+	
 ### Adventure Contest
 
 Adventure - May until month-end results  
@@ -202,6 +229,8 @@ Omelette          1
 Adventure contest until June mid-month is ***Sportscar- DesertValley***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/849421990107545600/image0.gif)  
 
+</details>  
+	
 ### Tournaments 
 - Tractor Wars: <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
