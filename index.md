@@ -55,7 +55,7 @@ videos
 - vere 39k <https://youtu.be/Igr0G99sqsU>
 - b&a <https://youtu.be/pILyVPo-bIM>
 
-	<;details>  
+	</details>  
 		
 		<details  markdown="block">
   <summary>
