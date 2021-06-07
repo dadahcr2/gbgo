@@ -230,13 +230,21 @@ Adventure contest until June mid-month is ***Sportscar- DesertValley***
 ![](https://cdn.discordapp.com/attachments/776132655192211478/849421990107545600/image0.gif)  
 
 </details>  
-	
+
+<details markdown="block">
+  <summary>
+    Tournaments
+  </summary>
+  {: .text-delta }
 ### Tournaments 
 - Tractor Wars: <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
 
 [🔝](#top)    
 {: style="text-align: center;"}  
+
+</details>  
+
 ## Advice
 <details markdown="block">
   <summary>
@@ -304,7 +312,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 3. Scrap parts that may be needed in the future  
 4. Use the scrapyard if tired or impaired  
 
-</advice>
+</details>
 
 ## Team  
 <details markdown="block">
