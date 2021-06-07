@@ -125,15 +125,13 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest  
-**Top 5**  
+**Podium**  
 🥇Getzata  
 🥈LNL  
 🥉Stand09  
-🏅MrFixit  
-🎖omelette 
 
 **Top Ten**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/849424114967773194/IMG_4586.jpg)
+![](https://cdn.discordapp.com/attachments/777301191474282546/851250260252950528/image0.png)
 
 </details>  
 
