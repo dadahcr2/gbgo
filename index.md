@@ -155,13 +155,13 @@ Rules:
 - Compete each day in same daily as <http://fw.hcr2.info>
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 8 Results**
-🥇 Dada 2+3+3+3+3+3+3=20
-🥈 Date 3+2+2+2-2=11
-🥉 Getzata 1+1+2+2+1=7
-🏅 Josey 1+1=2
-🏅 MrFixit 2
-🎖️ PDB 1
+**Week 8 Results**  
+🥇 Dada 2+3+3+3+3+3+3=20  
+🥈 Date 3+2+2+2-2=11  
+🥉 Getzata 1+1+2+2+1=7  
+🏅 Josey 1+1=2  
+🏅 MrFixit 2  
+🎖️ PDB 1  
 
 **2021 Time Trial Roll of Honor**
 ```
