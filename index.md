@@ -55,9 +55,9 @@ videos
 - vere 39k <https://youtu.be/Igr0G99sqsU>
 - b&a <https://youtu.be/pILyVPo-bIM>
 
-	</details>  
+</details>  
 		
-		<details  markdown="block">
+<details  markdown="block">
   <summary>
     Screenshots
   </summary>
@@ -71,8 +71,9 @@ Vokope Screenshots
 ![](https://cdn.discordapp.com/attachments/839524590278541342/850623064289968158/image0.png)   
 
 ![](https://cdn.discordapp.com/attachments/839524618891952128/850623088370647080/image0.png)   
-		</details>
-	</details>
+	
+</details>
+</details>
 <details  markdown="block">
   <summary>
     PE: Moon Stunts
