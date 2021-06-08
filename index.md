@@ -45,7 +45,7 @@
 1. ![tank] s=19/20/18 ![wi] ![fume] ![LB]or![cb]or![OT] remove turret, uphill distance
 > biclas 10k OT <https://youtu.be/gjW0x-rCQTM>
 3. ![moonlander] ![ma] remove wheels, moon timed 
-4. ![formula] ![WT] ![AB] ![cb]or![fuel] big air - seesaw rd, no-air
+4. ![formula] ![WT] ![AB] ![cb]or![sb], big air - seesaw rd, no-air
 5. ![moto] s=19/18 balance=19/20 ![wi] ![JS] ![LB] countryside distance
 <details  markdown="block">
   <summary>
