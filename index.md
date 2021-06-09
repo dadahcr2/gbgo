@@ -82,24 +82,17 @@
  PE: More Torque (wheelie)
   </summary>
   {: .text-delta }
-![](https://cdn.discordapp.com/attachments/850233265306468372/851443300543627264/image0.png)
+![](https://pbs.twimg.com/media/E3bqkoDXwAEB2Cx.jpg:small)
 
-**Last Wheelie Event**
-Most people seem to use buggy. Given how “incredibly skilled” I am with buggy wheelie, I tend to stick to tracks 1 and 4 where there are good alternatives
-1. Country - Moonlander coin wheelie magnet, press gas and brake for 2s at start and thrust into wheelie position when crossing the start line
-4. Underwater - RacingTruck df=1 coin fume wheelie, reverse at start, can be less vertical after the bubble pops  
-
-
-**Wheelie PE records and corresponding setups**
-1. Country - RT fuel WB CB 2291 
-2. Beach - buggy Wi WB CB 1907 
-3. Mine - buggy (AB Ma)/(CB WB) Wi 2248
-4. Underwater - RacingTruck coin fume wheelie 1521
-5. Winter Wi Ma WB 962
-6. Bog - buggy Wi WB CB 1909
-7. Mountain RT Wi WB CB 1097
-8. Desert - buggy Wi WB CB 590
-9. Glacier buggy Wi WB CB/Ma 1509
+1. Bog - Buggy Wi WB JS 926m
+2. Beach
+3. Forest - RT Wi WB Fume 891m
+4. City - Diesel Wi WB JS 832m
+5. City
+6. Bog - Buggy Wi WB CB 2603m
+7. Mountain - Buggy Wi WB JS 994m
+8. Desert
+9. Glacier - Buggy Wi WB JS 1515m
 
 </details>  
 	
