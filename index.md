@@ -86,7 +86,7 @@
   {: .text-delta }
 ![](https://pbs.twimg.com/media/E3bqkoDXwAEB2Cx.jpg:small)
 
-1. Bog  ![Buggy] ![Wi] ![WB] ![CB] 943m, ![RT] ![Wi] ![WB] ![CB] 901m, ,[RT] 855m
+1. Bog  ![Buggy] ![Wi] ![WB] ![CB] 943m, ![RT] ![Wi] ![WB] ![CB] 901m
 2. Beach ![Buggy] ![Wi] ![WB] ![JS] 810m, ![RT] ![Wi] ![WB] ![CB]? 855m    
 3. Forest  ![RT] ![Wi] ![WB] ![Fume] 891m, ![Buggy] ![Wi] ![WB] ![JS] 907m, ![Diesel] ![Wi] ![WB] ![JS] 908m  
 4. City  ![Buggy] ![Wi] ![WB] ![CB]? 1133m
