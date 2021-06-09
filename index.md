@@ -21,7 +21,7 @@
     Change Log
   </summary>
 {: .text-delta }  
-9 June - New PE tracks and setups  
+9 June - New PE tracks and setups - notch 39.8k  
 7 June - Next PE thoughts  <br>
 6 june - biclas 10k T1 with OT - collapsible sections - weekly km results - weekly time trial results    
 5 June - vokope howto and screenshots, alternative parts, vere 39k  
@@ -57,8 +57,9 @@
 - vokope howto <https://youtu.be/7tmjdk5leDw>
 - io <https://youtu.be/DTx2LRwn5WY>
 - vere 39k <https://youtu.be/Igr0G99sqsU>
-- b&a <https://youtu.be/pILyVPo-bIM>
-
+- b&a <https://youtu.be/pILyVPo-bIM>  
+- notch 39.8k <https://youtu.be/KlUVtWPv3Wc>  
+	
 </details>  
 		
 <details  markdown="block">
