@@ -88,13 +88,13 @@
 
 1. Bog  ![Buggy] ![Wi] ![WB] ![JS] 926m
 2. Beach
-3. Forest  RT Wi WB Fume 891m
+3. Forest  ![RT] ![Wi] ![WB] ![Fume] 891m, ![Buggy] ![Wi] ![WB] ![JS] 907m  
 4. City  ![Diesel] ![Wi] ![WB] ![JS] 832m
 5. City
 6. Bog  ![Buggy] ![Wi] ![WB] ![CB] 2603m
 7. Mountain  ![Buggy] ![Wi] ![WB] ![JS] 994m
 8. Desert
-9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1515m
+9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1515m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  
 
 </details>  
 	
