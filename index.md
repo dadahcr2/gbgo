@@ -100,29 +100,6 @@
 
 </details>  
 	
-<details  markdown="block">
-  <summary>
-    Season Bonus
-  </summary>
-  {: .text-delta }
-### Season Rewards
-![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)
-
-**Season Bonus Chest** - requires premium pass
-
-Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Legendary
-:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-1-9 | 50-58 | 5500-9500 | 11-19 |  (18~27) |  (2~6) | 2% (3) | 0.1% (3)
-10-19 | 59-68 | 10000-14500 | 20-29 |  (29~38) |  (2~10) | 13% (3~6) | 1.8% (3)
-20-29 | 69-78 | 15000-19500 | 30-39 |  (45~56) |  (6~12) | 33% (3~6) | 5% (3)
-30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
-200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
-
-[🔝](#top)    
-{: style="text-align: center;"}  
-
-</details>  
-
 ***	
 	
 ## Contests
@@ -380,11 +357,21 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 </details>
 
+<details  markdown="block">
+  <summary>
+    Season Bonus
+  </summary>
+  {: .text-delta }
+### Season Rewards
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)
+
+</details>  
+		
 <details markdown="block">
   <summary>
     Philosophy
   </summary>
-  {: .text-delta }
+  {: .text-delta }	
 	
 ### Philosophy  
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another.    
