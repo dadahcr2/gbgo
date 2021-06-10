@@ -44,7 +44,7 @@
 ![](https://cdn.discordapp.com/attachments/750874271022317678/850583667393953812/image0.gif)  
 
 1. ![tank] s=19/20/18 ![wi] ![fume] ![LB]or![cb]or![OT] remove turret, uphill distance
-> biclas 10k OT <https://youtu.be/gjW0x-rCQTM>
+> biclas 10k ![OT] <https://youtu.be/gjW0x-rCQTM>  
 > 550m cliff with ![LB] <https://cdn.discordapp.com/attachments/797964357089755176/851570944144572427/video0.mov>  
 > 550m cliff witn ![OT] <https://cdn.discordapp.com/attachments/797964357089755176/851564500599570472/Screen_Recording_20210607-155150_Discord.mp4>  
 3. ![moonlander] ![ma] remove wheels, moon timed 
