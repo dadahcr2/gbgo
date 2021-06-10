@@ -122,6 +122,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 {: style="text-align: center;"}  
 
 </details>  
+
+***	
 	
 ## Contests
 	
@@ -249,6 +251,8 @@ Adventure contest until June mid-month is ***Sportscar- DesertValley***
 
 </details>  
 
+***
+
 ## Advice
 <details markdown="block">
   <summary>
@@ -318,6 +322,8 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 
 </details>
 
+***
+	
 ## Team  
 <details markdown="block">
   <summary>
