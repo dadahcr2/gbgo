@@ -165,13 +165,13 @@ Spyder              1
 
 <details markdown="block">
   <summary>
-    Coleader joins
+    Co-leader joins
   </summary>
   {: .text-delta }
-### Coleader Season Contest
+### Co-leader Season Contest
 **Joins in June**     
-3 Groot 
-1 Omelette
+5 Groot 
+1 Spyder
 	
 **`---------------`**  
 **`Tablet of Honor`**    
