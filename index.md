@@ -223,9 +223,6 @@ Adventure contest until June mid-month is ***Sportscar- DesertValley***
 - Tractor Wars: <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
 
-[🔝](#top)    
-{: style="text-align: center;"}  
-
 </details>  
 
 ***
