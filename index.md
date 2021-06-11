@@ -21,7 +21,7 @@
     Change Log
   </summary>
 {: .text-delta }   
-10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip    
+10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 9 June - New PE tracks and setups - notch 39.8k - T1 550m videos    
 7 June - Next PE thoughts  <br>
 6 june - biclas 10k T1 with OT - collapsible sections - weekly km results - weekly time trial results    
@@ -94,10 +94,10 @@
 
 1. Bog  ![Buggy] ![Wi] ![WB] ![CB] 943m, ![RT] ![Wi] ![WB] ![CB] 901m
 2. Beach ![Buggy] ![Wi] ![WB] ![JS] 810m, ![RT] ![Wi] ![WB] ![CB]? 855m    
-3. Forest  ![RT] ![Wi] ![WB] ![Fume] 891m, ![Buggy] ![Wi] ![WB] ![JS] 907m, ![Diesel] ![Wi] ![WB] ![JS] 908m  
-4. City  ![Buggy] ![Wi] ![WB] ![CB]? 1133m
-5. City ![Buggy] ![Wi] ![WB] ![CB] 931m
-6. Bog  ![Buggy] ![Wi] ![WB] ![CB] 2603m
+3. Forest  ![RT] ![Wi] ![WB] ![CB] 899m, ![Buggy] ![Wi] ![WB] ![JS] 907m, ![Diesel] ![Wi] ![WB] ![JS] 908m  
+4. City  ![Buggy] ![Wi] ![WB] ![CB]? 1133m,![RT] ![Wi] ![WB] ![CB] 1126m
+5. City ![Buggy] ![Wi] ![WB] ![CB] 931m, ![RT] ![Wi] ![WB] ![CB] 910m
+6. Bog  ![Buggy] ![Wi] ![WB] ![ma] 2845m, ![RT] ![Wi] ![WB] ![CB] 2926m, ![moonlander] ![Ma] ![Wb] ![cb] 2664
 7. Mountain  ![Buggy] ![Wi] ![WB] ![JS] 994m
 8. Desert  ![RT] ![Wi] ![WB] ![CB]? 858m  
 9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1515m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  
