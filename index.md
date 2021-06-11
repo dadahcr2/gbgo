@@ -49,7 +49,9 @@
 > 550m cliff with ![LB] <https://cdn.discordapp.com/attachments/797964357089755176/851570944144572427/video0.mov>  
 > 550m cliff witn ![OT] <https://cdn.discordapp.com/attachments/797964357089755176/851564500599570472/Screen_Recording_20210607-155150_Discord.mp4>  
 > 934m T1 + going back for fuel <https://youtu.be/MVxGZlFRios>
+> if you jump over the fuel, reverse at speed from the ledge above it to jump backwards over it.
 3. ![moonlander] ![ma] remove wheels, moon timed 
+> Wait 0.5s before pressing the buttons to launch at a more horizontal trajectory
 4. ![formula] ![WT] ![AB] ![cb]or![sb], big air - seesaw rd, no-air
 5. ![moto] s=19/18 balance=19/20 ![wi] ![JS] ![LB] countryside distance
 <details  markdown="block">
