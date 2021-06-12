@@ -95,14 +95,13 @@
 
 ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 
-Track 1: Factory Cup - Factory Settings, Time attack, 10k=12.5s
-
-Track 2: Wheelie in Winter, Wheelie, 10k=850m
-
-Track 3: Breaking Objects, Time attack, breaking, 10k=4.5s  
+1. ![Jeep]![SB]![JS]![LB] s=18 Factory Cup - Factory Settings, 10k=12.5s
+> Map ![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
+2. Wheelie in Winter, 10k=850m  
+3. Breaking, 10k=4.5s  
 > Map ![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)  
 
-Track 4: I Hate Water - Reef Grief, Time attack, 10k=20s
+4. I Hate Water - Reef Grief, 10k=20s
 
 videos
 - vokope howto <https://youtu.be/mdLFbGXYiOE>
