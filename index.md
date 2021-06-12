@@ -21,6 +21,7 @@
     Change Log
   </summary>
 {: .text-delta }   
+11 June - vokope howto
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 9 June - New PE tracks and setups - notch 39.8k - T1 550m videos    
 7 June - Next PE thoughts  <br>
@@ -88,7 +89,7 @@
 
 <details  markdown="block">
   <summary>
- TE: preview
+ TE: Catastrophic Failure
   </summary>
 
 ![jeep] ![monster] ![rotator] ![chopper] ![rt]
@@ -100,7 +101,9 @@ Track 2: Wheelie in Winter, Wheelie, 10k=850m
 Track 3: Breaking Objects, Time attack, breaking, 10k=4.5s
 
 Track 4: I Hate Water - Reef Grief, Time attack, 10k=20s
-	
+
+videos
+	- vokope howto <https://youtu.be/mdLFbGXYiOE>
 </details>
 	
 <details  markdown="block">
