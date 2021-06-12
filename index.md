@@ -100,7 +100,7 @@ Track 1: Factory Cup - Factory Settings, Time attack, 10k=12.5s
 Track 2: Wheelie in Winter, Wheelie, 10k=850m
 
 Track 3: Breaking Objects, Time attack, breaking, 10k=4.5s  
-> Map [![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)  
+> Map ![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)  
 
 Track 4: I Hate Water - Reef Grief, Time attack, 10k=20s
 
