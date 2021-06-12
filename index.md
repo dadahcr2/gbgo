@@ -97,7 +97,7 @@
 	
 **Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 1. ![Jeep]![SB]![JS]![LB] s=18, Factory Cup - Factory Settings, 10k=12.5s  
-2. ![RT]![Wi]![Ma]![Fu] DF=1, Wheelie in Winter, 10k=850m  
+2. ![RT]![Wi]![Ma]![Fume] DF=1, Wheelie in Winter, 10k=850m  
 3. ![Monster]![SB]![HW]![AB] Breaking, 10k=4.5s  
 4. ![Rotator]![MA]![AB]![CB] B=1, I Hate Water - Reef Grief, 10k=20s
 
