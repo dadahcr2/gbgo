@@ -92,9 +92,9 @@
   <summary>
  TE: Catastrophic Failure
   </summary>
-
-![jeep] ![monster] ![rotator] ![chopper] ![rt]
-
+![](https://cdn.discordapp.com/attachments/750874271022317678/853351800299323412/image0.png]
+	
+**Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 1. ![Jeep]![SB]![JS]![LB] s=18, Factory Cup - Factory Settings, 10k=12.5s  
 2. ![RT]![Wi]![Ma]![Fu] DF=1, Wheelie in Winter, 10k=850m  
 3. ![Monster]![SB]![HW]![AB] Breaking, 10k=4.5s  
