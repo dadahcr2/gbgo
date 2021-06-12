@@ -103,17 +103,33 @@ Track 3: Breaking Objects, Time attack, breaking, 10k=4.5s
 Track 4: I Hate Water - Reef Grief, Time attack, 10k=20s
 
 videos
-	- vokope howto <https://youtu.be/mdLFbGXYiOE>
+- vokope howto <https://youtu.be/mdLFbGXYiOE>
 	
 screenshots
-	- T1 vokope  
-	![](https://cdn.discordapp.com/attachments/750874271022317678/853094912572653578/image0.png)  
-	- T2 vokope  
-	![](https://cdn.discordapp.com/attachments/750874271022317678/853094912874774558/image1.png)  
-	- T3 vokope  
-	![](https://cdn.discordapp.com/attachments/750874271022317678/853094913469317120/image2.png)  
-	- T4 vokope  
-	![](https://cdn.discordapp.com/attachments/750874271022317678/853094913779564554/image3.png)  
+<details  markdown="block">
+  <summary>
+- T1 vokope 
+</summary>
+![](https://cdn.discordapp.com/attachments/750874271022317678/853098207314444308/image0.png)    
+</details>
+<details  markdown="block">
+ <summary>
+- T2 vokope  
+</summary>
+![](https://cdn.discordapp.com/attachments/750874271022317678/853098222352465920/image0.png)  
+</details>
+<details  markdown="block">
+<summary>
+- T3 vokope  
+</summary>
+![](https://cdn.discordapp.com/attachments/750874271022317678/853098230023716894/image0.png)  
+</details>
+<details  markdown="block">
+<summary>
+- T4 vokope 
+</summary>
+![](https://cdn.discordapp.com/attachments/750874271022317678/853098237895770172/image0.png)  
+</details>
 </details>
 	
 <details  markdown="block">
