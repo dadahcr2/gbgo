@@ -92,9 +92,9 @@
   <summary>
  TE: Catastrophic Failure
   </summary>
-![](https://cdn.discordapp.com/attachments/750874271022317678/853351800299323412/image0.png]
+![](https://cdn.discordapp.com/attachments/750874271022317678/853351800299323412/image0.png)
 
-<div class="tenor-gif-embed" data-postid="20186110" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/crash-van-explosion-fail-failure-gif-20186110">Crash Van GIF</a> from <a href="https://tenor.com/search/crash-gifs">Crash GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="20186110" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/crash-van-explosion-fail-failure-gif-20186110">Crash Van GIF</a> from <a href="https://tenor.com/search/crash-gifs">Crash GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
 	
 **Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 1. ![Jeep]![SB]![JS]![LB] s=18, Factory Cup - Factory Settings, 10k=12.5s  
