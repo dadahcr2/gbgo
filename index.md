@@ -21,7 +21,7 @@
     Change Log
   </summary>
 {: .text-delta } 
-12 June - time trial results - T3 map
+12 June - time trial results - te maps
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 9 June - New PE tracks and setups - notch 39.8k - T1 550m videos    
@@ -95,13 +95,17 @@
 
 ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 
-1. ![Jeep]![SB]![JS]![LB] s=18, Factory Cup - Factory Settings, 10k=12.5s
-> Map ![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
+1. ![Jeep]![SB]![JS]![LB] s=18, Factory Cup - Factory Settings, 10k=12.5s  
 2. ![RT]![Wi]![Ma]![Fu] DF=1, Wheelie in Winter, 10k=850m  
 3. ![Monster]![SB]![HW]![AB] Breaking, 10k=4.5s  
-> Map ![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)  
 4. ![Rotator]![MA]![AB]![CB] B=1, I Hate Water - Reef Grief, 10k=20s
 
+Maps  
+![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
+![<https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg>](https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg)  
+![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)  
+,[<https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png)  	
+	
 videos
 - vokope howto <https://youtu.be/mdLFbGXYiOE>
 	
