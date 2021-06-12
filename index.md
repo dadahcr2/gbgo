@@ -20,7 +20,8 @@
   <summary>
     Change Log
   </summary>
-{: .text-delta }   
+{: .text-delta } 
+12 June - time trial results  
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 9 June - New PE tracks and setups - notch 39.8k - T1 550m videos    
@@ -182,23 +183,27 @@ Rules:
 - Compete each day in same daily as <http://fw.hcr2.info>
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 8 Results**  
-🥇 Dada 2+3+3+3+3+3+3=20  
-🥈 Date 3+2+2+2-2=11  
-🥉 Getzata 1+1+2+2+1=7  
-🏅 Josey 1+1=2  
-🏅 MrFixit 2  
-🎖️ PDB 1  
+**Week 9 Results**  
+🥇 date 3+3+3+2+0+3+2=16  
+🥈 Getz 2+3+2+3=10  
+🥉 fixit 2+2+2=5  
+🏅 camaro 3  
+🏅 Groot 1+2=3  
+🏅 Harry 1+1=2  
+🏅 josey 2  
 
-**2021 Time Trial Roll of Honor**
+2021 Time Trial Roll of Honor**
 ```
          🥇   🥈   🥉
-——————————————————————  
+——————————————————————
+
 Dada      6    2 
-Date      1    3    3   
-Getzata   1    3    2  
+Date      2    3    3   
+Getzata   1    4    2  
 PDB                 1 
 Spyder              1   
+MrFixit             1   
+
 ——————————————————————
 ```
 
