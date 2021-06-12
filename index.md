@@ -21,7 +21,7 @@
     Change Log
   </summary>
 {: .text-delta }   
-11 June - vokope howto
+11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 9 June - New PE tracks and setups - notch 39.8k - T1 550m videos    
 7 June - Next PE thoughts  <br>
@@ -104,6 +104,16 @@ Track 4: I Hate Water - Reef Grief, Time attack, 10k=20s
 
 videos
 	- vokope howto <https://youtu.be/mdLFbGXYiOE>
+	
+screenshots
+	- T1 vokope  
+	![](https://cdn.discordapp.com/attachments/750874271022317678/853094912572653578/image0.png)  
+	- T2 vokope  
+	![](https://cdn.discordapp.com/attachments/750874271022317678/853094912874774558/image1.png)  
+	- T3 vokope  
+	![](https://cdn.discordapp.com/attachments/750874271022317678/853094913469317120/image2.png)  
+	- T4 vokope  
+	![](https://cdn.discordapp.com/attachments/750874271022317678/853094913779564554/image3.png)  
 </details>
 	
 <details  markdown="block">
