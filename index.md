@@ -95,13 +95,12 @@
 
 ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 
-1. ![Jeep]![SB]![JS]![LB] s=18 Factory Cup - Factory Settings, 10k=12.5s
+1. ![Jeep]![SB]![JS]![LB] s=18, Factory Cup - Factory Settings, 10k=12.5s
 > Map ![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
-2. Wheelie in Winter, 10k=850m  
-3. Breaking, 10k=4.5s  
+2. ![RT]![Wi]![Ma]![Fu] DF=1, Wheelie in Winter, 10k=850m  
+3. ![Monster]![SB]![HW]![AB] Breaking, 10k=4.5s  
 > Map ![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)  
-
-4. I Hate Water - Reef Grief, 10k=20s
+4. ![Rotator]![MA]![AB]![CB] B=1, I Hate Water - Reef Grief, 10k=20s
 
 videos
 - vokope howto <https://youtu.be/mdLFbGXYiOE>
