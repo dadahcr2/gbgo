@@ -226,8 +226,9 @@ MrFixit             1
   {: .text-delta }
 ### Co-leader Season Contest
 **Joins in June**     
-5 Groot 
-1 Spyder
+5 Groot  
+1 Spyder  
+1 Jimbob	
 	
 **`---------------`**  
 **`Tablet of Honor`**    
