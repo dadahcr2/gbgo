@@ -92,7 +92,8 @@
   <summary>
  TE: Catastrophic Failure
   </summary>
-![](https://https://cdn.discordapp.com/attachments/850232435579813938/853357046447079440/image0.png)  
+	
+![](https://cdn.discordapp.com/attachments/850232435579813938/853357046447079440/image0.png)  
 	
 **Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 1. ![Jeep]![SB]![JS]![LB] s=18, Factory Cup - Factory Settings, 10k=12.5s  
