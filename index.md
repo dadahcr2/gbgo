@@ -192,7 +192,7 @@ Rules:
 🏅 Harry 1+1=2  
 🏅 josey 2  
 
-2021 Time Trial Roll of Honor**
+**2021 Time Trial Roll of Honor**
 ```
          🥇   🥈   🥉
 ——————————————————————
