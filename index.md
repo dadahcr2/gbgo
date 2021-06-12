@@ -93,6 +93,8 @@
  TE: Catastrophic Failure
   </summary>
 ![](https://cdn.discordapp.com/attachments/750874271022317678/853351800299323412/image0.png]
+
+![](https://tenor.com/view/crash-van-explosion-fail-failure-gif-20186110)
 	
 **Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 1. ![Jeep]![SB]![JS]![LB] s=18, Factory Cup - Factory Settings, 10k=12.5s  
