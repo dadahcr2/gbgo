@@ -21,7 +21,7 @@
     Change Log
   </summary>
 {: .text-delta } 
-12 June - time trial results - te maps
+12 June - time trial results - te maps  
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 9 June - New PE tracks and setups - notch 39.8k - T1 550m videos    
