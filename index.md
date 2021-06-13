@@ -22,7 +22,7 @@
   </summary>
 {: .text-delta } 
 	
-12 June - time trial results - te maps  
+12 June - time trial results - te maps - chopper setup
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 
@@ -176,8 +176,8 @@ MrFixit             1
 **Joins in June**     
 5 Groot  
 1 Spyder  
-1 Jimbob
-1 dada
+1 Jimbob  
+1 dada  
 	
 **`---------------`**  
 **`Tablet of Honor`**    
