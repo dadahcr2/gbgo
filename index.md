@@ -17,9 +17,9 @@
 *** -->
 
 <details open markdown="block">
-  <summary>
+  <summary><strong>
     Change Log
-  </summary>
+  </strong></summary>
 {: .text-delta } 
 	
 	
@@ -104,6 +104,8 @@ screenshots
 
 </details>    
 <br>  		
+
+***
 	
 ## Contests
 	
