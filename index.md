@@ -28,7 +28,7 @@
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 </details>	
-<br>  
+ 
 ***   
 
 ## Events
@@ -99,9 +99,9 @@ screenshots
 6. Bog  ![Buggy] ![Wi] ![WB] ![ma] 2845m, ![RT] ![Wi] ![WB] ![CB] 2926m, ![moonlander] ![Ma] ![Wb] ![cb] 2664
 7. Mountain  ![Buggy] ![Wi] ![WB] ![JS] 994m
 8. Desert  ![RT] ![Wi] ![WB] ![CB]? 858m  
-9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1515m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  
+9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1515m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  	
 </details>    
-<br>  		
+		
 ***
 	
 ## Contests
@@ -227,7 +227,7 @@ Adventure contest until June mid-month is ***Sportscar- DesertValley***
 - Tractor Wars: <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
 </details>  	
-<br>  	
+	
 ***
 
 ## Advice
@@ -295,7 +295,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](h
 3. Scrap parts that may be needed in the future  
 4. Use the scrapyard if tired or impaired  	
 </details>
-<br>  
+
 ***
 	
 ## Team  
@@ -385,7 +385,7 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
 </details> 	
-<br>  		
+		
 ***
 
 [dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710     
