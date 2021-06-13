@@ -83,8 +83,7 @@ screenshots
 ![](https://cdn.discordapp.com/attachments/750874271022317678/853098237895770172/image0.png)  
 </details>  
 <br>  
-</details>
-	
+</details>  	
 <details  markdown="block">
   <summary>
  PE: More Torque (wheelie)
