@@ -29,6 +29,7 @@
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 </details>	
  
+ 
 ***   
 
 ## Events
@@ -101,7 +102,8 @@ screenshots
 8. Desert  ![RT] ![Wi] ![WB] ![CB]? 858m  
 9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1515m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  	
 </details>    
-		
+
+	
 ***
 	
 ## Contests
@@ -227,6 +229,7 @@ Adventure contest until June mid-month is ***Sportscar- DesertValley***
 - Tractor Wars: <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
 </details>  	
+
 	
 ***
 
@@ -296,6 +299,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](h
 4. Use the scrapyard if tired or impaired  	
 </details>
 
+	
 ***
 	
 ## Team  
@@ -385,7 +389,8 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
 </details> 	
-		
+
+	
 ***
 
 [dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710     
