@@ -42,7 +42,7 @@
 **Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 1. ![Jeep] ![SB]![JS]![LB] s=18/20 or ![chopper] ![LB]![Th]![fuel], Factory Cup - Factory Settings, 10k=12.5s
 2. ![RT] ![Wi]![Ma]![CB]or![Fume] DF=1, Wheelie in Winter, 10k=850m  
-3. ![Monster] ![SB]![HW]![AB]or{: style="background-color:yellow" }![RC], Breaking, 10k=4.5s  
+3. ![Monster] ![SB]![HW]![AB]or![RC], Breaking, 10k=4.5s  
 4. ![Rotator] ![AB]![CB]![MA]or![Wi] Br=1, I Hate Water - Reef Grief, 10k=20s
 
 Maps  
