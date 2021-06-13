@@ -22,6 +22,8 @@
   </summary>
 {: .text-delta } 
 	
+	
+13 June - linus video. setup alternatives
 12 June - time trial results - te maps - chopper setup  
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
@@ -42,8 +44,8 @@
 **Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
 1. ![Jeep] ![SB]![JS]![LB] s=18 or ![chopper] ![LB]![Th]![fuel], Factory Cup - Factory Settings, 10k=12.5s  
 2. ![RT] ![Wi]![Ma]![Fume] DF=1, Wheelie in Winter, 10k=850m  
-3. ![Monster] ![SB]![HW]![AB] Breaking, 10k=4.5s  
-4. ![Rotator] ![MA]![AB]![CB] B=1, I Hate Water - Reef Grief, 10k=20s
+3. ![Monster] ![SB]![HW]![AB]or![RC] Breaking, 10k=4.5s  
+4. ![Rotator] ![AB]![CB]![MA]or![Wi] B=1, I Hate Water - Reef Grief, 10k=20s
 
 Maps  
 ![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
@@ -53,6 +55,7 @@ Maps
 	
 videos
 - vokope howto <https://youtu.be/mdLFbGXYiOE>
+- linus <https://youtu.be/ha56uKJnyow>
 	
 screenshots
 <details  markdown="block">
