@@ -27,9 +27,8 @@
 12 June - time trial results - te maps - chopper setup  
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
-
 </details>	
-
+<br>
 ***  
 
 ## Events
@@ -101,10 +100,8 @@ screenshots
 7. Mountain  ![Buggy] ![Wi] ![WB] ![JS] 994m
 8. Desert  ![RT] ![Wi] ![WB] ![CB]? 858m  
 9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1515m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  
-
 </details>    
 <br>  		
-
 ***
 	
 ## Contests
@@ -124,7 +121,6 @@ screenshots
 ![](https://cdn.discordapp.com/attachments/777301191474282546/851250260252950528/image0.png)  
 <br>  
 </details>  
-
 <details markdown="block">
   <summary>
     Daily Time Trial
@@ -168,12 +164,9 @@ MrFixit             1
 5. Scroll down to find that day's cup and track
 6. Run it at many times as you like using that day’s vehicle
 
-![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)  
-	
-<br>  
-	
+![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)  	
+<br>  	
 </details>  
-
 <details markdown="block">
   <summary>
     Co-leader joins
@@ -192,11 +185,8 @@ MrFixit             1
 `Getzata.......1`     
 `Groot.........1`    
 **`---------------`**  
-
-<br>  
-	
+<br>  	
 </details>
-
 <details markdown="block">
   <summary>
     Adventure
@@ -226,11 +216,8 @@ Omelette          1
 ```  
 Adventure contest until June mid-month is ***Sportscar- DesertValley***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/849421990107545600/image0.gif)  
-
-<br>  
-	
+<br>  	
 </details>  
-
 <details markdown="block">
   <summary>
     Tournaments
@@ -239,11 +226,8 @@ Adventure contest until June mid-month is ***Sportscar- DesertValley***
 ### Tournaments 
 - Tractor Wars: <http://tw.hcr2.info>
 - Friendly Wars: <http://fw.hcr2.info>
-
-</details>  
-	
-<br>  
-	
+</details>  	
+<br>  	
 ***
 
 ## Advice
@@ -253,13 +237,9 @@ Adventure contest until June mid-month is ***Sportscar- DesertValley***
   </summary>
   {: .text-delta }
 ### Adventure Setups
-Draft based on VMinchBosch data - **work-in-progress do not distribute!**  
-![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
-
-<br>  
-	
-</details>  
-
+Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)  
+<br>  	
+</details>   
 <details markdown="block">
   <summary>
     Track Tips
@@ -280,10 +260,8 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 **Tunnel Vision** | Tunnels 1 | Go down the tunnel at 280m to go. It is a shortcut  
 **Watery Tunnel** | Cup of City Water 2 | Generally quicker to brake and go low route through the water  
 
-<br>  
-	
-</details>  
-	
+<br>  	
+</details>  	
 <details markdown="block">
   <summary>
     General Advice 
@@ -315,11 +293,10 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**
 1. Cheat  
 2. Buy chests/coins with gems in the shop  
 3. Scrap parts that may be needed in the future  
-4. Use the scrapyard if tired or impaired  
-	
+4. Use the scrapyard if tired or impaired  	
 </details>
-
 <br>  
+***
 	
 ## Team  
 <details markdown="block">
@@ -374,23 +351,17 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 [🔝](#top)    
 {: style="text-align: center;"}  
-
-<br>  
-	
+<br>  	
 </details>
-
 <details  markdown="block">
   <summary>
     Season Bonus
   </summary>
   {: .text-delta }
 ### Season Rewards
-![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)
-
-<br>  
-	
-</details>  
-		
+![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
+<br>  	
+</details>  		
 <details markdown="block">
   <summary>
     Philosophy
@@ -413,10 +384,8 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 	
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
-</details> 
-	
-<br>  	
-	
+</details> 	
+<br>  		
 ***
 
 [dadahcr2@gmail.com](mailto:dadahcr2@gmail.com) ~ dada#1710     
