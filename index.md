@@ -21,14 +21,10 @@
     Change Log
   </summary>
 {: .text-delta } 
+	
 12 June - time trial results - te maps  
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
-9 June - New PE tracks and setups - notch 39.8k - T1 550m videos    
-7 June - Next PE thoughts  <br>
-6 june - biclas 10k T1 with OT - collapsible sections - weekly km results - weekly time trial results    
-5 June - vokope howto and screenshots, alternative parts, vere 39k  
-4 June - New TE, io vokope videos  
 
 </details>	
 
@@ -180,7 +176,8 @@ MrFixit             1
 **Joins in June**     
 5 Groot  
 1 Spyder  
-1 Jimbob	
+1 Jimbob
+1 dada
 	
 **`---------------`**  
 **`Tablet of Honor`**    
