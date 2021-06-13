@@ -20,14 +20,13 @@
   <summary>
     Change Log
   </summary>
-{: .text-delta style="background-color:yellow"} 
+{: .text-delta } 
 		
 13 June - linus video - setup alternatives  
 12 June - time trial results - te maps - chopper setup  
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
-</details>	
-&nbsp;   
+</details>	   
 
 ***   
 
@@ -41,10 +40,11 @@
 ![](https://cdn.discordapp.com/attachments/750874271022317678/853364320338968586/image0.png)  
 	
 **Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
-1. ![Jeep] ![SB]![JS]![LB] s=18/20 or ![chopper] ![LB]![Th]![fuel], Factory Cup - Factory Settings, 10k=12.5s  
+1. ![Jeep] ![SB]![JS]![LB] s=18/20 or ![chopper] ![LB]![Th]![fuel], Factory Cup - Factory Settings, 10k=12.5s  {: style="background-color:yellow" }
 2. ![RT] ![Wi]![Ma]![CB]or![Fume] DF=1, Wheelie in Winter, 10k=850m  
 3. ![Monster] ![SB]![HW]![AB]or![RC] Breaking, 10k=4.5s  
-4. ![Rotator] ![AB]![CB]![MA]or![Wi] Br=1, I Hate Water - Reef Grief, 10k=20s
+{: style="background-color:yellow" }  
+4. ![Rotator] ![AB]![CB]![MA]or![Wi]{: style="background-color:yellow" } Br=1, I Hate Water - Reef Grief, 10k=20s
 
 Maps  
 ![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
