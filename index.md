@@ -29,7 +29,7 @@
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
 </details>	
 &nbsp;   
- 
+
 ***   
 
 ## Events
