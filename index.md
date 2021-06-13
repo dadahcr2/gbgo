@@ -17,9 +17,9 @@
 *** -->
 
 <details open markdown="block">
-  <summary><strong>
+  <summary>
     Change Log
-  </strong></summary>
+  </summary>
 {: .text-delta } 
 	
 	
