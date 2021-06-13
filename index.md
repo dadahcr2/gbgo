@@ -20,9 +20,8 @@
   <summary>
     Change Log
   </summary>
-{: .text-delta } 
-	
-	
+{: .text-delta style="background-color:yellow"} 
+		
 13 June - linus video - setup alternatives  
 12 June - time trial results - te maps - chopper setup  
 11 June - vokope howto & screenshots  
