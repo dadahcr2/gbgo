@@ -23,7 +23,7 @@
 {: .text-delta } 
 	
 	
-13 June - linus video. setup alternatives
+13 June - linus video. setup alternatives  
 12 June - time trial results - te maps - chopper setup  
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
