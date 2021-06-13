@@ -36,58 +36,6 @@
 
 ## Events
 
-<details markdown="block">
-  <summary>
-    TE: Hits Different
-  </summary>
-{: .text-delta }
-	
-### Team Event: Hits Different  
-![](https://cdn.discordapp.com/attachments/750874271022317678/850583630505836594/image0.png)  
-![](https://cdn.discordapp.com/attachments/750874271022317678/850583667393953812/image0.gif)  
-
-1. ![tank] s=19/20/18 ![wi] ![fume] ![LB]or![cb]or![OT] remove turret, uphill distance
-> biclas 10k ![OT] <https://youtu.be/gjW0x-rCQTM>  
-> 550m cliff with ![LB] <https://cdn.discordapp.com/attachments/797964357089755176/851570944144572427/video0.mov>  
-> 550m cliff witn ![OT] <https://cdn.discordapp.com/attachments/797964357089755176/851564500599570472/Screen_Recording_20210607-155150_Discord.mp4>  
-> 934m T1 + going back for fuel <https://youtu.be/MVxGZlFRios>  
-> if you jump over the fuel, reverse at speed from the ledge above it to jump backwards over it.
-3. ![moonlander] ![ma] remove wheels, moon timed   
-> Wait 0.5s before pressing the buttons to launch at a more horizontal trajectory  
-4. ![formula] ![WT] ![AB] ![cb]or![sb], big air - seesaw rd, no-air
-5. ![moto] s=19/18 balance=19/20 ![wi] ![JS] ![LB] countryside distance
-<details  markdown="block">
-  <summary>
-    - Videos
-  </summary>
-  {: .text-delta }
-
-- vokope howto <https://youtu.be/7tmjdk5leDw>
-- io <https://youtu.be/DTx2LRwn5WY>
-- vere 39k <https://youtu.be/Igr0G99sqsU>
-- b&a <https://youtu.be/pILyVPo-bIM>  
-- notch 39.8k <https://youtu.be/KlUVtWPv3Wc>  
-	
-</details>  
-		
-<details  markdown="block">
-  <summary>
-    - Screenshots
-  </summary>
-{: .text-delta }
-  
-
-![](https://cdn.discordapp.com/attachments/839524540681420870/850622880202096640/image0.png)   
-
-![](https://cdn.discordapp.com/attachments/839524565758771240/850623036968402994/image0.png)   
-
-![](https://cdn.discordapp.com/attachments/839524590278541342/850623064289968158/image0.png)   
-
-![](https://cdn.discordapp.com/attachments/839524618891952128/850623088370647080/image0.png)   
-	
-</details>
-</details>
-
 <details  markdown="block">
   <summary>
  TE: Catastrophic Failure
