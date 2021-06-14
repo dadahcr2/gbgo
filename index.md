@@ -21,7 +21,8 @@
     Change Log
   </summary>
 {: .text-delta } 
-		
+
+14 June - wheelie vid - chopper vid  
 13 June - linus video - setup alternatives  
 12 June - time trial results - te maps - chopper setup  
 11 June - vokope howto & screenshots  
@@ -54,6 +55,8 @@ Maps
 videos
 - vokope howto <https://youtu.be/mdLFbGXYiOE>
 - linus <https://youtu.be/ha56uKJnyow>
+- 876m wheelie <https://youtu.be/gmKH_vwZt-4>
+- "easy" 7k chopper t1 <https://youtu.be/1ZE7HZq51F8>
 	
 screenshots
 <details  markdown="block">
