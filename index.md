@@ -117,7 +117,7 @@ screenshots
 🥉Stand09  
 
 **Top Ten**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/851250260252950528/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/853816819290603530/image0.png)  
 <br>  
 </details>  
 <details markdown="block">
