@@ -45,7 +45,7 @@
 2. ![RT] ![Wi]![Ma]![CB]or![Fume] DF=1, Wheelie in Winter, 10k=850m  
 3. ![Monster] ![SB]![HW]![AB]or![RC], Breaking, 10k=4.5s  
 4. ![Rotator] ![AB]![CB]![MA]or![Wi] Br=1, I Hate Water - Reef Grief, 10k=20s
-> [![<https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif]>](https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif)](https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif)
+> [![<https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif>](https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif)](https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif)
 	
 	
 Maps  
