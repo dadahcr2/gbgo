@@ -22,6 +22,7 @@
   </summary>
 {: .text-delta } 
 
+15 June - T4 20.5s
 14 June - wheelie vid - chopper vid  
 13 June - linus video - setup alternatives  
 12 June - time trial results - te maps - chopper setup  
