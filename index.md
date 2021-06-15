@@ -50,10 +50,10 @@
 	
 	
 Maps  
-![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
-![<https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg>](https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg)  
-![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)  
-![<https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png)  	
+[![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
+[![<https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg>](https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg)](https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg)    
+[![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)    
+[![<https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png)](https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png)  	
 	
 videos
 - vokope howto <https://youtu.be/mdLFbGXYiOE>
