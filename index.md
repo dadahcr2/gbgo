@@ -105,8 +105,14 @@ screenshots
 8. Desert  ![RT] ![Wi] ![WB] ![CB]? 858m  
 9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1515m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  	
 </details>    
+<details  markdown="block">
+  <summary>
+ PE: Superbike Wars  
+  </summary>
+  {: .text-delta }
+https://cdn.discordapp.com/attachments/854531411159810058/854538454430646282/34B11586-C008-48C2-9829-E0C9C8FBA513.png	
+</details>	
 
-	
 ***
 	
 ## Contests
