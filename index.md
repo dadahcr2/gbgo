@@ -15,7 +15,7 @@
 </details>
 
 *** -->
-Last build: {{ site.time }}
+
 <details open markdown="block">
   <summary>
     Change Log ({{ site.time }})
