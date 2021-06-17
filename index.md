@@ -22,6 +22,7 @@
   </summary>
 {: .text-delta } 
 
+17 June - a&b vid - updated pe setups
 15 June - T4 20.5s
 14 June - wheelie vid - chopper vid  
 13 June - linus video - setup alternatives  
@@ -59,7 +60,8 @@ videos
 - vokope howto <https://youtu.be/mdLFbGXYiOE>
 - linus <https://youtu.be/ha56uKJnyow>
 - 876m wheelie <https://youtu.be/gmKH_vwZt-4>
-- "easy" 7k chopper t1 <https://youtu.be/1ZE7HZq51F8>
+- "easy" 7k chopper t1 <https://youtu.be/1ZE7HZq51F8>  
+- a&b <https://youtu.be/kRgyFulNHtY>  
 	
 screenshots
 <details  markdown="block">
