@@ -15,6 +15,16 @@
 </details>
 
 *** -->
+1. {% raw %}{{ page.date | date: '%B %d, %Y' }}{% endraw %}  
+2. {{ page.date | date: '%B %d, %Y' }}
+3. {% raw %}
+{{ page.date | date: "%B" }}
+{{ page.date | date: "%d" | plus:'0' }}, 
+{{ page.date | date: "%Y" }}
+{% endraw %}  
+4. {% raw %}{{ page.date | date: '%B %d, %Y' }}{% endraw %}  
+5. {{ page.date | date: '%B %d, %Y' }}
+
 
 <details open markdown="block">
   <summary>
