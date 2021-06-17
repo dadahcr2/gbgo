@@ -23,7 +23,8 @@
 {{ page.date | date: "%Y" }}
 {% endraw %}  
 4. {% raw %}{{ site.time | date: '%B% e%, Y% l%:M %p' }}{% endraw %}  
-5. {{ site.time | date: '%B% e%, Y% l%:M %p' }}
+5. {{ site.time | date: '%B% %e, %Y %l:%M %p' }}
+6. {{ site.time | date: '%B% %d, %Y %l:%M %p' }}
 
 
 <details open markdown="block">
