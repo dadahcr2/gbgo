@@ -15,10 +15,10 @@
 </details>
 
 *** -->
-Last modified: {{ page.last-modified-date }}
+Last build: {{ site.time }}
 <details open markdown="block">
   <summary>
-    Change Log ({{ page.last-modified-date }})
+    Change Log ({{ site.time }})
   </summary>
 {: .text-delta } 
 
