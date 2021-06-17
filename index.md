@@ -22,8 +22,8 @@
 {{ page.date | date: "%d" | plus:'0' }}, 
 {{ page.date | date: "%Y" }}
 {% endraw %}  
-4. {% raw %}{{ page.date | date: '%B %d, %Y' }}{% endraw %}  
-5. {{ page.date | date: '%B %d, %Y' }}
+4. {% raw %}{{ page.date | date: '%B% e%, Y% l%:M %p' }}{% endraw %}  
+5. {{ page.date | date: '%B% e%, Y% l%:M %p' }}
 
 
 <details open markdown="block">
