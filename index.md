@@ -116,7 +116,7 @@ screenshots
 
 ![](https://pbs.twimg.com/media/E3_ts44XIAAaLnV.jpg:small)   
 	
-![](https://cdn.discordapp.com/attachments/850232585707323402/854606648287297596/image.png)	  
+![](https://cdn.discordapp.com/attachments/854531411159810058/855168330225811456/F0E647F7-FD28-4213-BF5A-4ABB60196707.png)	  
 </details>	
 
 ***
