@@ -17,9 +17,9 @@
 *** -->
 
 <details open markdown="block">
-  <summary> <b>
+  <summary> <h3>
 	  Changes as at: {{ site.time | date: '%B %e, %Y, %l:%M %p' }}
- </b></summary>
+ </h3></summary>
 {: .text-delta } 
 
 17 June - a&b vid - updated pe setups - added build time - adventure results  
