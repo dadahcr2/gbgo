@@ -212,27 +212,30 @@ MrFixit             1
 	
 ### Adventure Contest
 
-Adventure - May until month-end results  
-***Snowmobile in Rustbucket Reef***
+Adventure - June until mid-month: ***Sportscar - Desert Valley***
 
-🥇Nesorac 10737m
-🥈Omelette 9330m
-🥉MrFixit 8177m
+🥇 Date 6751m 
+🥈 Josey 6747m
+🥉 G🐝G 5984m
 
-**2021 Adventure Roll of Honor**  
-```
+3-10: dada groot LnL Canis MrF * Getz
+
+**2021 Adventure Roll of Honor**```
+
             🥇   🥈   
 ————————————————————
-Date         3        
+Date         4        
 T            1    2
 Nesorac      2
 Lonestar          2
 Spyder            1
 Omelette          1
+Josey             1
 ————————————————————
-```  
-Adventure contest until June mid-month is ***Sportscar- DesertValley***  
-![](https://cdn.discordapp.com/attachments/776132655192211478/849421990107545600/image0.gif)  
+```
+	
+Adventure contest until June mid-month is ***Monowheel - Winter***  
+![](https://hsto.org/files/331/cf6/e7f/331cf6e7fe8645b6b2c65c9ae87ac508.jpg)  
 <br>  	
 </details>  
 <details markdown="block">
