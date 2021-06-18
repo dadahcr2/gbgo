@@ -102,6 +102,7 @@ screenshots
 ***bus buggy sportscar superbike supercar***
 	
 1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s, <https://imgur.com/a/lhtRoKW>  
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/lhtRoKW" data-context="false" ><a href="//imgur.com/a/lhtRoKW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 2. ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m, <https://imgur.com/a/UmBLumB>  
 3. ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m, <https://imgur.com/a/0qWGn5u>  
 4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m, <https://imgur.com/a/8ouDja3>  
