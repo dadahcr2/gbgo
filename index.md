@@ -211,7 +211,7 @@ MrFixit             1
   {: .text-delta }
 	
 ### Adventure Contest	
-***Monowheel - Winter*** 
+***Monowheel - Winter***  
 (until June month-end)
 	
 ![](https://hsto.org/files/331/cf6/e7f/331cf6e7fe8645b6b2c65c9ae87ac508.jpg)  
