@@ -22,7 +22,7 @@
  </b></summary>
 {: .text-delta }
 	
-18 June - TE setups  	
+18 June - TE setups  
 17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
 15 June - T4 20.5s  
 14 June - wheelie vid - chopper vid  
