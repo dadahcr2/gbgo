@@ -102,16 +102,16 @@ screenshots
 ***bus buggy sportscar superbike supercar***
 	
 1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s  
-	 <blockquote class="imgur-embed-pub" lang="en" data-id="a/lhtRoKW" data-context="false" ><a href="//imgur.com/a/lhtRoKW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+> <https://imgur.com/a/lhtRoKW>  
 2. ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m  
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/UmBLumB" data-context="false" ><a href="//imgur.com/a/UmBLumB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+> <https://imgur.com/a/UmBLumB>  
 3. ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/0qWGn5u" data-context="false" ><a href="//imgur.com/a/0qWGn5u"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+>  <https://imgur.com/a/0qWGn5u>  
 4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/8ouDja3" data-context="false" ><a href="//imgur.com/a/8ouDja3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+>  <https://imgur.com/a/8ouDja3>  
 	![buggy] ![Wi]![WB]![CB]  
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/oY8SKsI" data-context="false" ><a href="//imgur.com/a/oY8SKsI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+>  <https://imgur.com/a/oY8SKsI>
+	
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
 <br>
 </details>	
