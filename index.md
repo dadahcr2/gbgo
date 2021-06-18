@@ -18,7 +18,7 @@
 
 <details open markdown="block">
   <summary> 
-    Change Log ({{ site.time | date: '%B %e, %Y %l:%M %p' }})
+    Change Log - {{ site.time | date: '%B %e, %Y %l:%M %p' }}
   </summary>
 {: .text-delta } 
 
