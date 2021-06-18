@@ -103,7 +103,7 @@ screenshots
 4. City  ![Buggy] ![Wi] ![WB] ![CB]? 1133m,![RT] ![Wi] ![WB] ![CB] 1126m
 5. City ![Buggy] ![Wi] ![WB] ![CB] 931m, ![RT] ![Wi] ![WB] ![CB] 998m
 6. Bog  ![Buggy] ![Wi] ![WB] ![ma] 2845m, ![RT] ![Wi] ![WB] ![CB] 2926m, ![moonlander] ![Ma] ![Wb] ![cb] 2664
-7. Mountain  ![Buggy] ![Wi] ![WB] ![JS] 1004m, ![RT] ![Wi] ![WT] ![WB]
+7. Mountain  ![Buggy] ![Wi] ![WB] ![JS] 1004m, ![RT] ![Wi] ![WT] ![WB] 1005m
 8. Desert  ![RT] ![Wi] ![WB] ![CB]? 858m  
 9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1516m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  	
 <br>	
