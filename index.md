@@ -104,7 +104,7 @@ screenshots
 1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s, <https://imgur.com/a/lhtRoKW>  
 2. ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m, <https://imgur.com/a/UmBLumB>  
 3. ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m, <https://imgur.com/a/0qWGn5u>  
-4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m, <https://imgur.com/a/8ouDja3> 
+4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m, <https://imgur.com/a/8ouDja3>  
 	![buggy] ![Wi]![WB]![CB], <https://imgur.com/a/oY8SKsI>
 
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
@@ -116,7 +116,6 @@ screenshots
   </summary>
   {: .text-delta }
 
-![](https://pbs.twimg.com/media/E3_ts44XIAAaLnV.jpg:small)   
 	
 ![](https://cdn.discordapp.com/attachments/854531411159810058/855168330225811456/F0E647F7-FD28-4213-BF5A-4ABB60196707.png)	  
 </details>	
