@@ -15,11 +15,10 @@
 </details>
 
 *** -->
-{{ site.time | date: '%B %e, %Y, %l:%M %p' }}
-{: style="text-align: right;"}
+
 <details open markdown="block">
   <summary> 
-	  {{ site.time | date: '%B %e, %Y, %l:%M %p' }}
+	 Changes as at {{ site.time | date: '%B %e, %Y, %l:%M %p' }}
   </summary>
 {: .text-delta } 
 
@@ -91,6 +90,21 @@ screenshots
 </details>  
 <br>  
 </details>  
+
+<details  markdown="block">
+  <summary>
+ TE: Preview  
+  </summary>
+  {: .text-delta }
+
+bus buggy sportscar superbike supercar
+	
+1. No air, beach, 10k=18s
+2. Multi-jump, moon, 10k=500m
+3. Uphill distance, mine, 10k=500m
+4. Wheelie, Beach, 10k=600m_
+<br>
+</details>	
 <details  markdown="block">
   <summary>
  PE: Superbike Wars  
