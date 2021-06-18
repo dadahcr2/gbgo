@@ -103,8 +103,10 @@ screenshots
 	
 1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s  
 > <https://imgur.com/a/lhtRoKW>  
+> <https://cdn.discordapp.com/attachments/750874271022317678/855551699921928202/image0.png>	
 2. ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m  
 > <https://imgur.com/a/UmBLumB>  
+> <https://cdn.discordapp.com/attachments/750874271022317678/855551722783899658/image0.png>  
 3. ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
 >  <https://imgur.com/a/0qWGn5u>  
 4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
@@ -115,6 +117,8 @@ screenshots
 videos
 	- vokope howto <https://youtu.be/2QsBZ3UQCWQ>  
 	
+
+
 	
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
 <br>
