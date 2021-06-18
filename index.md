@@ -22,7 +22,7 @@
  </b></summary>
 {: .text-delta }
 	
-	
+18 June - TE setups  	
 17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
 15 June - T4 20.5s  
 14 June - wheelie vid - chopper vid  
@@ -101,10 +101,11 @@ screenshots
 <br>
 ***bus buggy sportscar superbike supercar***
 	
-1. No air, beach, 10k=18s
-2. Multi-jump, moon, 10k=500m
-3. Uphill distance, mine, 10k=500m
-4. Wheelie, Beach, 10k=600m
+1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s, <https://imgur.com/a/lhtRoKW>  
+2. ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m, <https://imgur.com/a/UmBLumB>  
+3. ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m, <https://imgur.com/a/0qWGn5u>  
+4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m, <https://imgur.com/a/8ouDja3> 
+	![buggy] ![Wi]![WB]![CB], <https://imgur.com/a/oY8SKsI>
 <br>
 </details>	
 <details  markdown="block">
