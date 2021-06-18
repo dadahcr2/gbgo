@@ -22,7 +22,7 @@
  </b></summary>
 {: .text-delta }
 	
-18 June - TE setups  
+18 June - TE setups, vokope howto    
 17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
 15 June - T4 20.5s  
 14 June - wheelie vid - chopper vid  
@@ -111,6 +111,10 @@ screenshots
 >  <https://imgur.com/a/8ouDja3>  
 ![buggy] ![Wi]![WB]![CB]  
 >  <https://imgur.com/a/oY8SKsI>
+
+videos
+	- vokope howto <https://youtu.be/2QsBZ3UQCWQ>  
+	
 	
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
 <br>
