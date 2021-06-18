@@ -109,8 +109,10 @@ screenshots
 > <https://cdn.discordapp.com/attachments/750874271022317678/855551722783899658/image0.png>  
 3. ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
 >  <https://imgur.com/a/0qWGn5u>  
+>  <https://cdn.discordapp.com/attachments/750874271022317678/855551746675048458/image0.png>  
 4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
 >  <https://imgur.com/a/8ouDja3>  
+>  <https://cdn.discordapp.com/attachments/750874271022317678/855551755303649310/image0.png>  
 ![buggy] ![Wi]![WB]![CB]  
 >  <https://imgur.com/a/oY8SKsI>
 
