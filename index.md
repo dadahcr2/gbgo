@@ -15,21 +15,10 @@
 </details>
 
 *** -->
-1. {% raw %}{{ site.time | date: '%B %d, %Y' }}{% endraw %}  
-2. {{ site.time | date: '%B %d, %Y' }}
-3. {% raw %}
-{{ page.date | date: "%B" }}
-{{ page.date | date: "%d" | plus:'0' }}, 
-{{ page.date | date: "%Y" }}
-{% endraw %}  
-4. {% raw %}{{ site.time | date: '%B% e%, Y% l%:M %p' }}{% endraw %}  
-5. {{ site.time | date: '%B% %e, %Y %l:%M %p' }}
-6. {{ site.time | date: '%B% %d, %Y %l:%M %p' }}
-
 
 <details open markdown="block">
-  <summary>
-    Change Log ({{ site.time }})
+  <summary> 
+    Change Log ({{ site.time | date: '%B %e, %Y %l:%M %p' }})
   </summary>
 {: .text-delta } 
 
