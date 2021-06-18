@@ -18,9 +18,9 @@
 
 <details open markdown="block">
   <summary> 
-	  Changes as at: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time
+	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time
   </summary>
-{: .text-delta } 
+{: style="text-align: right;"}
 <br>
 17 June - a&b vid - updated pe setups - added build time - adventure results  
 15 June - T4 20.5s  
