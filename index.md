@@ -102,7 +102,7 @@ bus buggy sportscar superbike supercar
 1. No air, beach, 10k=18s
 2. Multi-jump, moon, 10k=500m
 3. Uphill distance, mine, 10k=500m
-4. Wheelie, Beach, 10k=600m_
+4. Wheelie, Beach, 10k=600m
 <br>
 </details>	
 <details  markdown="block">
