@@ -218,7 +218,7 @@ Adventure - June until mid-month: ***Sportscar - Desert Valley***
 🥈 Josey 6747m
 🥉 G🐝G 5984m
 
-3-10: dada groot LnL Canis MrF * Getz
+4-10: dada groot LnL Canis MrF * Getz
 
 **2021 Adventure Roll of Honor**
 ```
@@ -235,6 +235,7 @@ Josey             1
 ```
 	
 Adventure contest until June mid-month is ***Monowheel - Winter***  
+	
 ![](https://hsto.org/files/331/cf6/e7f/331cf6e7fe8645b6b2c65c9ae87ac508.jpg)  
 <br>  	
 </details>  
