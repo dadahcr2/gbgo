@@ -19,7 +19,7 @@
 {: style="text-align: right;"}
 <details open markdown="block">
   <summary> 
-	  Change Log ……………………… <b>{{ site.time | date: '%B %e, %Y, %l:%M %p' }} EST</b>  
+	  {{ site.time | date: '%B %e, %Y, %l:%M %p' }}
   </summary>
 {: .text-delta } 
 
