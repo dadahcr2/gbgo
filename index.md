@@ -89,25 +89,7 @@ screenshots
 ![](https://cdn.discordapp.com/attachments/750874271022317678/853098237895770172/image0.png)  
 </details>  
 <br>  
-</details>  	
-<details  markdown="block">
-  <summary>
- PE: More Torque (wheelie)
-  </summary>
-  {: .text-delta }
-![](https://pbs.twimg.com/media/E3bqkoDXwAEB2Cx.jpg:small)
-
-1. Bog  ![Buggy] ![Wi] ![WB] ![jS]/![CB] 949m, ![RT] ![Wi] ![WB] ![CB] 927m
-2. Beach ![Buggy] ![Wi] ![WB] ![JS] 812m, ![RT] ![Wi] ![WB] ![CB]? 855m    
-3. Forest  ![RT] ![Wi] ![WB] ![CB] 899m, ![Buggy] ![Wi] ![WB] ![JS] 907m, ![Diesel] ![Wi] ![WB] ![JS] 908m  
-4. City  ![Buggy] ![Wi] ![WB] ![CB]? 1133m,![RT] ![Wi] ![WB] ![CB] 1126m
-5. City ![Buggy] ![Wi] ![WB] ![CB] 931m, ![RT] ![Wi] ![WB] ![CB] 998m
-6. Bog  ![Buggy] ![Wi] ![WB] ![ma] 2845m, ![RT] ![Wi] ![WB] ![CB] 2926m, ![moonlander] ![Ma] ![Wb] ![cb] 2664
-7. Mountain  ![Buggy] ![Wi] ![WB] ![JS] 1004m, ![RT] ![Wi] ![WT] ![WB] 1005m
-8. Desert  ![RT] ![Wi] ![WB] ![CB]? 858m  
-9. Glacier  ![Buggy] ![Wi] ![WB] ![JS] 1516m, ![Diesel] ![Wi] ![WB] ![JS] 1515m  	
-<br>	
-</details>   	
+</details>  
 <details  markdown="block">
   <summary>
  PE: Superbike Wars  
