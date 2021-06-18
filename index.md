@@ -210,9 +210,12 @@ MrFixit             1
   </summary>
   {: .text-delta }
 	
-### Adventure Contest
-
-Adventure - June until mid-month: ***Sportscar - Desert Valley***
+### Adventure Contest	
+Current adventure contest until June month-end is ***Monowheel - Winter***  
+	
+![](https://hsto.org/files/331/cf6/e7f/331cf6e7fe8645b6b2c65c9ae87ac508.jpg)  
+	
+Last contest results: ***Sportscar - Desert Valley***
 
 🥇 Date 6751m 
 🥈 Josey 6747m
@@ -232,11 +235,7 @@ Spyder            1
 Omelette          1  
 Josey             1  
 ————————————————————  
-```
-	
-Adventure contest until June mid-month is ***Monowheel - Winter***  
-	
-![](https://hsto.org/files/331/cf6/e7f/331cf6e7fe8645b6b2c65c9ae87ac508.jpg)  
+```   
 <br>  	
 </details>  
 <details markdown="block">
