@@ -21,7 +21,8 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta }
-<p>
+	
+	
 17 June - a&b vid - updated pe setups - added build time - adventure results  
 15 June - T4 20.5s  
 14 June - wheelie vid - chopper vid  
@@ -29,7 +30,7 @@
 12 June - time trial results - te maps - chopper setup  
 11 June - vokope howto & screenshots  
 10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
-</p>
+
 </details>	   
   
 ***   
