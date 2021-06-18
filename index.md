@@ -23,7 +23,7 @@
 {: .text-delta }
 	
 	
-17 June - a&b vid - updated pe setups - added build time - adventure results  
+17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
 15 June - T4 20.5s  
 14 June - wheelie vid - chopper vid  
 13 June - linus video - setup alternatives  
