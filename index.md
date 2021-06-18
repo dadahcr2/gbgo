@@ -18,7 +18,7 @@
 
 <details open markdown="block">
   <summary> 
-	  Change Log ••• <b>{{ site.time | date: '%B %e, %Y - %l:%M %p' }}</b>  
+	  Change Log ~~~ <b>{{ site.time | date: '%B %e, %Y - %l:%M %p' }}</b>  
   </summary>
 {: .text-delta } 
 
@@ -220,10 +220,10 @@ Adventure - June until mid-month: ***Sportscar - Desert Valley***
 
 3-10: dada groot LnL Canis MrF * Getz
 
-**2021 Adventure Roll of Honor**```
-
+**2021 Adventure Roll of Honor**
+```
             🥇   🥈    
-————————————————————  
+————————————————————    
 Date         4          
 T            1    2  
 Nesorac      2  
