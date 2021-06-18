@@ -95,7 +95,7 @@ screenshots
 
 <details  markdown="block">
   <summary>
- TE: Domt't Hate, Coordinate.  
+ TE: Don't Hate, Coordinate.  
   </summary>
   {: .text-delta }
 <br>
