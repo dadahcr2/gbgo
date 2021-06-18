@@ -109,7 +109,7 @@ screenshots
 >  <https://imgur.com/a/0qWGn5u>  
 4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
 >  <https://imgur.com/a/8ouDja3>  
-  ![buggy] ![Wi]![WB]![CB]  
+![buggy] ![Wi]![WB]![CB]  
 >  <https://imgur.com/a/oY8SKsI>
 	
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
