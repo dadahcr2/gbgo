@@ -18,11 +18,11 @@
 
 <details open markdown="block">
   <summary> 
-	  Change Log — <i>{{ site.time | date: '%B %e, %Y - %l:%M %p' }}</i>  
+	  Change Log — <b><i>{{ site.time | date: '%B %e, %Y - %l:%M %p' }}</i></b>  
   </summary>
 {: .text-delta } 
 
-17 June - a&b vid - updated pe setups - added build time 
+17 June - a&b vid - updated pe setups - added build time - aeventure results
 15 June - T4 20.5s  
 14 June - wheelie vid - chopper vid  
 13 June - linus video - setup alternatives  
