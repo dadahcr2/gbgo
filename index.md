@@ -96,8 +96,8 @@ screenshots
  TE: Preview  
   </summary>
   {: .text-delta }
-
-bus buggy sportscar superbike supercar
+<br>
+***bus buggy sportscar superbike supercar***
 	
 1. No air, beach, 10k=18s
 2. Multi-jump, moon, 10k=500m
