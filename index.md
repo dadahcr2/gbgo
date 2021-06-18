@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta }
-
+<br>
 17 June - a&b vid - updated pe setups - added build time - adventure results  
 15 June - T4 20.5s  
 14 June - wheelie vid - chopper vid  
