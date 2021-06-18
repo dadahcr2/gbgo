@@ -18,7 +18,7 @@
 
 <details open markdown="block">
   <summary> 
-	  Change Log — <b><i>{{ site.time | date: '%B %e, %Y - %l:%M %p' }}</i></b>  
+	  Change Log ••• <b>{{ site.time | date: '%B %e, %Y - %l:%M %p' }}</b>  
   </summary>
 {: .text-delta } 
 
@@ -222,16 +222,16 @@ Adventure - June until mid-month: ***Sportscar - Desert Valley***
 
 **2021 Adventure Roll of Honor**```
 
-            🥇   🥈   
-————————————————————
-Date         4        
-T            1    2
-Nesorac      2
-Lonestar          2
-Spyder            1
-Omelette          1
-Josey             1
-————————————————————
+            🥇   🥈    
+————————————————————  
+Date         4          
+T            1    2  
+Nesorac      2  
+Lonestar          2  
+Spyder            1  
+Omelette          1  
+Josey             1  
+————————————————————  
 ```
 	
 Adventure contest until June mid-month is ***Monowheel - Winter***  
