@@ -104,9 +104,9 @@ screenshots
 1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s  
 > <https://imgur.com/a/lhtRoKW>  
 > <https://cdn.discordapp.com/attachments/750874271022317678/855551699921928202/image0.png>	
-2. ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m  
-> <https://imgur.com/a/UmBLumB>  
-> <https://cdn.discordapp.com/attachments/750874271022317678/855551722783899658/image0.png>  
+2. ![supercar] ![Wi]![js]![LB] / ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m  
+> bus <https://imgur.com/a/UmBLumB>  
+> <https://cdn.discordapp.com/attachments/750874271022317678/855551722783899658/image0.png>   
 3. ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
 >  <https://imgur.com/a/0qWGn5u>  
 >  <https://cdn.discordapp.com/attachments/750874271022317678/855551746675048458/image0.png>  
@@ -118,7 +118,7 @@ screenshots
 
 videos
 	- vokope howto <https://youtu.be/2QsBZ3UQCWQ>  
-	
+	- vittorio supercar <https://youtu.be/hd3qdK3IQFs>  
 
 
 	
