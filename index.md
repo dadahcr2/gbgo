@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta }
-20 June - io T2 sports T3 bus T4 buggy <https://youtu.be/NgmCDSM-EZM>  
+20 June - cis T2 sports T3 bus T4 buggy <https://www.youtube.com/watch?v=K9ui_zV6XZ8>  
 19 June - scar t2, vittorio vid, alf serups    	
 18 June - TE setups, vokope howto    
 17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
@@ -63,7 +63,7 @@
 videos
 	- vokope howto <https://youtu.be/2QsBZ3UQCWQ>  
 	- vittorio supercar <https://youtu.be/hd3qdK3IQFs>  
-	- io T2 sports T3 bus T4 buggy <https://youtu.be/NgmCDSM-EZM>  
+	- cis T2 sports T3 bus T4 buggy <https://www.youtube.com/watch?v=K9ui_zV6XZ8>  
 
 	
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
