@@ -37,62 +37,6 @@
 
 ## Events
 
-<details markdown="block">
-  <summary>
- TE: Catastrophic Failure
-  </summary>
-	
-![](https://cdn.discordapp.com/attachments/750874271022317678/853364320338968586/image0.png)  
-	
-**Vehicles** ![jeep] ![monster] ![rotator] ![chopper] ![rt]
-1. ![Jeep] ![SB]![JS]{: "background-color:yellow" }![LB] s=18/20 or ![chopper] ![LB]![fuel]![Th]/![AB], Factory Cup - Factory Settings, 10k=12.5s
-2. ![RT] ![Wi]![Ma]![CB]or![Fume] DF=1, Wheelie in Winter, 10k=850m  
-3. ![Monster] ![SB]![HW]![AB]or![RC], Breaking, 10k=4.5s  
-4. ![Rotator] ![AB]![CB]![MA]or![Wi] Br=1, I Hate Water - Reef Grief, 10k=20s
-> [![<https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif>](https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif)](https://cdn.discordapp.com/attachments/750874271022317678/854384879731343370/image0.gif)
-	
-	
-Maps  
-[![<https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)](https://cdn.discordapp.com/attachments/750874271022317678/853335709708451840/image.png)  
-[![<https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg>](https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg)](https://cdn.discordapp.com/attachments/750874271022317678/853348544307658762/image0.jpg)    
-[![<https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG>](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)](https://cdn.discordapp.com/attachments/850238241533722664/853124080999989268/IMG_5035.JPG)    
-[![<https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png>](https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png)](https://cdn.discordapp.com/attachments/750874271022317678/853341821912088616/image.png)  	
-	
-videos
-- vokope howto <https://youtu.be/mdLFbGXYiOE>
-- linus <https://youtu.be/ha56uKJnyow>
-- 876m wheelie <https://youtu.be/gmKH_vwZt-4>
-- "easy" 7k chopper t1 <https://youtu.be/1ZE7HZq51F8>  
-- a&b <https://youtu.be/kRgyFulNHtY>  
-	
-screenshots
-<details  markdown="block">
-  <summary>
-- T1 vokope 
-</summary>
-![](https://cdn.discordapp.com/attachments/750874271022317678/853098207314444308/image0.png)    
-</details>
-<details  markdown="block">
- <summary>
-- T2 vokope  
-</summary>
-![](https://cdn.discordapp.com/attachments/750874271022317678/853098222352465920/image0.png)  
-</details>
-<details  markdown="block">
-<summary>
-- T3 vokope  
-</summary>
-![](https://cdn.discordapp.com/attachments/750874271022317678/853098230023716894/image0.png)  
-</details>
-<details  markdown="block">
-<summary>
-- T4 vokope 
-</summary>
-![](https://cdn.discordapp.com/attachments/750874271022317678/853098237895770172/image0.png)  
-</details>  
-<br>  
-</details>  
-
 <details  open markdown="block">
   <summary>
  TE: Don't Hate, Coordinate.  
@@ -161,7 +105,7 @@ videos
   </summary>
   {: .text-delta }	
 ### Daily Time Trial Contest
-<div><iframe src="http://fw.hcr2.info/daily.html" width="100%" frameborder="0" allowfullscreen="true"> </iframe></div>
+<div><iframe src="fw.hcr2.info/daily.html" width="100%" frameborder="0" allowfullscreen="true"> </iframe></div>
 	
 Rules:
 - Compete each day in same daily as <http://fw.hcr2.info>
