@@ -23,14 +23,7 @@
 {: .text-delta }
 20 June - cis T2 sports T3 bus T4 buggy <https://www.youtube.com/watch?v=K9ui_zV6XZ8>  
 19 June - scar t2, vittorio vid, alf serups    	
-18 June - TE setups, vokope howto    
-17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
-15 June - T4 20.5s  
-14 June - wheelie vid - chopper vid  
-13 June - linus video - setup alternatives  
-12 June - time trial results - te maps - chopper setup  
-11 June - vokope howto & screenshots  
-10 June - 934m T1 + what to do if jump over the fuel + T2 launch tip + updated PE setups  
+18 June - TE setups, vokope howto      
 
 </details>	   
   
@@ -69,7 +62,7 @@ videos
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
 <br>
 </details>	
-<details open  markdown="block">
+<details open markdown="block">
   <summary>
  PE: Superbike Wars  
   </summary>
@@ -98,7 +91,7 @@ videos
 ![](https://cdn.discordapp.com/attachments/777301191474282546/853816819290603530/image0.png)  
 <br>  
 </details>  
-<details markdown="block">
+<details open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
