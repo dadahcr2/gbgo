@@ -105,7 +105,7 @@ videos
   </summary>
   {: .text-delta }	
 ### Daily Time Trial Contest
-<div><iframe src="fw.hcr2.info/daily.html" width="100%" frameborder="0" allowfullscreen="true"> </iframe></div>
+<div><iframe src="http://fw.hcr2.info/daily.html" width="100%" height="20" frameborder="0" allowfullscreen="true"> </iframe></div>
 	
 Rules:
 - Compete each day in same daily as <http://fw.hcr2.info>
