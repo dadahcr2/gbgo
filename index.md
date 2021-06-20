@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta }
+20 June - io T2 sports T3 bus T4 buggy <https://youtu.be/NgmCDSM-EZM>  
 19 June - scar t2, vittorio vid, alf serups    	
 18 June - TE setups, vokope howto    
 17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
@@ -48,7 +49,7 @@
 1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s  
 > sbike <https://imgur.com/a/lhtRoKW>  
 > tips <https://cdn.discordapp.com/attachments/750874271022317678/855551699921928202/image0.png>	
-2. ![supercar] ![Wi]![js]![LB] / ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m  
+2. ![sportscar]/![supercar] ![Wi]![js]![LB] / ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m  
 >  supercar <https://cdn.discordapp.com/attachments/797964460869419038/855860241836670976/YT9_HD_720p_MEDIUM_FR30.mp> bus <https://imgur.com/a/UmBLumB>  
 > tips <https://cdn.discordapp.com/attachments/750874271022317678/855551722783899658/image0.png>   
 3. ![bus]![Wi]![Wb]![fume] / ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
@@ -62,7 +63,7 @@
 videos
 	- vokope howto <https://youtu.be/2QsBZ3UQCWQ>  
 	- vittorio supercar <https://youtu.be/hd3qdK3IQFs>  
-
+	- io T2 sports T3 bus T4 buggy <https://youtu.be/NgmCDSM-EZM>  
 
 	
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
