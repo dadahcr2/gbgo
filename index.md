@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta }
-19 June - scar t2, vittorio vid  	
+19 June - scar t2, vittorio vid, alf serups    	
 18 June - TE setups, vokope howto    
 17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
 15 June - T4 20.5s  
@@ -46,20 +46,18 @@
 ***bus buggy sportscar superbike supercar***
 	
 1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s  
-> <https://imgur.com/a/lhtRoKW>  
-> <https://cdn.discordapp.com/attachments/750874271022317678/855551699921928202/image0.png>	
+> sbike <https://imgur.com/a/lhtRoKW>  
+> tips <https://cdn.discordapp.com/attachments/750874271022317678/855551699921928202/image0.png>	
 2. ![supercar] ![Wi]![js]![LB] / ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m  
-> bus <https://imgur.com/a/UmBLumB>  
-> <https://cdn.discordapp.com/attachments/750874271022317678/855551722783899658/image0.png>   
-3. ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
->  <https://imgur.com/a/0qWGn5u>  
->  <https://cdn.discordapp.com/attachments/750874271022317678/855551746675048458/image0.png>  
-4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
->  bus <https://imgur.com/a/8ouDja3>  
->  scar <https://cdn.discordapp.com/attachments/797964460869419038/855860241836670976/YT9_HD_720p_MEDIUM_FR30.mp4>  
->  <https://cdn.discordapp.com/attachments/750874271022317678/855551755303649310/image0.png>  
-![buggy] ![Wi]![WB]![CB]  
->  <https://imgur.com/a/oY8SKsI>
+>  supercar <https://cdn.discordapp.com/attachments/797964460869419038/855860241836670976/YT9_HD_720p_MEDIUM_FR30.mp> bus <https://imgur.com/a/UmBLumB>  
+> tips <https://cdn.discordapp.com/attachments/750874271022317678/855551722783899658/image0.png>   
+3. ![bus]![Wi]![Wb]![fume] / ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
+>  buggy <https://imgur.com/a/0qWGn5u>  
+>  tips <https://cdn.discordapp.com/attachments/750874271022317678/855551746675048458/image0.png>  
+4. ![buggy] ![Wi]![WB]![CB] / ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
+>  buggy <https://imgur.com/a/oY8SKsI>  
+>  sports <https://imgur.com/a/8ouDja3>  
+>  tips <https://cdn.discordapp.com/attachments/750874271022317678/855551755303649310/image0.png>  
 
 videos
 	- vokope howto <https://youtu.be/2QsBZ3UQCWQ>  
