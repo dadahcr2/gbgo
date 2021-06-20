@@ -69,7 +69,7 @@ videos
   {: .text-delta }
 
 	
-![](https://cdn.discordapp.com/attachments/854531411159810058/855168330225811456/F0E647F7-FD28-4213-BF5A-4ABB60196707.png)	  
+![](https://cdn.discordapp.com/attachments/852315313286545448/856222588950806549/image0.png)	  
 </details>	
 
 ***
