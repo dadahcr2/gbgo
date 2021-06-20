@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta }
-	
+19 June - scar t2, vittorio vid  	
 18 June - TE setups, vokope howto    
 17 June - a&b vid - updated pe setups - added build time - adventure results - new te  
 15 June - T4 20.5s  
@@ -111,7 +111,8 @@ screenshots
 >  <https://imgur.com/a/0qWGn5u>  
 >  <https://cdn.discordapp.com/attachments/750874271022317678/855551746675048458/image0.png>  
 4. ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
->  <https://imgur.com/a/8ouDja3>  
+>  bus <https://imgur.com/a/8ouDja3>  
+>  scar <https://cdn.discordapp.com/attachments/797964460869419038/855860241836670976/YT9_HD_720p_MEDIUM_FR30.mp4>  
 >  <https://cdn.discordapp.com/attachments/750874271022317678/855551755303649310/image0.png>  
 ![buggy] ![Wi]![WB]![CB]  
 >  <https://imgur.com/a/oY8SKsI>
