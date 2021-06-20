@@ -48,7 +48,7 @@
 3. ![bus]![Wi]![Wb]![fume] / ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
 >  buggy <https://imgur.com/a/0qWGn5u>  
 >  tips <https://cdn.discordapp.com/attachments/750874271022317678/855551746675048458/image0.png>  
-4. ![buggy] ![Wi]![WB]![CB] / ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
+4. ![buggy] ![Wi]![WB]![CB]/![Ma]![WB]![JS] / ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
 >  buggy <https://imgur.com/a/oY8SKsI>  
 >  sports <https://imgur.com/a/8ouDja3>  
 >  tips <https://cdn.discordapp.com/attachments/750874271022317678/855551755303649310/image0.png>  
