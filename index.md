@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta }
-20 June - cis T2 sports T3 bus T4 buggy - time trial results  
+20 June - cis T2 sports T3 bus T4 buggy - time trial results - weekly kms  
 19 June - scar t2, vittorio vid, alf serups    	
 18 June - TE setups, vokope howto      
 
@@ -88,7 +88,7 @@ videos
 🥉Stand09  
 
 **Top Ten**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/853816819290603530/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/856334369513144321/image0.png)  
 <br>  
 </details>  
 <details open markdown="block">
