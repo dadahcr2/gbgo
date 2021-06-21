@@ -62,7 +62,7 @@ videos
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
 <br>
 </details>	
-<details open markdown="block">
+<details  markdown="block">
   <summary>
  PE: Superbike Wars  
   </summary>
