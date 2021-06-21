@@ -141,7 +141,8 @@ MrFixit             1
   {: .text-delta }
 ### Co-leader Season Contest
 **Joins in June**     
-5 Groot  
+7 Groot  
+1 getzata
 1 Spyder  
 1 Jimbob  
 1 dada  
