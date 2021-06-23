@@ -22,10 +22,9 @@
  </b></summary>
 {: .text-delta}  
 20 June - cis T2 sports T3 bus T4 buggy - time trial results - weekly kms  
-19 June - scar t2, vittorio vid, alf serups    	
+19 June - scar t2, vittorio vid, alt setups    	
 18 June - TE setups, vokope howto      
-
-Time Trial: <div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
+<div>Time Trial: <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 </details>	   
   
 ***   
