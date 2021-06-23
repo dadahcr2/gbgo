@@ -62,7 +62,7 @@ videos
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
 <br>
 </details>	
-<details  markdown="block">
+<details open  markdown="block">
   <summary>
  PE: Under Pressure (Cargo)  
   </summary>
@@ -72,6 +72,8 @@ videos
 ![<https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4>](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	  
 </details>	
 
+![](https://cdn.discordapp.com/attachments/852315313286545448/857257298665930772/image0.png)  
+	
 ***
 	
 ## Contests
