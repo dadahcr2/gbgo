@@ -20,12 +20,12 @@
   <summary> <b>
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
-{: .text-delta}
-<div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
+{: .text-delta}  
 20 June - cis T2 sports T3 bus T4 buggy - time trial results - weekly kms  
 19 June - scar t2, vittorio vid, alf serups    	
 18 June - TE setups, vokope howto      
 
+Time Trial: <div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 </details>	   
   
 ***   
