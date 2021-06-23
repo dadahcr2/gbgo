@@ -69,7 +69,7 @@ videos
   {: .text-delta }
 
 	
-![](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	  
+![<https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4>](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	  
 </details>	
 
 ***
