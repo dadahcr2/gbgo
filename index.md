@@ -72,7 +72,7 @@ videos
 ![<https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4>](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	  
 </details>	
 
-![](https://cdn.discordapp.com/attachments/852315313286545448/857257298665930772/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)  
 	
 ***
 	
