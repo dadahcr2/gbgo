@@ -90,10 +90,10 @@ videos
   {: .text-delta }
 
 	
-![<https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4>](https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4)	  
-</details>	
+<https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4>
 
 ![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)  
+</details>	
 	
 ***
 	
