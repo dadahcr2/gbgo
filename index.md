@@ -76,12 +76,13 @@ videos
 &nbsp;&nbsp;&nbsp;![Scooter] ![mk2] ![diesel] ![rally] ![hotrod]  
 	
 1. ![diesel] ![wi]![ma]![Th], Long Jump (mine) - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013547821006898/image0.png) - [Map](https://cdn.discordapp.com/attachments/858017263989948447/858042900565721108/image0.png)   
-2. ![hotrod] ![sb]![js]![Lb], Watery Tunnel (Cup of City Water 2), timed - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013548298502164/image1.png)  
+2. ![hotrod] ![sb]![js]![Lb]/![sb]![cb]![fuel], Watery Tunnel (Cup of City Water 2), timed - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013548298502164/image1.png)  
 3. ![rally] ![ma]![ab]![fuel], Forest 2km, timed - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013548642304020/image2.png)    
 4. ![mk2] ![wi]![js]![lb] ![rc]=1 remove,  Multi-jump (mine) - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013549024903178/image3.png) - [Map](https://cdn.discordapp.com/attachments/858017616181461022/858041630584995871/image0.png)   
 	
-videos
-	- vokope howto <https://www.youtube.com/watch?v=XK1Dfai2JCI>
+videos  
+- vokope howto <https://www.youtube.com/watch?v=XK1Dfai2JCI>  
+	
 </details>
 <details open  markdown="block">
   <summary>
