@@ -74,6 +74,7 @@ videos
 ![](https://i1.wp.com/aphablog.com/wp-content/uploads/2014/12/weakestlink.jpg)
 
 ![Scooter] ![mk2] ![diesel] ![rally] ![hotrod]  
+{: style="text-align: center;"}	
 	
 1. ![diesel] ![wi]![ma]![Th], Long Jump (mine) 
 2. ![hotrod] ![sb]![js]![Lb], Watery Tunnel (Cup of City Water 2), timed
