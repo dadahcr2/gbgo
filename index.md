@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta} 
+24 June - TE Preview  
 23 June - PE setups  
 20 June - cis T2 sports T3 bus T4 buggy - time trial results - weekly kms  
 19 June - scar t2, vittorio vid, alt setups    	
@@ -63,6 +64,19 @@ videos
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
 <br>
 </details>	
+<details  markdown="block">
+  <summary>
+    TE: Preview (You are the weakest link?)
+  </summary>	
+<br>  	
+**Scooter mk2 diesel rally hotrod**  
+	
+1. Long Jump (mine)
+2. Watery Tunnel (Cup of City Water 2), timed
+3. Forest 2km, timed
+4. Multi-jump (mine)
+	
+</details>
 <details open  markdown="block">
   <summary>
  PE: Under Pressure (Cargo)  
