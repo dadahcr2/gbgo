@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta} 
-#5 June - TE Setups, howto, maps
+25 June - TE Setups, howto, maps
 24 June - TE Preview  
 23 June - PE setups  
 20 June - cis T2 sports T3 bus T4 buggy - time trial results - weekly kms  
