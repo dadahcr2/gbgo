@@ -66,15 +66,17 @@ videos
 </details>	
 <details  open markdown="block">
   <summary>
-    TE: You are the weakest link?
+    TE: You are the weakest link!
   </summary>	
 <br>  	
-**Scooter mk2 diesel rally hotrod**  
+![https://i1.wp.com/aphablog.com/wp-content/uploads/2014/12/weakestlink.jpg]  
+
+![Scooter] ![mk2] ![diesel] ![rally] ![hotrod]  
 	
-1. Long Jump (mine)
-2. Watery Tunnel (Cup of City Water 2), timed
-3. Forest 2km, timed
-4. Multi-jump (mine)
+1. ![diesel] ![wi]![ma]![Th], Long Jump (mine) 
+2. ![hotrod] ![sb]![js]![Lb], Watery Tunnel (Cup of City Water 2), timed
+3. ![rally] ![ma]![ab]![fuel], Forest 2km, timed
+4. ![mk2] ![wi]![js]![lb] ![rc]=1 remove,  Multi-jump (mine)
 
 videos
 	- vokope howto <https://www.youtube.com/watch?v=XK1Dfai2JCI>
