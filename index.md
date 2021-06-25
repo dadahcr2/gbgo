@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta} 
+#5 June - TE Setups, howto, maps
 24 June - TE Preview  
 23 June - PE setups  
 20 June - cis T2 sports T3 bus T4 buggy - time trial results - weekly kms  
@@ -68,8 +69,9 @@ videos
   <summary>
     TE: You are the weakest link!
   </summary>	
-<br>  	
-![https://i1.wp.com/aphablog.com/wp-content/uploads/2014/12/weakestlink.jpg]  
+<br>  
+	
+![](https://i1.wp.com/aphablog.com/wp-content/uploads/2014/12/weakestlink.jpg)
 
 ![Scooter] ![mk2] ![diesel] ![rally] ![hotrod]  
 	
