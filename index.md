@@ -41,7 +41,7 @@
   {: .text-delta }
 <br>
 ***bus buggy sportscar superbike supercar***
-	
+{: style="text-align: center;"}	
 1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s  
 > sbike <https://imgur.com/a/lhtRoKW>  
 > tips <https://cdn.discordapp.com/attachments/750874271022317678/855551699921928202/image0.png>	
