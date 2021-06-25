@@ -33,7 +33,7 @@
 
 ## Events
 
-<details  open markdown="block">
+<details  markdown="block">
   <summary>
  TE: Don't Hate, Coordinate.  
   </summary>
@@ -64,9 +64,9 @@ videos
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
 <br>
 </details>	
-<details  markdown="block">
+<details  open markdown="block">
   <summary>
-    TE: Preview (You are the weakest link?)
+    TE: You are the weakest link?
   </summary>	
 <br>  	
 **Scooter mk2 diesel rally hotrod**  
@@ -75,7 +75,9 @@ videos
 2. Watery Tunnel (Cup of City Water 2), timed
 3. Forest 2km, timed
 4. Multi-jump (mine)
-	
+
+videos
+	- vokope howto <https://www.youtube.com/watch?v=XK1Dfai2JCI>
 </details>
 <details open  markdown="block">
   <summary>
