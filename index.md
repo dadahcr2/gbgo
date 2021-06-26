@@ -115,7 +115,7 @@ videos
 ![](https://cdn.discordapp.com/attachments/777301191474282546/856334369513144321/image0.png)  
 <br>  
 </details>  
-<details markdown="block">
+<details opem markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -124,29 +124,30 @@ videos
 <div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 
 Rules:
-- Compete each day in same daily as fw.hcr2.info  
-- Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1  
+- Compete each day in same daily as fw.hcr2.info
+- Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 10 Results**  
-🥇 Getz 3+1+2+2+2+3+3=16  
-🥈 dada 2+3+3+3+1+1+1=14  
-🥉 date 1+2+1+1+3+2+2=12  
+**Week 11 Results**
+🥇 Getz 3+3+1+3+2+3+3=18
+🥈 dada 2+2+2+2+3+2+2=15
+🥉 date 1+1+3+1=6
+🏅 camaro 1, MrF 1, Josey 1
 
-**2021 Time Trial Roll of Honor**  
+**2021 Time Trial Roll of Honor**
 ```
-         🥇   🥈   🥉  
-——————————————————————  
-	
-Dada      6    3  
-Date      2    3    4   
-Getzata   2    4    2  
-PDB                 1  
+         🥇   🥈   🥉
+——————————————————————
+
+Dada      6    4  
+Getzata   3    4    2  
+Date      2    3    5    
+PDB                 1 
 Spyder              1   
 MrFixit             1   
 
 ——————————————————————
 ```
-	
+
 **To compete in the daily Time Trial contest**
 1. Make sure that "dada" is on your friend list (if not, the link is under [#friends](#friends)
 2. See the day’s vehicle and time trial on fw.hcr2.info or in-game chat (will be the same)
