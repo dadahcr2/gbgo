@@ -34,36 +34,7 @@
 
 ## Events
 
-<details  markdown="block">
-  <summary>
- TE: Don't Hate, Coordinate.  
-  </summary>
-  {: .text-delta }
-<br>
-***bus buggy sportscar superbike supercar***
-{: style="text-align: center;"}	
-1. ![SBike] ![CB]![WT]![AB]/![CB]![WT]![SB]/![CB]![fuel]![AB], No air, beach, 10k=18s  
-> sbike <https://imgur.com/a/lhtRoKW>  
-> tips <https://cdn.discordapp.com/attachments/750874271022317678/855551699921928202/image0.png>	
-2. ![sportscar]/![supercar] ![Wi]![js]![LB] / ![bus] ![Wi]![JS]![Th], Multi-jump, moon, 10k=500m  
->  supercar <https://cdn.discordapp.com/attachments/797964460869419038/855860241836670976/YT9_HD_720p_MEDIUM_FR30.mp> bus <https://imgur.com/a/UmBLumB>  
-> tips <https://cdn.discordapp.com/attachments/750874271022317678/855551722783899658/image0.png>   
-3. ![bus]![Wi]![Wb]![fume] / ![buggy] ![Wi]![WB]![CB], Uphill distance, mine, 10k=500m  
->  buggy <https://imgur.com/a/0qWGn5u>  
->  tips <https://cdn.discordapp.com/attachments/750874271022317678/855551746675048458/image0.png>  
-4. ![buggy] ![Wi]![WB]![CB]/![Ma]![WB]![JS] / ![sportscar] ![Wi]![WT]![AB], Wheelie, Beach, 10k=600m  
->  buggy <https://imgur.com/a/oY8SKsI>  
->  sports <https://imgur.com/a/8ouDja3>  
->  tips <https://cdn.discordapp.com/attachments/750874271022317678/855551755303649310/image0.png>  
 
-videos
-	- vokope howto <https://youtu.be/2QsBZ3UQCWQ>  
-	- vittorio supercar <https://youtu.be/hd3qdK3IQFs>  
-	- cis T2 sports T3 bus T4 buggy <https://www.youtube.com/watch?v=K9ui_zV6XZ8>  
-
-	
-![](https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-training-trainer-student-clumsy-high_five-jcen760_low.jpg)
-<br>
 </details>	
 <details  open markdown="block">
   <summary>
@@ -84,7 +55,7 @@ videos
 - vokope howto <https://www.youtube.com/watch?v=XK1Dfai2JCI>  
 - vere <https://youtu.be/JVLHmhuwmdM>  
 - cis <https://youtu.be/sL9GCNzglpo>
-	
+<br>  	
 </details>
 <details open  markdown="block">
   <summary>
