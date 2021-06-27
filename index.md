@@ -20,13 +20,13 @@
   <summary> <b>
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
-{: .text-delta} 
+{: .text-delta}
+27 June - vere, cis vids
+26 June - TT results  
 25 June - TE Setups, howto, maps
 24 June - TE Preview  
 23 June - PE setups  
-20 June - cis T2 sports T3 bus T4 buggy - time trial results - weekly kms  
-19 June - scar t2, vittorio vid, alt setups    	
-18 June - TE setups, vokope howto      
+     
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 </details>	   
   
@@ -82,6 +82,8 @@ videos
 	
 videos  
 - vokope howto <https://www.youtube.com/watch?v=XK1Dfai2JCI>  
+- vere <https://youtu.be/JVLHmhuwmdM>  
+- cis <https://youtu.be/sL9GCNzglpo>
 	
 </details>
 <details open  markdown="block">
