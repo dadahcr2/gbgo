@@ -23,7 +23,7 @@
 {: .text-delta}
 27 June - vere, cis vids  
 26 June - TT results  
-25 June - TE Setups, howto, maps
+25 June - TE Setups, howto, maps  
 24 June - TE Preview  
 23 June - PE setups  
      
