@@ -55,9 +55,9 @@ videos
 - cis <https://youtu.be/sL9GCNzglpo>
 <br>  	
 </details>
-<details open  markdown="block">
+<!--<details open  markdown="block">
   <summary>
- PE: Under Pressure (Cargo)  
+	  PE: Under Pressure (Cargo)  
   </summary>
   {: .text-delta }
 
@@ -65,7 +65,7 @@ videos
 <https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4>
 
 ![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)  
-</details>	
+</details>	-->
 	
 ***
 	
