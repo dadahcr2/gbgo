@@ -144,6 +144,9 @@ MrFixit             1
 1 Spyder    
 1 Jimbob    
 
+**Season Winners**
+1. groot &  getzata (tied)    
+2. groot  
 	
 **`---------------`**  
 **`Tablet of Honor`**    
@@ -151,6 +154,7 @@ MrFixit             1
 `Getzata.......2`     
 `Groot.........1`    
 **`---------------`**  
+
 <br>  	
 </details>
 <details markdown="block">
