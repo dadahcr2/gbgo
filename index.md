@@ -99,11 +99,11 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 11 Results**
-🥇 Getz 3+3+1+3+2+3+3=18
-🥈 dada 2+2+2+2+3+2+2=15
-🥉 date 1+1+3+1=6
-🏅 camaro 1, MrF 1, Josey 1
+**Week 11 Results**  
+🥇 Getz 3+3+1+3+2+3+3=18  
+🥈 dada 2+2+2+2+3+2+2=15  
+🥉 date 1+1+3+1=6  
+🏅 camaro 1, MrF 1, Josey 1  
 
 **2021 Time Trial Roll of Honor**
 ```
@@ -143,6 +143,7 @@ MrFixit             1
 1 getzata  
 1 Spyder    
 1 Jimbob    
+
 
 **Season Winners**
 1. groot &  getzata (tied)    
