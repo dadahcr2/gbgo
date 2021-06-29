@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+28 June - Km and #join results  
 27 June - vere, cis vids  
 26 June - TT results  
 25 June - TE Setups, howto, maps  
@@ -71,7 +72,7 @@ videos
 	
 ## Contests
 	
-<details  markdown="block">  
+<details  open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -86,7 +87,7 @@ videos
 ![](https://cdn.discordapp.com/attachments/777301191474282546/859256316642721833/IMG_5574.jpg)  
 <br>  
 </details>  
-<details opem markdown="block">
+<details markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -130,7 +131,7 @@ MrFixit             1
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)  	
 <br>  	
 </details>  
-<details markdown="block">
+<details open markdown="block">
   <summary>
     Co-leader joins
   </summary>
