@@ -33,9 +33,7 @@
 ***   
 
 ## Events
-
-
-</details>	
+	
 <details  open markdown="block">
   <summary>
     TE: You are the weakest link!
