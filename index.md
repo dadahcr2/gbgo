@@ -78,12 +78,12 @@ videos
   {: .text-delta }
 ### Weekly Kms Contest  
 **Podium**  
-🥇Getzata  
-🥈LNL  
-🥉Stand09  
+🥇 LNL   
+🥈 Stand09   
+🥉 Getzata  
 
 **Top Ten**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/856334369513144321/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/859256316642721833/IMG_5574.jpg)  
 <br>  
 </details>  
 <details opem markdown="block">
@@ -137,7 +137,7 @@ MrFixit             1
   {: .text-delta }
 ### Co-leader Season Contest
 **Joins in June**     
-7 Groot 
+7 Groot  
 2 dada  
 1 getzata  
 1 Spyder    
