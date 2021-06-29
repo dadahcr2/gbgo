@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-29 June - 10k T3 vid
+29 June - 10k T3 vid  
 28 June - Km and #join results  
 27 June - vere, cis vids  
 26 June - TT results  
