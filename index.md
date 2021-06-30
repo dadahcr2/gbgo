@@ -21,13 +21,13 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+30 June - New PE  
 29 June - 10k T3 vid  
 28 June - Km and #join results  
 27 June - vere, cis vids  
 26 June - TT results  
 25 June - TE Setups, howto, maps  
 24 June - TE Preview  
-23 June - PE setups  
      
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 </details>	   
@@ -70,7 +70,7 @@ Bus Thrusters Wing Magnet/JumpShocks
 This is from the last moon jump: 
 
 Tracks: **Moon Jump 1-6**
-1.  bus wing thrusters fuel 672m 
+1. bus wing thrusters fuel 672m 
 2. bus thrusters magnet 592m
 3. bus wing thrusters magnet 719m
 4. bus JS wing thrusters 576m
