@@ -58,17 +58,27 @@ videos
 - cis <https://youtu.be/sL9GCNzglpo>
 <br>  	
 </details>
-<!--<details open  markdown="block">
+<details open  markdown="block">
   <summary>
-	  PE: Under Pressure (Cargo)  
+	  PE: We Don't Need Roads (Moon Jump)  
   </summary>
   {: .text-delta }
+**We Don’t Need Roads** 
 
+Bus Thrusters Wing Magnet/JumpShocks
+
+This is from the last moon jump: 
+
+Tracks: **Moon Jump 1-6**
+1.  bus wing thrusters fuel 672m 
+2. bus thrusters magnet 592m
+3. bus wing thrusters magnet 719m
+4. bus JS wing thrusters 576m
+5. bus wing thrusters magnet 792m
+i think this is the same: https://youtu.be/xmqNlIk3gtQ
+6. bus JS thrusters magnet 632m
 	
-<https://media.tenor.co/videos/efc379ee0f178f4a0fef454cc3583969/mp4>
-
-![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)  
-</details>	-->
+</details>
 	
 ***
 	
