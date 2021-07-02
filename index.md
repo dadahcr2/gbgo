@@ -209,7 +209,7 @@ June until month-end: ***Mono - Winter***
 🥈Josey 3690m  
 🥉Omelette 3299m  
 
- 4: Groot 
+ 4: Groot  
  5: 🐝   
  6: Harry  
  7: Mr F  
