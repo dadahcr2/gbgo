@@ -114,7 +114,7 @@ i think this is the same: https://youtu.be/xmqNlIk3gtQ
 🥇 LNL   
 🥈 Stand09   
 🥉 Getzata  
-
+ 
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/859256316642721833/IMG_5574.jpg)  
 <br>  
@@ -200,15 +200,23 @@ MrFixit             1
 July: **Tractor-Gloomvale**  
 	
 ![](https://stlmotherhood.com/wp-content/uploads/2020/10/grants-farm-halloween02.jpg.webp)  
-	
-Adventure - June until month-end: ***Mono - Winter***
+
+**Last Contest Results**
+
+June until month-end: ***Mono - Winter***
 
 🏆Date 4081m  
 🥈Josey 3690m  
-🥉omellette 3299m  
+🥉Omelette 3299m  
 
-**4-10**: groot🐝 Harry MrF Spyder sidewinder *lonestar  
-
+ 4: Groot 
+ 5: 🐝   
+ 6: Harry  
+ 7: Mr F  
+ 8: Spyder  
+ 9: Sidewinder  
+10:Lonestar  
+  
 **2021 Adventure Roll of Honor**  
 ```
             🥇   🥈    
