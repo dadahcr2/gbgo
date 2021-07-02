@@ -21,7 +21,8 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-1 July - 
+2 July - Adv contest results  
+1 July - TE preview  
 30 June - New PE - T3 removing hood  
 29 June - 10k T3 vid  
 28 June - Km and #join results  
@@ -196,32 +197,31 @@ MrFixit             1
   {: .text-delta }
 	
 ### Adventure Contest	
-***Monowheel - Winter***  
-(until June month-end)
+July: **Tractor-Gloomvale**  
 	
-![](https://hsto.org/files/331/cf6/e7f/331cf6e7fe8645b6b2c65c9ae87ac508.jpg)  
+![](https://stlmotherhood.com/wp-content/uploads/2020/10/grants-farm-halloween02.jpg.webp)  
 	
-Last contest: ***Sportscar - Desert Valley***
+Adventure - June until month-end: ***Mono - Winter***
 
-🥇 Date 6751m  
-🥈 Josey 6747m  
-🥉 G🐝G 5984m  
+🏆Date 4081m 
+🥈Josey 3690m
+🥉omellette 3299m
 
-4-10: dada groot LnL Canis MrF * Getz
+**4-10**: groot🐝 Harry MrF Spyder sidewinder *lonestar
 
-**2021 Adventure Roll of Honor**
+**2021 Adventure Roll of Honor**  
 ```
             🥇   🥈    
-————————————————————    
-Date         4          
-T            1    2  
-Nesorac      2  
-Lonestar          2  
-Spyder            1  
-Omelette          1  
-Josey             1  
 ————————————————————  
-```   
+Date         5         
+T            1    2    
+Nesorac      2   
+Lonestar          2     
+Josey             2   
+Spyder            1   
+Omelette          1   
+————————————————————   
+```
 <br>  	
 </details>  
 <details markdown="block">
