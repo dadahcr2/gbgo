@@ -163,7 +163,7 @@ MrFixit             1
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)  	
 <br>  	
 </details>  
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Co-leader joins
   </summary>
@@ -178,7 +178,7 @@ MrFixit             1
 
 
 **Season Winners**
-1. groot &  getzata (tied)    
+1. groot & getzata (tied)    
 2. groot  
 	
 **`---------------`**  
@@ -190,7 +190,7 @@ MrFixit             1
 
 <br>  	
 </details>
-<details markdown="block">
+<details open markdown="block">
   <summary>
     Adventure
   </summary>
@@ -203,11 +203,11 @@ July: **Tractor-Gloomvale**
 	
 Adventure - June until month-end: ***Mono - Winter***
 
-🏆Date 4081m 
-🥈Josey 3690m
-🥉omellette 3299m
+🏆Date 4081m  
+🥈Josey 3690m  
+🥉omellette 3299m  
 
-**4-10**: groot🐝 Harry MrF Spyder sidewinder *lonestar
+**4-10**: groot🐝 Harry MrF Spyder sidewinder *lonestar  
 
 **2021 Adventure Roll of Honor**  
 ```
