@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+1 July - 
 30 June - New PE - T3 removing hood  
 29 June - 10k T3 vid  
 28 June - Km and #join results  
@@ -35,7 +36,20 @@
 ***   
 
 ## Events
+<details  open markdown="block">
+  <summary>
+    TE: Preview
+  </summary>	
+<br>  
 	
+**`Jeep tractor rotator formula moonlander`**  
+1 no airtime - formula  
+2 moon stunts - jeep  
+3 timed mine downhill - rotator  
+4 timed classic - tractor	 
+
+</details>  
+
 <details  open markdown="block">
   <summary>
     TE: You are the weakest link!
