@@ -104,7 +104,7 @@ i think this is the same: https://youtu.be/xmqNlIk3gtQ
 	
 ## Contests
 	
-<details  open markdown="block">  
+<details markdown="block">  
   <summary>
     Weekly Kms
   </summary>
