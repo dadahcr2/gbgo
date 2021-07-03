@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-3 July - refine te setups, TT results  
+3 July - refine te setups, TT results, te vids    
 2 July - Adv contest results, TE setups  
 1 July - TE preview  
 30 June - New PE - T3 removing hood  
@@ -41,7 +41,7 @@
   </summary>	
 <br>
 **Original setup list**  
-![](https://cdn.discordapp.com/attachments/851566907920089128/860590296139825202/image0.png)	
+![](https://cdn.discordapp.com/attachments/750874271022317678/860972178296406086/image0.png)	
 
 **`Jeep tractor rotator formula moonlander`**  
 
