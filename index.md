@@ -39,12 +39,13 @@
   <summary>
     TE: TROPHY HUNTERS  
   </summary>	
-<br>  
-
+<br>
+**Original setup list**  
 ![](https://cdn.discordapp.com/attachments/851566907920089128/860590296139825202/image0.png)	
 
 **`Jeep tractor rotator formula moonlander`**  
-	
+
+**Latest setup list**  
 1 no airtime - **formula tires AB coin** - [tips](https://cdn.discordapp.com/attachments/858017263989948447/860591998661558292/image0.png) - [map](https://cdn.discordapp.com/attachments/858017263989948447/860629179530739742/image0.png)  
 2 moon stunts - **jeep/tractor wing magnet JS** - [tips](https://cdn.discordapp.com/attachments/858017329509171201/860593080285790258/image0.png) - [map](https://cdn.discordapp.com/attachments/858017329509171201/860633363559088138/image0.png)  
 3 timed mine downhill - **rotator** ~~wing~~ **start AB coin brain=20** - [tips](https://cdn.discordapp.com/attachments/858017412174577716/860593700023304212/image0.png) - [map](https://cdn.discordapp.com/attachments/858017412174577716/860637758804590592/image0.png)    
