@@ -55,7 +55,7 @@ videos
 - vokope howto <https://www.youtube.com/watch?v=64mu4s--c_0>
 
 </details>  
-
+<!--
 <details markdown="block">
   <summary>
     TE: You are the weakest link!
@@ -71,14 +71,9 @@ videos
 3. ![rally] ![ma]![ab]![fuel], Forest 2km, timed, 10k=1:15 - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013548642304020/image2.png) - [mov](https://imgur.com/a/MyRlcI1)  
 > [alternative way to remove hood](https://cdn.discordapp.com/attachments/741777483497603153/859011137931575326/screen-20210628-105823.mp4)  
 > 10k vid <https://youtu.be/S7yKRrNi8Jk>  
-4. ![mk2] ![wi]![js]![lb] ![rc]=1 remove,  Multi-jump (mine), 10k=250m - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013549024903178/image3.png) - [Map](https://cdn.discordapp.com/attachments/858017616181461022/858041630584995871/image0.png) - [mov](https://imgur.com/a/tmbTxjI)  
-	
-videos  
-- vokope howto <https://www.youtube.com/watch?v=XK1Dfai2JCI>  
-- vere <https://youtu.be/JVLHmhuwmdM>  
-- cis <https://youtu.be/sL9GCNzglpo>
+4. ![mk2] ![wi]![js]![lb] ![rc]=1 remove,  Multi-jump (mine), 10k=250m - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013549024903178/image3.png) - [Map](https://cdn.dip
 <br>  	
-</details>
+</details> -->
 <details open  markdown="block">
   <summary>
 	  PE: We Don't Need Roads (Moon Jump)  
