@@ -46,10 +46,10 @@
 ![Jeep2] ![tractor2] ![rotator2] ![formula2] ![moonlander2]  
 
 **Latest setup list**  
-1 no airtime - ![formula] ![tires] ![AB] ![coin] - [tips](https://cdn.discordapp.com/attachments/858017263989948447/860591998661558292/image0.png) - [map](https://cdn.discordapp.com/attachments/858017263989948447/860629179530739742/image0.png)  
-2 moon stunts - !]jeep]/![tractor] ![wing] ![magnet] ![JS] - [tips](https://cdn.discordapp.com/attachments/858017329509171201/860593080285790258/image0.png) - [map](https://cdn.discordapp.com/attachments/858017329509171201/860633363559088138/image0.png)  
+1 no airtime - ![formula] ![wt] ![AB] ![cb] - [tips](https://cdn.discordapp.com/attachments/858017263989948447/860591998661558292/image0.png) - [map](https://cdn.discordapp.com/attachments/858017263989948447/860629179530739742/image0.png)  
+2 moon stunts - ![jeep]/![tractor] ![wi] ![ma] ![JS] - [tips](https://cdn.discordapp.com/attachments/858017329509171201/860593080285790258/image0.png) - [map](https://cdn.discordapp.com/attachments/858017329509171201/860633363559088138/image0.png)  
 3 timed mine downhill - ![rotator] ~~wing~~ ![sb] ![AB] ![cb] ![br]=20 - [tips](https://cdn.discordapp.com/attachments/858017412174577716/860593700023304212/image0.png) - [map](https://cdn.discordapp.com/attachments/858017412174577716/860637758804590592/image0.png)    
-4 timed classic - ![tractor] ![wi] ![OT] ![coin] / ![jeep] ![wi] ![JS] ![LB] - [tips](https://cdn.discordapp.com/attachments/858017616181461022/860594903574380544/image0.png) - [map](https://cdn.discordapp.com/attachments/858017616181461022/860640738097365022/image0.png)  	 
+4 timed classic - ![tractor] ![wi] ![OT] ![cb] / ![jeep] ![wi] ![JS] ![LB] - [tips](https://cdn.discordapp.com/attachments/858017616181461022/860594903574380544/image0.png) - [map](https://cdn.discordapp.com/attachments/858017616181461022/860640738097365022/image0.png)  	 
 
  
 [videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+trophy+hunters)
