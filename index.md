@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-2 July - Adv contest results  
+2 July - Adv contest results, TE setups  
 1 July - TE preview  
 30 June - New PE - T3 removing hood  
 29 June - 10k T3 vid  
@@ -36,16 +36,18 @@
 ## Events
 <details  open markdown="block">
   <summary>
-    TE: Preview
+    TE: TROPHY HUNTERS  
   </summary>	
 <br>  
 	
 **`Jeep tractor rotator formula moonlander`**  
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/860590296139825202/image0.png)	
 	
-1 no airtime - formula  
-2 moon stunts - jeep  
-3 timed mine downhill - rotator  
-4 timed classic - tractor	 
+1 no airtime - formula tires AB coin 
+2 moon stunts - jeep/tractor wing magnet JS RC=1  
+3 timed mine downhill - rotator wing AB coin  
+4 timed classic - tractor wing OT coin / jeep wing JS LB	 
 
 </details>  
 
