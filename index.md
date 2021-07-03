@@ -43,7 +43,7 @@
 **Original setup list**  
 ![](https://cdn.discordapp.com/attachments/750874271022317678/860972178296406086/image0.png)	
 
-**`Jeep tractor rotator formula moonlander`**  
+![Jeep2] ![tractor2] ![rotator2] ![formula2] ![moonlander2]  
 
 **Latest setup list**  
 1 no airtime - **formula tires AB coin** - [tips](https://cdn.discordapp.com/attachments/858017263989948447/860591998661558292/image0.png) - [map](https://cdn.discordapp.com/attachments/858017263989948447/860629179530739742/image0.png)  
