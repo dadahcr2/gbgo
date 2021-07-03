@@ -118,7 +118,7 @@ i think this is the same: https://youtu.be/xmqNlIk3gtQ
 ![](https://cdn.discordapp.com/attachments/777301191474282546/859256316642721833/IMG_5574.jpg)  
 <br>  
 </details>  
-<details markdown="block">
+<details open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
