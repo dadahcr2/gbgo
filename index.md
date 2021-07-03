@@ -51,7 +51,7 @@
 4 timed classic - **tractor wing OT coin / jeep wing JS LB** - [tips](https://cdn.discordapp.com/attachments/858017616181461022/860594903574380544/image0.png) - [map](https://cdn.discordapp.com/attachments/858017616181461022/860640738097365022/image0.png)  	 
 
 
-videos
+videos - <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+trophy+hunters>  
 - vokope howto <https://www.youtube.com/watch?v=64mu4s--c_0>
 
 </details>  
