@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+3 July - refine te setups, TT results  
 2 July - Adv contest results, TE setups  
 1 July - TE preview  
 30 June - New PE - T3 removing hood  
@@ -44,10 +45,10 @@
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/860590296139825202/image0.png)	
 	
-1 no airtime - formula tires AB coin - [tips](https://cdn.discordapp.com/attachments/858017263989948447/860591998661558292/image0.png) - [map](https://cdn.discordapp.com/attachments/858017263989948447/860629179530739742/image0.png)  
-2 moon stunts - jeep/tractor wing magnet JS RC=1 - [tips](https://cdn.discordapp.com/attachments/858017329509171201/860593080285790258/image0.png) - [map](https://cdn.discordapp.com/attachments/858017329509171201/860633363559088138/image0.png)  
-3 timed mine downhill - rotator ~~wing~~ start AB coin brain=20 - [tips](https://cdn.discordapp.com/attachments/858017412174577716/860593700023304212/image0.png) - [map](https://cdn.discordapp.com/attachments/858017412174577716/860637758804590592/image0.png)    
-4 timed classic - tractor wing OT coin / jeep wing JS LB - [tips](https://cdn.discordapp.com/attachments/858017616181461022/860594903574380544/image0.png) - [map](https://cdn.discordapp.com/attachments/858017616181461022/860640738097365022/image0.png)  	 
+1 no airtime - **formula tires AB coin** - [tips](https://cdn.discordapp.com/attachments/858017263989948447/860591998661558292/image0.png) - [map](https://cdn.discordapp.com/attachments/858017263989948447/860629179530739742/image0.png)  
+2 moon stunts - **jeep/tractor wing magnet JS RC=1** - [tips](https://cdn.discordapp.com/attachments/858017329509171201/860593080285790258/image0.png) - [map](https://cdn.discordapp.com/attachments/858017329509171201/860633363559088138/image0.png)  
+3 timed mine downhill - **rotator ~~wing~~ start AB coin brain=20** - [tips](https://cdn.discordapp.com/attachments/858017412174577716/860593700023304212/image0.png) - [map](https://cdn.discordapp.com/attachments/858017412174577716/860637758804590592/image0.png)    
+4 timed classic - **tractor wing OT coin / jeep wing JS LB** - [tips](https://cdn.discordapp.com/attachments/858017616181461022/860594903574380544/image0.png) - [map](https://cdn.discordapp.com/attachments/858017616181461022/860640738097365022/image0.png)  	 
 
 
 videos
@@ -134,20 +135,20 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 11 Results**  
-🥇 Getz 3+3+1+3+2+3+3=18  
-🥈 dada 2+2+2+2+3+2+2=15  
-🥉 date 1+1+3+1=6  
-🏅 camaro 1, MrF 1, Josey 1  
+**Week 12 Results**  
+🥇 Getz 3+2+3+2+1+3+3=17  
+🥈 dada 2+3+1+3+3+2+2=16  
+🥉 date 1+2+2+1+1=7  
+🏅 Mr F 1+1=2
 
 **2021 Time Trial Roll of Honor**
 ```
          🥇   🥈   🥉
 ——————————————————————
 
-Dada      6    4  
-Getzata   3    4    2  
-Date      2    3    5    
+Dada      6    5  
+Getzata   4    4    2  
+Date      2    3    6    
 PDB                 1 
 Spyder              1   
 MrFixit             1   
