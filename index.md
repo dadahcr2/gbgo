@@ -118,11 +118,11 @@ i think this is the same: https://youtu.be/xmqNlIk3gtQ
 ### Weekly Kms Contest  
 **Podium**  
 🥇 LNL   
-🥈 Stand09   
-🥉 Getzata  
+🥈 Getzata      
+🥉 Stand09  
  
 **Top Ten**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/859256316642721833/IMG_5574.jpg)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/861425543462256641/image0.png)  
 <br>  
 </details>  
 <details open markdown="block">
