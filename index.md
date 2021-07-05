@@ -61,6 +61,7 @@
 - nate 36k <https://youtu.be/eJKdFZjGwNc>
 - gl fly 37k <https://youtu.be/Pd6CuST9_sQ>
 - rose lowgp 32k <https://youtu.be/a-7_K3qfHFw>  
+- cis 38k <https://youtu.be/ViNC_2F5HUo>  
 
 </details>  
 <!--
