@@ -21,7 +21,8 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-4 July - TE track videos  
+7 July - New PE  
+4 July - TE track videos - km results  
 3 July - refine te setups, TT results, te vids    
 2 July - Adv contest results, TE setups  
 1 July - TE preview  
@@ -94,27 +95,12 @@
 </details> -->
 <details open  markdown="block">
   <summary>
-	  PE: We Don't Need Roads (Moon Jump)  
+	  PE: Dribble Trouble (Soccer)  
   </summary>
   {: .text-delta }
   
-	
-![**We Don’t Need Roads**](https://pbs.twimg.com/media/E5Hz3kdWUAQrnbf.jpg:small)
-	
+![](https://cdn.discordapp.com/attachments/861704955060027403/862177594807287828/image0.png)	
 
-Bus Thrusters Wing Magnet/JumpShocks
-
-This is from the last moon jump: 
-
-Tracks: **Moon Jump 1-6**
-1. bus wing thrusters fuel 672m 
-2. bus thrusters magnet 592m
-3. bus wing thrusters magnet 719m
-4. bus JS wing thrusters 576m
-5. bus wing thrusters magnet 792m
-i think this is the same: https://youtu.be/xmqNlIk3gtQ
-6. bus JS thrusters magnet 632m
-	
 </details>
 	
 ***
