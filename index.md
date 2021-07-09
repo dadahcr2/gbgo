@@ -100,6 +100,7 @@
   {: .text-delta }
   
 ![](https://cdn.discordapp.com/attachments/850232585707323402/862883090959564800/image0.png)	
+	
 **Maps**
 ![](https://cdn.discordapp.com/attachments/850047416472174632/862827294350639145/image0.png)  
 ![](https://cdn.discordapp.com/attachments/850047416472174632/862820184791711744/image0.png)  
