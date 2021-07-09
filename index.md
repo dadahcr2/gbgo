@@ -82,11 +82,11 @@
  ❌2️⃣ each  
 {: style="text-align: center;"}
 	
-1. **Tank Start=5? AB Coin/RollCage** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)
-2. **RT Wing Wheelie Coin DF=1** - Wheelie (City)
-3. **RT Fume Wheelie AB** - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg)
-4. **Moto Wing JS LB** / Tank Wing LB coin - No fuel distance -  forest
-5. **Tank Wing LB Start** / Wing RC Thrusters - Practice: Hollow Road(Dark Roads 3)	
+1. **Tank Start=5? AB Coin/RollCage** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png) - [vid](https://images-ext-2.discordapp.net/external/kOmWsizRATmWNRRlG5hOLD0W6erJ9wNzkoTwIMssiGY/https/i.imgur.com/JygHS76.mp4)
+2. **RT Wing Wheelie Coin DF=1** - Wheelie (City) - [vid](https://images-ext-1.discordapp.net/external/IjmnSKrkewKkIjWcDVyTg8n5nWNQjvaCNWQkCgeKUCk/https/i.imgur.com/U1arnvn.mp4)
+3. **RT Fume Wheelie AB** - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/CAysHRiiFk_sbig64ULO9GoX2JQS4ORLfmG9jQwCbCA/https/i.imgur.com/2F9kPSd.mp4)
+4. **Moto Wing JS LB** / Tank Wing LB coin - No fuel distance -  forest - [vid](https://images-ext-1.discordapp.net/external/YRe_PH5aSBCzN_P4SXjmvG4RPpz9XgeFs3BNmgVPL6Q/https/i.imgur.com/ZZf8VqQ.mp4)
+5. **Tank Wing LB Start** / Wing RC Thrusters - Practice: Hollow Road(Dark Roads 3) - [vid](https://images-ext-2.discordapp.net/external/1ITpzig0HOMJt471ZekPswo4szep71EhRJN_hsk8uPI/https/i.imgur.com/gbSodDm.mp4) - [vid2](https://images-ext-1.discordapp.net/external/wis6CPivLs6TdQDPdUu-Z9Z2SX1I6Wu5Rcjv6c7rcA0/https/i.imgur.com/AelKG6F.mp4)	
 	
 Videos
 - io preview <https://youtu.be/wxBdNzrC3y8>
