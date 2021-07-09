@@ -21,15 +21,13 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+9 July - new TE
+8 July - update pe  
 7 July - New PE  
 4 July - TE track videos - km results  
 3 July - refine te setups, TT results, te vids    
 2 July - Adv contest results, TE setups  
-1 July - TE preview  
-30 June - New PE - T3 removing hood  
-29 June - 10k T3 vid  
-28 June - Km and #join results    
-  
+
      
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
@@ -81,10 +79,10 @@
   </summary>	
 <br>  
 	
-1. **Tank Start AB Coin** - Timed Soccer - Goal 9
+1. **Tank Start AB Coin** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)
 2. **RT Wing Wheelie Coin DF=1** - Wheelie (City)
-3. **RT Fume Wheelie AB Df=16?** - Breaking Boxes 
-4.**Moto Wing JS LB** / Tank Wing LB coin - No fuel distance -  forest
+3. **RT Fume Wheelie AB Df=16?** - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg)
+4. **Moto Wing JS LB** / Tank Wing LB coin - No fuel distance -  forest
 5. **Tank Wing RC Thrusters** - Practice: Hollow Road(Dark Roads 3)	
 	
 Videos
@@ -100,16 +98,16 @@ Videos
 ![](https://cdn.discordapp.com/attachments/850232585707323402/862883090959564800/image0.png)	
 	
 **Maps**
-![](https://cdn.discordapp.com/attachments/850047416472174632/862827294350639145/image0.png)  
-![](https://cdn.discordapp.com/attachments/850047416472174632/862820184791711744/image0.png)  
-![](https://cdn.discordapp.com/attachments/850047416472174632/862815319537352704/image0.png) 
-![](https://cdn.discordapp.com/attachments/850047416472174632/862809693382115368/image0.png)  
-![](https://cdn.discordapp.com/attachments/850047416472174632/862804683947769877/image0.png)  
-![](https://cdn.discordapp.com/attachments/850047416472174632/862893676372033536/image0.png)  
-![](https://cdn.discordapp.com/attachments/850047416472174632/862854993819861032/image0.png)  
-![](https://cdn.discordapp.com/attachments/850047416472174632/862854825205301268/image0.png)  
-![](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)  
-![]()  
+[GOAL 1](https://cdn.discordapp.com/attachments/850047416472174632/862827294350639145/image0.png)  
+[GOAL 2](https://cdn.discordapp.com/attachments/850047416472174632/862820184791711744/image0.png)  
+[GOAL 3](https://cdn.discordapp.com/attachments/850047416472174632/862815319537352704/image0.png) 
+[GOAL 4](https://cdn.discordapp.com/attachments/850047416472174632/862809693382115368/image0.png)  
+[GOAL 5](https://cdn.discordapp.com/attachments/850047416472174632/862804683947769877/image0.png)  
+[GOAL 6](https://cdn.discordapp.com/attachments/850047416472174632/862893676372033536/image0.png)  
+[GOAL 7](https://cdn.discordapp.com/attachments/850047416472174632/862854993819861032/image0.png)  
+[GOAL 8](https://cdn.discordapp.com/attachments/850047416472174632/862854825205301268/image0.png)  
+[GOAL 9](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)  
+[GOAL 10]()  
 	
 </details>
 	
