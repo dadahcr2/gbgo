@@ -82,11 +82,11 @@
  ❌2️⃣ each  
 {: style="text-align: center;"}
 	
-1. **Tank Start AB Coin** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)
+1. **Tank Start=5? AB Coin/RollCage** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)
 2. **RT Wing Wheelie Coin DF=1** - Wheelie (City)
-3. **RT Fume Wheelie AB Df=16?** - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg)
+3. **RT Fume Wheelie AB** - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg)
 4. **Moto Wing JS LB** / Tank Wing LB coin - No fuel distance -  forest
-5. **Tank Wing RC Thrusters** - Practice: Hollow Road(Dark Roads 3)	
+5. **Tank Wing LB Start** / Wing RC Thrusters - Practice: Hollow Road(Dark Roads 3)	
 	
 Videos
 - io preview <https://youtu.be/wxBdNzrC3y8>
