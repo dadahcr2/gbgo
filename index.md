@@ -34,7 +34,7 @@
 </details>	   
   
 ***   
-
+<!--
 ## Events
 <details markdown="block">
   <summary>
@@ -72,10 +72,10 @@
 - cis 38k <https://youtu.be/ViNC_2F5HUo>  
 
 </details>  
-
+-->
 <details open markdown="block">
   <summary>
-    TE: 3k or go home
+    TE: 3k or Go Home
   </summary>	
 <br>  
 ![tank2] ![moto2] ![rt2]  
@@ -92,6 +92,7 @@
 Videos
 - io preview <https://youtu.be/wxBdNzrC3y8>
 - vere 48k <https://youtu.be/lwhFFq7RPp0>  
+- vokope how to <https://www.youtube.com/watch?v=XQFu9FUku2A>  
 <br>  	
 </details>
 <details open  markdown="block">
