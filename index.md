@@ -80,6 +80,7 @@
 <br>  
 ![tank2] ![moto2] ![rt2]  
  ❌2️⃣ each  
+{: style="text-align: center;"}
 	
 1. **Tank Start AB Coin** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)
 2. **RT Wing Wheelie Coin DF=1** - Wheelie (City)
