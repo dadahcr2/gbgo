@@ -78,7 +78,7 @@
     TE: Preview
   </summary>	
 <br>  
-![tank2]x2 ![moto2]x2 ![rt2]x2  	
+![tank2] ![moto2] ![rt2] x2 each    	
 1. **Tank Start AB Coin** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)
 2. **RT Wing Wheelie Coin DF=1** - Wheelie (City)
 3. **RT Fume Wheelie AB Df=16?** - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg)
