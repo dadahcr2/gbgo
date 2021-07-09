@@ -186,13 +186,11 @@ MrFixit             1
   </summary>
   {: .text-delta }
 ### Co-leader Season Contest
-**Joins in June**     
-7 Groot  
-2 dada  
+**Joins in July**     
+1 Groot  
+1 dada  
 1 getzata  
-1 Spyder    
-1 Jimbob    
-
+1 Spyder        
 
 **Season Winners**
 1. groot & getzata (tied)    
