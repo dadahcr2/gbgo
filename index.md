@@ -75,7 +75,7 @@
 
 <details open markdown="block">
   <summary>
-    TE: Preview
+    TE: 3k or go home
   </summary>	
 <br>  
 ![tank2] ![moto2] ![rt2]  
@@ -89,7 +89,8 @@
 5. **Tank Wing RC Thrusters** - Practice: Hollow Road(Dark Roads 3)	
 	
 Videos
-- io <https://youtu.be/wxBdNzrC3y8>
+- io preview <https://youtu.be/wxBdNzrC3y8>
+- vere 48k <https://youtu.be/lwhFFq7RPp0>  
 <br>  	
 </details>
 <details open  markdown="block">
