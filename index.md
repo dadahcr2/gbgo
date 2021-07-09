@@ -107,7 +107,7 @@ Videos
 - [GOAL 7](https://cdn.discordapp.com/attachments/850047416472174632/862854993819861032/image0.png)  
 - [GOAL 8](https://cdn.discordapp.com/attachments/850047416472174632/862854825205301268/image0.png)  
 - [GOAL 9](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)  
-- [GOAL 10]()  
+- [~~GOAL 10~~]()  
 	
 </details>
 	
@@ -115,7 +115,7 @@ Videos
 	
 ## Contests
 	
-<details open markdown="block">  
+<details markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -130,7 +130,7 @@ Videos
 ![](https://cdn.discordapp.com/attachments/777301191474282546/861425543462256641/image0.png)  
 <br>  
 </details>  
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -201,7 +201,7 @@ MrFixit             1
 
 <br>  	
 </details>
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     Adventure
   </summary>
