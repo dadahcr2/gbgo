@@ -83,9 +83,9 @@
 	
 1. **Tank Start AB Coin** - Timed Soccer - Goal 9
 2. **RT Wing Wheelie Coin DF=1** - Wheelie (City)
-3. **RT Fume Wheelie AB Df=16** - Breaking Boxes 
-4.**Moto Wing JS LB** - No fuel distance -  forest
-5. **Tank Wing RC Thrusters**  -Practice: Hollow Road(Dark Roads 3)	
+3. **RT Fume Wheelie AB Df=16?** - Breaking Boxes 
+4.**Moto Wing JS LB** / Tank Wing LB coin - No fuel distance -  forest
+5. **Tank Wing RC Thrusters** - Practice: Hollow Road(Dark Roads 3)	
 	
 Videos
 - io <https://youtu.be/wxBdNzrC3y8>
