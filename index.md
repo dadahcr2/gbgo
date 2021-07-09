@@ -82,7 +82,8 @@
  ❌2️⃣ each  
 {: style="text-align: center;"}
 	
-1. **Tank Start=5? AB Coin/RollCage** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png) - [vid](https://images-ext-2.discordapp.net/external/kOmWsizRATmWNRRlG5hOLD0W6erJ9wNzkoTwIMssiGY/https/i.imgur.com/JygHS76.mp4)
+1. **Tank Start=5? AB Coin/RollCage** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png) - [vid](https://images-ext-2.discordapp.net/external/kOmWsizRATmWNRRlG5hOLD0W6erJ9wNzkoTwIMssiGY/https/i.imgur.com/JygHS76.mp4)  
+> after hitting the ball once, take care to not overshoot it before the 2nd kick  
 2. **RT Wing Wheelie Coin DF=1** - Wheelie (City) - [vid](https://images-ext-1.discordapp.net/external/IjmnSKrkewKkIjWcDVyTg8n5nWNQjvaCNWQkCgeKUCk/https/i.imgur.com/U1arnvn.mp4)
 3. **RT Fume Wheelie AB** - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/CAysHRiiFk_sbig64ULO9GoX2JQS4ORLfmG9jQwCbCA/https/i.imgur.com/2F9kPSd.mp4)
 4. **Moto Wing JS LB** / Tank Wing LB coin - No fuel distance -  forest - [vid](https://images-ext-1.discordapp.net/external/YRe_PH5aSBCzN_P4SXjmvG4RPpz9XgeFs3BNmgVPL6Q/https/i.imgur.com/ZZf8VqQ.mp4)
