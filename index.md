@@ -38,7 +38,7 @@
 ***   
 
 ## Events
-<details  open markdown="block">
+<details markdown="block">
   <summary>
     TE: TROPHY HUNTERS  
   </summary>	
@@ -74,25 +74,23 @@
 - cis 38k <https://youtu.be/ViNC_2F5HUo>  
 
 </details>  
-<!--
-<details markdown="block">
+
+<details open markdown="block">
   <summary>
-    TE: You are the weakest link!
+    TE: Preview
   </summary>	
 <br>  
 	
-![](https://i1.wp.com/aphablog.com/wp-content/uploads/2014/12/weakestlink.jpg)
-
-&nbsp;&nbsp;&nbsp;![Scooter] ![mk2] ![diesel] ![rally] ![hotrod]  
+1. **Tank Start AB Coin** - Timed Soccer - Goal 9
+2. **RT Wing Wheelie Coin DF=1** - Wheelie (City)
+3. **RT Fume Wheelie AB Df=16** - Breaking Boxes 
+4.**Moto Wing JS LB** - No fuel distance -  forest
+5. **Tank Wing RC Thrusters**  -Practice: Hollow Road(Dark Roads 3)	
 	
-1. ![diesel] ![wi]![ma]![Th], Long Jump (mine), 10k=130m - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013547821006898/image0.png) - [Map](https://cdn.discordapp.com/attachments/858017263989948447/858042900565721108/image0.png) - [mov](https://imgur.com/a/1cDAJZh)    
-2. ![hotrod] ![sb]![js]![Lb]/![sb]![cb]![fuel], Watery Tunnel (Cup of City Water 2), timed, 10k=11.5s - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013548298502164/image1.png) - [mov](https://imgur.com/a/0c74Nvu)  
-3. ![rally] ![ma]![ab]![fuel], Forest 2km, timed, 10k=1:15 - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013548642304020/image2.png) - [mov](https://imgur.com/a/MyRlcI1)  
-> [alternative way to remove hood](https://cdn.discordapp.com/attachments/741777483497603153/859011137931575326/screen-20210628-105823.mp4)  
-> 10k vid <https://youtu.be/S7yKRrNi8Jk>  
-4. ![mk2] ![wi]![js]![lb] ![rc]=1 remove,  Multi-jump (mine), 10k=250m - [Tips](https://cdn.discordapp.com/attachments/750874271022317678/858013549024903178/image3.png) - [Map](https://cdn.dip
+Videos
+- io <https://youtu.be/wxBdNzrC3y8>
 <br>  	
-</details> -->
+</details>
 <details open  markdown="block">
   <summary>
 	  PE: Dribble Trouble (Soccer)  
