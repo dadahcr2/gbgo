@@ -138,7 +138,7 @@ Videos
 ![](https://cdn.discordapp.com/attachments/777301191474282546/861425543462256641/image0.png)  
 <br>  
 </details>  
-<details  markdown="block">
+<details  open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -150,20 +150,21 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 12 Results**  
-🥇 Getz 3+2+3+2+1+3+3=17  
-🥈 dada 2+3+1+3+3+2+2=16  
-🥉 date 1+2+2+1+1=7  
-🏅 Mr F 1+1=2
-
-**2021 Time Trial Roll of Honor**
+**Week 13 Results**
 ```
+🥇 dada 1+2+3+1+3+1+3=14
+🥈 Getz 3+3+0+3+2+0+2=13 
+🥉 date 3+2+2+2+1+1=11
+🏅 Mr F 1+1+2=4
+
+2021 Time Trial Roll of Honor
+
          🥇   🥈   🥉
 ——————————————————————
 
-Dada      6    5  
-Getzata   4    4    2  
-Date      2    3    6    
+Dada      7    5  
+Getzata   4    5    2  
+Date      2    3    7    
 PDB                 1 
 Spyder              1   
 MrFixit             1   
