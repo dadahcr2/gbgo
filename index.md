@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+10 July - t1 moto setup and deflo vid  
 9 July - new TE  
 8 July - update pe  
 7 July - New PE  
@@ -82,7 +83,7 @@
  ❌2️⃣ each  
 {: style="text-align: center;"}
 	
-1. **Tank Start=5? AB Coin/RollCage** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png) - [vid](https://images-ext-2.discordapp.net/external/kOmWsizRATmWNRRlG5hOLD0W6erJ9wNzkoTwIMssiGY/https/i.imgur.com/JygHS76.mp4) - [tips](https://cdn.discordapp.com/attachments/858017263989948447/863108498169397298/image0.jpg)  
+1. **Tank Start=5? AB Coin/RollCage  or Moto Start JS Thruster** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png) - [vid](https://images-ext-2.discordapp.net/external/kOmWsizRATmWNRRlG5hOLD0W6erJ9wNzkoTwIMssiGY/https/i.imgur.com/JygHS76.mp4) - [tips](https://cdn.discordapp.com/attachments/858017263989948447/863108498169397298/image0.jpg)  
 > after hitting the ball once, take care to not overshoot it before the 2nd kick  
 2. **RT Wing Wheelie Coin DF=1** - Wheelie (City) - [vid](https://images-ext-1.discordapp.net/external/IjmnSKrkewKkIjWcDVyTg8n5nWNQjvaCNWQkCgeKUCk/https/i.imgur.com/U1arnvn.mp4) - [tips](https://cdn.discordapp.com/attachments/858017329509171201/863111224098029598/image0.jpg)  
 3. **RT Fume Wheelie AB** - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/CAysHRiiFk_sbig64ULO9GoX2JQS4ORLfmG9jQwCbCA/https/i.imgur.com/2F9kPSd.mp4) - [tips2](https://cdn.discordapp.com/attachments/858017412174577716/863112577047461898/image0.jpg)  
@@ -93,6 +94,7 @@ Videos
 - io preview <https://youtu.be/wxBdNzrC3y8>
 - vere 48k <https://youtu.be/lwhFFq7RPp0>  
 - vokope how to <https://www.youtube.com/watch?v=XQFu9FUku2A>  
+- deflo 48k T1 moto <https://youtu.be/mmlu4ln_H64>  
 <br>  	
 </details>
 <details open  markdown="block">
