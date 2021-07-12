@@ -21,7 +21,8 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-10 July - t1 moto setup and deflo vid  
+11 July - km results  	
+10 July - t1 moto setup and deflo vid - TT results  
 9 July - new TE  
 8 July - update pe  
 7 July - New PE  
@@ -123,7 +124,7 @@ Videos
 	
 ## Contests
 	
-<details markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -134,8 +135,8 @@ Videos
 🥈 Getzata      
 🥉 Stand09  
  
-**Top Ten**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/861425543462256641/image0.png)  
+**Top Seven**  
+![](https://cdn.discordapp.com/attachments/777301191474282546/863989383857569812/image0.png)  
 <br>  
 </details>  
 <details  open markdown="block">
