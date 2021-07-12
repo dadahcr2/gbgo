@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-11 July - km results  	
+11 July - km results  
 10 July - t1 moto setup and deflo vid - TT results  
 9 July - new TE  
 8 July - update pe  
