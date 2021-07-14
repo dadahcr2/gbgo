@@ -21,15 +21,10 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+14 July - PE setups
 11 July - km results  
 10 July - t1 moto setup and deflo vid - TT results  
 9 July - new TE  
-8 July - update pe  
-7 July - New PE  
-4 July - TE track videos - km results  
-3 July - refine te setups, TT results, te vids    
-2 July - Adv contest results, TE setups  
-
      
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
@@ -99,14 +94,15 @@ Videos
 - deflo 48k T1 moto <https://youtu.be/mmlu4ln_H64>  
 <br>  	
 </details>
+
 <details open  markdown="block">
   <summary>
-	  PE: Dribble Trouble (Soccer)  
+	  PE: Retro Rewind (classic)  
   </summary>
   {: .text-delta }
   
-![](https://cdn.discordapp.com/attachments/850232585707323402/862883090959564800/image0.png)	
-	
+![](https://cdn.discordapp.com/attachments/850232585707323402/864751942202294292/image0.png)	
+<!--	
 **Maps**  
 - [GOAL 1](https://cdn.discordapp.com/attachments/850047416472174632/862827294350639145/image0.png)  
 - [GOAL 2](https://cdn.discordapp.com/attachments/850047416472174632/862820184791711744/image0.png)  
@@ -117,7 +113,7 @@ Videos
 - [GOAL 7](https://cdn.discordapp.com/attachments/850047416472174632/862854993819861032/image0.png)  
 - [GOAL 8](https://cdn.discordapp.com/attachments/850047416472174632/862854825205301268/image0.png)  
 - [GOAL 9](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png)  
-- [~~GOAL 10~~]()  
+- [~~GOAL 10~~]()  -->
 	
 </details>
 	
@@ -125,7 +121,7 @@ Videos
 	
 ## Contests
 	
-<details open markdown="block">  
+<details markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -140,7 +136,7 @@ Videos
 ![](https://cdn.discordapp.com/attachments/777301191474282546/863989383857569812/image0.png)  
 <br>  
 </details>  
-<details  open markdown="block">
+<details   markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -194,7 +190,7 @@ MrFixit             1
 **Joins in July**     
 1 Groot  
 1 dada  
-1 getzata  
+2 getzata  
 1 Spyder        
 
 **Season Winners**
