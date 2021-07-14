@@ -102,7 +102,7 @@ Videos
   {: .text-delta }
   
 ![](https://cdn.discordapp.com/attachments/850232585707323402/864751942202294292/image0.png)	
-<!--	
+<!--  	
 **Maps**  
 - [GOAL 1](https://cdn.discordapp.com/attachments/850047416472174632/862827294350639145/image0.png)  
 - [GOAL 2](https://cdn.discordapp.com/attachments/850047416472174632/862820184791711744/image0.png)  
