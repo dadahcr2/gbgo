@@ -35,20 +35,20 @@
 ***   
 
 ## Events
-<details markdown="block">
+<details open markdown="block">
   <summary>
-    TE: One for All  
+    TE: All for One  
   </summary>	
 <br>
 Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
 	
 ![](https://cdn.discordapp.com/attachments/750874271022317678/865707666227986502/image0.png)  
 
-[Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+one+for+all)  
+[Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+all+for+one)  
 - Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
 <br>  
 </details>  
-<details open markdown="block">
+<details markdown="block">
   <summary>
     TE: 3k or Go Home
   </summary>	
