@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+16 July - vokope howto  
 15 July - [T3 11.5s vid](https://cdn.discordapp.com/attachments/797964491803459614/865396110896791592/Edited_20210711_155928_1.mp4)  
 14 July - PE setups  
 11 July - km results  
@@ -32,45 +33,21 @@
 </details>	   
   
 ***   
-<!--
+
 ## Events
 <details markdown="block">
   <summary>
-    TE: TROPHY HUNTERS  
+    TE: One for All  
   </summary>	
 <br>
-**Original setup list**  
-![](https://cdn.discordapp.com/attachments/750874271022317678/860972178296406086/image0.png)	
+Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
+	
+![](https://cdn.discordapp.com/attachments/750874271022317678/865707666227986502/image0.png)  
 
-![Jeep2] ![tractor2] ![rotator2] ![formula2] ![moonlander2]  
-
-**Latest setup list**  
-1 no airtime - ![formula] ![wt] ![AB] ![cb] - [tips](https://cdn.discordapp.com/attachments/858017263989948447/860591998661558292/image0.png) - [map](https://cdn.discordapp.com/attachments/858017263989948447/860629179530739742/image0.png) - [vid](https://images-ext-1.discordapp.net/external/QXL7fFu1KgBecyp3M3YkjaSFWXI52yEXD58el1QVlH8/https/i.imgur.com/36hFI0V.mp4)  
-2 moon stunts - ![jeep]/![tractor] ![wi] ![ma] ![JS] - [tips](https://cdn.discordapp.com/attachments/858017329509171201/860593080285790258/image0.png) - [map](https://cdn.discordapp.com/attachments/858017329509171201/860633363559088138/image0.png) - [vid](https://images-ext-1.discordapp.net/external/gjg9xjVR6LB1IlZF2PoeQtkdEw3YmZDO3GtomKLD4io/https/i.imgur.com/AeWCkak.mp4)  
-3 timed mine downhill - ![rotator] ~~wing~~ ![sb] ![AB] ![cb] ![br]=20 - [tips](https://cdn.discordapp.com/attachments/858017412174577716/860593700023304212/image0.png) - [map](https://cdn.discordapp.com/attachments/858017412174577716/860637758804590592/image0.png) - [vid](https://images-ext-2.discordapp.net/external/rGiCWGw7Lxon3KIIl0uDmw2Rbugm9pSkdWfpwWhZ4nY/https/i.imgur.com/cB5ZBvX.mp4)    
-4 timed classic - ![tractor] ![wi] ![OT] ![cb] / ![jeep] ![wi] ![JS] ![LB] - [tips](https://cdn.discordapp.com/attachments/858017616181461022/860594903574380544/image0.png) - [map](https://cdn.discordapp.com/attachments/858017616181461022/860640738097365022/image0.png) - [JeepVid](https://images-ext-2.discordapp.net/external/MtjpRryTiUn-HecEYgO-FvnqZcuwv4cllUd3-AA6KaY/https/i.imgur.com/TnSg0Za.mp4) - [TractorVid](https://images-ext-1.discordapp.net/external/4vgl28ceUmDkTQu6tMJV5tZ1eZvQaIKZePQexgm_gtY/https/i.imgur.com/06zTTWR.mp4)    	 
-- quoting SNAR  
-> so I'm just going to say it felt like the perfect run too so idk if I'll repeat it to record it.  
-> Tractor - all maxed(damage too)  
-> OC Turbo - maxed  
-> Burner - maxed  
-> coin - maxed  
-> i perfect started and as soon I went up the first hill and became airborne i pointed the tractor down and then started charging the turbo.  Turbo didn't fire but i had enough power to clear the bridge.  that is the most critical area.  if you clear the bridge you land on coins and get enough speed to clear the next couple hills.  
-> to add more, if you clear the bridge cleanly you will jump over the fuel and just try to fire that Turbo once or twice to finish.  
-
-
- 
-[videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+trophy+hunters)
-- vokope howto <https://www.youtube.com/watch?v=64mu4s--c_0>
-- vokope 37k <https://youtu.be/uz_cOSzyBBA>
-- cis 36k <https://youtu.be/YGtNPqDo2BE>
-- nate 36k <https://youtu.be/eJKdFZjGwNc>
-- gl fly 37k <https://youtu.be/Pd6CuST9_sQ>
-- rose lowgp 32k <https://youtu.be/a-7_K3qfHFw>  
-- cis 38k <https://youtu.be/ViNC_2F5HUo>  
-
+[Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+one+for+all)  
+- Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
+<br>  
 </details>  
--->
 <details open markdown="block">
   <summary>
     TE: 3k or Go Home
