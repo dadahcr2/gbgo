@@ -102,7 +102,7 @@ Videos
   </summary>
   {: .text-delta }
   
-![](https://cdn.discordapp.com/attachments/850232585707323402/864751942202294292/image0.png)	
+![](https://cdn.discordapp.com/attachments/852048869336678420/865419817296461844/06D6985E-D9A2-4060-AC8E-0BC821BBE3F4.png)	
 	
 </details>
 	
