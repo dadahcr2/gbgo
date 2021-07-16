@@ -40,7 +40,6 @@
     TE: All for One  
   </summary>	
 <br>
-Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
 	
 ![](https://cdn.discordapp.com/attachments/750874271022317678/865707666227986502/image0.png)  
 
