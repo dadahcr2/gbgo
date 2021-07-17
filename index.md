@@ -137,7 +137,7 @@ MrFixit             1
 ```
 
 **To compete in the daily Time Trial contest**
-1. Make sure that "dada" is on your friend list (if not, the link is under [#friends](#friends)
+1. Make sure that "dada" is on your friend list (if not, the link is under `Friends` in [#Team](#team)
 2. See the day’s vehicle and time trial on fw.hcr2.info or in-game chat (will be the same)
 3. Choose CUPS Tab at top
 4. Choose 4-square tab under flag tab on left
