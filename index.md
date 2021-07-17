@@ -43,7 +43,14 @@
 ![](https://i.pinimg.com/originals/de/76/08/de7608307d080237584bbe4568dd3652.jpg)  	
 	
 ![](https://cdn.discordapp.com/attachments/750874271022317678/865707666227986502/image0.png)  
-
+	
+![Busy] ![Monstery] ![Supercary] x2 each
+1. ![Supercar] ![AC]![AB]![CB] / ![WT]![JS]![AB] - No Airtime - FingerWoods(Dirty Rally 1) - [vokoVid](https://images-ext-1.discordapp.net/external/sM8e4IzAZytfNSVZZTPuiQbxu4sS_mwbtfmWdvBO05w/https/i.imgur.com/e9GOqSt.mp4) [VereVid](https://images-ext-1.discordapp.net/external/3ItzlZg7FjY5zwN8PU_mGdP7PF5u3TX4d6KcKq4DQQM/https/i.imgur.com/0MMmmkd.mp4)  
+2. Timed - Dangerous Downhill
+3. Cargo - Boarding(It’s Mine! 1)
+4. Multi Jump - desert
+5. Timed - Over the Cliff(Mountain Bridges 2)
+	
 [Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+all+for+one)  
 - Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
 <br>  
