@@ -47,6 +47,7 @@
 - Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
 <br>  
 </details>  
+<!--
 <details markdown="block">
   <summary>
     TE: 3k or Go Home
@@ -71,7 +72,7 @@ Videos
 - deflo 48k T1 moto <https://youtu.be/mmlu4ln_H64>  
 <br>  	
 </details>
-
+-->
 <details open  markdown="block">
   <summary>
 	  PE: Retro Rewind (classic)  
