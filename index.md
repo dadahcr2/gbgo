@@ -54,6 +54,7 @@
 	
 [Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+all+for+one)  
 - Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
+- TD low gp <https://www.youtube.com/watch?v=my0pv-ub2BE>  
 <br>  
 </details>  
 <!--
