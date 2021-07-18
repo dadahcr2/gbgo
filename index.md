@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+17 Jiky - new te stuff  
 16 July - vokope howto  
 15 July - [T3 11.5s vid](https://cdn.discordapp.com/attachments/797964491803459614/865396110896791592/Edited_20210711_155928_1.mp4)  
 14 July - PE setups  
