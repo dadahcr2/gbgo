@@ -55,6 +55,7 @@
 [Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+all+for+one)  
 - Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
 - TD low gp <https://www.youtube.com/watch?v=my0pv-ub2BE>  
+- deflo 1monster 5supercar <https://youtu.be/JqkCiZ8qvKk>  
 <br>  
 </details>  
 <!--
