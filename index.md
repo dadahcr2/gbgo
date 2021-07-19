@@ -21,7 +21,8 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-17 Jiky - new te stuff  
+19 July - deflo vid - weekly km  
+17 July - new te stuff  
 16 July - vokope howto  
 15 July - [T3 11.5s vid](https://cdn.discordapp.com/attachments/797964491803459614/865396110896791592/Edited_20210711_155928_1.mp4)  
 14 July - PE setups  
@@ -98,7 +99,7 @@ Videos
 	
 ## Contests
 	
-<details markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -107,13 +108,13 @@ Videos
 **Podium**  
 🥇 LNL   
 🥈 Getzata      
-🥉 Stand09  
+🥉 Boodles  
  
 **Top Seven**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/863989383857569812/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/866696179772948510/image0.png)  
 <br>  
 </details>  
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -166,9 +167,9 @@ MrFixit             1
   {: .text-delta }
 ### Co-leader Season Contest
 **Joins in July**     
-1 Groot  
+2 Groot  
 1 dada  
-2 getzata  
+4 getzata  
 1 Spyder        
 
 **Season Winners**
