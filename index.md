@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+20 July - alt TE setup t1 monster T5 scar   
 19 July - deflo vid - weekly km  
 17 July - new te stuff  
 16 July - vokope howto  
@@ -47,11 +48,11 @@
 ![Bus2] ![Monster2] ![Supercar2]  
  ❌2️⃣ each  
 {: style="text-align: center;"}
-1. ![Supercar] ![AC]![AB]![CB] / ![WT]![JS]![AB] - No Airtime - FingerWoods(Dirty Rally 1) - 10k=23s - [vokoVid](https://images-ext-1.discordapp.net/external/sM8e4IzAZytfNSVZZTPuiQbxu4sS_mwbtfmWdvBO05w/https/i.imgur.com/e9GOqSt.mp4) - [VereVid](https://images-ext-1.discordapp.net/external/3ItzlZg7FjY5zwN8PU_mGdP7PF5u3TX4d6KcKq4DQQM/https/i.imgur.com/0MMmmkd.mp4)  
+1. ![Supercar] ![AC]![AB]![CB] / ![WT]![JS]![AB] or ![monster] ![ab]![cb]![fuel]/![sb] - No Airtime - FingerWoods(Dirty Rally 1) - 10k=23s - [vokoVid](https://images-ext-1.discordapp.net/external/sM8e4IzAZytfNSVZZTPuiQbxu4sS_mwbtfmWdvBO05w/https/i.imgur.com/e9GOqSt.mp4) - [VereVid](https://images-ext-1.discordapp.net/external/3ItzlZg7FjY5zwN8PU_mGdP7PF5u3TX4d6KcKq4DQQM/https/i.imgur.com/0MMmmkd.mp4)  
 2. ![Supercar] ![Wi]![SB] ![JS]/![LB] or ![RC]![SB]![LB] / ![bus]![wi]![js]![th]- Timed - Dangerous Downhill - 10k=18s - [vokovid](https://images-ext-2.discordapp.net/external/3gDQHwgI8wVJYeh3_6cSN8aXyyrwawIBCz798GA-1XE/https/i.imgur.com/XGVN2Fm.mp4) - [iovid](https://images-ext-2.discordapp.net/external/yVVFOSeACnFmEAaauNOjRDzLr9_VR5WxFUbpWxW8fLA/https/i.imgur.com/HASLnQM.mp4) - [rcvid](https://images-ext-2.discordapp.net/external/PuLCyJ7BAQA7fVegJpYEz1mi8lY3WDMqtwU27OzsOek/https/i.imgur.com/epOhXqF.mp4) - [busvid](https://youtu.be/iBELWMqJ6Rw) - [Map](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)      
 3. ![monster]![sb]![ab]![cb] - Cargo - Boarding(It’s Mine! 1) - 10k=10s - [vokovid](https://images-ext-2.discordapp.net/external/j3S3051f5f85VA9zAxIPQ-TPLLoQCxeoGyRq5kzu_p4/https/i.imgur.com/XuWpQMQ.mp4)  
 4. ![bus]![Wi]![js]![Th] - Multi Jump - desert - 10k=400m - [vokovid](https://images-ext-2.discordapp.net/external/j3S3051f5f85VA9zAxIPQ-TPLLoQCxeoGyRq5kzu_p4/https/i.imgur.com/XuWpQMQ.mp4)  
-5. ![monster]![sb]![ab]![cb] - Timed - Over the Cliff(Mountain Bridges 2) - 10k=10.5s - [vokoVid](https://images-ext-1.discordapp.net/external/nRvHCLu_rUTGA4lBsNJopzMauTMyzmwKDs2Tyibeji8/https/i.imgur.com/zHe5U0f.mp4)  
+5. ![monster]![sb]![ab]![cb] / ![supercar]![wi]![ab]![ot] 19140120 - Timed - Over the Cliff(Mountain Bridges 2) - 10k=10.5s - [vokoVid](https://images-ext-1.discordapp.net/external/nRvHCLu_rUTGA4lBsNJopzMauTMyzmwKDs2Tyibeji8/https/i.imgur.com/zHe5U0f.mp4)  
 	
 [Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+all+for+one)  
 - Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
