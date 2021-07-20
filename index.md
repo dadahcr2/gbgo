@@ -111,7 +111,7 @@ Videos
 🥈 Getzata      
 🥉 Boodles  
  
-**Top Seven**  
+**Top 10**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/866696179772948510/image0.png)  
 <br>  
 </details>  
