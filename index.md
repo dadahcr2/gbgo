@@ -35,7 +35,7 @@
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 </details>	   
-  
+
 ***   
 
 ## Events
@@ -88,7 +88,7 @@ Videos
 - deflo 48k T1 moto <https://youtu.be/mmlu4ln_H64>  
 <br>  	
 </details>
--->
+-→
 <details open  markdown="block">
   <summary>
 	  PE: I Am Speed (timed)     
@@ -117,7 +117,7 @@ Interstate Cup:**No Step on Snek** - rally AB coin OT
 
 Stormrider Cup:**Like a Hawk** - rotator AB coin wing  
 
-Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing	
+~~Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing~~  
 </details>
 	
 ***
