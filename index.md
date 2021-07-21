@@ -53,7 +53,7 @@
 3. ![monster]![sb]![ab]![cb] - Cargo - Boarding(It’s Mine! 1) - 10k=10s - [vokovid](https://images-ext-2.discordapp.net/external/j3S3051f5f85VA9zAxIPQ-TPLLoQCxeoGyRq5kzu_p4/https/i.imgur.com/XuWpQMQ.mp4)  
 4. ![bus]![Wi]![js]![Th] - Multi Jump - desert - 10k=400m - [vokovid](https://images-ext-2.discordapp.net/external/j3S3051f5f85VA9zAxIPQ-TPLLoQCxeoGyRq5kzu_p4/https/i.imgur.com/XuWpQMQ.mp4)  
 > Kyran: "Most important thing to remember is the 1st dip you must land in by the coins. Also don't worry about taking passengers out, it wastes fuel, just take roof off and go"
-![![< https://media.discordapp.net/attachments/839524618891952128/867272171179737098/video0.mp4>](https://media.discordapp.net/attachments/839524618891952128/867272171179737098/video0.mp4)](https://media.discordapp.net/attachments/839524618891952128/867272171179737098/video0.mp4)  
+![< https://media.discordapp.net/attachments/839524618891952128/867272171179737098/video0.mp4>](https://media.discordapp.net/attachments/839524618891952128/867272171179737098/video0.mp4)    
 5. ![monster]![sb]![ab]![cb] / ![supercar]![wi]![ab]![ot] 19140120 - Timed - Over the Cliff(Mountain Bridges 2) - 10k=10.5s - [vokoVid](https://images-ext-1.discordapp.net/external/nRvHCLu_rUTGA4lBsNJopzMauTMyzmwKDs2Tyibeji8/https/i.imgur.com/zHe5U0f.mp4)  
 	
 [Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+all+for+one)  
