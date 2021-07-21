@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-20 July - alt TE setup t1 monster T5 scar   
+20 July - alt TE setup t1 monster T5 scar - kyran bus vid   
 19 July - deflo vid - weekly km  
 17 July - new te stuff  
 16 July - vokope howto  
