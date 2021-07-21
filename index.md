@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-21 July - I Need Speed  
+21 July - I Am Speed  
 20 July - alt TE setup t1 monster T5 scar - kyran bus vid   
 19 July - deflo vid - weekly km  
 17 July - new te stuff  
@@ -91,7 +91,7 @@ Videos
 -->
 <details open  markdown="block">
   <summary>
-	  PE: I Need Speed (timed)     
+	  PE: I Am Speed (timed)     
   </summary>
   {: .text-delta }
 
