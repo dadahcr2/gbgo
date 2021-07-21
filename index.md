@@ -94,9 +94,30 @@ Videos
 	  PE: I Need Speed (timed)     
   </summary>
   {: .text-delta }
+
+![](https://media.tenor.co/videos/740eb3676b7d949a202c1cfdd41eddf2/mp4)
   
-![](https://cdn.discordapp.com/attachments/852048869336678420/865465249686618142/CBC0E2DB-0B58-44AB-ABED-A5EDE5AD4556.png)	
-	
+Downhill Trials:**Trial of Balance** - sbike AB coin start  
+
+Spring City:**Whipclash** - sbike AB coin wing  
+
+Dark Roads:**Visions of Victory** - diesel JS start wing  
+
+Cup in the Woods:**Captain's Log** - sbike start tire AB/OT  
+
+Sand in Swimsuit:**The Big Dunes** - Tank fuel OT thrust  
+
+Countryside Cup:**Four-Wheel Park** - rally AB coin OT  
+
+Dirty Rally:**Flipway** - rotator AB coin wing  
+
+Bill's Circuit:**Hot Tarmac** - rally AB OT wing / sbike coin OT wing   
+
+Interstate Cup:**No Step on Snek** - rally AB coin OT  
+
+Stormrider Cup:**Like a Hawk** - rotator AB coin wing  
+
+Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing	
 </details>
 	
 ***
