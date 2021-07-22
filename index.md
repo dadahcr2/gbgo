@@ -168,7 +168,7 @@ MrFixit             1
   {: .text-delta }
 ### Co-leader Season Contest
 
-**#Joins in July***     
+***Joins in July***     
 ```
   Groot 🟥🟥
    Dada 🟧
