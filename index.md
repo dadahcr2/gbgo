@@ -169,7 +169,7 @@ MrFixit             1
 ### Co-leader Season Contest
 	
 **Player** | **Joins in July**     
-:-- | :--
+--: | :--
 Groot | 🟥🟥
 Dada | 🟧
 Getzata | 🟨🟨🟨🟨
