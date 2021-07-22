@@ -89,7 +89,7 @@ Videos
 - deflo 48k T1 moto <https://youtu.be/mmlu4ln_H64>  
 <br>  	
 </details>
--→
+-->
 <details open  markdown="block">
   <summary>
 	  PE: I Am Speed (timed)     
@@ -98,27 +98,7 @@ Videos
 
 ![](https://media.tenor.co/videos/740eb3676b7d949a202c1cfdd41eddf2/mp4)
   
-Downhill Trials:**Trial of Balance** - sbike AB coin start  
-
-Spring City:**Whipclash** - sbike AB coin wing  
-
-Dark Roads:**Visions of Victory** - diesel JS start wing  
-
-Cup in the Woods:**Captain's Log** - sbike start tire AB/OT  
-
-Sand in Swimsuit:**The Big Dunes** - Tank fuel OT thrust  
-
-Countryside Cup:**Four-Wheel Park** - rally AB coin OT  
-
-Dirty Rally:**Flipway** - rotator AB coin wing  
-
-Bill's Circuit:**Hot Tarmac** - rally AB OT wing / sbike coin OT wing   
-
-Interstate Cup:**No Step on Snek** - rally AB coin OT  
-
-Stormrider Cup:**Like a Hawk** - rotator AB coin wing  
-
-~~Gloomvale Cup:**Twisted Trees** - sbike AB wheelie wing~~  
+![](https://cdn.discordapp.com/attachments/850232585707323402/867563659722227732/2A6A0C64-3FFB-4F7C-9B17-BF56EB83CE30.png)    
 </details>
 	
 ***
