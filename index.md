@@ -26,11 +26,6 @@
 19 July - deflo vid - weekly km  
 17 July - new te stuff  
 16 July - vokope howto  
-15 July - [T3 11.5s vid](https://cdn.discordapp.com/attachments/797964491803459614/865396110896791592/Edited_20210711_155928_1.mp4)  
-14 July - PE setups  
-11 July - km results  
-10 July - t1 moto setup and deflo vid - TT results  
-9 July - new TE  
      
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
