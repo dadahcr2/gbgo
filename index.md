@@ -21,7 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
-21 July - I Am Speed - t1 21s vid  
+21 July - I Am Speed - t1 21s vid - masterhcr vid - pe setups  
 20 July - alt TE setup t1 monster T5 scar - kyran bus vid   
 19 July - deflo vid - weekly km  
 17 July - new te stuff  
@@ -57,6 +57,7 @@
 - Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
 - TD low gp <https://www.youtube.com/watch?v=my0pv-ub2BE>  
 - deflo 1monster 5supercar <https://youtu.be/JqkCiZ8qvKk>  
+- master hcr <https://youtu.be/sBYTJgEZByo>  
 <br>  
 </details>  
 <!--
