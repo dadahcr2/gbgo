@@ -176,7 +176,7 @@ MrFixit             1
 2 Groot  
 1 dada  
 4 getzata  
-1 Spyder        
+2 Spyder        
 
 **Season Winners**
 1. groot & getzata (tied)    
