@@ -37,11 +37,13 @@
 ## Events
 <details  open markdown="block">
   <summary>
-    TE: Preview
+    TE: Hill Climb Raging
   </summary>	
 <br>	
 ![Jeep2]![Jeep2] ![sportscar2]![sportscar2] ![Hotrod2]![Hotrod2]  
 
+![](https://cdn.discordapp.com/attachments/851566907920089128/868162007499698216/image0.png)  
+	
 **Tracks**  
 1. Uphill distance
 2. No air - Landing Drive(Big Air Cup)
