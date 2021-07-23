@@ -35,24 +35,32 @@
 ***   
 
 ## Events
-<details  markdown="block">
+<details  open markdown="block">
   <summary>
     TE: Preview
   </summary>	
 <br>	
-![Jeep2]![Jeep2]![sportscar2]![sportscar2]![Hotrod2]![Hotrod2]  
-	
+![Jeep2]![Jeep2] ![sportscar2]![sportscar2] ![Hotrod2]![Hotrod2]  
+
+**Tracks**  
 1. Uphill distance
 2. No air - Landing Drive(Big Air Cup)
 3. Tricky Drive(Uphill Cup)
 4. Winter Wheelie
 5. Trial of Balance(Downhill Trials)
+	
+**Possible Setups**
+1. Jeep wing JS LB / Hotrod tires magnet coin 
+2. Sportscar weight tires AB
+3. Hotrod magnet fuel coin
+4. Sportscar magnet wings WheelieBoost
+5. Hotrod magnet fuel coin / Jeep start JS LB 
 <br>  	
 
 
 </details>
 
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     TE: All for One  
   </summary>	
