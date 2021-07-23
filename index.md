@@ -62,6 +62,7 @@
 **Videos:** 
 - YT search <https://www.youtube.com/results?search_query=hill+climb+racing+2+raging>  
 - io <https://youtu.be/WECVA51xc6Q>
+- vokope howto <https://youtu.be/u0URKMsDo0M>  
 <br>  	
 
 
@@ -208,6 +209,7 @@ MrFixit             1
    Dada 🟧
 Getzata 🟨🟨🟨🟨
  Spyder 🟩🟩
+  Lone* 🟦
 ```
 
 **Season Winners**
