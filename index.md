@@ -53,11 +53,11 @@
 5. Trial of Balance(Downhill Trials)
 	
 **Possible Setups**
-1. Jeep wing JS LB / Hotrod tires magnet coin 
-2. Sportscar weight AB tires/coin
-3. Hotrod fuel coin magnet/LB
-4. Sportscar magnet wings WheelieBoost df=1
-5. Hotrod magnet fuel coin / start LB coin or Jeep start JS LB 
+1. **Jeep wing JS LB** / Hotrod tires magnet coin 
+2. **Sportscar weight**/SB **AB tires**/coin
+3. **Hotrod fuel coin LB**/magnet
+4. **Sportscar magnet wings WheelieBoost df=1**
+5. Hotrod magnet fuel coin / start LB coin or **Jeep start JS LB** 
 	
 **Videos:** 
 - YT search <https://www.youtube.com/results?search_query=hill+climb+racing+2+raging>  
