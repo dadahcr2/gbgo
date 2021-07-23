@@ -40,9 +40,10 @@
     TE: Hill Climb Raging
   </summary>	
 <br>	
-![Jeep2]![Jeep2] ![sportscar2]![sportscar2] ![Hotrod2]![Hotrod2]  
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/868162007499698216/image0.png)  
+	
+![Jeep2]![Jeep2] ![sportscar2]![sportscar2] ![Hotrod2]![Hotrod2]  
 	
 **Tracks**  
 1. Uphill distance
@@ -59,13 +60,13 @@
 5. Hotrod magnet fuel coin / start LB coin or Jeep start JS LB 
 	
 **Videos:** 
-- YT search <(https://www.youtube.com/results?search_query=hill+climb+racing+2+raging>  
+- YT search <https://www.youtube.com/results?search_query=hill+climb+racing+2+raging>  
 - io <https://youtu.be/WECVA51xc6Q>
 <br>  	
 
 
 </details>
-
+<!--
 <details  markdown="block">
   <summary>
     TE: All for One  
@@ -92,7 +93,7 @@
 - master hcr <https://youtu.be/sBYTJgEZByo>  
 <br>  
 </details>  
-<!--
+
 <details markdown="block">
   <summary>
     TE: 3k or Go Home
