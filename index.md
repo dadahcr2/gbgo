@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+23 July - New TE  
 21 July - I Am Speed - t1 21s vid - masterhcr vid - pe setups  
 20 July - alt TE setup t1 monster T5 scar - kyran bus vid   
 19 July - deflo vid - weekly km  
@@ -34,6 +35,23 @@
 ***   
 
 ## Events
+<details  markdown="block">
+  <summary>
+    TE: Preview
+  </summary>	
+<br>	
+![Jeep2]![Jeep2]![sportscar2]![sportscar2]![Hotrod2]![Hotrod2]  
+	
+1. Uphill distance
+2. nNo air - Landing Drive(Big Air Cup)
+3. Tricky Drive(Uphill Cup)
+4. Winter Wheelie
+5. Trial of Balance(Downhill Trials)
+<br>  	
+
+
+</details>
+
 <details open markdown="block">
   <summary>
     TE: All for One  
