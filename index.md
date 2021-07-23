@@ -43,7 +43,7 @@
 ![Jeep2]![Jeep2]![sportscar2]![sportscar2]![Hotrod2]![Hotrod2]  
 	
 1. Uphill distance
-2. nNo air - Landing Drive(Big Air Cup)
+2. No air - Landing Drive(Big Air Cup)
 3. Tricky Drive(Uphill Cup)
 4. Winter Wheelie
 5. Trial of Balance(Downhill Trials)
