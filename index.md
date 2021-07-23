@@ -57,6 +57,8 @@
 3. Hotrod fuel coin magnet/LB
 4. Sportscar magnet wings WheelieBoost df=1
 5. Hotrod magnet fuel coin / start LB coin or Jeep start JS LB 
+	
+[Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+raging) 
 <br>  	
 
 
