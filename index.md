@@ -43,7 +43,7 @@
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/868162007499698216/image0.png)  
 	
-![Jeep2]![Jeep2] ![sportscar2]![sportscar2] ![Hotrod2]![Hotrod2]  
+![Jeep2] ![Jeep2] ![sportscar2] ![sportscar2] ![Hotrod2] ![Hotrod2]  
 	
 **Tracks**  
 1. Uphill distance
