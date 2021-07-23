@@ -53,11 +53,11 @@
 5. Trial of Balance(Downhill Trials)
 	
 **Possible Setups**
-1. **Jeep wing JS LB** / Hotrod tires magnet coin 
-2. **Sportscar weight**/SB **AB tires**/coin
-3. **Hotrod fuel coin LB**/magnet
-4. **Sportscar magnet wings WheelieBoost df=1**
-5. Hotrod magnet fuel coin / start LB coin or **Jeep start JS LB** 
+1. **Jeep wing JS LB** / Hotrod tires magnet coin - [tips](https://cdn.discordapp.com/attachments/858017263989948447/868246559844888656/image0.jpg)
+2. **Sportscar weight**/SB **AB tires**/coin - [tips](https://cdn.discordapp.com/attachments/858017329509171201/868246677578989619/image0.jpg) - [map](https://cdn.discordapp.com/attachments/858017329509171201/868261405722292305/image0.jpg) 
+3. **Hotrod fuel coin LB**/magnet - [tips](https://cdn.discordapp.com/attachments/858017412174577716/868246870365982800/image0.jpg)
+4. **Sportscar magnet wings WheelieBoost df=1** - [tips](https://cdn.discordapp.com/attachments/858017616181461022/868246975601074236/image0.jpg)
+5. Hotrod start tires coin or Jeep start JS LB** - [tips](https://cdn.discordapp.com/attachments/858017681420189696/868247163728191528/image0.jpg) 
 	
 **Videos:** 
 - YT search <https://www.youtube.com/results?search_query=hill+climb+racing+2+raging>  
