@@ -51,10 +51,10 @@
 	
 **Possible Setups**
 1. Jeep wing JS LB / Hotrod tires magnet coin 
-2. Sportscar weight tires AB
-3. Hotrod magnet fuel coin
-4. Sportscar magnet wings WheelieBoost
-5. Hotrod magnet fuel coin / Jeep start JS LB 
+2. Sportscar weight AB tires/coin
+3. Hotrod fuel coin magnet/LB
+4. Sportscar magnet wings WheelieBoost df=1
+5. Hotrod magnet fuel coin / start LB coin or Jeep start JS LB 
 <br>  	
 
 
