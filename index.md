@@ -167,7 +167,7 @@ Rules:
 🥇 dada 4*3+3*2=18
 🥈 Getz 2*3+4*2+1=15
 🥉 date 3+3=6
-🏅 Mr F=1+1=2
+🏅 Mr F 1+1=2
 🏅 Boodles=1
 
 2021 Time Trial Roll of Honor
