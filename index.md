@@ -57,7 +57,7 @@
 2. **Sportscar weight**/SB **AB tires**/coin - [tips](https://cdn.discordapp.com/attachments/858017329509171201/868246677578989619/image0.jpg) - [map](https://cdn.discordapp.com/attachments/858017329509171201/868261405722292305/image0.jpg)  - [vid](https://imgur.com/a/IthH8wl)
 3. **Hotrod fuel coin LB**/magnet - [tips](https://cdn.discordapp.com/attachments/858017412174577716/868246870365982800/image0.jpg) - [vid](https://imgur.com/a/MYhoGIL)
 4. **Sportscar magnet wings WheelieBoost df=1** - [tips](https://cdn.discordapp.com/attachments/858017616181461022/868246975601074236/image0.jpg) - [vid](https://imgur.com/a/tQVbUIp)
-5. Hotrod start tires coin or Jeep start JS LB** - [tips](https://cdn.discordapp.com/attachments/858017681420189696/868247163728191528/image0.jpg)  - [vid](https://images-ext-1.discordapp.net/external/ABk3m8sunqnIyo9CrdwN1mQmEBonCoud8bJgBJNVOQ0/https/i.imgur.com/3cKZ9zN.mp4) 
+5. **Hotrod start tires coin or Jeep start JS LB** - [tips](https://cdn.discordapp.com/attachments/858017681420189696/868247163728191528/image0.jpg)  - [vid](https://images-ext-1.discordapp.net/external/ABk3m8sunqnIyo9CrdwN1mQmEBonCoud8bJgBJNVOQ0/https/i.imgur.com/3cKZ9zN.mp4) 
 	
 **Videos:** 
 - YT search <https://www.youtube.com/results?search_query=hill+climb+racing+2+raging>  
