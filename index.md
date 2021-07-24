@@ -21,12 +21,9 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+24 July - weekly tt results  
 23 July - New TE  
-21 July - I Am Speed - t1 21s vid - masterhcr vid - pe setups  
-20 July - alt TE setup t1 monster T5 scar - kyran bus vid   
-19 July - deflo vid - weekly km  
-17 July - new te stuff  
-16 July - vokope howto  
+21 July - I Am Speed - t1 21s vid - masterhcr vid - pe setups    
      
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
