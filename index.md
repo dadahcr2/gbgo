@@ -162,12 +162,12 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 14 Results**
+**Week 15 Results**
 ```
-🥇 Getz 5*3+2+1=18
-🥈 dada 3+6*2=15
-🥉 date 3+4*1=7
-🏅 Mr F=1
+🥇 dada 4*3+3*2=18
+🥈 Getz 2*3+4*2+1=15
+🥉 date 3+3=6
+🏅 Mr F=1+1=2
 🏅 Boodles=1
 
 2021 Time Trial Roll of Honor
@@ -175,16 +175,16 @@ Rules:
          🥇   🥈   🥉
 ——————————————————————
 
-Dada      7    6  
-Getzata   5    5    2  
-Date      2    3    8    
+Dada      8    6  
+Getzata   5    6    2  
+Date      2    3    9    
 PDB                 1 
 Spyder              1   
 MrFixit             1   
 
 ——————————————————————
 ```
-
+	
 **To compete in the daily Time Trial contest**
 1. Make sure that "dada" is on your friend list (if not, the link is under `Friends` in [#Team](#team)
 2. See the day’s vehicle and time trial on fw.hcr2.info or in-game chat (will be the same)
