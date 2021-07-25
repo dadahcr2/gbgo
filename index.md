@@ -53,9 +53,9 @@
 **Possible Setups**
 1. **Jeep wing JS LB** / Hotrod tires magnet coin - [tips](https://cdn.discordapp.com/attachments/858017263989948447/868246559844888656/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/TsKDtXt_nD1xSMGYiBycGjjJanBMdY5XKDj9kwlaGsg/https/i.imgur.com/CCsrJKt.mp4)  
 > 965m <https://youtu.be/eZTWBtMAEC0>  
-2. **Sportscar weight**/SB **AB tires**/coin - [tips](https://cdn.discordapp.com/attachments/858017329509171201/868246677578989619/image0.jpg) - [map](https://cdn.discordapp.com/attachments/858017329509171201/868261405722292305/image0.jpg)  - [vid](https://imgur.com/a/IthH8wl)  
 > How to jump beyond 560m 
-> ![](https://cdn.discordapp.com/attachments/858094235446411264/868794212945125376/image0.gif)
+> ![](https://cdn.discordapp.com/attachments/858094235446411264/868794212945125376/image0.gif)  
+2. **Sportscar weight**/SB **AB tires**/coin - [tips](https://cdn.discordapp.com/attachments/858017329509171201/868246677578989619/image0.jpg) - [map](https://cdn.discordapp.com/attachments/858017329509171201/868261405722292305/image0.jpg)  - [vid](https://imgur.com/a/IthH8wl)  
 3. **Hotrod fuel coin LB**/magnet - [tips](https://cdn.discordapp.com/attachments/858017412174577716/868246870365982800/image0.jpg) - [vid](https://imgur.com/a/MYhoGIL)
 4. **Sportscar magnet wings WheelieBoost df=1** - [tips](https://cdn.discordapp.com/attachments/858017616181461022/868246975601074236/image0.jpg) - [vid](https://imgur.com/a/tQVbUIp)
 5. **Hotrod start tires coin or Jeep start JS LB** - [tips](https://cdn.discordapp.com/attachments/858017681420189696/868247163728191528/image0.jpg)  - [vid](https://images-ext-1.discordapp.net/external/ABk3m8sunqnIyo9CrdwN1mQmEBonCoud8bJgBJNVOQ0/https/i.imgur.com/3cKZ9zN.mp4) 
