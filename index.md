@@ -143,12 +143,12 @@ Videos
   {: .text-delta }
 ### Weekly Kms Contest  
 **Podium**  
-🥇 LNL   
-🥈 Getzata      
-🥉 Boodles  
+🥇 Getzata   
+🥈 Boodles      
+🥉 Dada  
  
 **Top 10**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/866696179772948510/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/869034705402605608/image0.png)  
 <br>  
 </details>  
 <details open markdown="block">
