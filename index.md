@@ -21,6 +21,7 @@
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
 {: .text-delta}
+28 July - PE Setups   
 25 July - how to jump beyond 560m on T1 gif  
 24 July - weekly tt results  
 23 July - New TE  
@@ -33,7 +34,7 @@
 ***   
 
 ## Events
-<details  open markdown="block">
+<details   markdown="block">
   <summary>
     TE: Hill Climb Raging
   </summary>	
@@ -135,7 +136,7 @@ Videos
 	
 ## Contests
 	
-<details open markdown="block">  
+<details markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -150,7 +151,8 @@ Videos
 ![](https://cdn.discordapp.com/attachments/777301191474282546/869034705402605608/image0.png)  
 <br>  
 </details>  
-<details open markdown="block">
+	
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -196,7 +198,7 @@ MrFixit             1
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)  	
 <br>  	
 </details>  
-<details markdown="block">
+<details open markdown="block">
   <summary>
     Co-leader joins
   </summary>
@@ -207,7 +209,7 @@ MrFixit             1
 ```
   Groot 🟥🟥
    Dada 🟧
-Getzata 🟨🟨🟨🟨
+Getzata 🟨🟨🟨🟨🟨
  Spyder 🟩🟩
   Lone* 🟦
 ```
@@ -215,17 +217,18 @@ Getzata 🟨🟨🟨🟨
 **Season Winners**
 1. groot & getzata (tied)    
 2. groot  
+3. getzata
 	
 **`---------------`**  
 **`Tablet of Honor`**    
 `===============`      
 `Groot.........2`    
-`Getzata.......1`     
+`Getzata.......2`     
 **`---------------`**  
 
 <br>  	
 </details>
-<details  markdown="block">
+<details  open markdown="block">
   <summary>
     Adventure
   </summary>
