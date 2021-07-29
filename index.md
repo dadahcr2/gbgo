@@ -122,7 +122,7 @@ Videos
 </details>
 -->
 	
-<details  markdown="block">
+<details  open markdown="block">
   <summary>
     PE: Orbital Overdrive (Moon Time-Attack) 
   </summary>
