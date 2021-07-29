@@ -121,15 +121,13 @@ Videos
 <br>  	
 </details>
 -->
-<details open  markdown="block">
+<details  markdown="block">
   <summary>
-	  PE: I Am Speed (timed)     
+    PE: Orbital Overdrive (Moon Time-Attack) 
   </summary>
-  {: .text-delta }
-<br>
-![](https://media.tenor.co/videos/740eb3676b7d949a202c1cfdd41eddf2/mp4)
-  
-![](https://cdn.discordapp.com/attachments/850232585707323402/867563659722227732/2A6A0C64-3FFB-4F7C-9B17-BF56EB83CE30.png)    
+<br>	
+![](https://cdn.discordapp.com/attachments/852403800887132171/870192741710196796/image0.png)  
+	
 </details>
 	
 ***
