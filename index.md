@@ -69,12 +69,17 @@
 
 
 </details>
-<!--
-<details  markdown="block">
+<details open markdown="block">
   <summary>
-    TE: All for One  
+    TE: Among Them 
   </summary>	
 <br>
+![](https://cdn.discordapp.com/attachments/851566907920089128/870714783400333323/image0.png)
+	
+video
+- volope howto <https://www.youtube.com/watch?v=XhEuchV02bY>  
+</details>
+<!--
 ![](https://i.pinimg.com/originals/de/76/08/de7608307d080237584bbe4568dd3652.jpg)  	
 	
 ![Bus2] ![Monster2] ![Supercar2]  
@@ -120,7 +125,7 @@ Videos
 - vokope how to <https://www.youtube.com/watch?v=XQFu9FUku2A>  
 - deflo 48k T1 moto <https://youtu.be/mmlu4ln_H64>  
 <br>  	
-</details>
+
 -->
 	
 <details  open markdown="block">
