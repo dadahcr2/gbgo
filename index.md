@@ -73,9 +73,10 @@
 <br>
 ![](https://cdn.discordapp.com/attachments/851566907920089128/871431867407151155/image0.png)
 	
-video
-- volope <https://www.youtube.com/watch?v=XhEuchV02bY>  
+videos <https://www.youtube.com/results?search_query=hill+climb+racing+2+among+them>
+- vokope <https://www.youtube.com/watch?v=XhEuchV02bY>  
 - CIS 36k <https://youtu.be/1ZnOHqyEa80>
+- vokope howto <https://youtu.be/5ucaSElLFB8>
 </details>
 	
 <!--
