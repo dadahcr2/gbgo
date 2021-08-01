@@ -29,6 +29,8 @@
 ***   
 
 ## Events
+
+<!--
 <details   markdown="block">
   <summary>
     TE: Hill Climb Raging
@@ -62,17 +64,18 @@
 - vokope howto <https://youtu.be/u0URKMsDo0M>  
 <br>  	
 
-
+-->
 </details>
 <details open markdown="block">
   <summary>
     TE: Among Them 
   </summary>	
 <br>
-![](https://cdn.discordapp.com/attachments/851566907920089128/870714783400333323/image0.png)
+![](https://cdn.discordapp.com/attachments/851566907920089128/871431867407151155/image0.png)
 	
 video
-- volope howto <https://www.youtube.com/watch?v=XhEuchV02bY>  
+- volope <https://www.youtube.com/watch?v=XhEuchV02bY>  
+- CIS 36k <https://youtu.be/1ZnOHqyEa80>
 </details>
 	
 <!--
