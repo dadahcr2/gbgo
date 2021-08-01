@@ -20,12 +20,7 @@
   <summary> <b>
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
-{: .text-delta}
-28 July - PE Setups   
-25 July - how to jump beyond 560m on T1 gif  
-24 July - weekly tt results  
-23 July - New TE  
-21 July - I Am Speed - t1 21s vid - masterhcr vid - pe setups    
+{: .text-delta}  
      
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
@@ -158,7 +153,7 @@ Videos
 <br>  
 </details>  
 	
-<details  markdown="block">
+<details  open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -170,32 +165,33 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 15 Results**
+**Week 16 Results**
 ```
-🥇 dada 4*3+3*2=18
-🥈 Getz 2*3+4*2+1=15
-🥉 date 3+3=6
+🥇 Getz 4x3+2x2+1=17
+🥈 dada 3x3+2x2=13
+🥉 Boodles 2x2+1=5
+🏅 date 2+1=3
 🏅 Mr F 1+1=2
-🏅 Boodles=1
 
 2021 Time Trial Roll of Honor
 
          🥇   🥈   🥉
 ——————————————————————
 
-Dada      8    6  
-Getzata   5    6    2  
+Dada      8    7  
+Getzata   6    6    2  
 Date      2    3    9    
 PDB                 1 
 Spyder              1   
 MrFixit             1   
+Boodles             1
 
 ——————————————————————
 ```
 	
 **To compete in the daily Time Trial contest**
-1. Make sure that "dada" is on your friend list (if not, the link is under `Friends` in [#Team](#team)
-2. See the day’s vehicle and time trial on fw.hcr2.info or in-game chat (will be the same)
+1. Make sure that "dada" is on your friend list (if not, the link is <https://playhcr.com/invite?id=XN7N73>)
+2. See the day’s vehicle and time trial on here, fw.hcr2.info or in-game chat (will be the same)
 3. Choose CUPS Tab at top
 4. Choose 4-square tab under flag tab on left
 5. Scroll down to find that day's cup and track
@@ -204,7 +200,7 @@ MrFixit             1
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)  	
 <br>  	
 </details>  
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Co-leader joins
   </summary>
@@ -282,7 +278,7 @@ Omelette          1
   </summary>
   {: .text-delta }
 ### Tournaments 
-- Tractor Wars: <http://tw.hcr2.info>
+- Tractor Wars: <http://tw.hcr2.info> (daily on a break)
 - Friendly Wars: <http://fw.hcr2.info>
 </details>  	
 
@@ -435,7 +431,7 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.  
 
-3. **In-game chat** is the preferred means of communication. In the rare event of not being able to communicate in-game, feel free to use other means (e.g. my contact detail at the bottom or the discord server https://discord.gg/HHJB2qcR - *if the link has expired, let me know and I will refresh it*)  
+3. **In-game chat** is the preferred means of communication. In the rare event of not being able to communicate in-game, feel free to use other means (e.g. my contact detail at the bottom or the discord server <https://discord.gg/HHJB2qcR> - *if the link has expired, let me know and I will refresh it*)  
 
 4. **Relax and have fun!**  Rankings are secondary. (Please don't pressure anyone to perform better. If there is an issue that detracts from the positive environment, steps will be taken to address it.) 
 
