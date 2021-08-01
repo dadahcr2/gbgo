@@ -65,7 +65,7 @@
 <br>  	
 
 -->
-</details>
+
 <details open markdown="block">
   <summary>
     TE: Among Them 
