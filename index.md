@@ -141,7 +141,7 @@ Videos
 	
 ## Contests
 	
-<details markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -150,14 +150,14 @@ Videos
 **Podium**  
 🥇 Getzata   
 🥈 Boodles      
-🥉 Dada  
+🥉 Stand09  
  
 **Top 10**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/869034705402605608/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/871573129628102696/image0.png)  
 <br>  
 </details>  
 	
-<details  open markdown="block">
+<details markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -234,7 +234,7 @@ Getzata 🟨🟨🟨🟨🟨
 
 <br>  	
 </details>
-<details  open markdown="block">
+<details markdown="block">
   <summary>
     Adventure
   </summary>
