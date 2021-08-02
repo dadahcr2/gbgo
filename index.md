@@ -30,42 +30,6 @@
 
 ## Events
 
-<!--
-<details   markdown="block">
-  <summary>
-    TE: Hill Climb Raging
-  </summary>	
-<br>	
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/868162007499698216/image0.png)![](https://cdn.discordapp.com/attachments/750874271022317678/868193781739057182/image0.png)    
-	
-![Jeep2] ![Jeep2] ![sportscar2] ![sportscar2] ![Hotrod2] ![Hotrod2]  
-	
-**Tracks**  
-1. Uphill distance
-2. No air - Landing Drive(Big Air Cup)
-3. Tricky Drive(Uphill Cup)
-4. Winter Wheelie
-5. Trial of Balance(Downhill Trials)
-	
-**Possible Setups**
-1. **Jeep wing JS LB** / Hotrod tires magnet coin - [tips](https://cdn.discordapp.com/attachments/858017263989948447/868246559844888656/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/TsKDtXt_nD1xSMGYiBycGjjJanBMdY5XKDj9kwlaGsg/https/i.imgur.com/CCsrJKt.mp4)  
-> 965m <https://youtu.be/eZTWBtMAEC0>  
-> How to jump beyond 560m 
-> ![](https://cdn.discordapp.com/attachments/858094235446411264/868794212945125376/image0.gif)  
-2. **Sportscar weight**/SB **AB tires**/coin - [tips](https://cdn.discordapp.com/attachments/858017329509171201/868246677578989619/image0.jpg) - [map](https://cdn.discordapp.com/attachments/858017329509171201/868261405722292305/image0.jpg)  - [vid](https://imgur.com/a/IthH8wl)  
-3. **Hotrod fuel coin LB**/magnet - [tips](https://cdn.discordapp.com/attachments/858017412174577716/868246870365982800/image0.jpg) - [vid](https://imgur.com/a/MYhoGIL)
-4. **Sportscar magnet wings WheelieBoost/tires df=1** - [tips](https://cdn.discordapp.com/attachments/858017616181461022/868246975601074236/image0.jpg) - [vid](https://imgur.com/a/tQVbUIp)
-5. **Hotrod start tires coin or Jeep start JS LB** - [tips](https://cdn.discordapp.com/attachments/858017681420189696/868247163728191528/image0.jpg)  - [vid](https://images-ext-1.discordapp.net/external/ABk3m8sunqnIyo9CrdwN1mQmEBonCoud8bJgBJNVOQ0/https/i.imgur.com/3cKZ9zN.mp4) 
-	
-**Videos:** 
-- YT search <https://www.youtube.com/results?search_query=hill+climb+racing+2+raging>  
-- io <https://youtu.be/WECVA51xc6Q>
-- vokope howto <https://youtu.be/u0URKMsDo0M>  
-<br>  	
-
--->
-
 <details open markdown="block">
   <summary>
     TE: Among Them 
@@ -78,55 +42,6 @@ videos <https://www.youtube.com/results?search_query=hill+climb+racing+2+among+t
 - CIS 36k <https://youtu.be/1ZnOHqyEa80>
 - vokope howto <https://youtu.be/5ucaSElLFB8>
 </details>
-	
-<!--
-![](https://i.pinimg.com/originals/de/76/08/de7608307d080237584bbe4568dd3652.jpg)  	
-	
-![Bus2] ![Monster2] ![Supercar2]  
- ❌2️⃣ each  
-{: style="text-align: center;"}
-1. ![Supercar] ![AC]![AB]![CB] / ![WT]![JS]![AB] or ![monster] ![ab]![cb]![fuel]/![sb] - No Airtime - FingerWoods(Dirty Rally 1) - 10k=23s - [vokoVid](https://images-ext-1.discordapp.net/external/sM8e4IzAZytfNSVZZTPuiQbxu4sS_mwbtfmWdvBO05w/https/i.imgur.com/e9GOqSt.mp4) - [VereVid](https://images-ext-1.discordapp.net/external/3ItzlZg7FjY5zwN8PU_mGdP7PF5u3TX4d6KcKq4DQQM/https/i.imgur.com/0MMmmkd.mp4)  
-> 21s Monster ![<https://cdn.discordapp.com/attachments/839524540681420870/867361516714328074/video0.mp4>](https://cdn.discordapp.com/attachments/839524540681420870/867361516714328074/video0.mp4)
-2. ![Supercar] ![Wi]![SB] ![JS]/![LB] or ![RC]![SB]![LB] / ![bus]![wi]![js]![th]- Timed - Dangerous Downhill - 10k=18s - [vokovid](https://images-ext-2.discordapp.net/external/3gDQHwgI8wVJYeh3_6cSN8aXyyrwawIBCz798GA-1XE/https/i.imgur.com/XGVN2Fm.mp4) - [iovid](https://images-ext-2.discordapp.net/external/yVVFOSeACnFmEAaauNOjRDzLr9_VR5WxFUbpWxW8fLA/https/i.imgur.com/HASLnQM.mp4) - [rcvid](https://images-ext-2.discordapp.net/external/PuLCyJ7BAQA7fVegJpYEz1mi8lY3WDMqtwU27OzsOek/https/i.imgur.com/epOhXqF.mp4) - [busvid](https://youtu.be/iBELWMqJ6Rw) - [Map](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)      
-3. ![monster]![sb]![ab]![cb] - Cargo - Boarding(It’s Mine! 1) - 10k=10s - [vokovid](https://images-ext-2.discordapp.net/external/j3S3051f5f85VA9zAxIPQ-TPLLoQCxeoGyRq5kzu_p4/https/i.imgur.com/XuWpQMQ.mp4)  
-4. ![bus]![Wi]![js]![Th] - Multi Jump - desert - 10k=400m - [vokovid](https://images-ext-2.discordapp.net/external/j3S3051f5f85VA9zAxIPQ-TPLLoQCxeoGyRq5kzu_p4/https/i.imgur.com/XuWpQMQ.mp4)  
-> Kyran: "Most important thing to remember is the 1st dip you must land in by the coins. Also don't worry about taking passengers out, it wastes fuel, just take roof off and go"
-![< https://media.discordapp.net/attachments/839524618891952128/867272171179737098/video0.mp4>](https://media.discordapp.net/attachments/839524618891952128/867272171179737098/video0.mp4)    
-5. ![monster]![sb]![ab]![cb] / ![supercar]![wi]![ab]![ot] 19140120 / ![supercar]![fume]![ab]![ot] - Timed - Over the Cliff(Mountain Bridges 2) - 10k=10.5s - [vokoVid](https://images-ext-1.discordapp.net/external/nRvHCLu_rUTGA4lBsNJopzMauTMyzmwKDs2Tyibeji8/https/i.imgur.com/zHe5U0f.mp4)  
-	
-[Videos](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+all+for+one)  
-- Vokope Howto <https://www.youtube.com/watch?v=EDxG60Hvx7Y>  
-- TD low gp <https://www.youtube.com/watch?v=my0pv-ub2BE>  
-- deflo 1monster 5supercar <https://youtu.be/JqkCiZ8qvKk>  
-- master hcr <https://youtu.be/sBYTJgEZByo>  
-<br>  
-</details>  
-
-<details markdown="block">
-  <summary>
-    TE: 3k or Go Home
-  </summary>	
-<br>  
-![tank2] ![moto2] ![rt2]  
- ❌2️⃣ each  
-{: style="text-align: center;"}
-	
-1. **Tank Start=5? AB Coin/RollCage  or Moto Start AB Coin** - Timed Soccer - Goal 9 - [Map](https://cdn.discordapp.com/attachments/850047416472174632/862756053125038080/image0.png) - [vid](https://images-ext-2.discordapp.net/external/kOmWsizRATmWNRRlG5hOLD0W6erJ9wNzkoTwIMssiGY/https/i.imgur.com/JygHS76.mp4) - [tips](https://cdn.discordapp.com/attachments/858017263989948447/863108498169397298/image0.jpg)  
-> after hitting the ball once, take care to not overshoot it before the 2nd kick  
-2. **RT Wing Wheelie Coin DF=1** - Wheelie (City) - [vid](https://images-ext-1.discordapp.net/external/IjmnSKrkewKkIjWcDVyTg8n5nWNQjvaCNWQkCgeKUCk/https/i.imgur.com/U1arnvn.mp4) - [tips](https://cdn.discordapp.com/attachments/858017329509171201/863111224098029598/image0.jpg)  
->  master hcr2 1039m <https://youtu.be/D2ytfTm_KfQ>  
-3. **RT Fume Wheelie AB** DF=18 - Breaking Boxes - [TIPS](https://cdn.discordapp.com/attachments/858017412174577716/862914870550331432/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/CAysHRiiFk_sbig64ULO9GoX2JQS4ORLfmG9jQwCbCA/https/i.imgur.com/2F9kPSd.mp4) - [T3 11.5s vid](https://cdn.discordapp.com/attachments/797964491803459614/865396110896791592/Edited_20210711_155928_1.mp4) - [tips2](https://cdn.discordapp.com/attachments/858017412174577716/863112577047461898/image0.jpg)  
-4. **Moto Wing JS LB / Tank Wing LB coin** - No fuel distance -  forest - [vid](https://images-ext-1.discordapp.net/external/YRe_PH5aSBCzN_P4SXjmvG4RPpz9XgeFs3BNmgVPL6Q/https/i.imgur.com/ZZf8VqQ.mp4) - [tips](https://cdn.discordapp.com/attachments/858017616181461022/863114192117301268/image0.jpg)  
-5. **Tank Wing LB Start** / Wing RC Thrusters - Practice: Hollow Road(Dark Roads 3) - [vid](https://images-ext-2.discordapp.net/external/1ITpzig0HOMJt471ZekPswo4szep71EhRJN_hsk8uPI/https/i.imgur.com/gbSodDm.mp4) - [vid2](https://images-ext-1.discordapp.net/external/wis6CPivLs6TdQDPdUu-Z9Z2SX1I6Wu5Rcjv6c7rcA0/https/i.imgur.com/AelKG6F.mp4) - [tips](https://cdn.discordapp.com/attachments/858017681420189696/863115435192352768/image0.jpg)  	
-	
-Videos
-- io preview <https://youtu.be/wxBdNzrC3y8>
-- vere 48k <https://youtu.be/lwhFFq7RPp0>  
-- vokope how to <https://www.youtube.com/watch?v=XQFu9FUku2A>  
-- deflo 48k T1 moto <https://youtu.be/mmlu4ln_H64>  
-<br>  	
-
--->
 	
 <details  open markdown="block">
   <summary>
