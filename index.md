@@ -51,7 +51,7 @@ videos <https://www.youtube.com/results?search_query=hill+climb+racing+2+among+t
 - vokope howto <https://youtu.be/5ucaSElLFB8>
 </details>
 	
-<details  open markdown="block">
+<details markdown="block">
   <summary>
     PE: Orbital Overdrive (Moon Time-Attack) 
   </summary>
