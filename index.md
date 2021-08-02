@@ -38,10 +38,10 @@
 **Among Them**
 	
  ![buggy2] ![snowmobile2] ![sbike2] ![mono2] ![moonlander2]  
-1. Backwater Cup - Grill Bill, _Time attack, flips, 10k=8s_  - [vid](https://images-ext-1.discordapp.net/external/O3Ex2qHv5hT1cJ8O-EDKEBmFyjTtC_MRbMeg7iccYdo/https/i.imgur.com/cpJjWRc.mp4)  
-2. Time Attack in Moon - MAN IN THE MOON, _Time attack, 10k=18s_    - [vid](https://images-ext-2.discordapp.net/external/u_vMwX_hIHfSGlQaABhKsZP1Q7MKH6plAjXyjH9aTkE/https/i.imgur.com/ueRr7Np.mp4)  
-3. Distance in - Patchwork, _Distance, 10k=1200m_    - [vid](https://images-ext-1.discordapp.net/external/cecM3iOQpsarsItBkQAFMz61ll7oEWW3GVriWo267X4/https/i.imgur.com/cdOdfRm.mp4)  - [vid2](https://images-ext-1.discordapp.net/external/bhFb-d2o25nHTWdVfbRnH37AMdJ_OEuJ0yq6FeeB2FQ/https/i.imgur.com/m2Yc4z4.mp4)  
-4. Floor is Lava in - Mines, _Distance, 10k=800m_    - [vid](https://images-ext-1.discordapp.net/external/WKbdy3x3abbCel2ePSFZO-18diXJcvR95GI-a65IyQI/https/i.imgur.com/eetmbxg.mp4)  - [vid2](https://images-ext-2.discordapp.net/external/VkdSeWK-lSyhF7pO0I1XqPqjg9pVUG642Aka43XnUvw/https/i.imgur.com/kuEzdmV.mp4)  
+1. Backwater Cup - Grill Bill, _Time attack, flips, 10k=8s_  - [vid](https://images-ext-1.discordapp.net/external/O3Ex2qHv5hT1cJ8O-EDKEBmFyjTtC_MRbMeg7iccYdo/https/i.imgur.com/cpJjWRc.mp4) - [tip](https://cdn.discordapp.com/attachments/858017263989948447/871614447603556402/image0.jpg) - [tip2](https://cdn.discordapp.com/attachments/858017263989948447/871614537604931625/image0.jpg) 
+2. Time Attack in Moon - MAN IN THE MOON, _Time attack, 10k=18s_    - [vid](https://images-ext-2.discordapp.net/external/u_vMwX_hIHfSGlQaABhKsZP1Q7MKH6plAjXyjH9aTkE/https/i.imgur.com/ueRr7Np.mp4)  - [tip](https://cdn.discordapp.com/attachments/858017329509171201/871614794254413925/image0.jpg)
+3. Distance in - Patchwork, _Distance, 10k=1200m_    - [vid](https://images-ext-1.discordapp.net/external/cecM3iOQpsarsItBkQAFMz61ll7oEWW3GVriWo267X4/https/i.imgur.com/cdOdfRm.mp4)  - [vid2](https://images-ext-1.discordapp.net/external/bhFb-d2o25nHTWdVfbRnH37AMdJ_OEuJ0yq6FeeB2FQ/https/i.imgur.com/m2Yc4z4.mp4)  - [tip](https://cdn.discordapp.com/attachments/858017412174577716/871614955093389362/image0.jpg) - [tip2](https://cdn.discordapp.com/attachments/858017412174577716/871615010726625340/image0.jpg)
+4. Floor is Lava in - Mines, _Distance, 10k=800m_    - [vid](https://images-ext-1.discordapp.net/external/WKbdy3x3abbCel2ePSFZO-18diXJcvR95GI-a65IyQI/https/i.imgur.com/eetmbxg.mp4)  - [vid2](https://images-ext-2.discordapp.net/external/VkdSeWK-lSyhF7pO0I1XqPqjg9pVUG642Aka43XnUvw/https/i.imgur.com/kuEzdmV.mp4)  - [tip](https://cdn.discordapp.com/attachments/858017616181461022/871615142826242128/image0.jpg)
 	
 ![](https://cdn.discordapp.com/attachments/750874271022317678/871570595438030898/image0.png)
 	
