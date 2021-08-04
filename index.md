@@ -50,13 +50,15 @@ videos <https://www.youtube.com/results?search_query=hill+climb+racing+2+among+t
 - CIS 36k <https://youtu.be/1ZnOHqyEa80>
 - vokope howto <https://youtu.be/5ucaSElLFB8>
 </details>
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/872354477255065650/image0.png)  
 	
-<details markdown="block">
+<details open markdown="block">
   <summary>
-    PE: Orbital Overdrive (Moon Time-Attack) 
+    PE: The Milliseconds Between (No air) 
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/852403800887132171/870192741710196796/image0.png)  
+![](https://cdn.discordapp.com/attachments/852315313286545448/872036169897082890/image0.png)  
 	
 </details>
 	
