@@ -138,11 +138,7 @@ Boodles             1
 
 **Joins in July**     
 ```
-  Groot 🟥🟥
-   Dada 🟧
-Getzata 🟨🟨🟨🟨🟨
- Spyder 🟩🟩
-  Lone* 🟦
+Getzata 🟨
 ```
 
 **Season Winners**
