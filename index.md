@@ -66,7 +66,7 @@ videos <https://www.youtube.com/results?search_query=hill+climb+racing+2+among+t
 	
 ## Contests
 	
-<details open markdown="block">  
+<details markdown="block">  
   <summary>
     Weekly Kms
   </summary>
