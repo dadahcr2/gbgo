@@ -49,6 +49,7 @@ videos <https://www.youtube.com/results?search_query=hill+climb+racing+2+among+t
 - vokope <https://www.youtube.com/watch?v=XhEuchV02bY>  
 - CIS 36k <https://youtu.be/1ZnOHqyEa80>
 - vokope howto <https://youtu.be/5ucaSElLFB8>
+- roseyt mono T3 <https://youtu.be/E-feifMCq9w>
 </details>
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/872354477255065650/image0.png)  
