@@ -168,20 +168,20 @@ July: **Tractor-Gloomvale**
 
 **Last Contest Results**
 
-June until month-end: ***Mono - Winter***
+July: **Tractor-Gloomvale**
 
-🏆Date 4081m  
-🥈Josey 3690m  
-🥉Omelette 3299m  
+🏆LnL 4357m 
+🥈Getzata  4353m
+🥉Mr Fixit  3670m
 
- 4: Groot  
- 5: 🐝   
- 6: Harry  
- 7: Mr F  
- 8: Spyder  
- 9: Sidewinder  
-10:Lonestar  
-  
+ 4: date
+ 5: Boodles
+ 6: Josey
+ 7: Camaro
+ 8: dada
+ 9: native
+10: Nesorac
+
 **2021 Adventure Roll of Honor**  
 ```
             🥇   🥈    
@@ -189,10 +189,12 @@ June until month-end: ***Mono - Winter***
 Date         5         
 T            1    2    
 Nesorac      2   
+LNL          1
 Lonestar          2     
 Josey             2   
 Spyder            1   
 Omelette          1   
+Getzata           1
 ————————————————————   
 ```
 <br>  	
