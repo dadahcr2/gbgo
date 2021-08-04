@@ -155,16 +155,16 @@ Getzata 🟨
 
 <br>  	
 </details>
-<details markdown="block">
+<details open markdown="block">
   <summary>
     Adventure
   </summary>
   {: .text-delta }
 	
 ### Adventure Contest	
-July: **Tractor-Gloomvale**  
+<div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 	
-![](https://stlmotherhood.com/wp-content/uploads/2020/10/grants-farm-halloween02.jpg.webp)  
+![](https://cdn.discordapp.com/attachments/820286421323350032/871435840872648704/image0.png)
 
 **Last Contest Results**
 
