@@ -40,7 +40,10 @@
 **All Vehicles**  
 	
 ![](https://cdn.discordapp.com/attachments/850761577320677396/873255528321646592/image.png)
-	
+
+Videos
+- vokope how to <https://youtu.be/0ZkFS7rhTaY> TIps: [1](https://cdn.discordapp.com/attachments/858017263989948447/873343397589561394/image0.jpg) [2](https://cdn.discordapp.com/attachments/858017329509171201/873343548458688522/image0.jpg) [3](https://cdn.discordapp.com/attachments/858017412174577716/873344096775852122/image0.jpg) [4](https://cdn.discordapp.com/attachments/858017616181461022/873344229655580714/image0.jpg) [5](https://cdn.discordapp.com/attachments/858017681420189696/873344359771279360/image0.jpg)
+
 ![](https://cdn.discordapp.com/attachments/750874271022317678/873332863020433428/image0.png)  
 
 **10K Setups**
