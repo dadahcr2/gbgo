@@ -39,7 +39,7 @@
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/873085911720661022/image0.png)
 
-![](https://cdn.discordapp.com/attachments/858017263989948447/873121504429219861/image0.jpg)![](https://cdn.discordapp.com/attachments/858017329509171201/873121580979486740/image0.png)![](https://cdn.discordapp.com/attachments/858017412174577716/873121643499757568/image0.png)![](https://cdn.discordapp.com/attachments/858017616181461022/873121708322746418/image0.png)![](https://cdn.discordapp.com/attachments/858017681420189696/873121791374159942/image0.png)
+![](https://cdn.discordapp.com/attachments/750874271022317678/873128553951137852/image0.jpg)
 	
 </details>
 <details open markdown="block">
