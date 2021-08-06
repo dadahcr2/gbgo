@@ -41,7 +41,7 @@
 	
 ![](https://cdn.discordapp.com/attachments/850761577320677396/873255528321646592/image.png)
 	
-![](https://cdn.discordapp.com/attachments/750874271022317678/873332863020433428/image0.png'  
+![](https://cdn.discordapp.com/attachments/750874271022317678/873332863020433428/image0.png)  
 
 **10K Setups**
 ![](https://cdn.discordapp.com/attachments/750874271022317678/873128553951137852/image0.jpg)
