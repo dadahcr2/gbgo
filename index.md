@@ -73,7 +73,7 @@ Videos
 
 ![](https://cdn.discordapp.com/attachments/864520500007927819/873016114664321064/image0.jpg)
 	
-</details>
+</details>   
 	
 ***
 	
@@ -220,7 +220,7 @@ Getzata           1
 ### Tournaments 
 - Tractor Wars: <http://tw.hcr2.info> (daily on a break)
 - Friendly Wars: <http://fw.hcr2.info>
-</details>  	
+</details>   	
 
 	
 ***
@@ -289,7 +289,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](h
 2. Buy chests/coins with gems in the shop  
 3. Scrap parts that may be needed in the future  
 4. Use the scrapyard if tired or impaired  	
-</details>
+</details>  
 
 	
 ***
@@ -382,7 +382,7 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 	
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
-</details> 	
+</details>  	
 
 	
 ***
