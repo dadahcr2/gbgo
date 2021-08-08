@@ -383,7 +383,6 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
 
 </details>  	
-<br>
 	
 ***
 
