@@ -121,7 +121,7 @@ Rules:
 ——————————————————————
 
 Dada      8    8  
-Getzata   7    2  
+Getzata   7    6    2  
 Date      2    3   10    
 Boodles             2 
 PDB                 1 
