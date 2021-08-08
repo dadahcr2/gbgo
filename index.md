@@ -168,7 +168,7 @@ Getzata 🟨
 
 <br>  	
 </details>
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     Adventure
   </summary>
