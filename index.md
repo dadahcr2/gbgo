@@ -86,7 +86,7 @@ videos <https://www.youtube.com/results?search_query=hill+climb+racing+2+among+t
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/872354477255065650/image0.png)  
 	
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     PE: The Milliseconds Between (No air) 
   </summary>
