@@ -42,7 +42,7 @@
 ![](https://cdn.discordapp.com/attachments/850761577320677396/873255528321646592/image.png)
 
 1. **monster wing AB coin susp=18** - Green Cup - Spartan Racing
-2. **supercar wing AB OT airbrake=15** (reverse a touch at start) / rotator wing wheelie AB / sbike wing AB OG (wait until end of countdown before pressing gas) - Big Air Cup - Big Air - [RotatorVid](https://cdn.discordapp.com/attachments/858017329509171201/873732177207111722/image0.gif)  
+2. **supercar wing AB OT airbrake=15 (reverse a touch at start) / rotator wing wheelie AB / sbike wing AB OG (wait until end of countdown before pressing gas)** - Big Air Cup - Big Air - [RotatorVid](https://cdn.discordapp.com/attachments/858017329509171201/873732177207111722/image0.gif)  
 3. **Hotrod mag coin fuel** - Epic Hills - Belter Road - [vid](https://images-ext-2.discordapp.net/external/BNrDVBGHRxMhUuv6w_VZ-ToZIOkFOf_-BBggxH-XQ6A/https/i.imgur.com/K6Z8shD.mp4)
 4. **diesel start JS thruster** / rally tires AB coin/OT - Tunnels - Tunnels Vision
 5. **Rotator Wing AB Fuel Brain=1** / sbike wing AB OT susp=18 Df=15 - Finger Travels - Kids Pool - [vid](https://images-ext-1.discordapp.net/external/IdJf5EB5kRpOQ0Q4RKQi9yQ4HibCyzVowSi3l0tLwXc/https/i.imgur.com/aDTkz2J.mp4)  
