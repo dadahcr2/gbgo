@@ -41,14 +41,14 @@
 	
 ![](https://cdn.discordapp.com/attachments/850761577320677396/873255528321646592/image.png)
 
-1. Green Cup - Spartan Racing - **monster wing AB coin susp=18**
-2. Big Air Cup - Big Air - **supercar wing AB OT airbrake=15** (reverse a touch at start) rotator wing wheelie AB - [RotatorVid](https://cdn.discordapp.com/attachments/858017329509171201/873732177207111722/image0.gif)  
-3. Epic Hills - Belter Road - **Hotrod mag coin fuel** - [vid](https://images-ext-2.discordapp.net/external/BNrDVBGHRxMhUuv6w_VZ-ToZIOkFOf_-BBggxH-XQ6A/https/i.imgur.com/K6Z8shD.mp4)
-4. Tunnels - Tunnels Vision - **diesel start JS thruster** rally tires AB coin/OT 
-5. Finger Travels - Kids Pool - sbike wing AB OT susp=18 Df=15 / **Rotator Wing AB Fuel Brain=1** - [vid](https://images-ext-1.discordapp.net/external/IdJf5EB5kRpOQ0Q4RKQi9yQ4HibCyzVowSi3l0tLwXc/https/i.imgur.com/aDTkz2J.mp4)  
+1. **monster wing AB coin susp=18** - Green Cup - Spartan Racing
+2. **supercar wing AB OT airbrake=15** (reverse a touch at start) / rotator wing wheelie -  AB Big Air Cup - Big Air - [RotatorVid](https://cdn.discordapp.com/attachments/858017329509171201/873732177207111722/image0.gif)  
+3. **Hotrod mag coin fuel** - Epic Hills - Belter Road - [vid](https://images-ext-2.discordapp.net/external/BNrDVBGHRxMhUuv6w_VZ-ToZIOkFOf_-BBggxH-XQ6A/https/i.imgur.com/K6Z8shD.mp4)
+4. **diesel start JS thruster** / rally tires AB coin/OT - Tunnels - Tunnels Vision
+5. **Rotator Wing AB Fuel Brain=1** / sbike wing AB OT susp=18 Df=15 - Finger Travels - Kids Pool - [vid](https://images-ext-1.discordapp.net/external/IdJf5EB5kRpOQ0Q4RKQi9yQ4HibCyzVowSi3l0tLwXc/https/i.imgur.com/aDTkz2J.mp4)  
 	
 Videos
-- vokope how to <https://youtu.be/0ZkFS7rhTaY> TIps: [1](https://cdn.discordapp.com/attachments/858017263989948447/873343397589561394/image0.jpg) [2](https://cdn.discordapp.com/attachments/858017329509171201/873343548458688522/image0.jpg) [3](https://cdn.discordapp.com/attachments/858017412174577716/873344096775852122/image0.jpg) [4](https://cdn.discordapp.com/attachments/858017616181461022/873344229655580714/image0.jpg) [5](https://cdn.discordapp.com/attachments/858017681420189696/873344359771279360/image0.jpg)  
+- vokope how to <https://youtu.be/0ZkFS7rhTaY> TIps: [T1](https://cdn.discordapp.com/attachments/858017263989948447/873343397589561394/image0.jpg) [T2](https://cdn.discordapp.com/attachments/858017329509171201/873343548458688522/image0.jpg) [T3](https://cdn.discordapp.com/attachments/858017412174577716/873344096775852122/image0.jpg) [T4](https://cdn.discordapp.com/attachments/858017616181461022/873344229655580714/image0.jpg) [T5](https://cdn.discordapp.com/attachments/858017681420189696/873344359771279360/image0.jpg)  
 - linus 42k <https://youtu.be/10MFaihMr88>  
 
 **10K Setups**
