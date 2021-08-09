@@ -79,19 +79,19 @@ Videos
 	
 ## Contests
 	
-<details markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest  
 **Podium**  
-🥇 Getzata   
-🥈 Boodles      
+🥇 Boodles    
+🥈 Getzata     
 🥉 Stand09  
  
 **Top 10**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/871573129628102696/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/874083225868312666/image0.png)  
 <br>  
 </details>  
 	
@@ -151,7 +151,8 @@ MrFixit             1
 
 **Joins in July**     
 ```
-Getzata 🟨
+Getzata  🟨
+Omelette ⬜️
 ```
 
 **Season Winners**
