@@ -64,7 +64,7 @@ Videos
 ***
 </details>
 	
-<details  markdown="block">
+<details open markdown="block">
   <summary>
     PE: Ticking Clock (Flip Bonus)
   </summary>
