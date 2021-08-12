@@ -69,7 +69,7 @@ Videos
     PE: Ticking Clock (Flip Bonus)
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/871952750160801832/874868645078130708/6DA67A53-FF16-483F-8B77-00A9E55FB22B.png)  
+![](https://cdn.discordapp.com/attachments/871952750160801832/875276857950470154/image0.png)  
 
 </details>   
 	
