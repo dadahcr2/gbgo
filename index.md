@@ -36,8 +36,9 @@
   </summary>	
 <br>
 
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/875617675265572904/image0.png)  
 ![scooter2] ![tractor2] ![chopper2] ![formula2] ![supercar2] 
-![](https://cdn.discordapp.com/attachments/851566907920089128/875617675265572904/image0.png)
 
 1. wheelie in mine - formula Wi WT Magnet
 2. Hill climb in the mine - tractor WT Wing
