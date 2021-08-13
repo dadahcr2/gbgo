@@ -30,6 +30,24 @@
 
 ## Events
 
+ <details open markdown="block">
+  <summary>
+    TE: Mine-themed event preview
+  </summary>	
+<br>
+
+![scooter2] ![tractor2] ![chopper2] ![formjla2] ![supercar2] 
+![](https://cdn.discordapp.com/attachments/851566907920089128/875617675265572904/image0.png)
+
+1. wheelie in mine - formula Wi WT Magnet
+2. Hill climb in the mine - tractor WT Wing
+3. no fuel distance - mine - kangascooter / chopper wing LB fume
+4. Rock and Roll (More Mines) - supercar
+
+
+<br>
+</details>
+
 <details open markdown="block">
   <summary>
     TE: Floor It
