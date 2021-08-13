@@ -36,7 +36,7 @@
   </summary>	
 <br>
 
-![scooter2] ![tractor2] ![chopper2] ![formjla2] ![supercar2] 
+![scooter2] ![tractor2] ![chopper2] ![formula2] ![supercar2] 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/875617675265572904/image0.png)
 
 1. wheelie in mine - formula Wi WT Magnet
@@ -96,7 +96,7 @@ Videos
 	
 ## Contests
 	
-<details open markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -112,7 +112,7 @@ Videos
 <br>  
 </details>  
 	
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
