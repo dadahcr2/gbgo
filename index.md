@@ -50,6 +50,7 @@
 Videos
 - vokope how to <https://youtu.be/0ZkFS7rhTaY> TIps: [T1](https://cdn.discordapp.com/attachments/858017263989948447/873343397589561394/image0.jpg) [T2](https://cdn.discordapp.com/attachments/858017329509171201/873343548458688522/image0.jpg) [T3](https://cdn.discordapp.com/attachments/858017412174577716/873344096775852122/image0.jpg) [T4](https://cdn.discordapp.com/attachments/858017616181461022/873344229655580714/image0.jpg) [T5](https://cdn.discordapp.com/attachments/858017681420189696/873344359771279360/image0.jpg)  
 - linus 42k <https://youtu.be/10MFaihMr88>  
+- st|B-ret 39k + getzata, sb & boodles <https://youtu.be/FuW8soBhTRU>  
 
 **10K Setups**
 ![](https://cdn.discordapp.com/attachments/750874271022317678/873128553951137852/image0.jpg)
