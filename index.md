@@ -50,8 +50,8 @@
 	- [Tip](https://cdn.discordapp.com/attachments/858017616181461022/875830316860854323/image0.jpg) - [vF1](https://images-ext-2.discordapp.net/external/q1S6HqxbwWGH9xfGk9l1UV_zXYODDlimgG450zlre_w/https/i.imgur.com/gHKrcj5.mp4) - [vCh](https://images-ext-2.discordapp.net/external/23XFrefMLptHbPx3Wk9VnwNNntMC37dsu-1i87h8LNM/https/i.imgur.com/DCrGWr8.mp4) - [vSc](https://images-ext-2.discordapp.net/external/cRNBVGowFIJvQJjJBXopun-8p53QbrRS39rzvodSCFs/https/i.imgur.com/MMaycTI.mp4)
 
 Videos
-- [YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+crunch%22)
-- Vokope Howto ![](https://youtu.be/6Z8iGBxBsm4)  
+- YT Search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+crunch%2>
+- Vokope Howto <https://youtu.be/6Z8iGBxBsm4> 
 <br>
 </details>
 
