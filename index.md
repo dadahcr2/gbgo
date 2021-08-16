@@ -46,7 +46,7 @@
 	- [Tip](https://cdn.discordapp.com/attachments/858017329509171201/875829548283994142/image0.jpg)- [Vid](https://images-ext-1.discordapp.net/external/OZeoPK7M16b6tQ3JJywE2P7PSuw_0esMGiDQmEvDhlU/https/i.imgur.com/vFD5S87.mp4)
 3. **chopper wing LB coin / kangascooter** - no fuel distance mine  
 	- [Tip](https://cdn.discordapp.com/attachments/858017412174577716/875830020977864785/image0.jpg) - [Vid](https://images-ext-1.discordapp.net/external/2wvSk3tP38OYSFp6SwkrTio09-oyoHfZM6sY3hhgBQU/https/i.imgur.com/gqEY0Od.mp4)
-4. Supercar SB JS AB / Chopper Wi LB Fuel / Formula SB JS LB - Rock and Roll (More Mines)     
+4. Supercar SB JS AB / Chopper susp=1 Wi LB Fuel / Formula SB JS LB - Rock and Roll (More Mines)     
 	- [Tip](https://cdn.discordapp.com/attachments/858017616181461022/875830316860854323/image0.jpg) - [vF1](https://images-ext-2.discordapp.net/external/q1S6HqxbwWGH9xfGk9l1UV_zXYODDlimgG450zlre_w/https/i.imgur.com/gHKrcj5.mp4) - [vCh](https://images-ext-2.discordapp.net/external/23XFrefMLptHbPx3Wk9VnwNNntMC37dsu-1i87h8LNM/https/i.imgur.com/DCrGWr8.mp4) - [vSc](https://images-ext-2.discordapp.net/external/cRNBVGowFIJvQJjJBXopun-8p53QbrRS39rzvodSCFs/https/i.imgur.com/MMaycTI.mp4)
 
 Videos
