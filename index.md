@@ -54,43 +54,8 @@ Videos
 - Vokope Howto <https://youtu.be/6Z8iGBxBsm4> 
 <br>
 </details>
-
-<details open markdown="block">
-  <summary>
-    TE: Floor It
-  </summary>	
-<br>
-![](https://c.tenor.com/UpUQr4nMF1AAAAAC/ok-floor-it-spongebob.gif)
 	
-**All Vehicles**  
-	
-![](https://cdn.discordapp.com/attachments/850761577320677396/873255528321646592/image.png)
-
-1. **monster wing AB coin susp=18** - Green Cup - Spartan Racing
-2. **supercar wing AB OT airbrake=15 (reverse a touch at start) / rotator wing wheelie AB / sbike wing AB OT (wait until end of countdown before pressing gas)** - Big Air Cup - Big Air - [RotatorVid](https://cdn.discordapp.com/attachments/858017329509171201/873732177207111722/image0.gif)  
-3. **Hotrod mag coin fuel** - Epic Hills - Belter Road - [vid](https://images-ext-2.discordapp.net/external/BNrDVBGHRxMhUuv6w_VZ-ToZIOkFOf_-BBggxH-XQ6A/https/i.imgur.com/K6Z8shD.mp4)
-4. **diesel start JS thruster** / rally tires AB coin/OT - Tunnels - Tunnels Vision
-5. **Rotator Wing AB Fuel** / sbike wing AB OT susp=18 Df=15 - Finger Travels - Kids Pool - [vid](https://images-ext-1.discordapp.net/external/IdJf5EB5kRpOQ0Q4RKQi9yQ4HibCyzVowSi3l0tLwXc/https/i.imgur.com/aDTkz2J.mp4)  
-	
-Videos
-- vokope how to <https://youtu.be/0ZkFS7rhTaY> TIps: [T1](https://cdn.discordapp.com/attachments/858017263989948447/873343397589561394/image0.jpg) [T2](https://cdn.discordapp.com/attachments/858017329509171201/873343548458688522/image0.jpg) [T3](https://cdn.discordapp.com/attachments/858017412174577716/873344096775852122/image0.jpg) [T4](https://cdn.discordapp.com/attachments/858017616181461022/873344229655580714/image0.jpg) [T5](https://cdn.discordapp.com/attachments/858017681420189696/873344359771279360/image0.jpg)  
-- linus 42k <https://youtu.be/10MFaihMr88>  
-- st|B-ret 39k + getzata, sb & boodles <https://youtu.be/FuW8soBhTRU>  
-
-**10K Setups**
-![](https://cdn.discordapp.com/attachments/750874271022317678/873128553951137852/image0.jpg)
-
-**"10k" Videos**  
-1. [sportscar start JS LB](https://images-ext-2.discordapp.net/external/ippLoInBjBdyhzNgDY8_yziaDOIZeIAQKxMYH9RzBBc/https/i.imgur.com/1YzF83u.mp4)
-2. [Formula start JS LB](https://images-ext-1.discordapp.net/external/16QC7Cgl3UDbTfpfk4OUUM1pANWwVf2zxCanZ8pR28A/https/i.imgur.com/T4MDIkP.mp4)
-3. [diesel wing JS LB](https://images-ext-1.discordapp.net/external/mf3xyNbA_OtfiRFDHOhlIlgPO4JY9NXsAww-PoES8d4/https/i.imgur.com/EftVysB.mp4)
-4. [sbike tire start AB](https://images-ext-2.discordapp.net/external/xz9vSSJmMx__La2heSLLDk1aH5uCvqxpPYDxytyQZ4s/https/i.imgur.com/NO8E4of.mp4)
-5. [rotator flip AB OT](https://images-ext-1.discordapp.net/external/UvtNsBEtL5esKyVZJQRFSGY-xc_HTPYdbMjqQstu2MQ/https/i.imgur.com/DjyU7oy.mp4)
-
-***
-</details>
-	
-<details open markdown="block">
+<details markdown="block">
   <summary>
     PE: Ticking Clock (Flip Bonus)
   </summary>
@@ -103,19 +68,15 @@ Videos
 	
 ## Contests
 	
-<details  markdown="block">  
+<details  open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
-### Weekly Kms Contest  
-**Podium**  
-🥇 Boodles    
-🥈 Getzata     
-🥉 Stand09  
+### Weekly Kms Contest    
  
 **Top 10**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/874083225868312666/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/876679556755505192/image0.png)  
 <br>  
 </details>  
 	
