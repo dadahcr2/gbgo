@@ -92,13 +92,14 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 17 Results**
+**Week 18 Results**
 ```
-🥇 Getz 5x3+2x2+1=19
-🥈 dada 3+4x2+1=12
-🥉 Boodles 3+2x1=5
-🥉 date 2+3x1=5
-🏅 Lone*=1
+🥇 Getz 6x3+2=20
+🥈 date 3+4x2=11
+🥉 Boodles 2+4x1=6
+🏅 Spyder 2
+🏅 Chelle 2
+🏅 gramps 1
 
 2021 Time Trial Roll of Honor
 
@@ -106,9 +107,9 @@ Rules:
 ——————————————————————
 
 Dada      8    8  
-Getzata   7    6    2  
-Date      2    3   10    
-Boodles             2 
+Getzata   8    6    2  
+Date      2    4   10    
+Boodles             3 
 PDB                 1 
 Spyder              1   
 MrFixit             1   
