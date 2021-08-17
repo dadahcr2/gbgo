@@ -42,7 +42,7 @@
 
 1. **formula default paint s=1 d=1 Wing Tires Magnet** - wheelie mine  
 	- [Tip](https://cdn.discordapp.com/attachments/858017263989948447/875829335334989854/image0.jpg) - [Vid](https://images-ext-1.discordapp.net/external/j_d4iRVNBHcEgY8OBBaXxKMLw9n3Bw-OPhP4-zViSvE/https/i.imgur.com/TVAyrRf.mp4) 
-2. **tractor D=1 Tires Wing Wheelie**/fume or supercar tires fume coin airbr=1 - Hill climb mine  
+2. **tractor D=1 s=18/17 Tires Wing Wheelie**/fume or supercar tires fume coin airbr=1 - Hill climb mine  
 	- [Tip](https://cdn.discordapp.com/attachments/858017329509171201/875829548283994142/image0.jpg)- [Vid](https://images-ext-1.discordapp.net/external/OZeoPK7M16b6tQ3JJywE2P7PSuw_0esMGiDQmEvDhlU/https/i.imgur.com/vFD5S87.mp4)
 3. **chopper wing LB coin / kangascooter** - no fuel distance mine  
 	- [Tip](https://cdn.discordapp.com/attachments/858017412174577716/875830020977864785/image0.jpg) - [Vid](https://images-ext-1.discordapp.net/external/2wvSk3tP38OYSFp6SwkrTio09-oyoHfZM6sY3hhgBQU/https/i.imgur.com/gqEY0Od.mp4)
