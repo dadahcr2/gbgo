@@ -55,12 +55,12 @@ Videos
 <br>
 </details>
 	
-<details markdown="block">
+<details open markdown="block">
   <summary>
-    PE: Ticking Clock (Flip Bonus)
+    PE: Back Wheel Blues (Wheelie)
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/871952750160801832/875276857950470154/image0.png)  
+![](https://cdn.discordapp.com/attachments/850235181507149854/877402514016849930/image0.png)  
 
 </details>   
 	
@@ -68,7 +68,7 @@ Videos
 	
 ## Contests
 	
-<details  open markdown="block">  
+<details   markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -80,7 +80,7 @@ Videos
 <br>  
 </details>  
 	 
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
