@@ -60,7 +60,7 @@ Videos
     PE: Back Wheel Blues (Wheelie)
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850235181507149854/877402514016849930/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/877730728157270026/image0.png)  
 
 </details>   
 	
