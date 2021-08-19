@@ -294,6 +294,7 @@ Name | Link
 : -- | :--  
 *Lonestar | <https://playhcr.com/invite?id=YAKzzp>  
 69Camaro | <https://playhcr.com/invite?id=6YgJX4>  
+Bone | <https://playhcr.com/invite?id=DmP7B2>  
 Boodles | <https://playhcr.com/invite?id=N4qzEl>  
 Canis | <https://playhcr.com/invite?id=oBy7Md>  
 Chelle | <https://playhcr.com/invite?id=N4ZO0a>  
