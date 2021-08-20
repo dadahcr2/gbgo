@@ -55,7 +55,7 @@ Videos
 <br>
 </details>
 	
-<details  markdown="block">
+<details open markdown="block">
   <summary>
     TE: Automotive Aggression
   </summary>	
@@ -65,6 +65,11 @@ Videos
 ![mk22] ![moto2]![rotator2] ![tank2] ![rally2]   
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/878409453458837534/image0.png)  
+
+1. Rotator 17172001 SB AB wing, The Pond (Cup in the Woods) 
+2. Tank Wing JS Thrust, Target Jump (Mountain)	
+3. Rally Wing AB coin, Timed (Uphill Climb)	
+4. MK2, Wing JS LB, Multi-Jump (Beach)
 
 Videos
 - search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+automotive+aggression%22>  
