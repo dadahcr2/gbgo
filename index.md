@@ -23,8 +23,12 @@
 {: .text-delta}  
      
 ![](https://rentry.co/fwdaily/png)
-<!-- <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
-<div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>-->
+	
+<!--
+ <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
+<div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
+-->
+	
 </details>	   
 
 ***   
@@ -110,8 +114,9 @@ Videos
   </summary>
   {: .text-delta }	
 ### Daily Time Trial Contest
-<div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
-
+<!--
+	<div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
+-->
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
@@ -161,7 +166,7 @@ MrFixit             1
 
 **Joins in July**     
 ```
-Getzata  🟨🟨
+Getzata  🟨🟨🟨🟨
 Omelette ⬜️
 ```
 
@@ -186,8 +191,9 @@ Omelette ⬜️
   {: .text-delta }
 	
 ### Adventure Contest	
+<!--
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
-	
+-->
 ![](https://cdn.discordapp.com/attachments/820286421323350032/871435840872648704/image0.png)
 
 **Last Contest Results**
