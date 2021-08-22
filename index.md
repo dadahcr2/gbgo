@@ -35,30 +35,7 @@
 
 ## Events
 
- <details open markdown="block">
-  <summary>
-    TE: Crunch
-  </summary>	
-<br>
-
-
-![](https://cdn.discordapp.com/attachments/750874271022317678/875929164321030174/image0.jpg)  
-![scooter2] ![tractor2] ![chopper2] ![formula2] ![supercar2] 
-
-1. **formula default paint s=1 d=1 Wing Tires Magnet** - wheelie mine  
-	- [Tip](https://cdn.discordapp.com/attachments/858017263989948447/875829335334989854/image0.jpg) - [Vid](https://images-ext-1.discordapp.net/external/j_d4iRVNBHcEgY8OBBaXxKMLw9n3Bw-OPhP4-zViSvE/https/i.imgur.com/TVAyrRf.mp4) 
-2. **tractor D=1 s=18/17 Tires Wing Wheelie**/fume or supercar tires fume coin airbr=1 - Hill climb mine  
-	- [Tip](https://cdn.discordapp.com/attachments/858017329509171201/875829548283994142/image0.jpg)- [Vid](https://images-ext-1.discordapp.net/external/OZeoPK7M16b6tQ3JJywE2P7PSuw_0esMGiDQmEvDhlU/https/i.imgur.com/vFD5S87.mp4)
-3. **chopper wing LB coin / kangascooter** - no fuel distance mine  
-	- [Tip](https://cdn.discordapp.com/attachments/858017412174577716/875830020977864785/image0.jpg) - [Vid](https://images-ext-1.discordapp.net/external/2wvSk3tP38OYSFp6SwkrTio09-oyoHfZM6sY3hhgBQU/https/i.imgur.com/gqEY0Od.mp4)
-4. Supercar SB JS AB / **Chopper susp=1 Wi LB Fuel/AB / Formula SB JS LB** - Rock and Roll (More Mines)     
-	- [Tip](https://cdn.discordapp.com/attachments/858017616181461022/875830316860854323/image0.jpg) - [vF1](https://images-ext-2.discordapp.net/external/q1S6HqxbwWGH9xfGk9l1UV_zXYODDlimgG450zlre_w/https/i.imgur.com/gHKrcj5.mp4) - [vCh](https://images-ext-2.discordapp.net/external/23XFrefMLptHbPx3Wk9VnwNNntMC37dsu-1i87h8LNM/https/i.imgur.com/DCrGWr8.mp4) - [vSc](https://images-ext-2.discordapp.net/external/cRNBVGowFIJvQJjJBXopun-8p53QbrRS39rzvodSCFs/https/i.imgur.com/MMaycTI.mp4) - [Challenge](https://playhcr.com/challenge?id=dbW95qy)
-
-Videos
-- YT Search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+crunch%2>
-- Vokope Howto <https://youtu.be/6Z8iGBxBsm4> 
-<br>
-</details>
+ 
 	
 <details open markdown="block">
   <summary>
@@ -71,9 +48,9 @@ Videos
 
 ![](https://cdn.discordapp.com/attachments/806343355264401478/878409453458837534/image0.png)  
 
-1. Rotator 17172001 SB AB wing, The Pond (Cup in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/878340936424374332/image0.jpg) 
+1. Rotator 17172001 SB AB wing, The Pond (Cup in the Woods) - [vtip]- [tip2](https://cdn.discordapp.com/attachments/858017263989948447/878796390501863444/image0.jpg)(https://cdn.discordapp.com/attachments/858017263989948447/878340936424374332/image0.jpg) 
 2. Tank Wing JS Thrust, Target Jump (Mountain) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/878341136345874513/image0.jpg)
-3. Rally Wing AB coin, Timed (Uphill Climb) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/878341227441950780/image0.jpg)	
+3. Rally Wing AB coin, Timed (Uphill Climb) - [vtip]- [tip2]()(https://cdn.discordapp.com/attachments/858017412174577716/878341227441950780/image0.jpg)	- [tips2](https://cdn.discordapp.com/attachments/858017412174577716/878796561528782858/image0.jpg)
 4. MK2, Wing JS LB, Multi-Jump (Beach) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/878341325987143750/image0.jpg)
 
 Videos
