@@ -85,7 +85,7 @@ Videos
 <br>  
 </details>  
 	 
-<details  markdown="block">
+<details open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -98,24 +98,24 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
-**Week 18 Results**
+**Week 19 Results**
 ```
 🥇 Getz 6x3+2=20
-🥈 date 3+4x2=11
-🥉 Boodles 2+4x1=6
-🏅 Spyder 2
+🥈 date 3+3x2=9
+🥉 Boodles 2x2+1=5
+🏅 dada 5
 🏅 Chelle 2
-🏅 gramps 1
+🏅 Mr F 1
 
 2021 Time Trial Roll of Honor
 
          🥇   🥈   🥉
 ——————————————————————
 
+Getzata   9    6    2  
 Dada      8    8  
-Getzata   8    6    2  
-Date      2    4   10    
-Boodles             3 
+Date      2    6   10    
+Boodles             4
 PDB                 1 
 Spyder              1   
 MrFixit             1   
