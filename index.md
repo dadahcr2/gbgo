@@ -81,7 +81,7 @@ Videos
 ### Weekly Kms Contest    
  
 **Top 10**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/876679556755505192/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/879198832099991643/image0.png)  
 <br>  
 </details>  
 	 
