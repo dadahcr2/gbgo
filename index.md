@@ -50,8 +50,9 @@
 
 1. Rotator 17172001 SB AB wing, The Pond (Cup in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/878340936424374332/image0.jpg) - [tip2](https://cdn.discordapp.com/attachments/858017263989948447/878796390501863444/image0.jpg)
 2. Tank Wing JS Thrust, Target Jump (Mountain) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/878341136345874513/image0.jpg)
-3. Rally Wing AB coin, Timed (Uphill Climb) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/878341227441950780/image0.jpg)	- [tips2](https://cdn.discordapp.com/attachments/858017412174577716/878796561528782858/image0.jpg)
-4. MK2, Wing JS LB, Multi-Jump (Beach) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/878341325987143750/image0.jpg)
+3. Rally Wing AB/tires coin, Timed (Uphill Climb) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/878341227441950780/image0.jpg)	- [tips2](https://cdn.discordapp.com/attachments/858017412174577716/878796561528782858/image0.jpg)
+4. MK2 rc=1 Wing JS LB, Multi-Jump (Beach) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/878341325987143750/image0.jpg)  
+	- cis 1000m <https://youtu.be/dcKrPZzJ64o>  
 
 Videos
 - search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+automotive+aggression%22>  
