@@ -143,8 +143,9 @@ MrFixit             1
 
 **Joins in July**     
 ```
-Getzata  🟨🟨🟨🟨
+Getzata  🟨🟨🟨🟨🟨
 Omelette ⬜️
+Spyder   🟥
 ```
 
 **Season Winners**
