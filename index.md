@@ -60,7 +60,7 @@ Videos
 <br>	
 </details>
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     PE: Back Wheel Blues (Wheelie)
   </summary>
