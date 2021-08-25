@@ -63,12 +63,12 @@ Videos
 <br>	
 </details>
 
-<details markdown="block">
+<details open markdown="block">
   <summary>
-    PE: Back Wheel Blues (Wheelie)
+    PE: Team Building Exercise
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850232585707323402/877730728157270026/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/879938852087812156/image0.jpg)  
 
 </details>   
 	
@@ -76,7 +76,7 @@ Videos
 	
 ## Contests
 	
-<details  open  markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -88,7 +88,7 @@ Videos
 <br>  
 </details>  
 	 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Daily Time Trial
   </summary>
