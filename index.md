@@ -70,6 +70,7 @@ Videos
 <br>	
 ![](https://cdn.discordapp.com/attachments/850232585707323402/879938852087812156/image0.jpg)  
 
+![](https://www.resourcefulmanager.com/wp-content/uploads/teambuildingcover.png)
 </details>   
 	
 ***
