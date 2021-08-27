@@ -71,7 +71,11 @@ Videos
 <br>	
 ![](https://cdn.discordapp.com/attachments/662142801084940298/880676554181595186/image0.png)  
 	
-![](https://cdn.discordapp.com/attachments/850222164065648680/880685234956402688/image0.png)  
+1. Monster weight start AB, Breaking, Demolition 5
+2. RT df=1 wing fuel LB, Fury Road (Spring City)
+3. HR magnet coin fuel, Cargo, A Bridge Too Far (Capital Cup) 
+4. SD wing JS LB, No Fuel, City Adventure
+	
 <br>	
 </details>
 	
