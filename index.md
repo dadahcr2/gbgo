@@ -75,11 +75,14 @@ bus monster SD RT HR
 2. RT df=1 wing fuel LB, Fury Road (Spring City)
 3. HR magnet coin fuel, Cargo, A Bridge Too Far (Capital Cup) 
 4. SD wing JS LB, No Fuel, City Adventure
-	
+
+Videos
+- search: <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+group+therapy%22>
+- io 29k <https://youtu.be/qHlBh-gMevg>
 <br>	
 </details>
 	
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     PE: Team Building Exercise
   </summary>
