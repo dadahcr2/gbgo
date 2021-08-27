@@ -39,7 +39,7 @@
 
  
 	
-<details open markdown="block">
+<details markdown="block">
   <summary>
     TE: Automotive Aggression
   </summary>	
