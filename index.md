@@ -69,7 +69,7 @@ Videos
     TE: Group Therapy 
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/662142801084940298/880676554181595186/image0.png)  
+bus monster SD RT HR	
 	
 1. Monster weight start AB, Breaking, Demolition 5
 2. RT df=1 wing fuel LB, Fury Road (Spring City)
