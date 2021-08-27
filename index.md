@@ -72,7 +72,7 @@ Videos
 bus monster SD RT HR	
 	
 1. Monster weight start AB, Breaking, Demolition 5 - [map](https://cdn.discordapp.com/attachments/880712810542297148/880712846344871956/image0.jpg)
-2. SD/Bus fume JS thrust or RT df=1 wing fuel LB, Fury Road (Spring City)
+2. SD/Bus fume JS thrust or RT df=1 wing fuel AB/LB, Fury Road (Spring City)
 3. HR magnet coin fuel or tires LB coin, Cargo, A Bridge Too Far (Capital Cup) 
 4. RT Df=1 / SD wing JS LB, No Fuel, City Adventure
 
