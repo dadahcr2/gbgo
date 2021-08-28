@@ -60,7 +60,8 @@ Videos
 - search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+automotive+aggression%22>  
 - v.howto <https://youtu.be/u1716ILR_6Q>
 - master hcr2 <https://youtu.be/OorQ0QJ9YtY>
-
+- dada T2 RacingTruck <https://youtu.be/Swc2OXQtwOg>
+	
 <br>	
 </details>
 
