@@ -37,34 +37,6 @@
 
 ## Events
 
- 
-	
-<details markdown="block">
-  <summary>
-    TE: Automotive Aggression
-  </summary>	
-<br>
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/878291991547510794/image0.png)  
-![mk22] ![moto2]![rotator2] ![tank2] ![rally2]   
-
-![](https://cdn.discordapp.com/attachments/806343355264401478/878409453458837534/image0.png)  
-
-1. Rotator 17172001 SB AB wing, The Pond (Cup in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/878340936424374332/image0.jpg) - [tip2](https://cdn.discordapp.com/attachments/858017263989948447/878796390501863444/image0.jpg)
-2. Tank Wing JS Thrust, Target Jump (Mountain) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/878341136345874513/image0.jpg)
-3. Rally Wing AB/tires coin, Timed (Uphill Climb) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/878341227441950780/image0.jpg)	- [tips2](https://cdn.discordapp.com/attachments/858017412174577716/878796561528782858/image0.jpg)
-4. MK2 rc=1 Wing JS LB, Multi-Jump (Beach) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/878341325987143750/image0.jpg)  
-	- cis 1000m <https://youtu.be/dcKrPZzJ64o>  
-
-Videos
-- search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+automotive+aggression%22>  
-- v.howto <https://youtu.be/u1716ILR_6Q>
-- master hcr2 <https://youtu.be/OorQ0QJ9YtY>
-- dada T2 RacingTruck <https://youtu.be/Swc2OXQtwOg>
-	
-<br>	
-</details>
-
 <details open markdown="block">
   <summary>
     TE: Group Therapy 
@@ -83,6 +55,8 @@ Videos
 - io 29k <https://youtu.be/qHlBh-gMevg>
 - vokope howto <https://www.youtube.com/watch?v=P5fpNqD-IlM>
 - deflo 36.9k <https://youtu.be/BsOR6UeZXr4> 
+- dada T2 RacingTruck <https://youtu.be/Swc2OXQtwOg>
+	
 <br>	
 </details>
 	
