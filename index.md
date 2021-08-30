@@ -74,7 +74,7 @@ Videos
 	
 ## Contests
 	
-<details  markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -82,7 +82,7 @@ Videos
 ### Weekly Kms Contest    
  
 **Top 10**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/879198832099991643/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/881727434339266570/image0.png)  
 <br>  
 </details>  
 	 
@@ -142,23 +142,25 @@ MrFixit             1
   {: .text-delta }
 ### Co-leader Season Contest
 
-**Joins in July**     
+**Joins in August**     
 ```
 Getzata  🟨🟨🟨🟨🟨
 Omelette ⬜️
 Spyder   🟥
+Wolf     🟪
 ```
 
 **Season Winners**
 1. groot & getzata (tied)    
 2. groot  
 3. getzata
+4. getzata
 	
 **`---------------`**  
 **`Tablet of Honor`**    
-`===============`      
+`===============`   
+`Getzata.......3`     
 `Groot.........2`    
-`Getzata.......2`     
 **`---------------`**  
 
 <br>  	
