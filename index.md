@@ -73,7 +73,7 @@ Videos
 	
 ## Contests
 	
-<details open markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -85,7 +85,7 @@ Videos
 <br>  
 </details>  
 	 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -164,7 +164,7 @@ Wolf     🟪
 
 <br>  	
 </details>
-<details  markdown="block">
+<details open markdown="block">
   <summary>
     Adventure
   </summary>
