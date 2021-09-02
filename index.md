@@ -65,7 +65,7 @@ Videos
     PE: KASA Space Program
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850231681595342858/851938736886382602/746F9D32-6A02-4FBA-ADB8-EE0BCADBCF31.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/882832873802047559/image0.png)  
 
 </details>   
 	
