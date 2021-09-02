@@ -189,7 +189,7 @@ August: **Bus - Bog**
 7 mr f   
 8 date   
 9 LNL   
-10. Omelette  
+10 Omelette  
 
 **2021 Adventure Roll of Honor**  
 ```
