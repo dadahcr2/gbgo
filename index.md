@@ -178,33 +178,32 @@ Wolf     🟪
 
 **Last Contest Results**
 
-July: **Tractor-Gloomvale**
-
-🏆LnL 4357m 
-🥈Getzata  4353m
-🥉Mr Fixit  3670m
-
- 4: date
- 5: Boodles
- 6: Josey
- 7: Camaro
- 8: dada
- 9: native
-10: Nesorac
+August: **Bus - Bog**  
+🏆 Nesorac : 8300m  
+🥈 dada 7307m  
+🥉Harry: 3509m  
+4 chelle  
+5 josey   
+6 bee   
+7 mr f   
+8 date   
+9 LNL   
+10. Omelette  
 
 **2021 Adventure Roll of Honor**  
 ```
             🥇   🥈    
 ————————————————————  
 Date         5         
+Nesorac      3   
 T            1    2    
-Nesorac      2   
 LNL          1
 Lonestar          2     
 Josey             2   
 Spyder            1   
 Omelette          1   
 Getzata           1
+Dada              1
 ————————————————————   
 ```
 <br>  	
