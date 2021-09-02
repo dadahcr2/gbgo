@@ -174,7 +174,8 @@ Wolf     🟪
 <!--
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
-![](https://cdn.discordapp.com/attachments/820286421323350032/871435840872648704/image0.png)
+**September: Hotrod - Gloomvale**
+![](https://farm5.static.flickr.com/4151/5044276539_c4ec77f220_b.jpg)
 
 **Last Contest Results**
 
