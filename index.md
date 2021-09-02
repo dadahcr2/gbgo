@@ -62,12 +62,11 @@ Videos
 	
 <details  markdown="block">
   <summary>
-    PE: Team Building Exercise
+    PE: KASA Space Program
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850222120163999794/880307966077714442/image0.jpg)  
+![](https://cdn.discordapp.com/attachments/850231681595342858/851938736886382602/746F9D32-6A02-4FBA-ADB8-EE0BCADBCF31.png)  
 
-![](https://www.resourcefulmanager.com/wp-content/uploads/teambuildingcover.png)
 </details>   
 	
 ***
