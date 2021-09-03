@@ -50,7 +50,7 @@
 ![](https://media.tenor.co/videos/62ab1417356cad2dc38245ba5c14ab1b/mp4)  
 <br>	
 </details>
-<details open markdown="block">
+<details markdown="block">
   <summary>
     TE: Group Therapy 
   </summary>
