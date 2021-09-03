@@ -42,6 +42,11 @@
   </summary>
 <br>	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883240435475177512/image0.png)   
+
+1. Moto Aircontrol Magnet Aircontrol - Moon Flip Bonus
+2. Buggy Wing MAgnet JumpShock (use JS to soften landings - see Linus vid) - Winter Wheelie
+3. Moonlander magnet wheelie coin - uphill climb
+4. sbike df=1 wing Coin AB/OT - classic 3 - [map](https://cdn.discordapp.com/attachments/852048869336678420/864521541978030121/image0.jpg)
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)   
 	
@@ -50,7 +55,7 @@
 ![](https://media.tenor.co/videos/62ab1417356cad2dc38245ba5c14ab1b/mp4)  
 	
 Videos
-- search <>
+- [search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+group+project%22)
 - linus 36k <https://youtu.be/TP0zACxhh1o>
 <br>	
 </details>
