@@ -50,7 +50,7 @@
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)   
 	
-![](https://media.discordapp.net/attachments/799396462857027614/883225187733082162/Untitled_1.png?width=840&height=473)  
+![](https://cdn.discordapp.com/attachments/850222164065648680/883410599646748762/image0.jpg)  
 	
 ![](https://media.tenor.co/videos/62ab1417356cad2dc38245ba5c14ab1b/mp4)  
 	
