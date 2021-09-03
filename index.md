@@ -43,7 +43,7 @@
 <br>	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883240435475177512/image0.png)   
 
-1. Moto Aircontrol Magnet Aircontrol - Moon Flip Bonus
+1. Moto Aircontrol Magnet thruster - Moon Flip Bonus
 2. Buggy Wing Magnet Wheelie/JumpShock (use JS to soften landings - see Linus vid) - Winter Wheelie
 3. Moonlander magnet wheelie coin - uphill climb
 4. sbike df=1 wing Coin AB/OT - classic 3 - [map](https://cdn.discordapp.com/attachments/852048869336678420/864521541978030121/image0.jpg)
