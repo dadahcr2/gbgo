@@ -38,7 +38,7 @@
 ## Events
 <details open markdown="block">
   <summary>
-    TE: Group Therapy 
+    TE: Group Project 
   </summary>
 <br>	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883240435475177512/image0.png)   
