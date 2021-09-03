@@ -48,6 +48,10 @@
 ![](https://media.discordapp.net/attachments/799396462857027614/883225187733082162/Untitled_1.png?width=840&height=473)  
 	
 ![](https://media.tenor.co/videos/62ab1417356cad2dc38245ba5c14ab1b/mp4)  
+	
+Videos
+- search <>
+- linus 36k <https://youtu.be/TP0zACxhh1o>
 <br>	
 </details>
 <details markdown="block">
