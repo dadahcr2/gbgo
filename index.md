@@ -44,8 +44,8 @@
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883240435475177512/image0.png)   
 
 1. Moto Aircontrol Magnet thruster - Moon Flip Bonus
-2. Buggy Wing Magnet Wheelie/JumpShock (use JS to soften landings - see Linus vid) - Winter Wheelie
-3. Moonlander magnet wheelie coin - uphill climb
+2. Buggy Wing Magnet Wheelie/JumpShock (use JS to soften landings? - see Linus vid) - Winter Wheelie
+3. Moonlander magnet wheelie coin (remove roof?) - uphill climb
 4. sbike df=1 wing Coin AB/OT - classic 3 - [map](https://cdn.discordapp.com/attachments/852048869336678420/864521541978030121/image0.jpg)
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)   
@@ -57,6 +57,7 @@
 Videos
 - [search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+group+project%22)
 - linus 36k <https://youtu.be/TP0zACxhh1o>
+- ez 30k? <https://youtu.be/U1DZ5CjJidg>
 <br>	
 </details>
 <details markdown="block">
@@ -163,12 +164,9 @@ MrFixit             1
   {: .text-delta }
 ### Co-leader Season Contest
 
-**Joins in August**     
+**Joins in Sep**     
 ```
-Getzata  🟨🟨🟨🟨🟨
-Omelette ⬜️
-Spyder   🟥
-Wolf     🟪
+*        ⬜️
 ```
 
 **Season Winners**
