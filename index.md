@@ -50,7 +50,7 @@
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)   
 	
-![](https://cdn.discordapp.com/attachments/850222164065648680/883410599646748762/image0.jpg)  
+![](https://cdn.discordapp.com/attachments/850222164065648680/883855831429423124/image0.jpg)  
 	
 ![](https://media.tenor.co/videos/62ab1417356cad2dc38245ba5c14ab1b/mp4)  
 	
@@ -58,6 +58,7 @@ Videos
 - [search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+group+project%22)
 - linus 36k <https://youtu.be/TP0zACxhh1o>
 - ez 30k? <https://youtu.be/U1DZ5CjJidg>
+- vokope howto <> 
 <br>	
 </details>
 <details markdown="block">
@@ -69,7 +70,7 @@ bus monster SD RT HR
 	
 1. Monster weight start AB, Breaking, Demolition 5 - [map](https://cdn.discordapp.com/attachments/880712810542297148/880712846344871956/image0.jpg)
 2. SD/Bus fume JS thrust or RT AB OT coin, Fury Road (Spring City)
-3. HR magnet coin fuel or tires LB coin, Cargo, A Bridge Too Far (Capital Cup) 
+3. HR magnet coin fuel or tires LB coin, Cargo, A Bridge Too Far" (Capital Cup) 
 4. RT Df=1 / Bus / SD wing JS LB, No Fuel, City Adventure
 - T4 Bus: <https://www.youtube.com/watch?v=2hFro0nLQdo>
 	
