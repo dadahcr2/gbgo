@@ -55,7 +55,7 @@ Videos
 - Vokope howto <https://youtu.be/e2aCbBW9PY4>
 - Notes: [T1](https://cdn.discordapp.com/attachments/858017263989948447/883749836753629254/image0.jpg) - [T2](https://cdn.discordapp.com/attachments/858017329509171201/883749961047621733/image0.jpg) - [T3](https://cdn.discordapp.com/attachments/858017412174577716/883750059819274321/image0.jpg) - [T4](https://cdn.discordapp.com/attachments/858017616181461022/883750130287775744/image0.jpg)
 	
-<details open markdown=""block""> <summary>- T1 Video </summary>https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4</details>
+<details open markdown="block"> <summary>- T1 Video </summary>https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4</details>
 "<details open markdown="block"> <summary>- T2 Video </summary>https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4</details>
 <details open markdown="block"> <summary>- T3 Video </summary>https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4</details>  
 <details open markdown="block"> <summary>- T4 Video </summary>https://images-ext-2.discordapp.net/external/bHGLc0DCyhSCjqw8m1lzEod9mFTGnSeMSm7Pc8aVDzg/https/i.imgur.com/8inMOzG.mp4</details>
