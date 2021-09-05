@@ -56,12 +56,9 @@ Videos
 - Notes: [T1](https://cdn.discordapp.com/attachments/858017263989948447/883749836753629254/image0.jpg) - [T2](https://cdn.discordapp.com/attachments/858017329509171201/883749961047621733/image0.jpg) - [T3](https://cdn.discordapp.com/attachments/858017412174577716/883750059819274321/image0.jpg) - [T4](https://cdn.discordapp.com/attachments/858017616181461022/883750130287775744/image0.jpg)
 - Track vids:  - [T1](https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4) - [T2](https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4) - [T3](https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4) - [T4](https://images-ext-2.discordapp.net/external/bHGLc0DCyhSCjqw8m1lzEod9mFTGnSeMSm7Pc8aVDzg/https/i.imgur.com/8inMOzG.mp4)
 	
-![[Vid T1](https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4>]()](https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4>]()
-	
-![[Vid T2](https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4)](https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4)
-	
-![[Vid T3](https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4)](https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4)
-	
+![[Vid T1](https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4>]()](https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4>]()  
+![[Vid T2](https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4)](https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4)  
+![[Vid T3](https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4)](https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4)  
 ![[Vid T4](https://images-ext-2.discordapp.net/external/bHGLc0DCyhSCjqw8m1lzEod9mFTGnSeMSm7Pc8aVDzg/https/i.imgur.com/8inMOzG.mp4)](https://images-ext-2.discordapp.net/external/bHGLc0DCyhSCjqw8m1lzEod9mFTGnSeMSm7Pc8aVDzg/https/i.imgur.com/8inMOzG.mp4)	
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)   
