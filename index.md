@@ -44,9 +44,9 @@
 ![](https://cdn.discordapp.com/attachments/850222164065648680/883855831429423124/image0.jpg)   
 
 1. Moto Aircontrol Magnet thruster - Moon Flip Bonus
-2. Buggy Wing Magnet Wheelie(/JumpShock use JS to soften landings?) - see Linus vid) - Winter Wheelie
-3. Moonlander ~~magnet~~ wheelie coin - uphill climb
-4. sbike wing Coin AB(/OT) - classic 3 - [map](https://cdn.discordapp.com/attachments/852048869336678420/864521541978030121/image0.jpg) 
+2. Buggy Wing Magnet Coin/Wheelie(/JumpShock use JS to soften landings?) - see Linus vid) - Winter Wheelie
+3. Moonlander 20200117? wheelie coin (aircontrol) - uphill climb
+4. sbike 20201705? wing Coin AB(/OT) - classic 3 - [map](https://cdn.discordapp.com/attachments/852048869336678420/864521541978030121/image0.jpg) 
 	
 Videos
 - [search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+group+project%22)
@@ -54,8 +54,9 @@ Videos
 - ez 30k? <https://youtu.be/U1DZ5CjJidg>
 - Vokope howto <https://youtu.be/e2aCbBW9PY4>
 - Notes: [T1](https://cdn.discordapp.com/attachments/858017263989948447/883749836753629254/image0.jpg) - [T2](https://cdn.discordapp.com/attachments/858017329509171201/883749961047621733/image0.jpg) - [T3](https://cdn.discordapp.com/attachments/858017412174577716/883750059819274321/image0.jpg) - [T4](https://cdn.discordapp.com/attachments/858017616181461022/883750130287775744/image0.jpg)
-- Track vids:  - [T1](https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4) - [T2](https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4) - [T3](https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4) - [T4](https://images-ext-2.discordapp.net/external/bHGLc0DCyhSCjqw8m1lzEod9mFTGnSeMSm7Pc8aVDzg/https/i.imgur.com/8inMOzG.mp4)
-	
+- Track vids:  - [T1](https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4) - [T2](https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4) - [T3](https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4) - [T4](https://images-ext-2.discordapp.net/external/bHGLc0DCyhSCjqw8m1lzEod9mFTGnSeMSm7Pc8aVDzg/https/i.imgur.com/8inMOzG.mp4)  
+- io <https://youtu.be/v9cp5UJ49lo>
+<!--
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)     
 	
 ![](https://media.tenor.co/videos/62ab1417356cad2dc38245ba5c14ab1b/mp4) 
@@ -83,7 +84,7 @@ Videos
 	
 <br>	
 </details>
-	
+-->
 <details  markdown="block">
   <summary>
     PE: KASA Space Program
