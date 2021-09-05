@@ -61,7 +61,7 @@ Videos
 </summary>
 https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4
 </details>
-"<details  markdown="block"> <summary>- T2 Video </summary>https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4
+<details  markdown="block"> <summary>- T2 Video </summary>https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4
 </details>
 <details  markdown="block"> 
 <summary>
