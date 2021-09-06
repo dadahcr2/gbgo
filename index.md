@@ -45,8 +45,8 @@
 
 1. Moto Aircontrol Magnet thruster - Moon Flip Bonus
 2. Buggy Wing Magnet Coin/Wheelie(/JumpShock use JS to soften landings?) - see Linus vid) - Winter Wheelie
-3. Moonlander 20200117? wheelie coin (aircontrol) - uphill climb
-4. sbike 20201705? wing Coin AB(/OT) - classic 3 - [map](https://cdn.discordapp.com/attachments/852048869336678420/864521541978030121/image0.jpg) 
+3. Moonlander wheelie coin (aircontrol) - uphill climb
+4. sbike wing Coin AB(/OT) - classic 3 - [map](https://cdn.discordapp.com/attachments/852048869336678420/864521541978030121/image0.jpg) 
 	
 Videos
 - [search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+group+project%22)
