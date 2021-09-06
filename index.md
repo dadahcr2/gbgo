@@ -99,7 +99,7 @@ Videos
 	
 ## Contests
 	
-<details  markdown="block">  
+<details  open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -187,7 +187,7 @@ MrFixit             1
 
 <br>  	
 </details>
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     Adventure
   </summary>
