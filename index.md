@@ -57,6 +57,7 @@ Videos
 - Track vids:  - [T1](https://images-ext-1.discordapp.net/external/Q-kBvdywX2sGfqFbbmFlrRIyJtONz3uzy5ZeysxjGzU/https/i.imgur.com/NUJBwDp.mp4) - [T2](https://images-ext-2.discordapp.net/external/MFNKpZzpFMyCeX72xrT7LjAaptPqs38Ikthvkyp3iHw/https/i.imgur.com/fBuYhpy.mp4) - [T3](https://images-ext-2.discordapp.net/external/T7hxcoIqbTU3sXN6-fYiDRC2Q9Z-end2GumNvQTi_G4/https/i.imgur.com/ia4ghlv.mp4) - [T4](https://images-ext-2.discordapp.net/external/bHGLc0DCyhSCjqw8m1lzEod9mFTGnSeMSm7Pc8aVDzg/https/i.imgur.com/8inMOzG.mp4)  
 - io <https://youtu.be/v9cp5UJ49lo>
 - master <https://youtu.be/qtbaN5PFvzE>  
+- vere 38k <https://youtu.be/QDfKgaVFq-k>
 <!--
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)     
 	
