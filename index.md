@@ -84,10 +84,10 @@ Videos
 - vokope howto <https://www.youtube.com/watch?v=P5fpNqD-IlM>
 - deflo 36.9k <https://youtu.be/BsOR6UeZXr4> 
 - dada T2 RacingTruck <https://youtu.be/Swc2OXQtwOg>
-	
+-->	
 <br>	
 </details>
--->
+	
 <details  markdown="block">
   <summary>
     PE: Jump. Land. Repeat.
@@ -101,7 +101,7 @@ Videos
 	
 ## Contests
 	
-<details  open markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
