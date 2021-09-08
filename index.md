@@ -90,10 +90,10 @@ Videos
 -->
 <details  markdown="block">
   <summary>
-    PE: KASA Space Program
+    PE: Jump. Land. Repeat.
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850222120163999794/883132697264947290/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/885294410621931520/image0.jpg)  
 	
 </details>   
 	
