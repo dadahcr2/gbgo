@@ -88,7 +88,7 @@ Videos
 <br>	
 </details>
 	
-<details  markdown="block">
+<details open markdown="block">
   <summary>
     PE: Jump. Land. Repeat.
   </summary>
