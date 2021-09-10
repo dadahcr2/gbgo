@@ -107,7 +107,7 @@ Videos
 <br>  
 </details>  
 	 
-<details open  markdown="block">
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
