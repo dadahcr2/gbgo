@@ -59,7 +59,8 @@ Videos
 - master <https://youtu.be/qtbaN5PFvzE>  
 - vere 38k <https://youtu.be/QDfKgaVFq-k>
 - a&b (see T4 route) <https://www.youtube.com/watch?v=xVR-DTdE2pc>
-- dada T3/T4 tutorial <https://youtu.be/XcxtWx4UZ-c>
+- dada T3/T4 tutorial <https://youtu.be/XcxtWx4UZ-c>  
+	
 <!--
 ![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)     
 	
@@ -86,6 +87,7 @@ Videos
 - deflo 36.9k <https://youtu.be/BsOR6UeZXr4> 
 - dada T2 RacingTruck <https://youtu.be/Swc2OXQtwOg>
 -->	
+	
 <br>	
 </details>
 	
