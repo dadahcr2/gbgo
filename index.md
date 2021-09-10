@@ -63,7 +63,7 @@ Videos
 	
 <br>	
 </details>
-<details markdown="block">
+<details open markdown="block">
   <summary>
     TE: GroupThink 
   </summary>
