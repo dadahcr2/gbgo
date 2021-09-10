@@ -61,32 +61,23 @@ Videos
 - a&b (see T4 route) <https://www.youtube.com/watch?v=xVR-DTdE2pc>
 - dada T3/T4 tutorial <https://youtu.be/XcxtWx4UZ-c>  
 	
-<!--
-![](https://cdn.discordapp.com/attachments/851566907920089128/883254037926015026/image0.png)     
-	
-![](https://media.tenor.co/videos/62ab1417356cad2dc38245ba5c14ab1b/mp4) 
 <br>	
 </details>
 <details markdown="block">
   <summary>
-    TE: Group Therapy 
+    TE: GroupThink 
   </summary>
 <br>	
-bus monster SD RT HR	
+
+![](https://cdn.discordapp.com/attachments/850222164065648680/885930253967573032/image0.jpg)
 	
-1. Monster weight start AB, Breaking, Demolition 5 - [map](https://cdn.discordapp.com/attachments/880712810542297148/880712846344871956/image0.jpg)
-2. SD/Bus fume JS thrust or RT AB OT coin, Fury Road (Spring City)
-3. HR magnet coin fuel or tires LB coin, Cargo, A Bridge Too Far" (Capital Cup) 
-4. RT Df=1 / Bus / SD wing JS LB, No Fuel, City Adventure
-- T4 Bus: <https://www.youtube.com/watch?v=2hFro0nLQdo>
+![tractor2] ![sportscar2] ![chopper2] ![Diesel2] ![Formula2]	
+
+![](https://cdn.discordapp.com/attachments/642394941074702366/885745529722634250/image0.png)
 	
 Videos
-- search: <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+group+therapy%22>
-- io 29k <https://youtu.be/qHlBh-gMevg>
-- vokope howto <https://www.youtube.com/watch?v=P5fpNqD-IlM>
-- deflo 36.9k <https://youtu.be/BsOR6UeZXr4> 
-- dada T2 RacingTruck <https://youtu.be/Swc2OXQtwOg>
--->	
+- search: <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+groupthink%22>
+- vere <https://www.youtube.com/watch?v=hZZT_k-5ors>
 	
 <br>	
 </details>
