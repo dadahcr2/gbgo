@@ -78,6 +78,7 @@ Videos
 Videos
 - search: <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+groupthink%22>
 - vere <https://www.youtube.com/watch?v=hZZT_k-5ors>
+- vokope howto <https://youtu.be/TReeMkY5f2A>
 	
 <br>	
 </details>
