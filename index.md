@@ -36,7 +36,7 @@
 ***   
 
 ## Events
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     TE: Group Project 
   </summary>
@@ -85,6 +85,7 @@ Videos
 - search: <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+groupthink%22>
 - vere <https://www.youtube.com/watch?v=hZZT_k-5ors>
 - vokope howto <https://youtu.be/TReeMkY5f2A>
+- cis diesel T1 <https://youtu.be/n4_KV5O-2o8>
 	
 <br>	
 </details>
