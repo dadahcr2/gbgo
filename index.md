@@ -49,7 +49,7 @@
 1. **Tractor D=1? Rollcage Starter AB** or **sportscar df=1 JS LB Wing** - [Map](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg) - [VTip](https://cdn.discordapp.com/attachments/858017263989948447/886003456224165998/image0.jpg)
 2. **formula AB coin start**/tires - [Map](https://cdn.discordapp.com/attachments/864520500007927819/873014764127780874/image0.jpg) - [VTip](https://cdn.discordapp.com/attachments/858017329509171201/886003520854196254/image0.jpg)
 3. **Chopper Wing Thrust Fuel**/Coin/LB - [VTip](https://cdn.discordapp.com/attachments/858017412174577716/886003579310194718/image0.jpg)
-4. **Diesel Wing JS LB** - [VTip](https://cdn.discordapp.com/attachments/858017616181461022/886003646448402452/image0.jpg)
+4. **Diesel Wing JS LB** - Monday Map? - [VTip](https://cdn.discordapp.com/attachments/858017616181461022/886003646448402452/image0.jpg)
 
 
 ![](https://cdn.discordapp.com/attachments/642394941074702366/885745529722634250/image0.png)
