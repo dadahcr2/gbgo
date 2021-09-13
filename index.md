@@ -77,7 +77,7 @@ Videos
 	
 ## Contests
 	
-<details  markdown="block">  
+<details  open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -85,11 +85,11 @@ Videos
 ### Weekly Kms Contest    
  
 **Top 9**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/884295931867058186/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/887106416136040498/image0.png)  
 <br>  
 </details>  
 	 
-<details open  markdown="block">
+<details   markdown="block">
   <summary>
     Daily Time Trial
   </summary>
