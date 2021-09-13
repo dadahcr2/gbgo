@@ -64,12 +64,12 @@ Videos
 <br>	
 </details>
 	
-<details open markdown="block">
+<details  markdown="block">
   <summary>
-    PE: Jump. Land. Repeat.
+    PE: where we dropping?
   </summary>
 <br>	
-![](https://cdn.discordapp.com/attachments/850232585707323402/885294410621931520/image0.jpg)  
+![](https://cdn.discordapp.com/attachments/850233265306468372/886969412211572736/image0.png)  
 	
 </details>   
 	
