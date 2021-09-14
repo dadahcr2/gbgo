@@ -53,7 +53,7 @@
 	- route: <https://youtu.be/EmfDJpu8rFY>  
 <a href="https://www.youtube.com/watch?v=EmfDJpu8rFY" target="_blank">
   <img src="https://img.youtube.com/vi/EmfDJpu8rFY/0.jpg"
-  alt="T4 Route" width="240"/>
+  alt="T4 Route" width="360"/>
 </a>  
 	
 ![](https://cdn.discordapp.com/attachments/642394941074702366/885745529722634250/image0.png)
