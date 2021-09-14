@@ -51,9 +51,10 @@
 3. **Chopper s=14? Wing Thrust Fuel**/Coin/LB - [VTip](https://cdn.discordapp.com/attachments/858017412174577716/886003579310194718/image0.jpg)
 4. **Diesel Wing JS LB** - Monday Map? - [VTip](https://cdn.discordapp.com/attachments/858017616181461022/886003646448402452/image0.jpg)
 	- route: <https://youtu.be/EmfDJpu8rFY>  
-<figure class="video_container">
-  <iframe src="https://youtu.be/EmfDJpu8rFY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>	
+<a href="https://www.youtube.com/watch?v=EmfDJpu8rFY" target="_blank">
+  <img src="https://img.youtube.com/vi/EmfDJpu8rFY/0.jpg"
+  alt="T4 Route" width="240"/>
+</a>  
 	
 ![](https://cdn.discordapp.com/attachments/642394941074702366/885745529722634250/image0.png)
 	
