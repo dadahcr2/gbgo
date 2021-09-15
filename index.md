@@ -47,7 +47,11 @@
 ![tractor2] ![sportscar2] ![chopper2] ![Diesel2] ![Formula2]	
 
 1. **Tractor Rollcage Starter AB** or sportscar df=1 JS LB Wing or **diesel wing JS Thrust** - [Map](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg) - [VTip](https://cdn.discordapp.com/attachments/858017263989948447/886003456224165998/image0.jpg) 
-2. **formula AB coin start/OT**/tires - [Map](https://cdn.discordapp.com/attachments/864520500007927819/873014764127780874/image0.jpg) - [VTip](https://cdn.discordapp.com/attachments/858017329509171201/886003520854196254/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/o1toBCUNMy8j85NKQUaSDqMs4P_u_685x9dmOCboMwk/https/i.imgur.com/XQuM1Dq.mp4)
+2. **formula AB coin start/OT**/tires - [Map](https://cdn.discordapp.com/attachments/864520500007927819/873014764127780874/image0.jpg) - [VTip](https://cdn.discordapp.com/attachments/858017329509171201/886003520854196254/image0.jpg) - [vid](
+<video width="320" height="240" controls>
+ 	<source src="https://images-ext-1.discordapp.net/external/o1toBCUNMy8j85NKQUaSDqMs4P_u_685x9dmOCboMwk/https/i.imgur.com/XQuM1Dq.mp4">
+<a href "https://images-ext-1.discordapp.net/external/o1toBCUNMy8j85NKQUaSDqMs4P_u_685x9dmOCboMwk/https/i.imgur.com/XQuM1Dq.mp4">Vid</a>
+</video>
 3. **Chopper s=14? Wing Thrust Fuel**/Coin/LB - [VTip](https://cdn.discordapp.com/attachments/858017412174577716/886003579310194718/image0.jpg)
 4. **Diesel Wing JS LB** - Monday Map? - [VTip](https://cdn.discordapp.com/attachments/858017616181461022/886003646448402452/image0.jpg)
 	- Take the high route
