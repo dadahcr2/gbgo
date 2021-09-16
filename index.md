@@ -67,7 +67,7 @@ Videos
 - vokope howto <https://youtu.be/TReeMkY5f2A>
 - cis diesel T1 <https://youtu.be/n4_KV5O-2o8>
 - linus 39k  <https://youtu.be/c5WfDB1dogc>
-	
+- gl 39k <https://youtu.be/TTt3xpvOhKk>
 <br>	
 </details>
 	
