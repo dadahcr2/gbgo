@@ -76,7 +76,7 @@ Videos
     PE: where we dropping?
   </summary>
 <br>	
-![](https://media.discordapp.net/attachments/850232585707323402/888184109036343296/image0.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/888318430460125184/image0.png)  
 	
 </details>   
 	
