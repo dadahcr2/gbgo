@@ -36,6 +36,17 @@
 ***   
 
 ## Events
+
+<details open markdown="block">
+  <summary>
+    TE: Trophy is Unbreakable 
+  </summary>
+<br>	
+Videos
+- search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+“trophy+is+unbreakable”%22>
+- Vokope howto <https://youtu.be/CLt8uckGyDY>
+<be>
+</details>
 <details open markdown="block">
   <summary>
     TE: GroupThink 
