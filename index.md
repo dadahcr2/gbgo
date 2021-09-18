@@ -46,6 +46,7 @@
 Videos
 - search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+“trophy+is+unbreakable”%22>
 - Vokope howto <https://youtu.be/CLt8uckGyDY>
+- Cis 750m T1 <https://youtu.be/4p6wOpc5XX4>
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/888358672126844978/image0.png)
 <br>
