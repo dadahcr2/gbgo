@@ -42,11 +42,14 @@
     TE: Trophy is Unbreakable 
   </summary>
 <br>	
+![](https://cdn.discordapp.com/attachments/850222164065648680/888688841039429652/image0.png)
 Videos
 - search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+“trophy+is+unbreakable”%22>
 - Vokope howto <https://youtu.be/CLt8uckGyDY>
 <be>
 </details>
+	
+<!--
 <details open markdown="block">
   <summary>
     TE: GroupThink 
@@ -81,7 +84,7 @@ Videos
 - gl 39k <https://youtu.be/TTt3xpvOhKk>
 <br>	
 </details>
-	
+-->	
 <details open  markdown="block">
   <summary>
     PE: where we dropping?
