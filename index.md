@@ -96,10 +96,11 @@ Videos
 -->	
 <details open  markdown="block">
   <summary>
-    PE: where we dropping?
+    PE: Stop 'n Go?
   </summary>
-<br>	
-![](https://cdn.discordapp.com/attachments/850232585707323402/888318430460125184/image0.png)  
+<br>
+Based on last Pitstop event:
+![](https://cdn.discordapp.com/attachments/850232585707323402/889576901528674365/image0.jpg)  
 	
 </details>   
 	
