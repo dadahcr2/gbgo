@@ -43,6 +43,10 @@
   </summary>
 <br>	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/888688841039429652/image0.png)  
+
+T2 scooter Wi **LB** Th
+	
+T4 rally Wi AB CB**3**
 	
 Videos
 - search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+“trophy+is+unbreakable”%22>
@@ -103,7 +107,7 @@ Videos
 	
 ## Contests
 	
-<details markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -111,11 +115,11 @@ Videos
 ### Weekly Kms Contest    
  
 **Top 9**  
-![](https://cdn.discordapp.com/attachments/777301191474282546/887106416136040498/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/889539210997018665/image0.png)  
 <br>  
 </details>  
 	 
-<details open  markdown="block">
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -173,6 +177,7 @@ Spyder              1
 ```
 *        I
 getzata  II
+dada     II
 ```
 
 **Season Winners**
