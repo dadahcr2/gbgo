@@ -99,8 +99,8 @@ Videos
     PE: Stop 'n Go?
   </summary>
 <br>
-Based on last Pitstop event:
-![](https://cdn.discordapp.com/attachments/850232585707323402/889576901528674365/image0.jpg)  
+
+![](https://cdn.discordapp.com/attachments/850232585707323402/890544395806445639/2021.09.22_PE_Pit_Stop_Stopn_Go.png)  
 	
 </details>   
 	
