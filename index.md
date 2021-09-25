@@ -65,13 +65,13 @@ Videos
 <br>	
 ![](https://cdn.discordapp.com/attachments/731162975854919690/891312958993485854/image0.png)  
 
-![](https://cdn.discordapp.com/attachments/858017263989948447/891430945725505546/image0.jpg)
+[vtip1](https://cdn.discordapp.com/attachments/858017263989948447/891430945725505546/image0.jpg) - [vid1](https://images-ext-1.discordapp.net/external/iUROmse74qThOqyMSQ06NGyfzw-6NWuBDW8WJD3Koz0/https/i.imgur.com/HzjlP2i.mp4)
  
-![](https://cdn.discordapp.com/attachments/858017329509171201/891431124402843748/image0.jpg)
+[vtip2](https://cdn.discordapp.com/attachments/858017329509171201/891431124402843748/image0.jpg) - [vid2](https://images-ext-2.discordapp.net/external/E7cTPfqYUcXu0FMfAh9WnhwOI2JD6WDqvGOEzqa16Pc/https/i.imgur.com/AbuI17m.mp4)
 
-![](https://cdn.discordapp.com/attachments/858017412174577716/891431266702983249/image0.jpg)
+[vtip3](https://cdn.discordapp.com/attachments/858017412174577716/891431266702983249/image0.jpg) - [vid3](https://images-ext-2.discordapp.net/external/hgEr5v1cbvJYJaZH35p-qyVBqqFZGZDO0oB43wzzF5s/https/i.imgur.com/yS5v7eA.mp4)
 
-![](https://cdn.discordapp.com/attachments/858017616181461022/891431372810514442/image0.jpg)
+[vtip4](https://cdn.discordapp.com/attachments/858017616181461022/891431372810514442/image0.jpg) - [vid4](https://images-ext-2.discordapp.net/external/HXXDjq9tZjaC7asTt4SUUv-Smc7tHmZuG86hOeMW2_Q/https/i.imgur.com/au1vVRP.mp4)
 
 ![]()
 
