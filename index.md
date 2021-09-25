@@ -37,7 +37,7 @@
 
 ## Events
 
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     TE: Trophy is Unbreakable 
   </summary>
@@ -58,13 +58,31 @@ Videos
 <br>
 </details>
 	
-<!--
 <details open markdown="block">
   <summary>
-    TE: GroupThink 
+    TE: Technical Fault
   </summary>
 <br>	
+![](https://cdn.discordapp.com/attachments/731162975854919690/891312958993485854/image0.png)  
 
+![](https://cdn.discordapp.com/attachments/858017263989948447/891430945725505546/image0.jpg)
+ 
+![](https://cdn.discordapp.com/attachments/858017329509171201/891431124402843748/image0.jpg)
+
+![](https://cdn.discordapp.com/attachments/858017412174577716/891431266702983249/image0.jpg)
+
+![](https://cdn.discordapp.com/attachments/858017616181461022/891431372810514442/image0.jpg)
+
+![]()
+
+	
+videos
+- [yt search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+technical+fault%22) 
+- how to <https://youtu.be/2dvGpMe6LaM>
+	
+	
+
+<!--
 ![](https://cdn.discordapp.com/attachments/850222164065648680/885930253967573032/image0.jpg)
 	
 ![tractor2] ![sportscar2] ![chopper2] ![Diesel2] ![Formula2]	
@@ -91,9 +109,10 @@ Videos
 - cis diesel T1 <https://youtu.be/n4_KV5O-2o8>
 - linus 39k  <https://youtu.be/c5WfDB1dogc>
 - gl 39k <https://youtu.be/TTt3xpvOhKk>
-<br>	
+
+-->
+<br>
 </details>
--->	
 <details open  markdown="block">
   <summary>
     PE: Stop 'n Go?
