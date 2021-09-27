@@ -79,6 +79,7 @@ Videos
 videos
 - [yt search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+technical+fault%22) 
 - how to <https://youtu.be/2dvGpMe6LaM>
+- vere 38k <https://youtu.be/6I80Vaau9wI>
 	
 	
 
@@ -111,6 +112,7 @@ Videos
 - gl 39k <https://youtu.be/TTt3xpvOhKk>
 
 -->
+	
 <br>
 </details>
 <details open  markdown="block">
