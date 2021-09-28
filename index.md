@@ -119,7 +119,6 @@ Videos
   {: .text-delta }
 ### Weekly Kms Contest    
  
-**Top 9**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/892556232928423946/image0.png)  
 <br>  
 </details>  
@@ -138,7 +137,9 @@ Rules:
 
 **Week 24 Results**
 ```
-m 2
+🥇 Getz 5x3+2=17
+🥈 date 3+4x2+1=12
+🥉 dada / rdkill 2
 
 2021 Time Trial Roll of Honor
 
