@@ -124,7 +124,7 @@ Videos
 <br>  
 </details>  
 	 
-<details  markdown="block">
+<details  open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -135,7 +135,6 @@ Videos
 -->
 Rules:
 - Compete each day in same daily as fw.hcr2.info
-- Points added up over the week: 🥇= 3, 🥈= 2, 🥉= 1
 
 **Week 24 Results**
 ```
@@ -159,7 +158,9 @@ RdKill              1
 ```
 	
 **To compete in the daily Time Trial contest**
-1. Make sure that "dada" is on your friend list (if not, the link is <https://playhcr.com/invite?id=XN7N73>)
+1. Make sure that to add Folo and Gutta to your friend list 
+- Gutta: <https://playhcr.com/invite?id=JmjQdp>
+- Folo: <https://playhcr.com/invite?id=A9ddPO>  
 2. See the day’s vehicle and time trial on here, fw.hcr2.info or in-game chat (will be the same)
 3. Choose CUPS Tab at top
 4. Choose 4-square tab under flag tab on left
