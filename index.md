@@ -337,12 +337,9 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](h
 
 Name | Link  
 : -- | :--  
-*Lonestar | <https://playhcr.com/invite?id=YAKzzp>  
 69Camaro | <https://playhcr.com/invite?id=6YgJX4>  
-Bone | <https://playhcr.com/invite?id=DmP7B2>  
 Boodles | <https://playhcr.com/invite?id=N4qzEl>  
-Canis | <https://playhcr.com/invite?id=oBy7Md>  
-Chelle | <https://playhcr.com/invite?id=N4ZO0a>  
+Canis | <https://playhcr.com/invite?id=oBy7Md>   
 Dada | <https://playhcr.com/invite?id=XN7N73>  
 Date | <https://playhcr.com/invite?id=rdKaOg>  
 Diezel | <https://playhcr.com/invite?id=Wrq05d>  
@@ -350,17 +347,12 @@ Flywheel | <https://playhcr.com/invite?id=xdxQbr>
 G🐝G | <https://playhcr.com/invite?id=z57dp1>  
 Getzata | <https://playhcr.com/invite?id=jEDooe>  
 Gramps | <https://playhcr.com/invite?id=NKxKxJ>  
-Harry | <https://playhcr.com/invite?id=5mnOj0>  
-IamGroot | <https://playhcr.com/invite?id=rBr31M>  
 Jimbob | <https://playhcr.com/invite?id=wznXZW>  
 Josey | <https://playhcr.com/invite?id=Z46v9Z>  
 LnL | <https://playhcr.com/invite?id=Ve1rrw>    
 Mrfixit | <https://playhcr.com/invite?id=zEaegD>  
 Nesorac | <https://playhcr.com/invite?id=Zlapzy>  
-Omelette | <https://playhcr.com/invite?id=jDn5A9>  
-Rock | <https://playhcr.com/invite?id=pBVAYN>  
 Slicksam | <https://playhcr.com/invite?id=bEgMXb>  
-Spyder | <https://playhcr.com/invite?id=1Y1v73>  
 Swan | <https://playhcr.com/invite?id=Q4rWYA>  
 T | <https://playhcr.com/invite?id=3YgYnj>  
 Typhoon(pdb) | <https://playhcr.com/invite?id=Z4zea4>  
