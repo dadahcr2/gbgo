@@ -37,26 +37,7 @@
 
 ## Events
 
-<details  markdown="block">
-  <summary>
-    TE: Trophy is Unbreakable 
-  </summary>
-<br>	
-![](https://cdn.discordapp.com/attachments/850222164065648680/888688841039429652/image0.png)  
 
-T2 scooter Wi **LB** Th
-	
-T4 rally Wi AB CB**3**
-	
-Videos
-- search <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+“trophy+is+unbreakable”%22>
-- Vokope howto <https://youtu.be/CLt8uckGyDY>
-- Cis 750m T1 <https://youtu.be/4p6wOpc5XX4>
-- [T1rotator](https://images-ext-1.discordapp.net/external/0vuOmxXlzssa23nUsNfV01FDjoLKFOQY54WyjNiIkvM/https/i.imgur.com/77RAVxy.mp4) - [T1rally](https://images-ext-1.discordapp.net/external/Hkrdi2CiUsf6iEJYZhZJfQzC2sw2E_LPSZdE8eJ8e7k/https/i.imgur.com/erssfpI.mp4) - [T2mono](https://images-ext-2.discordapp.net/external/-8gqc7C7oI_7NihDSClccwOtJ_bhBRb1Spw0fGbvC9g/https/i.imgur.com/7aEI57P.mp4) - [T3Supercar](https://images-ext-1.discordapp.net/external/zYt3v9QmZzDmhrUSB3i4V3olwDxPMOpaTaTuwYMdhNs/https/i.imgur.com/dmD8t15.mp4) - [T4rotator](https://images-ext-2.discordapp.net/external/b8CxqSvKOMQ6sHTAtqV2HGYo0V-F2sn9mF8XfEC7yvc/https/i.imgur.com/2S1hzUw.mp4) - [T4rally](https://images-ext-1.discordapp.net/external/_qm7Di1wUO1dh46SXQ9sq4fKQS4ofbiVl8DIX8H9hd0/https/i.imgur.com/iIkTZm9.mp4)  
-	
-![](https://cdn.discordapp.com/attachments/850222164065648680/888358672126844978/image0.png)
-<br>
-</details>
 	
 <details open markdown="block">
   <summary>
