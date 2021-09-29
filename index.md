@@ -353,6 +353,7 @@ Josey | <https://playhcr.com/invite?id=Z46v9Z>
 LnL | <https://playhcr.com/invite?id=Ve1rrw>    
 Mrfixit | <https://playhcr.com/invite?id=zEaegD>  
 Nesorac | <https://playhcr.com/invite?id=Zlapzy>  
+Rock | <https://playhcr.com/invite?id=pBVAYN>
 Slicksam | <https://playhcr.com/invite?id=bEgMXb>  
 Swan | <https://playhcr.com/invite?id=Q4rWYA>  
 T | <https://playhcr.com/invite?id=3YgYnj>  
