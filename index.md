@@ -100,11 +100,11 @@ Videos
 </details>
 <details open  markdown="block">
   <summary>
-    PE: Stop 'n Go?
+    PE: Paradoxical Pain
   </summary>
 <br>
 
-![](https://cdn.discordapp.com/attachments/850232585707323402/890544395806445639/2021.09.22_PE_Pit_Stop_Stopn_Go.png)  
+![Rally2] ![HW2] ![WT2]/![Fume2]/![CB2]/![WB2]/![AC2]
 	
 </details>   
 	
@@ -112,7 +112,7 @@ Videos
 	
 ## Contests
 	
-<details open markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -123,7 +123,7 @@ Videos
 <br>  
 </details>  
 	 
-<details  open markdown="block">
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -181,7 +181,7 @@ RdKill              1
 **Joins in Sep**     
 ```
 *        I
-getzata  II
+getzata  IIII
 dada     II
 ```
 
@@ -190,11 +190,13 @@ dada     II
 2. groot  
 3. getzata
 4. getzata
+5. getzata
+	
 	
 **`---------------`**  
 **`Tablet of Honor`**    
 `===============`   
-`Getzata.......3`     
+`Getzata.......4`     
 `Groot.........2`    
 **`---------------`**  
 
