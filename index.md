@@ -44,14 +44,15 @@
 <br>
 jeep, monster tank, RT, Sbike
 
-1. No fuel distance (Bog)  
-2. Fast Lane (Bill’s Circuit) 
-3. Breaking (Demolition 2)
-4. Floor is Lava
+1. tank LB Wing fume - No fuel distance (Bog)  
+2. Sbike AB OT coin - Fast Lane (Bill’s Circuit) 
+3. monster rc weight AB - Breaking (Demolition 2)
+4. RT Df=1 wing JS thrust - Floor is Lava
+
 <br>
 </details>
-	
-<details open markdown="block">
+<!--	
+<details markdown="block">
   <summary>
     TE: Technical Fault
   </summary>
@@ -75,36 +76,6 @@ videos
 - how to <https://youtu.be/2dvGpMe6LaM>
 - vere 38k <https://youtu.be/6I80Vaau9wI>
 - Linus 39k < https://youtu.be/UuED7nYGCzA>
-	
-	
-
-<!--
-![](https://cdn.discordapp.com/attachments/850222164065648680/885930253967573032/image0.jpg)
-	
-![tractor2] ![sportscar2] ![chopper2] ![Diesel2] ![Formula2]	
-
-1. **Tractor Rollcage Starter AB** or sportscar df=1 JS LB Wing or **diesel wing JS Thrust** - [Map](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg) - [VTip](https://cdn.discordapp.com/attachments/858017263989948447/886003456224165998/image0.jpg) 
-2. **formula AB coin start/OT**/tires - [Map](https://cdn.discordapp.com/attachments/864520500007927819/873014764127780874/image0.jpg) - [VTip](https://cdn.discordapp.com/attachments/858017329509171201/886003520854196254/image0.jpg)  
-	- OT: don't trigger at the start
-<video width="560" height="315" controls>
- 	<source src="https://images-ext-1.discordapp.net/external/o1toBCUNMy8j85NKQUaSDqMs4P_u_685x9dmOCboMwk/https/i.imgur.com/XQuM1Dq.mp4">
-<a href "https://images-ext-1.discordapp.net/external/o1toBCUNMy8j85NKQUaSDqMs4P_u_685x9dmOCboMwk/https/i.imgur.com/XQuM1Dq.mp4">Vid</a>
-</video>
-3. **Chopper s=14? Wing Thrust Fuel**/Coin/LB - [VTip](https://cdn.discordapp.com/attachments/858017412174577716/886003579310194718/image0.jpg)
-4. **Diesel Wing JS LB** - Monday Map? - [VTip](https://cdn.discordapp.com/attachments/858017616181461022/886003646448402452/image0.jpg)
-	- Take the high route
-	- route: <https://youtu.be/EmfDJpu8rFY>  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EmfDJpu8rFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
-	
-![](https://cdn.discordapp.com/attachments/642394941074702366/885745529722634250/image0.png)
-	
-Videos
-- search: <https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+groupthink%22>
-- vere <https://www.youtube.com/watch?v=hZZT_k-5ors>
-- vokope howto <https://youtu.be/TReeMkY5f2A>
-- cis diesel T1 <https://youtu.be/n4_KV5O-2o8>
-- linus 39k  <https://youtu.be/c5WfDB1dogc>
-- gl 39k <https://youtu.be/TTt3xpvOhKk>
 
 -->
 	
