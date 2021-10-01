@@ -104,9 +104,11 @@ Videos
   </summary>
 <br>
 
-![Rally2] ![HW2] ![WT2]/![Fume2]/![CB2]/![WB2]/![AC2]
+![Rally2] ![HW2] ![WT2],![Fume2],![CB2],![WB2],![AC2]
 
-![https://cdn.discordapp.com/attachments/850232585707323402/893234667497586749/PE_No_FuelNo_Air_Paradoxical_Pain_2021.09.30_2.png]
+![](https://cdn.discordapp.com/attachments/850232585707323402/893234667497586749/PE_No_FuelNo_Air_Paradoxical_Pain_2021.09.30_2.png)
+	
+
 	
 </details>   
 	
