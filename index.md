@@ -16,7 +16,7 @@
 
 *** -->
 
-<details open markdown="block">
+<details  open markdown="block">
   <summary> <b>
 	  Last modified: {{ site.time | date: '%B %e, %Y, %l:%M %p' }} NY time  
  </b></summary>
@@ -37,7 +37,19 @@
 
 ## Events
 
+<details open markdown="block">
+  <summary>
+    TE: Technical Fault
+  </summary>
+<br>
+jeep, monster tank, RT, Sbike
 
+1 No fuel distance (Bog) 
+2 Fast Lane (Bill’s Circuit)
+3 Breaking (Demolition 2)
+4 Floor is Lava
+<br>
+</details>
 	
 <details open markdown="block">
   <summary>
