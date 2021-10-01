@@ -39,15 +39,15 @@
 
 <details open markdown="block">
   <summary>
-    TE: Technical Fault
+    TE: Canyonball Run
   </summary>
 <br>
 jeep, monster tank, RT, Sbike
 
-1 No fuel distance (Bog) 
-2 Fast Lane (Bill’s Circuit)
-3 Breaking (Demolition 2)
-4 Floor is Lava
+1. No fuel distance (Bog)  
+2. Fast Lane (Bill’s Circuit) 
+3. Breaking (Demolition 2)
+4. Floor is Lava
 <br>
 </details>
 	
