@@ -189,7 +189,7 @@ dada     II
 
 <br>  	
 </details>
-<details  markdown="block">
+<details open  markdown="block">
   <summary>
     Adventure
   </summary>
