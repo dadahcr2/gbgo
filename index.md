@@ -49,6 +49,7 @@ jeep, monster tank, RT, Sbike
 3. monster rc weight AB - Breaking (Demolition 2)
 4. RT Df=1 wing JS thrust - Floor is Lava
 
+![](https://cdn.discordapp.com/attachments/731162975854919690/893961420444680242/image0.png)  
 <br>
 </details>
 <!--	
