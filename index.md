@@ -205,17 +205,16 @@ dada     II
 **Last Contest Results**
 
 **September: Hotrod in Gloomvale**
-🏆 Date : 3216m
-🥈 RdKill 3196m
-🥈 Sb 3151m
-🥉 Bee: 3093m
-4 LNL
-5 Nesorac 
-6 Dada 
-7 Rock
-8 Gramps 
-9 Mr F 
-10. Omelette 
+🏆 Date : 3216m  
+🥈 RdKill 3196m  
+🥈 Sb 3151m  
+🥉 Bee: 3093m  
+4 LNL  
+5 Nesorac   
+6 Dada   
+7 Rock  
+8 Gramps   
+9 Mr F / Harry  
 
 **2021 Adventure Roll of Honor**  
 ```
