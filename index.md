@@ -79,9 +79,7 @@ videos
 - Linus 39k < https://youtu.be/UuED7nYGCzA>
 
 -->
-	
-<br>
-</details>
+
 <details open  markdown="block">
   <summary>
     PE: Paradoxical Pain
