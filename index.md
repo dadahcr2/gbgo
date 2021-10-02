@@ -199,28 +199,29 @@ dada     II
 <!--
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
-**September: Hotrod - Gloomvale**
-![](https://farm5.static.flickr.com/4151/5044276539_c4ec77f220_b.jpg)
+**October: Scooter - Reef**
+![](https://moonshotcentral.com/wp-content/uploads/2016/06/insta_hendisyahputra1-11.jpg)
 
 **Last Contest Results**
 
-August: **Bus - Bog**  
-🏆 Nesorac : 8300m  
-🥈 dada 7307m  
-🥉Harry: 3509m  
-4 chelle  
-5 josey   
-6 bee   
-7 mr f   
-8 date   
-9 LNL   
-10 Omelette  
+**September: Hotrod in Gloomvale**
+🏆 Date : 3216m
+🥈 RdKill 3196m
+🥈 Sb 3151m
+🥉 Bee: 3093m
+4 LNL
+5 Nesorac 
+6 Dada 
+7 Rock
+8 Gramps 
+9 Mr F 
+10. Omelette 
 
 **2021 Adventure Roll of Honor**  
 ```
             🥇   🥈    
 ————————————————————  
-Date         5         
+Date         6         
 Nesorac      3   
 T            1    2    
 LNL          1
@@ -230,6 +231,8 @@ Spyder            1
 Omelette          1   
 Getzata           1
 Dada              1
+RdKill            1
+Sb                1
 ————————————————————   
 ```
 <br>  	
