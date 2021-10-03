@@ -46,7 +46,7 @@ jeep, monster tank, RT, Sbike
 
 1. tank LB Wing fume - No fuel distance (Bog) - [vtip](https://media.discordapp.net/attachments/858017263989948447/893909129524019200/image0.jpg) - []()
 2. Sbike AB OT coin - Fast Lane (Bill’s Circuit) - [vtip](https://media.discordapp.net/attachments/858017329509171201/893909188676292618/image0.jpg) - [WR](https://media.discordapp.net/attachments/858017329509171201/894034422045757470/video0.mov)
-3. monster rc weight AB - Breaking (Demolition 2)- [vtip](https://cdn.discordapp.com/attachments/858017412174577716/893909305345077268/image0.jpg) - []()
+3. monster rc weight AB - Breaking (Demolition 2)- [vtip](https://cdn.discordapp.com/attachments/858017412174577716/893909305345077268/image0.jpg) - [10k](https://youtu.be/DTZtrSPkVQU)
 4. RT Df=1 wing JS thrust - Floor is Lava- [vtip](https://cdn.discordapp.com/attachments/858017616181461022/893909368897155182/image0.jpg) - []()
  
 ![](https://cdn.discordapp.com/attachments/731162975854919690/893961420444680242/image0.png)  
@@ -55,6 +55,7 @@ videos
 - [search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+canyonball+run%22)
 - vokope howto <https://www.youtube.com/watch?v=SjgS2DDUSX0>
 - vere 38k <https://youtu.be/k_Nvng3gbQU>
+- linus 39k <https://youtu.be/0YTJTwAKACY>
 	
 <br>
 </details>
