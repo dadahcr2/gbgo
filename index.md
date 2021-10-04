@@ -105,14 +105,14 @@ videos
 	
 ## Contests
 	
-<details  markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest    
  
-![](https://cdn.discordapp.com/attachments/777301191474282546/892556232928423946/image0.png)  
+![](https://media.discordapp.net/attachments/777301191474282546/894408338555674644/image0.png)  
 <br>  
 </details>  
 	 
