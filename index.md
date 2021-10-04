@@ -44,10 +44,10 @@
 <br>
 jeep, monster tank, RT, Sbike
 
-1. tank LB Wing fume / jeep wing JS LB - No fuel distance (Bog) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/894405603596828724/image0.jpg) - []()
+1. tank LB Wing fume / jeep wing JS LB - No fuel distance (Bog) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/894405603596828724/image0.jpg) - [jeepvid](https://images-ext-1.discordapp.net/external/d8cOJnG28XOGPEbPvKmDzoWUhjHu8JCFUVv2vfNYhRM/https/i.imgur.com/amkjM17.mp4)
 2. Sbike AB OT coin - Fast Lane (Bill’s Circuit) - [vtip](https://media.discordapp.net/attachments/858017329509171201/893909188676292618/image0.jpg) - [WR](https://media.discordapp.net/attachments/858017329509171201/894034422045757470/video0.mov)
-3. monster weight AB rc/start - Breaking (Demolition 2)- [vtip](https://cdn.discordapp.com/attachments/858017412174577716/893909305345077268/image0.jpg) - [10k](https://youtu.be/DTZtrSPkVQU)
-4. Tank / RT Df=1 wing JS thrust - Floor is Lava- [vtip](https://media.discordapp.net/attachments/858017616181461022/894405457131749376/image0.jpg) - []()
+3. monster weight AB rc/start - Breaking (Demolition 2)- [vtip](https://cdn.discordapp.com/attachments/858017412174577716/893909305345077268/image0.jpg) - [10k](https://youtu.be/DTZtrSPkVQU) - [vid](https://images-ext-1.discordapp.net/external/C6m3dTZn379VMYa22LMosFpXzZJCJfBiuwVEZO7FMJQ/https/i.imgur.com/bdvz5of.mp4)
+4. Tank / RT Df=1 wing JS thrust - Floor is Lava- [vtip](https://media.discordapp.net/attachments/858017616181461022/894405457131749376/image0.jpg) - [part1](https://images-ext-2.discordapp.net/external/oJQNYy2eLerqOmaAEDv6TSJ8XvOHnIdTJ2IlXBTf0Ho/https/i.imgur.com/fA4ls3P.mp4) - [part2](https://images-ext-2.discordapp.net/external/U9yqSJa4v-ZQ5tZIlktSgqdUqy73XjOvw0Zu95Uekbg/https/i.imgur.com/wxg3s8j.mp4)
  
 ![](https://cdn.discordapp.com/attachments/731162975854919690/893961420444680242/image0.png)  
 	
