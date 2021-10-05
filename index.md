@@ -103,7 +103,7 @@ videos
 	
 ## Contests
 	
-<details open markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -172,6 +172,7 @@ RdKill              1
 **Joins in Sep**     
 ```
 getzata  II
+JimBob   I
 ```
 
 **Season Winners**
@@ -191,7 +192,7 @@ getzata  II
 
 <br>  	
 </details>
-<details open  markdown="block">
+<details  markdown="block">
   <summary>
     Adventure
   </summary>
