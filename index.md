@@ -169,7 +169,7 @@ RdKill              1
   {: .text-delta }
 ### Co-leader Season Contest
 
-**Joins in Sep**     
+**Joins in OCT**     
 ```
 getzata  II
 JimBob   I
