@@ -89,13 +89,11 @@ videos
 
 <details open  markdown="block">
   <summary>
-    PE: Paradoxical Pain
+    PE: Canyoneer Bikers from Earth
   </summary>
 <br>
 
-![Rally2] ![HW2] ![WT2] ![Fume2]
-
-![](https://cdn.discordapp.com/attachments/850232585707323402/893910879588982815/PE_No_FuelNo_Air_Paradoxical_Pain_v2021.10.02.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/895006045938810880/image0.png)
 	
 
 	
