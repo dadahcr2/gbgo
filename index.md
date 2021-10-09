@@ -1,4 +1,4 @@
-[![](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)](#bottom)[  ]()  
+[![](https://media.discordapp.net/attachments/806343355264401478/844297128007303198/Image.png?width=125&height=110)](#bottom)[  ]() 
 [hcr2.info](https://reference.hcr2info.com) - [Checklist](https://reference.hcr2info.com/#lists)  - [Wiki](https://wiki.hcr2.info)  - [FAQ](https://reference.hcr2info.com/faq/) - [Tips](https://reference.hcr2info.com/tips/)   
 [Memes](https://reference.hcr2info.com/memes/) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
@@ -69,10 +69,10 @@ videos
 	
 Moto Buggy Rotator Formula Moonlander
 	
-1. Rotator wing AB coin - Timed (Different Approach)
-2. Buggy tires AC magnet - Moon Stunts (Rocket Jump)
-3. Formula df=1 tires wing AB - Timed Uphill
-4. moto wing thrust fuel/js - Long Jump (Jump in the Woods)
+1. Rotator wing AB coin - Timed (Different Approach) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/896484086888169482/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/2OWcok2-uJz6vJytSVPcm9KE7PqRZbzRyFGIY591eHw/https/i.imgur.com/rKQHslC.mp4)
+2. Buggy tires AC magnet - Moon Stunts (Rocket Jump) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/896484200339898390/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/1H9Ro2PFt2DNta1Nm5QdwlhY1l656BGmfKUdAYf7xuw/https/i.imgur.com/OEiYmXk.mp4)
+3. Formula df=1 tires wing AB - Timed Uphill - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/896484321735610418/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/de_xmtIiuIBc2AyHuinLTvxv9-ExCGNE19rskLk7gEc/https/i.imgur.com/lg2NMdP.mp4)
+4. moto wing thrust fuel/js - Long Jump (Jump in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg) - [vid](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg)
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png)  
 
