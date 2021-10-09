@@ -37,7 +37,7 @@
 
 ## Events
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     TE: Canyonball Run
   </summary>
@@ -61,7 +61,7 @@ videos
 <br>
 </details>
 	
-<details markdown="block">
+<details open markdown="block">
   <summary>
     TE: Revhead Rampage
   </summary>
@@ -72,7 +72,7 @@ Moto Buggy Rotator Formula Moonlander
 1. Rotator wing AB coin - Timed (Different Approach)
 2. Buggy tires AC magnet - Moon Stunts (Rocket Jump)
 3. Formula df=1 tires wing AB - Timed Uphill
-4. moto wing theust fuel/js - Long Jump (Jump in the Woods)
+4. moto wing thrust fuel/js - Long Jump (Jump in the Woods)
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png)  
 
