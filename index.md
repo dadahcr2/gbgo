@@ -77,6 +77,9 @@ Moto Buggy Rotator Formula Moonlander
 ![](https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png)  
 
 [YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+revhead+rampage%22)
+	
+Vokope Howto
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jCu5SKpV8vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 </details>
 
