@@ -65,7 +65,7 @@ videos
   <summary>
     TE: Revhead Rampage
   </summary>
-<br>	
+
 	
 Moto Buggy Rotator Formula Moonlander
 	
@@ -76,6 +76,7 @@ Moto Buggy Rotator Formula Moonlander
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png)  
 
+[YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+revhead+rampage%22)
 <br>
 </details>
 
