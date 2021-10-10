@@ -49,7 +49,8 @@ Moto Buggy Rotator Formula Moonlander
 1. Rotator wing AB coin - Timed (Different Approach) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/896484086888169482/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/2OWcok2-uJz6vJytSVPcm9KE7PqRZbzRyFGIY591eHw/https/i.imgur.com/rKQHslC.mp4)
 2. Buggy tires AC magnet - Moon Stunts (Rocket Jump) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/896484200339898390/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/1H9Ro2PFt2DNta1Nm5QdwlhY1l656BGmfKUdAYf7xuw/https/i.imgur.com/OEiYmXk.mp4)
 3. Formula df=1 tires wing AB - Timed Uphill - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/896484321735610418/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/de_xmtIiuIBc2AyHuinLTvxv9-ExCGNE19rskLk7gEc/https/i.imgur.com/lg2NMdP.mp4)
-4. moto wing thrust fuel/js - Long Jump (Jump in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg) - [vid](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg)
+4. moto wing thrust fuel/js - Long Jump (Jump in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/p-SB5JZx94akClPvoMObFHYofCrHXbJmRhXo1BEBhEo/https/i.imgur.com/xHyYAnT.mp4)
+	
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png)  
 
@@ -59,6 +60,9 @@ Moto Buggy Rotator Formula Moonlander
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jCu5SKpV8vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 </details>
+
+a&b
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0YUrpO5DblQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details open  markdown="block">
   <summary>
