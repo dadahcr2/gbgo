@@ -58,15 +58,14 @@ Moto Buggy Rotator Formula Moonlander
 	
 **Vokope Howto**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jCu5SKpV8vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-</details>
 
 a&b
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YUrpO5DblQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 moonlander long jump
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjS7CfLzMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
+</details>
 <details open  markdown="block">
   <summary>
     PE: Canyoneer Bikers from Earth
@@ -151,7 +150,7 @@ RdKill              1
 
 **Joins in OCT**     
 ```
-getzata  II
+getzata  III
 JimBob   I
 ```
 
