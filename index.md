@@ -82,14 +82,14 @@ moonlander t4
 	
 ## Contests
 	
-<details  markdown="block">  
+<details open  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest    
  
-![](https://media.discordapp.net/attachments/777301191474282546/894408338555674644/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/896970851914764348/image0.png)  
 <br>  
 </details>  
 	 
