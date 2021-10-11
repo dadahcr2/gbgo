@@ -49,7 +49,8 @@ Moto Buggy Rotator Formula Moonlander
 1. Rotator wing AB coin - Timed (Different Approach) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/896484086888169482/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/2OWcok2-uJz6vJytSVPcm9KE7PqRZbzRyFGIY591eHw/https/i.imgur.com/rKQHslC.mp4)
 2. Buggy tires AC magnet - Moon Stunts (Rocket Jump) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/896484200339898390/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/1H9Ro2PFt2DNta1Nm5QdwlhY1l656BGmfKUdAYf7xuw/https/i.imgur.com/OEiYmXk.mp4)
 3. Formula df=1 tires wing AB - Timed Uphill - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/896484321735610418/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/de_xmtIiuIBc2AyHuinLTvxv9-ExCGNE19rskLk7gEc/https/i.imgur.com/lg2NMdP.mp4)
-4. moto wing thrust fuel/js - Long Jump (Jump in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/p-SB5JZx94akClPvoMObFHYofCrHXbJmRhXo1BEBhEo/https/i.imgur.com/xHyYAnT.mp4)
+4. moto wing thrust fuel/js - Long Jump (Jump in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/p-SB5JZx94akClPvoMObFHYofCrHXbJmRhXo1BEBhEo/https/i.imgur.com/xHyYAnT.mp4) - [vid2](https://media.discordapp.net/attachments/893481740084084746/897221040508395580/video0.mov)
+	- "U want to go smooth over the water jump and land towards the end with ur wheel kinda tipping forward.  Then just use about 80% of the thrusters and let the wings engage then use the last bit of thrusters"
 	
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png)  
