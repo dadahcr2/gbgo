@@ -50,7 +50,7 @@ Moto Buggy Rotator Formula Moonlander
 3. Formula df=1 tires wing AB - Timed Uphill - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/896484321735610418/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/de_xmtIiuIBc2AyHuinLTvxv9-ExCGNE19rskLk7gEc/https/i.imgur.com/lg2NMdP.mp4)
 4. moto wing thrust fuel/js - Long Jump (Jump in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/p-SB5JZx94akClPvoMObFHYofCrHXbJmRhXo1BEBhEo/https/i.imgur.com/xHyYAnT.mp4) - [vid2](https://media.discordapp.net/attachments/893481740084084746/897221040508395580/video0.mov)
 	- "U want to go smooth over the water jump and land towards the end with ur wheel kinda tipping forward.  Then just use about 80% of the thrusters and let the wings engage then use the last bit of thrusters"
-	
+- ![](https://cdn.discordapp.com/attachments/894071785937584128/897313749193621504/artflow_202110111944.jpg)  
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png)  
 
