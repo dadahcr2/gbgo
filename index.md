@@ -65,6 +65,10 @@ a&b
 moonlander t4 
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/fjS7CfLzMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/WaX-pRvkeKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+"Easy" Buggy 20k
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/EGSO8e3x2aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 <br>
 </details>
 <details open  markdown="block">
