@@ -35,8 +35,30 @@
 ***   
 
 ## Events
-	
 <details open markdown="block">
+  <summary>
+    TE: Revhead Rampage
+  </summary>
+
+![Tractor2] ![Buggy2] ![Diesel2] ![Chopper2] ![Supercar2]
+	
+1. Flip-Bonus  FingerWoods(Dirty Rally)
+2. Wheelie Underwater
+3. 2km Timed City Adventure
+4. Uphill Distance
+	
+1. Chopper Wing LB fuel
+2. Diesel s=12 wing wheelie fume
+3. Supercar magnet AB fuel
+4. buggy wing wheelie coin (/fume)
+	
+[Video Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22guardians+of+the+garage%22)
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nuv23TBJEmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<br>
+</details>
+<details markdown="block">
   <summary>
     TE: Revhead Rampage
   </summary>
