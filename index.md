@@ -40,7 +40,7 @@
     TE: Guardians of the Garage
   </summary>
 
-Tractor2 Buggy Diesel Chopper Supercar
+Tractor Buggy Diesel Chopper Supercar
 	
 1. Chopper Wing LB fuel - Flip-Bonus  FingerWoods(Dirty Rally)
 2. Diesel s=12 wing wheelie fume - Wheelie Underwater
@@ -102,7 +102,7 @@ moonlander t4
 	
 ## Contests
 	
-<details open  markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -172,6 +172,7 @@ RdKill              1
 ```
 getzata  III
 JimBob   I
+Mr Fixit I
 ```
 
 **Season Winners**
