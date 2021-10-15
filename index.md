@@ -40,7 +40,7 @@
     TE: Guardians of the Garage
   </summary>
 
-![Tractor2] ![Buggy2] ![Diesel2] ![Chopper2] ![Supercar2]
+Tractor2 Buggy Diesel Chopper Supercar
 	
 1. Chopper Wing LB fuel - Flip-Bonus  FingerWoods(Dirty Rally)
 2. Diesel s=12 wing wheelie fume - Wheelie Underwater
@@ -88,14 +88,13 @@ moonlander t4
 	
 <br>
 </details>
+
 <details open  markdown="block">
   <summary>
     PE: United in Suffering
+  </summary>
 <br>
-
 ![](https://cdn.discordapp.com/attachments/850232585707323402/897840862124462110/image0.jpg)
-	
-
 	
 </details>   
 	
