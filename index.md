@@ -42,15 +42,14 @@
 
 Tractor Buggy Diesel Chopper Supercar
 	
-1. Chopper Wing LB fuel - Flip-Bonus  FingerWoods(Dirty Rally)
-2. Diesel s=12 wing wheelie fume - Wheelie Underwater
-3. Supercar magnet AB fuel - 2km Timed City Adventure
-4. buggy wing wheelie coin (/fume) - Uphill Distance
+1. Chopper Wing LB fuel - Flip-Bonus  FingerWoods(Dirty Rally) - [vtip](https://media.discordapp.net/attachments/858017263989948447/898776202318336000/image0.jpg)
+2. Diesel s=12 wing wheelie fume - Wheelie Underwater - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/898776277396361266/image0.jpg)
+3. Supercar magnet AB fuel - 2km Timed City Adventure - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/898776338062802995/image0.jpg)
+4. buggy wing wheelie coin (/fume) - Uphill Distance - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/898776402659266580/image0.jpg)
 	
 [Video Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22guardians+of+the+garage%22)
 	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nuv23TBJEmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSIXRAxUGLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 </details>
 <details markdown="block">
