@@ -46,6 +46,8 @@ Tractor Buggy Diesel Chopper Supercar
 2. Diesel s=12 wing wheelie fume - Wheelie Underwater - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/898776277396361266/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/7neO3WH7C8mpK12zIeVWlZ6M5u1rbQkgnnrWFs7RwK0/https/i.imgur.com/3oKbrTz.mp4)
 3. Supercar magnet AB fuel - 2km Timed City Adventure - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/898776338062802995/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/XdPuXMZ3sI03JMcVf7cG0PPah5MF9tFPheQkr-NL4gs/https/i.imgur.com/eutoAoy.mp4)
 4. buggy wing wheelie coin (/fume) - Uphill Distance - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/898776402659266580/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/ra-HoyHBM2D2kPbO9qXMICIX3m5Hk9jlIN8-Y_minhs/https/i.imgur.com/7FyUUL3.mp4)
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/899556767405596722/image0.png)  
 	
 [Video Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22guardians+of+the+garage%22)
 	
