@@ -52,41 +52,7 @@ Tractor Buggy Diesel Chopper Supercar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tSIXRAxUGLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 </details>
-<details markdown="block">
-  <summary>
-    TE: Revhead Rampage
-  </summary>
 
-![](https://cdn.discordapp.com/attachments/858017263989948447/896483668963491861/image0.png)
-	
-Moto Buggy Rotator Formula Moonlander
-	
-1. Rotator wing AB coin - Timed (Different Approach) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/896484086888169482/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/2OWcok2-uJz6vJytSVPcm9KE7PqRZbzRyFGIY591eHw/https/i.imgur.com/rKQHslC.mp4)
-2. Buggy AC magnet tires**/wing** - Moon Stunts (Rocket Jump) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/896484200339898390/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/1H9Ro2PFt2DNta1Nm5QdwlhY1l656BGmfKUdAYf7xuw/https/i.imgur.com/OEiYmXk.mp4) - [vid2](https://media.discordapp.net/attachments/655701833255354371/897251219913973770/video0.mov)
-3. Formula df=1 tires wing AB - Timed Uphill - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/896484321735610418/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/de_xmtIiuIBc2AyHuinLTvxv9-ExCGNE19rskLk7gEc/https/i.imgur.com/lg2NMdP.mp4)
-4. moto wing thrust fuel/js - Long Jump (Jump in the Woods) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/896484433358622770/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/p-SB5JZx94akClPvoMObFHYofCrHXbJmRhXo1BEBhEo/https/i.imgur.com/xHyYAnT.mp4) - [vid2](https://media.discordapp.net/attachments/893481740084084746/897221040508395580/video0.mov)
-	- "U want to go smooth over the water jump and land towards the end with ur wheel kinda tipping forward.  Then just use about 80% of the thrusters and let the wings engage then use the last bit of thrusters"
-	- ![](https://cdn.discordapp.com/attachments/894071785937584128/897313749193621504/artflow_202110111944.jpg)  
-	
-![](https://cdn.discordapp.com/attachments/850222164065648680/895973356246016041/image0.png)  
-
-[YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+revhead+rampage%22)
-	
-**Vokope Howto** 
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jCu5SKpV8vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-a&b 
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0YUrpO5DblQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-moonlander t4 
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fjS7CfLzMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/WaX-pRvkeKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-"Easy" Buggy 10k
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/EGSO8e3x2aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-<br>
-</details>
 
 <details open  markdown="block">
   <summary>
@@ -101,14 +67,14 @@ moonlander t4
 	
 ## Contests
 	
-<details  markdown="block">  
+<details  open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest    
  
-![](https://cdn.discordapp.com/attachments/777301191474282546/896970851914764348/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/899524896563023872/image0.png)  
 <br>  
 </details>  
 	 
