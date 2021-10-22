@@ -35,6 +35,22 @@
 ***   
 
 ## Events
+
+<details open markdown="block">
+  <summary>
+    TE: Cardust Crusaders
+  </summary>
+
+Jeep Sportscar Monowheel Rally Hotrod
+
+1. Hotrod magnet fuel coin - Like a Hawk(Stormrider Cup)
+2. sportscar start wing thrust - Target Jump (Winter) 
+3. rally weight ac coin - No Air (Beach Adventure)
+4. Jeep - wing JS LB - Multi Jump (desert)
+
+<br>
+</details>
+	
 <details open markdown="block">
   <summary>
     TE: Guardians of the Garage
