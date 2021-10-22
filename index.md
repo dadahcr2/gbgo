@@ -48,6 +48,10 @@ Jeep Sportscar Monowheel Rally Hotrod
 3. rally weight ac coin - No Air (Beach Adventure)
 4. Jeep - wing JS LB - Multi Jump (desert)
 
+![](https://media.discordapp.net/attachments/840171991197417493/901070710057861141/te_Strategy.png)
+	
+Videos
+- [Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22cardust+crusaders%22)
 <br>
 </details>
 	
