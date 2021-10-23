@@ -43,10 +43,10 @@
 
 Jeep Sportscar Monowheel Rally Hotrod
  
-1. Hotrod magnet fuel coin/JS - Like a Hawk(Stormrider Cup)
-2. Rally/sportscar Df=1 start wing thrust - Target Jump (Winter) 
-3. Sports/rRally weight coin fume/wheelie/tires - No Air (Beach Adventure)
-4. Jeep s=18-20 wing JS LB - reverse at start - Multi Jump (desert)
+1. Hotrod magnet fuel coin/JS - Like a Hawk(Stormrider Cup) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/901490065711177738/image0.jpg) - [vid](https://imgur.com/a/1GQuiU6)
+2. Rally/sportscar Df=1 start wing thrust - Target Jump (Winter) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/901490143326769172/image0.jpg)
+3. Sports/rRally weight coin fume/wheelie/tires - No Air (Beach Adventure) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/901490316325031996/image0.jpg)
+4. Jeep s=18-20 wing JS LB - reverse at start - Multi Jump (desert) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/901490397774250015/image0.jpg)
 
 ![](https://media.discordapp.net/attachments/840171991197417493/901070710057861141/te_Strategy.png)
 	
@@ -54,6 +54,8 @@ Jeep Sportscar Monowheel Rally Hotrod
 	
 Videos
 - [Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22cardust+crusaders%22)
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/-TL9ot-YDKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 <br>
 </details>
 	
