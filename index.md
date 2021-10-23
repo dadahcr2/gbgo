@@ -44,7 +44,7 @@
 Jeep Sportscar Monowheel Rally Hotrod
  
 1. Hotrod fuel coin JS/magnet - Like a Hawk(Stormrider Cup) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/901490065711177738/image0.jpg) - [vid](https://imgur.com/a/1GQuiU6)
-2. Rally ac wing thrust - Target Jump (Winter) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/901490143326769172/image0.jpg)
+2. Rally ac7 wing thrust - Target Jump (Winter) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/901490143326769172/image0.jpg)
 3. Sports weight coin wheelie - No Air (Beach Adventure) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/901490316325031996/image0.jpg)
 4. Jeep s=16-19 wing JS LB - reverse at start - Multi Jump (desert) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/901490397774250015/image0.jpg)
 	
