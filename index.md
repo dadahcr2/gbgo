@@ -42,11 +42,11 @@
   </summary>
 
 Jeep Sportscar Monowheel Rally Hotrod
-
-1. Hotrod magnet fuel coin - Like a Hawk(Stormrider Cup)
-2. sportscar start wing thrust - Target Jump (Winter) 
-3. rally weight ac coin - No Air (Beach Adventure)
-4. Jeep - wing JS LB - Multi Jump (desert)
+ 
+1. Hotrod magnet fuel coin/JS - Like a Hawk(Stormrider Cup)
+2. Rally/sportscar start wing thrust - Target Jump (Winter) 
+3. Sports/rRally weight fume coin - No Air (Beach Adventure)
+4. Jeep s=18-20 wing JS LB - Multi Jump (desert)
 
 ![](https://media.discordapp.net/attachments/840171991197417493/901070710057861141/te_Strategy.png)
 	
