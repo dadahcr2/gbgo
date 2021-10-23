@@ -58,27 +58,6 @@ Videos
 	
 <br>
 </details>
-	
-<details open markdown="block">
-  <summary>
-    TE: Guardians of the Garage
-  </summary>
-
-Tractor Buggy Diesel Chopper Supercar
-	
-1. Chopper Wing LB fuel / **thrust AC wing/flip** - Flip-Bonus  FingerWoods(Dirty Rally) - [vtip](https://media.discordapp.net/attachments/858017263989948447/898776202318336000/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/brqGZRMxY9Z5BIUK1dAdCgu_owBJ4tIW6hDUtVIUcYU/https/i.imgur.com/sLLjkzF.mp4) - [vid 11.5s](https://cdn.discordapp.com/attachments/898440979290402826/899487451242983484/Edited_20211017_214021.mp4)
-2. Diesel/buggy wing wheelie fume - Wheelie Underwater - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/898776277396361266/image0.jpg) - [vid](https://images-ext-1.discordapp.net/external/7neO3WH7C8mpK12zIeVWlZ6M5u1rbQkgnnrWFs7RwK0/https/i.imgur.com/3oKbrTz.mp4)
-3. Supercar magnet AB fuel - 2km Timed City Adventure - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/898776338062802995/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/XdPuXMZ3sI03JMcVf7cG0PPah5MF9tFPheQkr-NL4gs/https/i.imgur.com/eutoAoy.mp4)
-4. buggy/diesel wing wheelie coin (/fume) - Uphill Distance - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/898776402659266580/image0.jpg) - [vid](https://images-ext-2.discordapp.net/external/ra-HoyHBM2D2kPbO9qXMICIX3m5Hk9jlIN8-Y_minhs/https/i.imgur.com/7FyUUL3.mp4)
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/899556767405596722/image0.png)  
-	
-[Video Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22guardians+of+the+garage%22)
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tSIXRAxUGLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-</details>
-
 
 <details open  markdown="block">
   <summary>
