@@ -47,13 +47,10 @@ Jeep Sportscar Monowheel Rally Hotrod
 2. Rally ac wing thrust - Target Jump (Winter) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/901490143326769172/image0.jpg)
 3. Sports weight coin wheelie - No Air (Beach Adventure) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/901490316325031996/image0.jpg)
 4. Jeep s=16-19 wing JS LB - reverse at start - Multi Jump (desert) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/901490397774250015/image0.jpg)
-
-![](https://media.discordapp.net/attachments/840171991197417493/901070710057861141/te_Strategy.png)
-	
-![](https://cdn.discordapp.com/attachments/750874271022317678/901396811607068702/image0.jpg)
 	
 Videos
-- [Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22cardust+crusaders%22)
+- [Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22cardust+crusaders%22)  
+	
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/-TL9ot-YDKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <br>
