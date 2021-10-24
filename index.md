@@ -65,7 +65,7 @@ T4 1000m
     PE: Speedy Hollow
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/900228649494667304/image0.jpg)
+![](https://cdn.discordapp.com/attachments/850222120163999794/901962446456111124/incollage_save.jpg)
 	
 </details>   
 	
