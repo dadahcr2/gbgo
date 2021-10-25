@@ -73,14 +73,14 @@ T4 1000m
 	
 ## Contests
 	
-<details markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest    
  
-![](https://cdn.discordapp.com/attachments/777301191474282546/899524896563023872/image0.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/902074812208386088/IMG_0544.png)  
 <br>  
 </details>  
 	 
