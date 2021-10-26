@@ -57,6 +57,9 @@ vokope howto
 T4 1000m
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/bpia4A4N91A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+a&b
+- <https://youtu.be/LHocNZ-Ab88>
+	
 <br>
 </details>
 
