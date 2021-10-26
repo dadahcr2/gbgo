@@ -99,21 +99,21 @@ a&b
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 
-**Week 24 Results**
+**Week 25 Results**
 ```
-🥇 Getz 5x3+2=17
-🥈 date 3+4x2+1=12
-🥉 dada / rdkill 2
+🥇 Getz 
+🥈 date 
+🥉 boodles
 
 2021 Time Trial Roll of Honor
 
          🥇   🥈   🥉
 ——————————————————————
 
-Getzata  14    6    2  
-Dada      8    8    4
+Getzata  15    6    2  
+Dada      8    9    4
 Date      2   11   10    
-Boodles             4
+Boodles             5
 MrFixit             2
 PDB                 1 
 Spyder              1   
