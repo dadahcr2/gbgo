@@ -36,6 +36,23 @@
 
 ## Events
 
+<details open  markdown="block">
+  <summary>
+    TE: Pumpkin JUice
+  </summary>
+<br>
+![](https://cdn.discordapp.com/attachments/851566907920089128/903550976626147338/IMG_0668.jpg)
+	
+Bus mk2 Rotator EV Sbike
+
+1. **rotator b=1 wing magnet AB**/coin
+2. **mk2 weight AB coin**
+3. **Sbike AB coin start**/magnet/fuel - practice on SundayChamp-TheDip
+4. **bus wing thrust fuel**/JS - remove passengers
+
+<br>
+</details>
+
 <details open markdown="block">
   <summary>
     TE: Cardust Crusaders
