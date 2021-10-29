@@ -152,7 +152,7 @@ Bus mk2 Rotator EV Sbike
 <br>  
 </details>  
 	 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -221,13 +221,16 @@ dada     III
 3. getzata
 4. getzata
 5. getzata
+6. getzata, dada & jimbob
 	
 	
 **`---------------`**  
 **`Tablet of Honor`**    
 `===============`   
-`Getzata.......4`     
+`Getzata.......5`     
 `Groot.........2`    
+`Jimbob........1`     
+`dada..........2`  
 **`---------------`**  
 
 <br>  	
