@@ -54,7 +54,7 @@ Bus mk2 Rotator EV Sbike
 - [YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+pumpkin+juice%22)
 - [The Dip 12.25s](https://cdn.discordapp.com/attachments/858851529058418765/903566277497458738/RPReplay_Final1635497136.mov)
 - [vokope preview](https://youtu.be/to0pmaPTsyg) 
-
+- [cis 35k](https://youtu.be/qk6fqB4gGco)
 </details>
 
 <details markdown="block">
