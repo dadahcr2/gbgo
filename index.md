@@ -59,28 +59,72 @@ Bus mk2 Rotator EV Sbike
 
 <details markdown="block">
   <summary>
-    TE: Cardust Crusaders
+    TE: Virtual Match
   </summary>
 
-Jeep Sportscar Monowheel Rally Hotrod
- 
-1. Hotrod fuel coin JS/magnet - Like a Hawk(Stormrider Cup) - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/901490065711177738/image0.jpg) - [vid](https://imgur.com/a/1GQuiU6)
-2. Rally ac7 wing thrust or tires LB/wing thrust (reverse at start) - Target Jump (Winter) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/901490143326769172/image0.jpg)
-3. Sports weight coin wheelie - No Air (Beach Adventure) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/901490316325031996/image0.jpg)
-4. Jeep s=16-19 wing JS LB - Multi Jump (desert) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/901490397774250015/image0.jpg)
-	
-Videos
-- [Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22cardust+crusaders%22)  
-	
-vokope howto  
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/-TL9ot-YDKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-T4 1000m
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/bpia4A4N91A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-a&b
-- <https://youtu.be/LHocNZ-Ab88>
-	
+`Gas Brake Go          2024`
+`Thor's Hammer         2410`
+
+**Leaderboard**
+`Thor's Hammer        29047`
+`Thor's Hammer        27425`
+`Thor's Hammer        27155`
+`Thor's Hammer        26853`
+`Gas Brake Go         26209`
+`Gas Brake Go         25874`
+`Gas Brake Go         25732`
+`Gas Brake Go         25581`
+`Thor's Hammer        25369`
+`Gas Brake Go         25258`
+`Gas Brake Go         25145`
+`Gas Brake Go         25085`
+`Thor's Hammer        24828`
+`Gas Brake Go         24769`
+`Thor's Hammer        24756`
+`Thor's Hammer        24704`
+`Thor's Hammer        24161`
+`Thor's Hammer        23900`
+`Thor's Hammer        23475`
+`Thor's Hammer        22928`
+`Gas Brake Go         22735`
+`Gas Brake Go         22706`
+`Thor's Hammer        22564`
+`Gas Brake Go         22534`
+`Thor's Hammer        22426`
+`Gas Brake Go         22040`
+`Gas Brake Go         21568`
+`Thor's Hammer        21467`
+`Gas Brake Go         21318`
+`Thor's Hammer        21294`
+`Thor's Hammer        21275`
+`Thor's Hammer        21133`
+`Gas Brake Go         20921`
+`Gas Brake Go         20868`
+`Gas Brake Go         20795`
+`Gas Brake Go         20578`
+`Thor's Hammer        20524`
+`Gas Brake Go         20233`
+`Thor's Hammer        20197`
+`Thor's Hammer        20080`
+`Thor's Hammer        18948`
+`Gas Brake Go         18715`
+`Gas Brake Go         18446`
+`Thor's Hammer        18349`
+`Thor's Hammer        18166`
+`Gas Brake Go         18157`
+`Thor's Hammer        18052`
+`Gas Brake Go         18028`
+`Gas Brake Go         17991`
+`Gas Brake Go         17931`
+`Gas Brake Go         16787`
+`Thor's Hammer        15834`
+`Gas Brake Go         15723`
+`Gas Brake Go         15523`
+`Thor's Hammer        14975`
+`Gas Brake Go         14937`
+`Thor's Hammer        13920`
+`Gas Brake Go         13687`
+`Gas Brake Go         12206`
 <br>
 </details>
 
@@ -166,7 +210,7 @@ RdKill              1
 **Joins in OCT**     
 ```
 getzata  III
-JimBob   II
+JimBob   III
 Mr Fixit I
 dada     III
 ```
