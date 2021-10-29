@@ -49,10 +49,15 @@ Bus mk2 Rotator EV Sbike
 2. **mk2 weight AB coin** - pumpkin smash
 3. **Sbike AB coin start**/magnet/fuel - practice on SundayChamp-TheDip
 4. **bus wing thrust fuel**/JS remove passengers - long jump
+	
+**Videos**
+- [search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+pumpkin+juice%22)
+- [The Dip 12.25s](https://cdn.discordapp.com/attachments/858851529058418765/903566277497458738/RPReplay_Final1635497136.mov)
+- [vokope preview](https://youtu.be/to0pmaPTsyg) 
 
 </details>
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     TE: Cardust Crusaders
   </summary>
