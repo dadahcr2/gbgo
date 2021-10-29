@@ -47,7 +47,7 @@ Bus mk2 Rotator EV Sbike
 
 1. **rotator b=1 wing magnet AB**/coin - zombie chase
 2. **mk2 weight AB coin** - pumpkin smash
-3. **Sbike AB coin start**/magnet/fuel - practice on SundayChamp-TheDip
+3. **Sbike AB coin start**/wing/magnet - practice on SundayChamp-TheDip
 4. **bus wing thrust fuel**/JS remove passengers - long jump
 	
 **Videos**
