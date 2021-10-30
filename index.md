@@ -64,21 +64,23 @@ Vokope Howto
   <summary>
     TE: Virtual Match
   </summary>
-`Gas Brake Go          2024`  
-`Thor's Hammer         2410`  
+
+`Gas Brake Go          2222`  
+`Thor's Hammer         2237`  
 
 **Leaderboard**   
 `Thor's Hammer        29047`  
 `Thor's Hammer        27425`  
 `Thor's Hammer        27155`  
 `Thor's Hammer        26853`  
+`Gas Brake Go         26782`  
+`Gas Brake Go         26737`  
 `Gas Brake Go         26209`  
 `Gas Brake Go         25874`  
 `Gas Brake Go         25732`  
 `Gas Brake Go         25581`  
 `Thor's Hammer        25369`  
 `Gas Brake Go         25258`  
-`Gas Brake Go         25145`  
 `Gas Brake Go         25085`  
 `Thor's Hammer        24828`  
 `Gas Brake Go         24769`  
@@ -87,41 +89,45 @@ Vokope Howto
 `Thor's Hammer        24161`  
 `Thor's Hammer        23900`  
 `Thor's Hammer        23475`  
+`Gas Brake Go         23183`  
 `Thor's Hammer        22928`  
 `Gas Brake Go         22735`  
 `Gas Brake Go         22706`  
+`Gas Brake Go         22634`  
 `Thor's Hammer        22564`  
 `Gas Brake Go         22534`  
 `Thor's Hammer        22426`  
 `Gas Brake Go         22040`  
-`Gas Brake Go         21568`  
+`Gas Brake Go         21502`  
 `Thor's Hammer        21467`  
 `Gas Brake Go         21318`  
 `Thor's Hammer        21294`  
 `Thor's Hammer        21275`  
 `Thor's Hammer        21133`  
 `Gas Brake Go         20921`  
+`Gas Brake Go         20914`  
 `Gas Brake Go         20868`  
 `Gas Brake Go         20795`  
 `Gas Brake Go         20578`  
 `Thor's Hammer        20524`  
+`Gas Brake Go         20411`  
 `Gas Brake Go         20233`  
 `Thor's Hammer        20197`  
 `Thor's Hammer        20080`  
+`Gas Brake Go         19959`  
 `Thor's Hammer        18948`  
-`Gas Brake Go         18715`  
-`Gas Brake Go         18446`  
+`Gas Brake Go         18929`  
+`Gas Brake Go         18567`  
 `Thor's Hammer        18349`  
 `Thor's Hammer        18166`  
 `Gas Brake Go         18157`  
 `Thor's Hammer        18052`  
-`Gas Brake Go         18028`  
 `Gas Brake Go         17991`  
-`Gas Brake Go         17931`  
-`Gas Brake Go         16787`  
+`Gas Brake Go         17615`  
+`Gas Brake Go         17560`  
+`Gas Brake Go         16094`  
 `Thor's Hammer        15834`  
 `Gas Brake Go         15723`  
-`Gas Brake Go         15523`  
 `Thor's Hammer        14975`  
 `Gas Brake Go         14937`  
 `Thor's Hammer        13920`  
