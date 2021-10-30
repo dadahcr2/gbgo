@@ -69,7 +69,8 @@ Vokope Howto
 Gas Brake Go          2222   
 Thor's Hammer         2237   
 ```
-**Leaderboard**```   
+**Leaderboard**  
+```   
 Thor's Hammer        29047   
 Thor's Hammer        27425   
 Thor's Hammer        27155   
