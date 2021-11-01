@@ -180,18 +180,17 @@ dada     I
 
 **Last Contest Results**
 	
-**October: Scooter - Reef**
-🏆 Bee 3598m
-🥈 Date 2683m
-🥈 Getz 2546m
-🥉 Bee: 3093m
-Maynard
-Canis
-Flywheel
-Wolf
-Swan
-Spyder
-Dada
+**October: Scooter - Reef**  
+🏆 Bee 3598m  
+🥈 Date 2683m  
+🥉 Getz 2546m  
+Maynard  
+Canis  
+Flywheel  
+Wolf  
+Swan  
+Spyder  
+Dada  
 
 **2021 Adventure Roll of Honor**  
 ```
