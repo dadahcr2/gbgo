@@ -263,7 +263,7 @@ dada     III
 
 <br>  	
 </details>
-<details  markdown="block">
+<details  open markdown="block">
   <summary>
     Adventure
   </summary>
@@ -275,6 +275,8 @@ dada     III
 -->
 **October: Scooter - Reef**
 ![](https://moonshotcentral.com/wp-content/uploads/2016/06/insta_hendisyahputra1-11.jpg)
+**November: Rotator - Plant**
+![](https://cdn.discordapp.com/attachments/820286421323350032/904603707776307200/IMG_0881.jpg)
 
 **Last Contest Results**
 
