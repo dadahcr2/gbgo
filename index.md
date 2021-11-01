@@ -169,14 +169,14 @@ Thor's Hammer   10698
 	
 ## Contests
 	
-<details markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest    
  
-![](https://cdn.discordapp.com/attachments/777301191474282546/902074812208386088/IMG_0544.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/904604071749648444/IMG_0876.png)  
 <br>  
 </details>  
 	 
