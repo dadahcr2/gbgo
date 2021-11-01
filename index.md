@@ -61,101 +61,6 @@ Vokope Howto
 	
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: Virtual Match
-  </summary>
- 
-```
-Gas Brake Go     2396   
-Thor's Hammer    2109   
-
-**LEADERBOARD**   
-Thor's Hammer   29748   
-Gas Brake Go    29091   
-Thor's Hammer   29047   
-Gas Brake Go    28538   
-Thor's Hammer   28303   
-Gas Brake Go    28114   
-Thor's Hammer   27986   
-Thor's Hammer   27115   
-Gas Brake Go    27017   
-Gas Brake Go    26952   
-Gas Brake Go    26906   
-Thor's Hammer   26853   
-Gas Brake Go    26782   
-Gas Brake Go    26737   
-Gas Brake Go    26388   
-Thor's Hammer   26387   
-Thor's Hammer   26342   
-Gas Brake Go    26184   
-Gas Brake Go    26165   
-Thor's Hammer   26038   
-Gas Brake Go    25428   
-Thor's Hammer   25036   
-Thor's Hammer   24804   
-Gas Brake Go    24769   
-Gas Brake Go    24461   
-Gas Brake Go    24384   
-Gas Brake Go    24358   
-Thor's Hammer   24329   
-Thor's Hammer   24161   
-Thor's Hammer   24052   
-Thor's Hammer   23900   
-Gas Brake Go    23599   
-Gas Brake Go    23183   
-Gas Brake Go    22931   
-Thor's Hammer   22928   
-Gas Brake Go    22807   
-Gas Brake Go    22706   
-Thor's Hammer   22630   
-Thor's Hammer   22564   
-Thor's Hammer   22466   
-Gas Brake Go    22080   
-Thor's Hammer   22070   
-Gas Brake Go    22040   
-Gas Brake Go    21924   
-Gas Brake Go    21894   
-Gas Brake Go    21502   
-Gas Brake Go    21476   
-Thor's Hammer   21467   
-Thor's Hammer   21275   
-Gas Brake Go    21080   
-Thor's Hammer   20932   
-Gas Brake Go    20878   
-Gas Brake Go    20795   
-Gas Brake Go    20787   
-Gas Brake Go    20253   
-Thor's Hammer   20197   
-Thor's Hammer   20122   
-Thor's Hammer   19995   
-Thor's Hammer   19586   
-Thor's Hammer   19445   
-Thor's Hammer   19328   
-Gas Brake Go    18901   
-Thor's Hammer   18838   
-Gas Brake Go    18567   
-Gas Brake Go    18157   
-Gas Brake Go    17991   
-Gas Brake Go    17927   
-Gas Brake Go    17560   
-Gas Brake Go    17433   
-Gas Brake Go    17148   
-Gas Brake Go    17119   
-Thor's Hammer   16695   
-Thor's Hammer   16668   
-Gas Brake Go    16654   
-Gas Brake Go    16094   
-Thor's Hammer   15834   
-Gas Brake Go    15723   
-Gas Brake Go    14937   
-Thor's Hammer   13517   
-Thor's Hammer   13245   
-Thor's Hammer   10698      
-```
-<br>
-</details>
-
 <details open  markdown="block">
   <summary>
     PE: 28 Hills Later
@@ -235,12 +140,9 @@ RdKill              1
   {: .text-delta }
 ### Co-leader Season Contest
 
-**Joins in OCT**     
+**Joins in Nov**     
 ```
-getzata  III
-JimBob   III
-Mr Fixit I
-dada     III
+dada     I
 ```
 
 **Season Winners**
@@ -280,27 +182,29 @@ dada     III
 ![](https://cdn.discordapp.com/attachments/820286421323350032/904603707776307200/IMG_0881.jpg)
 
 **Last Contest Results**
-
-**September: Hotrod in Gloomvale**
-🏆 Date : 3216m  
-🥈 RdKill 3196m  
-🥈 Sb 3151m  
-🥉 Bee: 3093m  
-4 LNL  
-5 Nesorac   
-6 Dada   
-7 Rock  
-8 Gramps   
-9 Mr F / Harry  
+	
+**October: Scooter - Reef**
+🏆 Bee 3598m
+🥈 Date 2683m
+🥈 Getz 2546m
+🥉 Bee: 3093m
+Maynard
+Canis
+Flywheel
+Wolf
+Swan
+Spyder
+Dada
 
 **2021 Adventure Roll of Honor**  
 ```
             🥇   🥈    
 ————————————————————  
-Date         6         
+Date         6    1           
 Nesorac      3   
 T            1    2    
 LNL          1
+Bee          1
 Lonestar          2     
 Josey             2   
 Spyder            1   
