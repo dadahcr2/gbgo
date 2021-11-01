@@ -158,9 +158,9 @@ dada     I
 **`Tablet of Honor`**    
 `===============`   
 `Getzata.......5`     
-`Groot.........2`    
-`Jimbob........1`     
-`dada..........2`  
+`Groot.........2` 
+`dada..........2` 
+`Jimbob........1`      
 **`---------------`**  
 
 <br>  	
@@ -175,9 +175,6 @@ dada     I
 <!--
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
-**October: Scooter - Reef**
-![](https://moonshotcentral.com/wp-content/uploads/2016/06/insta_hendisyahputra1-11.jpg)
-	
 **November: Rotator - Plant**
 ![](https://cdn.discordapp.com/attachments/820286421323350032/904603707776307200/IMG_0881.jpg)
 
