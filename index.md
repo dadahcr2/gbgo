@@ -62,7 +62,7 @@ Vokope Howto
 	
 </details>
 
-<details open  markdown="block">
+<details  markdown="block">
   <summary>
     PE: 28 Hills Later
   </summary>
@@ -75,7 +75,7 @@ Vokope Howto
 	
 ## Contests
 	
-<details open markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -317,7 +317,7 @@ Diezel | <https://playhcr.com/invite?id=Wrq05d>
 Flywheel | <https://playhcr.com/invite?id=xdxQbr>  
 G🐝G | <https://playhcr.com/invite?id=z57dp1>  
 Getzata | <https://playhcr.com/invite?id=jEDooe>  
-IWIlikethat | <https://playhcr.com/invite?id=A90m3W>  
+IWINlikethat | <https://playhcr.com/invite?id=A90m3W>  
 Jimbob | <https://playhcr.com/invite?id=wznXZW>  
 Josey | <https://playhcr.com/invite?id=Z46v9Z>  
 LnL | <https://playhcr.com/invite?id=Ve1rrw>    
