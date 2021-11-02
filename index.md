@@ -321,6 +321,7 @@ IWINlikethat | <https://playhcr.com/invite?id=A90m3W>
 Jimbob | <https://playhcr.com/invite?id=wznXZW>  
 Josey | <https://playhcr.com/invite?id=Z46v9Z>  
 LnL | <https://playhcr.com/invite?id=Ve1rrw>    
+Maynard | <https://playhcr.com/invite?id=wdanoa>
 Mrfixit | <https://playhcr.com/invite?id=zEaegD>  
 Native | <https://playhcr.com/invite?id=dEgpVA>
 Nesorac | <https://playhcr.com/invite?id=Zlapzy>  
