@@ -56,6 +56,7 @@ Bus mk2 Rotator EV Sbike
 - [The Dip 12.25s](https://cdn.discordapp.com/attachments/858851529058418765/903566277497458738/RPReplay_Final1635497136.mov)
 - [cis 35k](https://youtu.be/qk6fqB4gGco)
 - [nate 34k](https://youtu.be/Z0XmoctY5q8)
+- [antrax](https://youtu.be/O7GRAyjreGk)
 
 Vokope Howto
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/8eqiukRMffw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -64,10 +65,10 @@ Vokope Howto
 
 <details  markdown="block">
   <summary>
-    PE: 28 Hills Later
+    PE: CC-EV GG WP EZ
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/902887620613398558/incollage_save.jpg)
+![](https://cdn.discordapp.com/attachments/850232585707323402/905532866610487376/Untitled_21.png)
 	
 </details>   
 	
