@@ -99,7 +99,7 @@ Vokope Howto
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 
-**Week 25 Results**
+**Week 26 Results**
 ```
 🥇 Getz 
 🥈 date 
@@ -110,10 +110,10 @@ Rules:
          🥇   🥈   🥉
 ——————————————————————
 
-Getzata  15    6    2  
-Dada      8    9    4
+Getzata  16    6    2  
+Dada      8   10    4
 Date      2   11   10    
-Boodles             5
+Boodles             6
 MrFixit             2
 PDB                 1 
 Spyder              1   
@@ -145,6 +145,7 @@ RdKill              1
 **Joins in Nov**     
 ```
 dada     I
+getzata  I  
 ```
 
 **Season Winners**
@@ -167,7 +168,7 @@ dada     I
 
 <br>  	
 </details>
-<details  open markdown="block">
+<details   markdown="block">
   <summary>
     Adventure
   </summary>
