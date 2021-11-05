@@ -87,7 +87,7 @@ Vokope Howto
 <br>  
 </details>  
 	 
-<details markdown="block">
+<details open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
