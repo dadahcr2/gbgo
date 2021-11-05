@@ -111,8 +111,8 @@ Rules:
 ——————————————————————
 
 Getzata  16    6    2  
-Dada      8   10    4
-Date      2   11   10    
+Dada      8    9    4
+Date      2   12   10    
 Boodles             6
 MrFixit             2
 PDB                 1 
