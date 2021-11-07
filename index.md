@@ -46,7 +46,7 @@
 	- [EV tires wing start challenge - I got 19.359s in Danger Zone](<https://playhcr.com/challenge?id=zO9yZ4Y>)
 2. **SnowM wing fume OT** - water run
 3. **EV wing wheelie tire** or RT df1 wing wheelie coin - city wheelie
-4. **EV wing wheelie tire** - uphill 250m
+4. **EV wing LB/wheelie tire** - uphill 250m
 5. **RT df1 AB OT coin** or scooter JS LB fuel - Fast Lane (Bill's Circuit)
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7aAoi86gD3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
