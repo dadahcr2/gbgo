@@ -43,46 +43,23 @@
 ![](https://cdn.discordapp.com/attachments/851566907920089128/906044292865343488/IMG_0996.jpg)
 	
 1. **Scooter JS LB Thrust** or RT df=1 Wing AB OT or EV Wing JS LB - DangerZone (capital cup)
+	- [Scooter vid](https://cdn.discordapp.com/attachments/858094235446411264/906902492493783070/videozip_1-compressed.MP4)  
 	- [EV tires wing start challenge - I got 19.359s in Danger Zone](<https://playhcr.com/challenge?id=zO9yZ4Y>)
 2. **SnowM wing fume OT** - water run
 3. **EV wing wheelie tire** or RT df1 wing wheelie coin - city wheelie
 4. **EV wing LB/wheelie tire** - uphill 250m
 5. **RT df1 AB OT coin** or scooter JS LB fuel - Fast Lane (Bill's Circuit)
+	- [RT OT vid](https://cdn.discordapp.com/attachments/858094438898728990/906903156129169458/FullSizeRender-compressed.mov)  
+	- [RT LB vid](https://cdn.discordapp.com/attachments/858094438898728990/906903212601253938/FullSizeRender-compressed.mov)  
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7aAoi86gD3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Videos
 - [vokope new tactics](https://youtu.be/TdoYItX2mZ0)
-</details>
-
-<details   markdown="block">
-  <summary>
-    TE: Pumpkin Juice
-  </summary>
-<br>
-![](https://cdn.discordapp.com/attachments/851566907920089128/903550976626147338/IMG_0668.jpg)
-	
-Bus mk2 Rotator EV Sbike
-
-1. **rotator b=1 wing magnet AB**/coin - zombie chase - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/903791106393792542/incollage_save.jpg)
-2. **mk2 weight AB start**/coin - pumpkin smash - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/903791189088669756/incollage_save.jpg)
-- [dada vid](https://youtu.be/SPBcp4dpWc4)
-3. **Sbike AB coin start**/wing/magnet - practice on SundayChamp-TheDip - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/903791295846309888/incollage_save.jpg)
-4. **bus wing thrust fuel**/magnet/JS remove passengers - long jump - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/903791384581005353/incollage_save.jpg)
-	
-**Videos**
-- [YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+pumpkin+juice%22)
-- [The Dip 12.25s](https://cdn.discordapp.com/attachments/858851529058418765/903566277497458738/RPReplay_Final1635497136.mov)
-- [cis 35k](https://youtu.be/qk6fqB4gGco)
-- [nate 34k](https://youtu.be/Z0XmoctY5q8)
-- [antrax](https://youtu.be/O7GRAyjreGk)
-
-Vokope Howto
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8eqiukRMffw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 </details>
-
-<details  markdown="block">
+	
+<details open  markdown="block">
   <summary>
     PE: CC-EV GG WP EZ
   </summary>
