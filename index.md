@@ -43,6 +43,7 @@
 ![](https://cdn.discordapp.com/attachments/851566907920089128/906044292865343488/IMG_0996.jpg)
 	
 1. EV Wing JS LB - DangerZone (capital cup)
+	- [EV tires wing start challenge - I got 19.359s in Danger Zone](<https://playhcr.com/challenge?id=zO9yZ4Y>)
 2. SnowM wing fume OT - water run
 3. RT df1 wing wheelie coin - city wheelie
 4. EV wing wheelie tire - uphill 250m
