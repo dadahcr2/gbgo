@@ -42,12 +42,12 @@
 <br>
 ![](https://cdn.discordapp.com/attachments/851566907920089128/906044292865343488/IMG_0996.jpg)
 	
-1. Scooter wing LB Thrust or RT df=1 Wing AB OT or EV Wing JS LB - DangerZone (capital cup)
+1. **Scooter JS LB Thrust** or RT df=1 Wing AB OT or EV Wing JS LB - DangerZone (capital cup)
 	- [EV tires wing start challenge - I got 19.359s in Danger Zone](<https://playhcr.com/challenge?id=zO9yZ4Y>)
-2. SnowM wing fume OT - water run
-3. EV wing wheelie tire or RT df1 wing wheelie coin - city wheelie
-4. EV wing wheelie tire - uphill 250m
-5. RT df? LB coin fuel/AB or scooter JS LB fuel - Fast Lane (Bill's Circuit)
+2. **SnowM wing fume OT** - water run
+3. **EV wing wheelie tire** or RT df1 wing wheelie coin - city wheelie
+4. **EV wing wheelie tire** - uphill 250m
+5. **RT df1 AB OT coin** or scooter JS LB fuel - Fast Lane (Bill's Circuit)
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7aAoi86gD3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
