@@ -55,7 +55,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7aAoi86gD3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Videos
-- [vokope new tactics](https://youtu.be/TdoYItX2mZ0)
+- [vokope t1 RT t3 EV](https://youtu.be/TdoYItX2mZ0)
+- [linus t1 scooter t5 EV](https://youtu.be/3Cu3F3SE5jk)
 	
 </details>
 	
