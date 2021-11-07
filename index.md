@@ -60,7 +60,7 @@ Videos
 	
 </details>
 	
-<details open  markdown="block">
+<details   markdown="block">
   <summary>
     PE: CC-EV GG WP EZ
   </summary>
