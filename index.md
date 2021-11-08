@@ -80,7 +80,7 @@ Videos
   {: .text-delta }
 ### Weekly Kms Contest    
  
-![](https://cdn.discordapp.com/attachments/777301191474282546/904604071749648444/IMG_0876.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/907388558187323402/8C4D32DA-1009-453A-9667-9EBFD4B4A5E9.jpg)  
 <br>  
 </details>  
 	 
@@ -142,7 +142,7 @@ RdKill              1
 **Joins in Nov**     
 ```
 dada     I
-getzata  I  
+getzata  II  
 ```
 
 **Season Winners**
