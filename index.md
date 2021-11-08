@@ -218,8 +218,8 @@ Sb                1
     Tournaments
   </summary>
   {: .text-delta }
-### Tournaments 
-- Tractor Wars: <http://tw.hcr2.info> (daily on a break)
+### Tournaments
+- Tractor Wars: <http://tw.hcr2.info>  
 - Friendly Wars: <http://fw.hcr2.info>
 </details>   	
 
