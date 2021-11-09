@@ -57,6 +57,7 @@
 Videos
 - [vokope t1 RT t3 EV](https://youtu.be/TdoYItX2mZ0)
 - [linus t1 scooter t5 EV](https://youtu.be/3Cu3F3SE5jk)
+- [dimch-bosch 41k 5400gp - good t1 scooter route](https://www.youtube.com/watch?v=JcLi0jlQU20)  
 	
 </details>
 	
