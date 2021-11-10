@@ -97,20 +97,20 @@ Videos
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 
-**Week 26 Results**
+**Week 27 Results**
 ```
 🥇 Getz 
 🥈 date 
-🥉 boodles
+🥉 dada
 
 2021 Time Trial Roll of Honor
 
          🥇   🥈   🥉
 ——————————————————————
 
-Getzata  16    6    2  
-Dada      8    9    4
-Date      2   12   10    
+Getzata  17    6    2  
+Dada      8    9    5
+Date      2   13   10    
 Boodles             6
 MrFixit             2
 PDB                 1 
@@ -142,7 +142,7 @@ RdKill              1
 
 **Joins in Nov**     
 ```
-dada     I
+dada     II
 getzata  II  
 ```
 
