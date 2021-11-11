@@ -63,10 +63,10 @@ Videos
 	
 <details   markdown="block">
   <summary>
-    PE: CC-EV GG WP EZ
+    PE: Tachycardia
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/905532866610487376/Untitled_21.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/908252353659035698/IMG_1366.png)
 	
 </details>   
 	
