@@ -74,7 +74,7 @@ Videos
 	
 ## Contests
 	
-<details open  markdown="block">  
+<details  markdown="block">  
   <summary>
     Weekly Kms
   </summary>
