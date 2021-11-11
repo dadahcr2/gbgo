@@ -61,7 +61,7 @@ Videos
 	
 </details>
 	
-<details   markdown="block">
+<details open markdown="block">
   <summary>
     PE: Tachycardia
   </summary>
