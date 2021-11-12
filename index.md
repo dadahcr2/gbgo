@@ -51,7 +51,7 @@ Moto buggy tank formula EV
 4. Multi jump - moon	 
 
 </details>
-<details open  markdown="block">
+<details markdown="block">
   <summary>
     TE: Squad Goals
   </summary>
