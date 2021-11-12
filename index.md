@@ -38,7 +38,7 @@
 
 <details open  markdown="block">
   <summary>
-    TE: Squad Goals
+    TE: Let's Gooooooo!
   </summary>
 <br>
 ![](https://media.tenor.co/videos/59e5e093e83fa7e3750fbbd69e6ad571/mp4)
