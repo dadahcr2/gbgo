@@ -35,6 +35,22 @@
 ***   
 
 ## Events
+
+<details open  markdown="block">
+  <summary>
+    TE: Squad Goals
+  </summary>
+<br>
+![](https://media.tenor.co/videos/59e5e093e83fa7e3750fbbd69e6ad571/mp4)
+	
+Moto buggy tank formula EV 
+	
+1. Dangerous downhill-beach  
+2. Cargo: topsy-turvy desert cave  
+3. Miners Mile  
+4. Multi jump - moon	 
+
+</details>
 <details open  markdown="block">
   <summary>
     TE: Squad Goals
