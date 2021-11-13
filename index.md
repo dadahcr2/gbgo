@@ -51,6 +51,14 @@ Moto buggy tank formula
 4. moto/formula wing JS OB - Multi jump - moon	 
 
 ![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
+
+videos
+	- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+let’s+gooooooo!%22)
+	- [io](https://youtu.be/cmpC-os0m9U)
+	- [vok - watch 1st seconds carefully](https://youtu.be/00mj8I9ceAY)
+	- vokope howto below
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LgbKjyNDLwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 </details>
 <details markdown="block">
