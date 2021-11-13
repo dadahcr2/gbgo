@@ -43,13 +43,15 @@
 <br>
 ![](https://media.tenor.co/videos/59e5e093e83fa7e3750fbbd69e6ad571/mp4)
 	
-Moto buggy tank formula EV 
+Moto buggy tank formula 
 	
-1. Dangerous downhill-beach  
-2. Cargo: topsy-turvy desert cave  
-3. Miners Mile  
-4. Multi jump - moon	 
+1. buggy/EV wing JS LB - downhill-beach  
+2. formula wing tire OT / moto wing fuel thrust - Cargo: topsy-turvy desert cave  
+3. EV/Buggy wing LB coin/AB -  Miners Mile  
+4. moto/formula wing JS OB - Multi jump - moon	 
 
+![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
+	
 </details>
 <details markdown="block">
   <summary>
