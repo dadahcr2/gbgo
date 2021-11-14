@@ -48,7 +48,7 @@ Moto buggy tank formula
 1. buggy/EV wing JS LB/thrusters - downhill-beach  
 2. formula df=1 wing tire OT / moto wing fuel thrust - Cargo: topsy-turvy desert cave  
 3. EV/Buggy wing LB coin/AB -  Miners Mile  
-4. moto b=18 / formula df=1 s=6 remove bumpers at start - wing JS OB - Multi jump - moon	 
+4. moto b=18 / formula df=1 s=6 remove bumpers at start - wing JS OB - Multi jump - moon
 
 ![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
 
@@ -57,6 +57,7 @@ videos
 	- [io](https://youtu.be/cmpC-os0m9U)
 	- [vok(watch 1st seconds carefully)](https://youtu.be/00mj8I9ceAY)
 	- [vere](https://youtu.be/Myi57YShGDY)
+	- [removing tank barrel](https://cdn.discordapp.com/attachments/858094402374598686/909518243209805914/RPReplay_Final1636916243.mov)
 	- vokope howto below
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LgbKjyNDLwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
