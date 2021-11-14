@@ -45,7 +45,7 @@
 	
 Moto buggy tank formula 
 	
-1. buggy/EV wing JS LB - downhill-beach  
+1. buggy/EV wing JS LB/thrusters - downhill-beach  
 2. formula df=1 wing tire OT / moto wing fuel thrust - Cargo: topsy-turvy desert cave  
 3. EV/Buggy wing LB coin/AB -  Miners Mile  
 4. moto b=18 / formula df=1 s=6 remove bumpers at start - wing JS OB - Multi jump - moon	 
