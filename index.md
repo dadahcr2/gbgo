@@ -36,7 +36,7 @@
 
 ## Events
 
-<details open  markdown="block">
+<details open markdown="block">
   <summary>
     TE: Let's Gooooooo!
   </summary>
@@ -102,14 +102,14 @@ Videos
 	
 ## Contests
 	
-<details  markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest    
  
-![](https://cdn.discordapp.com/attachments/777301191474282546/907388558187323402/8C4D32DA-1009-453A-9667-9EBFD4B4A5E9.jpg)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/909834714465062952/IMG_1558.png)  
 <br>  
 </details>  
 	 
@@ -171,7 +171,7 @@ RdKill              1
 **Joins in Nov**     
 ```
 dada     II
-getzata  II  
+getzata  IIII  
 ```
 
 **Season Winners**
