@@ -48,7 +48,7 @@ Moto buggy tank formula
 1. buggy/EV wing JS LB/thrusters - downhill-beach  
 2. formula df=1 wing tire OT / moto wing fuel thrust - Cargo: topsy-turvy desert cave  
 3. EV/Buggy wing LB coin/AB -  Miners Mile  
-4. moto b=18 / formula df=1 s=6 remove bumpers at start - wing JS OB - Multi jump - moon
+4. moto b=18 / formula df=1 s=6 remove bumpers at start / tank s=15 - wing JS OB - Multi jump - moon
 
 ![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
 
@@ -63,38 +63,15 @@ videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LgbKjyNDLwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 </details>
-<details markdown="block">
-  <summary>
-    TE: Squad Goals
-  </summary>
-<br>
-![](https://cdn.discordapp.com/attachments/851566907920089128/906044292865343488/IMG_0996.jpg)
-	
-1. **Scooter JS LB Thrust** or RT df=1 Wing AB OT or EV Wing JS LB - DangerZone (capital cup)
-	- [Scooter vid](https://cdn.discordapp.com/attachments/858094235446411264/906902492493783070/videozip_1-compressed.MP4)  
-	- [EV tires wing start challenge - I got 19.359s in Danger Zone](<https://playhcr.com/challenge?id=zO9yZ4Y>)
-2. **SnowM wing fume OT** - water run - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/906630371410575430/incollage_save.jpg)  
-3. **EV wing wheelie tire** or RT df1 wing wheelie coin - city wheelie
-4. **EV wing LB/wheelie tire** - uphill 250m - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/906630532543152218/incollage_save.jpg)  
-5. **RT df1 AB OT coin** or scooter JS LB fuel - Fast Lane (Bill's Circuit)
-	- [RT OT vid](https://cdn.discordapp.com/attachments/858094438898728990/906903156129169458/FullSizeRender-compressed.mov)  
-	- [RT LB vid](https://cdn.discordapp.com/attachments/858094438898728990/906903212601253938/FullSizeRender-compressed.mov)  
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7aAoi86gD3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Videos
-- [vokope t1 RT t3 EV](https://youtu.be/TdoYItX2mZ0)
-- [linus t1 scooter t5 EV](https://youtu.be/3Cu3F3SE5jk)
-- [dimch-bosch 41k 5400gp - good t1 scooter route](https://www.youtube.com/watch?v=JcLi0jlQU20)  
-	
-</details>
 	
 <details open markdown="block">
   <summary>
-    PE: Tachycardia
+    PE: Moon Jump
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/908252353659035698/IMG_1366.png)
+![bus2] ![Wi2] ![Th2] ![JS2] 🔄 ![pMa2]
+![]()
 	
 </details>   
 	
