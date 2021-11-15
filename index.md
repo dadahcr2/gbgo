@@ -70,7 +70,7 @@ videos
     PE: Moon Jump
   </summary>
 <br>
-![bus2] ![Wi2] ![Th2] ![JS2] 🔄 ![pMa2]
+![bus2] ![Wi2] ![Th2] ![JS2] / ![Ma2]
 	
 Last Moon Jump Event
 ![](https://cdn.discordapp.com/attachments/852315313286545448/860646029459849256/image0.png)
