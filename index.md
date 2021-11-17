@@ -43,7 +43,7 @@
 <br>
 ![](https://media.tenor.co/videos/59e5e093e83fa7e3750fbbd69e6ad571/mp4)
 	
-Moto buggy tank formula 
+Moto buggy tank formula ev
 	
 1. buggy/EV wing JS LB/thrusters - downhill-beach  
 2. formula df=1 AB coin fuel / moto wing fuel thrust - Cargo: topsy-turvy desert cave  
@@ -67,7 +67,7 @@ videos
 	
 <details open markdown="block">
   <summary>
-    PE: Moon Jump
+    PE: In the name of the Moon
   </summary>
 <br>
 ![bus2] ![Wi2] ![Th2] ![JS2] / ![Ma2]
