@@ -81,7 +81,7 @@ Last Moon Jump Event
 	
 ## Contests
 	
-<details open markdown="block">  
+<details markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -92,7 +92,7 @@ Last Moon Jump Event
 <br>  
 </details>  
 	 
-<details  markdown="block">
+<details open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -104,10 +104,10 @@ Last Moon Jump Event
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 
-**Week 27 Results**
+**Week 28 Results**
 ```
-🥇 Getz 
-🥈 date 
+🥇 date 
+🥈 getz 
 🥉 dada
 
 2021 Time Trial Roll of Honor
@@ -115,9 +115,9 @@ Rules:
          🥇   🥈   🥉
 ——————————————————————
 
-Getzata  17    6    2  
-Dada      8    9    5
-Date      2   13   10    
+Getzata  17    7    2  
+Dada      8    9    6
+Date      3   13   10    
 Boodles             6
 MrFixit             2
 PDB                 1 
