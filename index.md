@@ -50,7 +50,9 @@
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+gas+gas+gas%22)   
 - [vere 39k](https://youtu.be/Prba_pRXSQ8)   
-	
+- Vokope Tips - [T1](https://media.discordapp.net/attachments/858017263989948447/911664025337737246/incollage_save.jpg) - [T2](https://cdn.discordapp.com/attachments/858017329509171201/911664095302918144/incollage_save.jpg) - [T3](https://cdn.discordapp.com/attachments/858017412174577716/911664155172421652/incollage_save.jpg) - [T4](https://cdn.discordapp.com/attachments/858017616181461022/911664226349760582/incollage_save.jpg) - Howto ⬇️  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ia1VqDIyN30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
 
 </details>
