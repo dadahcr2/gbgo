@@ -47,6 +47,9 @@
 
 ![](https://cdn.discordapp.com/attachments/864271660990595092/911245549322244096/te_Strategy.png)  
 	
+Videos
+- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+gas+gas+gas%22)  
+	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
 
 </details>
