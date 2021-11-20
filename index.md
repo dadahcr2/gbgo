@@ -36,7 +36,19 @@
 
 ## Events
 
-<details open markdown="block">
+<details  open markdown="block">
+  <summary>
+    TE: Gas Gas Gas
+  </summary>
+<br>
+![](https://media.tenor.co/videos/26b90c3d6ef0ebfb76134441d199a327/mp4)  
+
+![jeep2] ![tractor2] ![monster2] ![rally2] ![moonlander2]  
+![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
+
+</details>
+
+<details markdown="block">
   <summary>
     TE: Let's Gooooooo!
   </summary>
@@ -92,7 +104,7 @@ Last Moon Jump Event
 <br>  
 </details>  
 	 
-<details open markdown="block">
+<details  markdown="block">
   <summary>
     Daily Time Trial
   </summary>
