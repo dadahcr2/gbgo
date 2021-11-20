@@ -44,7 +44,7 @@
 ![](https://media.tenor.co/videos/26b90c3d6ef0ebfb76134441d199a327/mp4)  
 
 ![jeep2] ![tractor2] ![monster2] ![rally2] ![moonlander2]  
-png)	
+
 ![](https://cdn.discordapp.com/attachments/864271660990595092/911245549322244096/te_Strategy.png)  
 	
 ![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
