@@ -45,6 +45,11 @@
 
 ![jeep2] ![tractor2] ![monster2] ![rally2] ![moonlander2]  
 
+1. tractor d=1 wheelie fume tires/coin - no air - winter
+2. moonlander magnet only - remove wheels - moon jump 2
+3. rally tires weight AB - breaking
+4. monster start AB coin - bump in the water (alligator cup)
+	
 ![](https://cdn.discordapp.com/attachments/864271660990595092/911245549322244096/te_Strategy.png)  
 	
 Videos
