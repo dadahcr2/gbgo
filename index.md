@@ -36,7 +36,7 @@
 
 ## Events
 
-<details  markdown="block">
+<details open markdown="block">
   <summary>
     TE: Pedal + Metal
   </summary>
@@ -45,9 +45,16 @@
 ![](https://media.tenor.co/videos/487b60a1f0a4b77a4413d5eb60fbcc15/mp4)
 	
 ![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
+	
+1. Hotrod Magnet fuel coin - Metal Gear (Epic Hills) 
+2. Buggy Wing JS LB - No Fuel Distance (Bog) 
+3. Diesel Wing JS Fuel - Canyoneer Sprint (2km) 
+4. Supercar Wing fume OT - LongJump (City)
+	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png)  
 
-</details>	
+</details>
+
 <details   markdown="block">
   <summary>
     TE: Gas Gas Gas
