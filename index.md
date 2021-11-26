@@ -36,7 +36,24 @@
 
 ## Events
 
-<details  open markdown="block">
+<details  markdown="block">
+  <summary>
+    TE: Pedal + Metal
+  </summary>
+<br>
+![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
+![https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png]  
+</details>
+
+
+	
+<details  markdown="block">
+  
+For more information on Public Events, please feel free to join the Public Event Discord Server
+<https://discord.gg/FZPnQbxZTQ>
+
+</details>	
+<details   markdown="block">
   <summary>
     TE: Gas Gas Gas
   </summary>
@@ -61,46 +78,14 @@ Videos
 ![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
 
 </details>
-
-<details markdown="block">
-  <summary>
-    TE: Let's Gooooooo!
-  </summary>
-<br>
-![](https://media.tenor.co/videos/59e5e093e83fa7e3750fbbd69e6ad571/mp4)
-	
-Moto buggy tank formula ev
-	
-1. buggy/EV wing JS LB/thrusters - downhill-beach  
-2. formula df=1 AB coin fuel / moto wing fuel thrust - Cargo: topsy-turvy desert cave  
-3. EV/Buggy wing LB coin/AB -  Miners Mile  
-4. moto b=18 / formula df=1 s=1/6 remove bumpers at start / tank s=15 - wing JS LB - Multi jump - moon
-
-![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
-
-videos  
-	- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+let’s+gooooooo!%22)  
-	- [io](https://youtu.be/cmpC-os0m9U)  
-	- [vok(watch 1st seconds carefully)](https://youtu.be/00mj8I9ceAY)  
-	- [vere](https://youtu.be/Myi57YShGDY)  
-	- [removing tank barrel](https://cdn.discordapp.com/attachments/858094402374598686/909518243209805914/RPReplay_Final1636916243.mov)  
-	- [644m formula T4](https://youtu.be/477PAcvL5CM)  
-	- vokope howto below  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LgbKjyNDLwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-</details>
-
 	
 <details open markdown="block">
-  <summary>
-    PE: In the name of the Moon
+<summary>
+    PE: Need for Swiftness
   </summary>
 <br>
-![bus2] ![Wi2] ![Th2] ![JS2] / ![Ma2]
+![](https://cdn.discordapp.com/attachments/880579570435227679/913689466860896296/IMG_1979.png)
 	
-Last Moon Jump Event
-![](https://cdn.discordapp.com/attachments/852315313286545448/860646029459849256/image0.png)
-
 </details>   
 	
 ***
