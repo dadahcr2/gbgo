@@ -42,7 +42,7 @@
   </summary>
 <br>
 ![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
-![https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png]  
+![](https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png)  
 </details>
 
 
