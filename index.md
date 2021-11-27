@@ -54,7 +54,9 @@
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+pedal+metal)
 - linus Conyon Sprint below
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AkMN3NpdWHA?start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AkMN3NpdWHA?start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+- vokope howto below
+<iframe width="560" height="315" src="https://www.youtube.com/embed/edaOdBNcNgo?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png)  
