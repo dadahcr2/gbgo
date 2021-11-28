@@ -125,10 +125,10 @@ Videos
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 
-**Week 28 Results**
+**Week 29 Results**
 ```
-🥇 date 
-🥈 getz 
+🥇 date   
+🥈 Getz
 🥉 dada
 
 2021 Time Trial Roll of Honor
@@ -136,9 +136,9 @@ Rules:
          🥇   🥈   🥉
 ——————————————————————
 
-Getzata  17    7    2  
-Dada      8    9    6
-Date      3   13   10    
+Getzata  17    8    2  
+Dada      8    9    7
+Date      4   13   10    
 Boodles             6
 MrFixit             2
 PDB                 1 
@@ -158,7 +158,7 @@ RdKill              1
 5. Scroll down to find that day's cup and track
 6. Run it at many times as you like using that day’s vehicle
 
-![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)  	
+![](https://cdn.discordapp.com/attachments/855146978140094466/914470273980444692/IMG_2071.png)  	
 <br>  	
 </details>  
 <details markdown="block">
@@ -170,7 +170,7 @@ RdKill              1
 
 **Joins in Nov**     
 ```
-dada     II
+dada     IIII
 getzata  IIII  
 ```
 
@@ -181,14 +181,15 @@ getzata  IIII
 4. getzata
 5. getzata
 6. getzata, dada & jimbob
+7. getzata & dada
 	
 	
 **`---------------`**  
 **`Tablet of Honor`**    
 `===============`   
-`Getzata.......5`     
+`Getzata.......6`     
+`dada..........3`   
 `Groot.........2` 
-`dada..........2` 
 `Jimbob........1`      
 **`---------------`**  
 
