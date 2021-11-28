@@ -102,18 +102,18 @@ Videos
 	
 ## Contests
 	
-<details markdown="block">  
+<details open markdown="block">  
   <summary>
     Weekly Kms
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest    
  
-![](https://cdn.discordapp.com/attachments/777301191474282546/909834714465062952/IMG_1558.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/914470292770947072/B7FFAD85-31DC-49D7-861C-644FACEB3BB1.jpg)  
 <br>  
 </details>  
 	 
-<details  markdown="block">
+<details open markdown="block">
   <summary>
     Daily Time Trial
   </summary>
