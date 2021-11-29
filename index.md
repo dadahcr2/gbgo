@@ -47,9 +47,9 @@
 ![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
 	
 1. Hotrod Magnet fuel coin - Metal Gear (Epic Hills) 
-2. Buggy Wing JS LB - No Fuel Distance (Bog) 
+2. Buggy/Diesel Wing LB JS/Fume - No Fuel Distance (Bog) 
 3. Diesel Wing JS Fuel / scar ab=1 AB OT fuel - Canyoneer Sprint (2km) 
-4. Supercar Wing fume OT / diesel wing JS thrust - LongJump (City)
+4. Supercar Wing fume OT / diesel wing thrust JS/Start6 - LongJump (City)
 	
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+pedal+metal)
