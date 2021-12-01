@@ -204,10 +204,10 @@ getzata  0
 Maynard  
 Jimbob  
 Boodles  
-Terd  
+Swan  
+T  
 Wolf  
-Getzata  
-Nesorac  
+Sam  
 
 **2021 Adventure Roll of Honor**  
 ```
