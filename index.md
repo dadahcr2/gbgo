@@ -170,7 +170,7 @@ RdKill              1
 5. Scroll down to find that day's cup and track
 6. Run it at many times as you like using that day’s vehicle
 
-![](https://cdn.discordapp.com/attachments/855146978140094466/914470273980444692/IMG_2071.png)  	
+![](https://cdn.discordapp.com/attachments/815005702245449728/915598790273171456/IMG_2331.png)  	
 <br>  	
 </details>  
 <details markdown="block">
@@ -192,7 +192,7 @@ getzata  0
 3. getzata
 4. getzata
 5. getzata
-6. getzata, dada & jimbob
+6. getzata, dada & jimbob  
 7. getzata & dada
 	
 	
@@ -217,8 +217,8 @@ getzata  0
 <!--
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
-**November: Rotator - Plant**
-![](https://cdn.discordapp.com/attachments/820286421323350032/904603707776307200/IMG_0881.jpg)
+**December: EV - Bog**
+![](https://cdn.discordapp.com/attachments/820286421323350032/915643045406445629/IMG_2337.png)
 
 **Last Contest Results**
 	
