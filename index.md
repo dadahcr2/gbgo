@@ -180,10 +180,10 @@ RdKill              1
   {: .text-delta }
 ### Co-leader Season Contest
 
-**Joins in Nov**     
+**Joins in Dec**     
 ```
-dada     IIII
-getzata  IIII  
+dada     I
+getzata  0
 ```
 
 **Season Winners**
@@ -222,17 +222,17 @@ getzata  IIII
 
 **Last Contest Results**
 	
-**October: Scooter - Reef**  
-🏆 Bee 3598m  
-🥈 Date 2683m  
-🥉 Getz 2546m  
+**November: Rotator - Plant**  
+🏆 Dada 4069m  
+🥈 *Lonestar 4049m  
+🥉 Date 3866m  
 Maynard  
-Canis  
-Flywheel  
+Jimbob  
+Boodles  
+Terd  
 Wolf  
-Swan  
-Spyder  
-Dada  
+Getzata  
+Nesorac  
 
 **2021 Adventure Roll of Honor**  
 ```
@@ -241,14 +241,14 @@ Dada
 Date         6    1           
 Nesorac      3   
 T            1    2    
+Dada         1    1  
 LNL          1
 Bee          1
-Lonestar          2     
+Lonestar          3     
 Josey             2   
 Spyder            1   
 Omelette          1   
 Getzata           1
-Dada              1
 RdKill            1
 Sb                1
 ————————————————————   
