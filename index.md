@@ -70,31 +70,6 @@ Videos
 
 </details>
 
-<details   markdown="block">
-  <summary>
-    TE: Gas Gas Gas
-  </summary>
-<br>
-![](https://media.tenor.co/videos/26b90c3d6ef0ebfb76134441d199a327/mp4)  
-
-![jeep2] ![tractor2] ![monster2] ![rally2] ![moonlander2]  
-
-1. tractor d=1 wheelie fume tires/coin - no air - winter
-2. moonlander magnet only - remove wheels - moon jump 2
-3. rally tires weight AB - breaking
-4. monster start AB coin - bump in the water (alligator cup)
-	
-![](https://cdn.discordapp.com/attachments/864271660990595092/911245549322244096/te_Strategy.png)  
-	
-Videos
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+gas+gas+gas%22)   
-- [vere 39k](https://youtu.be/Prba_pRXSQ8)   
-- Vokope Tips - [T1](https://media.discordapp.net/attachments/858017263989948447/911664025337737246/incollage_save.jpg) - [T2](https://cdn.discordapp.com/attachments/858017329509171201/911664095302918144/incollage_save.jpg) - [T3](https://cdn.discordapp.com/attachments/858017412174577716/911664155172421652/incollage_save.jpg) - [T4](https://cdn.discordapp.com/attachments/858017616181461022/911664226349760582/incollage_save.jpg) - Howto ⬇️  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ia1VqDIyN30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](https://cdn.discordapp.com/attachments/850222164065648680/911356522876010496/IMG_1771.png)
-
-</details>
 	
 <details open markdown="block">
 <summary>
@@ -109,7 +84,7 @@ Videos
 	
 ## Contests
 	
-<details open markdown="block">  
+<details markdown="block">  
   <summary>
     Weekly Kms
   </summary>
@@ -207,7 +182,7 @@ getzata  0
 
 <br>  	
 </details>
-<details   markdown="block">
+<details  open markdown="block">
   <summary>
     Adventure
   </summary>
