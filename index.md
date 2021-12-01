@@ -138,20 +138,19 @@ week ending 21 Nov
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 
-**Week 29 Results**
+**Week 30 Results**
 ```
 🥇 date   
 🥈 Getz
-🥉 dada
 
 2021 Time Trial Roll of Honor
 
          🥇   🥈   🥉
 ——————————————————————
 
-Getzata  17    8    2  
+Getzata  17    9    2  
 Dada      8    9    7
-Date      4   13   10    
+Date      5   13   10    
 Boodles             6
 MrFixit             2
 PDB                 1 
