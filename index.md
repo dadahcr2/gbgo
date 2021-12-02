@@ -53,6 +53,7 @@
 	
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+pedal+metal)
+- [jtmoney 37k](https://youtu.be/7x2HUp-TMm0)
 	
 	
 - vokope howto below
