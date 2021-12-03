@@ -615,6 +615,14 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 [Moonlander2]: https://media.discordapp.net/attachments/834727267049013248/834730007943315476/Moonlander.png 
 {: height="40px" width="64px"}
 
+[EV2]: https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7b/Cc-ev.png
+  {: height="40px" width="64px"} 
+	
+
+[EV]: https://static.wikia.nocookie.net/hillclimbracing2_gamepedia_en/images/7/7b/Cc-ev.png
+  {: height="20px" width="32px"} 
+	
+
 <a name="bottom"></a>
 
 
