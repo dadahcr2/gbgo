@@ -72,6 +72,21 @@ Videos
 
 </details>
 
+<details  markdown="block">
+  <summary>
+    TE: Beyond Speed
+  </summary>
+<br>
+
+![scooter2] ![sportscar2] ![rotator2] ![mono2] ![ev2]  
+![](https://cdn.discordapp.com/attachments/851566907920089128/916317794168111114/IMG_2386.png)  
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/916421785170354216/te_Strategy.png)  
+
+**Videos**
+- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+beyond+speed)
+
+</details>
 	
 <details open markdown="block">
 <summary>
