@@ -47,7 +47,8 @@
 ![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
 	
 1. Hotrod Magnet fuel coin - Metal Gear (Epic Hills) 
-2. Buggy/Diesel Wing LB JS/Fume - No Fuel Distance (Bog) 
+2. Buggy/Diesel Wing LB JS/Fume - No Fuel Distance (Bog)  
+![first 100m T2](https://media.discordapp.net/attachments/858094270821040188/916466518097813534/RPReplay_Final1638572893.mov)  
 3. Diesel Wing JS Fuel / scar ab=1 AB OT fuel - Canyoneer Sprint (2km) 
 4. Supercar Wing fume OT / diesel wing thrust JS/Start6 - LongJump (City)
 	
