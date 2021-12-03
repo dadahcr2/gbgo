@@ -102,7 +102,7 @@ week ending 21 Nov
 <br>  
 </details>  
 	 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Daily Time Trial
   </summary>
@@ -183,7 +183,7 @@ getzata  0
 
 <br>  	
 </details>
-<details  open markdown="block">
+<details markdown="block">
   <summary>
     Adventure
   </summary>
