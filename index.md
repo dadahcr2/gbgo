@@ -42,8 +42,6 @@
   </summary>
 <br>
 	
-![](https://media.tenor.co/videos/487b60a1f0a4b77a4413d5eb60fbcc15/mp4)
-	
 ![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
 	
 1. Hotrod Magnet fuel coin - Metal Gear (Epic Hills) 
