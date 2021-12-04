@@ -77,12 +77,19 @@ Videos
 <br>
 
 ![scooter2] ![sportscar2] ![rotator2] ![mono2] ![ev2]  
-![](https://cdn.discordapp.com/attachments/851566907920089128/916317794168111114/IMG_2386.png)  
-
+	
+1. sports wheelie AB coin/weight
+2. rotator wheelie fume wing/coin or EV tires wing wheelie 
+3. scooter wing JS LB
+4. Mono wing fume OT or  EV wing wheelie 
+	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/916421785170354216/te_Strategy.png)  
 
 **Videos**
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+beyond+speed)
+
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/916317794168111114/IMG_2386.png)  
 
 <br>
 </details>
