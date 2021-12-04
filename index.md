@@ -82,8 +82,6 @@ Videos
 2. rotator wheelie fume wing/coin or EV tires wing wheelie 
 3. scooter wing JS LB
 4. Mono wing fume OT or  EV wing wheelie 
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/916421785170354216/te_Strategy.png)  
 
 **Videos**
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+beyond+speed)
