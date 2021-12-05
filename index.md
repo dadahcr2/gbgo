@@ -48,7 +48,7 @@
 1. sports wheelie AB coin/weight
 2. rotator wheelie fume wing/coin or EV tires wing wheelie 
 3. EV/scooter wing JS LB
-4. Mono wing fume OT or  EV wing wheelie 
+4. Mono wing fume OT or EV wing wheelie coin  
 
 **Videos**
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+beyond+speed)
