@@ -36,39 +36,6 @@
 
 ## Events
 
-<details open markdown="block">
-  <summary>
-    TE: Pedal + Metal
-  </summary>
-<br>
-	
-![mk22] ![buggy2] ![diesel2] ![hotrod2] ![supercar2]  
-	
-1. Hotrod Magnet fuel coin - Metal Gear (Epic Hills) 
-2. Buggy/Diesel Wing LB JS/Fume - No Fuel Distance (Bog)  
-![first 100m T2](https://cdn.discordapp.com/attachments/858094270821040188/916466518097813534/RPReplay_Final1638572893.mov)  
-3. Diesel Wing JS Fuel / scar ab=1 AB OT fuel - Canyoneer Sprint (2km) 
-4. Supercar Wing fume OT / diesel wing thrust JS/Start6 - LongJump (City)
-	
-Videos
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+pedal+metal)
-- [jtmoney 37k](https://youtu.be/7x2HUp-TMm0)
-	
-	
-- vokope howto below
-<iframe width="560" height="315" src="https://www.youtube.com/embed/edaOdBNcNgo?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-	
-	
-- io T3 scar t4 diesel below
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CqEm0sqq1lU?start=400" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-
-- - linus Conyon Sprint below
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AkMN3NpdWHA?start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/913707551084920883/IMG_1982.png)  
-<br>
-</details>
 
 <details open markdown="block">
   <summary>
@@ -80,7 +47,7 @@ Videos
 	
 1. sports wheelie AB coin/weight
 2. rotator wheelie fume wing/coin or EV tires wing wheelie 
-3. scooter wing JS LB
+3. EV/scooter wing JS LB
 4. Mono wing fume OT or  EV wing wheelie 
 
 **Videos**
