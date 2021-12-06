@@ -46,15 +46,15 @@
 ![scooter2] ![sportscar2] ![rotator2] ![mono2] ![ev2]  
 	
 1. sports wheelie AB coin/weight - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/917190992946421791/incollage_save.jpg)  
-2. reverse at,start rotator wheelie fume wing/coin or EV tires wing wheelie - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/917191107098587186/incollage_save.jpg)  
-3. reverse at start EV/scooter wing JS LB - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/917191227542233148/incollage_save.jpg)  
+2. reverse at,start rotator s=7? wheelie fume wing/coin or EV tires wing wheelie - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/917191107098587186/incollage_save.jpg)  
+3. reverse at start? EV/scooter wing JS LB - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/917191227542233148/incollage_save.jpg)  
 4. Mono wing fume OT or EV wing wheelie coin - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/917191279413194752/incollage_save.jpg)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8fBfcyPw_Ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 **Videos**
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+beyond+speed)
-
+- [nate 37k](https://youtu.be/NyYjV1UpygA)  
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/916317794168111114/IMG_2386.png)  
 
