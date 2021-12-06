@@ -55,6 +55,7 @@
 **Videos**
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+beyond+speed)
 - [nate 37k](https://youtu.be/NyYjV1UpygA)  
+- [vere 39k](https://youtu.be/ggsETaNEDM4)
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/916317794168111114/IMG_2386.png)  
 
