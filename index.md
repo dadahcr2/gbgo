@@ -43,7 +43,7 @@
 <br>
 ![bus2] ![chopper2] ![formula2] ![ev2] ![sbike2] 
 
-1. Bus wing wheelie fume or wing JS Thrust - Glacier Jump - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/919268164129390632/incollage_save.jpg)  
+1. **Bus wing wheelie fume** or wing JS Thrust - Glacier Jump - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/919268164129390632/incollage_save.jpg)  
 2. Sbike df=5 wing AB OT - Parking Trailers (Alligator Cup) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/919268270333394944/incollage_save.jpg) 
 3. EV wing LB Coin - Downhill (Mine) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/919268347550515260/incollage_save.jpg) 
 4. Formula Tires AB coin - No-air (City) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/919268382107377684/incollage_save.jpg) 
@@ -54,7 +54,7 @@ videos
 - vokope tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/STVxT6vvoH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
-![](https://cdn.discordapp.com/attachments/851566907920089128/919152603965829120/te_Strategy.png)
+![](https://cdn.discordapp.com/attachments/851566907920089128/919289671706615858/te_Strategy.png)
 
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/918787267168976927/IMG_2541.png)
