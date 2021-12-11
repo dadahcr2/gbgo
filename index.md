@@ -43,10 +43,10 @@
 <br>
 ![bus2] ![chopper2] ![formula2] ![ev2] ![sbike2] 
 
-1.Bus wing wheelie fume or wing JS Thrust - Glacier Jump
-2.Sbike df=5 wing AB OT - Parking Trailers (Alligator Cup)
-3.EV wing LB Coin - Downhill (Mine)
-4.Formula Tires AB coin - No-air (City)
+1. Bus wing wheelie fume or wing JS Thrust - Glacier Jump
+2. Sbike df=5 wing AB OT - Parking Trailers (Alligator Cup)
+3. EV wing LB Coin - Downhill (Mine)
+4. Formula Tires AB coin - No-air (City)
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/919152603965829120/te_Strategy.png)
 
@@ -84,10 +84,10 @@
 	
 <details open markdown="block">
 <summary>
-    PE: Express Delivery
+    PE: Ferris Wheelie
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/857402902469672970/image0.png)
+![](https://cdn.discordapp.com/attachments/850232585707323402/918639488337575946/IMG_2536.png)
 	
 </details>   
 	
