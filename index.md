@@ -48,7 +48,7 @@
 3.EV wing LB Coin - Downhill (Mine)
 4.Formula Tires AB coin - No-air (City)
 	
-![]https://cdn.discordapp.com/attachments/851566907920089128/919152603965829120/te_Strategy.png()
+![](https://cdn.discordapp.com/attachments/851566907920089128/919152603965829120/te_Strategy.png)
 
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/918787267168976927/IMG_2541.png)
@@ -56,7 +56,7 @@
 ![](https://cdn.discordapp.com/attachments/902174586047717386/917742496359014440/unknown.gif)
 	
 <br>
-</details>
+</details>  
 <details  markdown="block">
   <summary>
     TE: Beyond Speed
