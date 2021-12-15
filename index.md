@@ -50,7 +50,7 @@
 	
 videos
 - [YTSearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+running+canyons)
-	
+- [JT Money 35k](https://youtu.be/p2x6AbjGp88) - wait 3s on T2 with this setup
 - vokope tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/STVxT6vvoH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
