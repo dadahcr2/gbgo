@@ -58,13 +58,13 @@
     PE: Sleds have no Seatbelts
   </summary>
 <br>
-**Track Order**
-Down’n’Down
-Snow Time
-Downhill 25.733 sled
-Castle Crash
-Snow Tunnel
-Ice Cavern
+**Track Order**  
+Down’n’Down  
+Snow Time  
+Downhill 25.733 sled  
+Castle Crash  
+Snow Tunnel    
+Ice Cavern    
 	
 </details>	
 	
