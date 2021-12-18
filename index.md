@@ -36,43 +36,37 @@
 
 ## Events
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
-    TE: Running In The Canyons
+    TE: Ice to meet you
   </summary>
 <br>
-![bus2] ![chopper2] ![formula2] ![ev2] ![sbike2] 
-
-1. **Bus wing wheelie fume** or wing JS Thrust - Glacier Jump - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/919268164129390632/incollage_save.jpg)  
-2. Sbike bal=18 df=15 wing AB OT - Parking Trailers (Alligator Cup) - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/919268270333394944/incollage_save.jpg) 
-3. EV wing LB Coin - Downhill (Mine) - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/919268347550515260/incollage_save.jpg) 
-4. Formula Tires AB coin - No-air (City) - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/919268382107377684/incollage_save.jpg) 
+![scooter2] ![moto2] ![mono2] ![snowmobile2] ![hotrod2] 
 	
-videos
-- [YTSearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+running+canyons)
-- [JT Money 35k](https://youtu.be/p2x6AbjGp88) - wait 3s on T2 with this setup
-- vokope tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/STVxT6vvoH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://media.discordapp.net/attachments/851566907920089128/921430049138307145/IMG_2728.jpg)
 	
-![](https://cdn.discordapp.com/attachments/851566907920089128/919289671706615858/te_Strategy.png)
-
+![](https://cdn.discordapp.com/attachments/858851529058418765/921297484825890836/2021-12-17_09h07_07.png)
 	
-![](https://cdn.discordapp.com/attachments/851566907920089128/918787267168976927/IMG_2541.png)
-
-![](https://cdn.discordapp.com/attachments/902174586047717386/917742496359014440/unknown.gif)
+![](https://cdn.discordapp.com/attachments/851566907920089128/921430193934061638/IMG_2727.png)  
 	
 <br>
-</details>  
+</details>
 
-	
-<details open markdown="block">
-<summary>
-    PE: Ferris Wheelie
+
+<details  markdown="block">
+  <summary>
+    PE: Sleds have no Seatbelts
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/918639488337575946/IMG_2536.png)
+**Track Order**
+Down’n’Down
+Snow Time
+Downhill 25.733 sled
+Castle Crash
+Snow Tunnel
+Ice Cavern
 	
-</details>   
+</details>	
 	
 ***
 	
