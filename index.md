@@ -51,6 +51,7 @@
 
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+Ice+to+meet+you%22) 
+- [T3 900m](https://youtu.be/eYu7vB94ySs)
 - T4 moto ![](https://cdn.discordapp.com/attachments/888758634992009246/921771519259054150/VID-20211218-WA0002.mp4)
 	
 <br>
