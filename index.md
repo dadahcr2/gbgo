@@ -49,6 +49,8 @@
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/921430193934061638/IMG_2727.png)  
 
+![](https://cdn.discordapp.com/attachments/921752418654502912/923271317174747216/Untitled_44.png) 
+	
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+Ice+to+meet+you%22) 
 - [T3 900m](https://youtu.be/eYu7vB94ySs)
@@ -58,6 +60,18 @@ Videos
 <br>
 </details>
 
+<details  markdown="block">
+  <summary>
+    TE: Upcoming
+  </summary>
+<br>
+![](https://cdn.discordapp.com/attachments/902174586047717386/920736588089147422/24.12.2021The_Gift_Of_Winning_eng_.png)  
+
+![](https://cdn.discordapp.com/attachments/902174586047717386/922433346368327700/31.12.2021_eng_.png)  
+
+![](https://cdn.discordapp.com/attachments/902174586047717386/922433414223765534/07.01.2022_eng_.png)  
+
+</details>	
 
 <details  markdown="block">
   <summary>
