@@ -99,7 +99,7 @@ Ice Cavern
   {: .text-delta }
 ### Weekly Kms Contest    
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/917206387254235187/IMG_2437.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/923377944334835723/EA97C920-EC66-42A5-8832-604A1E656889.jpg)  
 	
 
  
