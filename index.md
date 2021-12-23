@@ -43,6 +43,11 @@
 <br>
 ![scooter2] ![moto2] ![mono2] ![snowmobile2] ![hotrod2] 
 	
+1. Snowmobile sus=6 sw=17? rollcage wing wheelie 
+2. moto wings JS thrusters
+3. scooter wing JS LB
+4. hotrod sus=18? start tires coin
+	
 ![](https://media.discordapp.net/attachments/851566907920089128/921430049138307145/IMG_2728.jpg)
 	
 ![](https://cdn.discordapp.com/attachments/858851529058418765/921297484825890836/2021-12-17_09h07_07.png)
@@ -55,7 +60,8 @@ Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+Ice+to+meet+you%22) 
 - [T3 900m](https://youtu.be/eYu7vB94ySs)
 - [T4 moto](https://cdn.discordapp.com/attachments/888758634992009246/921771519259054150/VID-20211218-WA0002.mp4)
-- [37K cis](https://youtu.be/sOz74zemnTc)
+- [37K cis](https://youtu.be/sOz74zemnTc) 
+- [jtmoney t1 snowm t2 moto](https://youtu.be/yhiOxZxWXYo)
 	
 <br>
 </details>
