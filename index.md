@@ -131,19 +131,19 @@ Videos
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 
-**Week 30 Results**
+**Week 32 Results**
 ```
-🥇 date   
-🥈 Getz
+🥇 Getz   
+🥈 date
 
 2021 Time Trial Roll of Honor
 
          🥇   🥈   🥉
 ——————————————————————
 
-Getzata  17    9    2  
-Dada      8    9    7
-Date      5   13   10    
+Getzata  18   10    2  
+Dada      8    9    8
+Date      6   14   10    
 Boodles             6
 MrFixit             2
 PDB                 1 
