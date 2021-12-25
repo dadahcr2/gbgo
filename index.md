@@ -42,10 +42,20 @@
 <br>
 ![](https://cdn.discordapp.com/attachments/851566907920089128/923891224497233930/IMG_2871.jpg)  
 ![jeep2] ![monster2] ![rally2] ![rt2] ![ev2]  
+	
+1. Rally weight AB tires/magnet, Gift Smash 1 - [vtip]()  
+2. EV wing LB Coin, santa's little helper - [vtip]()  
+3. RT Df=1 AB thrust start/wing, death mountain, base camp - [vtip]()  
+4. Monster wing AB coin, long jump - [vtip]()  
+	
+Videos
+- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+gift+of+winning%22)
+- vokope tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_stDnY5F1f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+
 ![](https://cdn.discordapp.com/attachments/851566907920089128/923891448980574239/IMG_2870.png)  
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/924001762699006003/te_Strategy.png) 
-	
+		
 ![](https://cdn.discordapp.com/attachments/921752418654502912/923997213472985088/IMG_2911.png)  
 <br>
 </details>
