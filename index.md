@@ -46,7 +46,7 @@
 1. Rally weight AB tires/magnet, Gift Smash 1 - [vtip](https://cdn.discordapp.com/attachments/858017263989948447/924074222358265876/incollage_save.jpg)  
 2. EV wing LB Coin, santa's little helper - [vtip](https://cdn.discordapp.com/attachments/858017329509171201/924074366461956096/incollage_save.jpg)  
 3. RT Df=1 AB thrust start/wing, death mountain, base camp - [vtip](https://cdn.discordapp.com/attachments/858017412174577716/924074527955255326/incollage_save.jpg)  
-4. Monster wing AB coin, long jump - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/924074624600399952/incollage_save.jpg)  
+4. Monster susp=18? wing AB coin, long jump - [vtip](https://cdn.discordapp.com/attachments/858017616181461022/924074624600399952/incollage_save.jpg) - [10k vid](https://media.discordapp.net/attachments/921290706138574848/924641854882983976/VID-20211226-WA0000.mp4)
 	
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+gift+of+winning%22)
