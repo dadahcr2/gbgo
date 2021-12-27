@@ -154,8 +154,9 @@ RdKill              1
 
 **Joins in Dec**     
 ```
-dada     I
-getzata  0
+dada     3
+getzata  3
+boodles  1 
 ```
 
 **Season Winners**
