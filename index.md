@@ -78,7 +78,7 @@ Videos
     PE: Going the Distance
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/852315313286545448/925964005544181770/IMG_3096.png)  	
+![](https://cdn.discordapp.com/attachments/850232585707323402/925969177532039188/IMG_3099.png)  	
 </details>	
 	
 ***
