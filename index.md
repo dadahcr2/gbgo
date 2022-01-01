@@ -54,7 +54,7 @@
 <br>
 ![](https://previews.123rf.com/images/gearstd/gearstd1904/gearstd190400424/122181996-representación-3d-de-la-bomba-de-tiempo-del-palo-de-dinamita-blanca-en-el-piso-de-madera-blanco-con-.jpg)
 
-1. Jeep susp=14 wing JS Thrust - Delightful Diversions, Liability free fun
+1. Jeep susp=14 wing JS Thrust or EV Wing JS LB - Delightful Diversions, Liability free fun
 2. Monster susp=17 AB coin fuel - Factory Cup, Face Plant
 3. Sbike susp=15 tires start coin - Mountain Bridges, Living on the Edge
 4. Rally AB OT coin - Tunnels, On the Rocks
