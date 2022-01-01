@@ -293,7 +293,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](h
 10. Scrap excess parts  
 11. Make sure the team km chest reaches at least level 18 for legendary parts   
 12. Compete in every team event  
-13. Buy 10k common and 50k rare parts in the shop with coins if available  
+13. Buy 10k common and 50k rare parts in the shop with coins when available  
 
 **Only**  
 1. Use gems to open cup chests, except:  
@@ -303,7 +303,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](h
 
 **Never** 
 1. Cheat  
-2. Buy chests/coins with gems in the shop  
+2. Buy chests/coins with gems in the shop (unless time constrained)
 3. Scrap parts that may be needed in the future  
 4. Use the scrapyard if tired or impaired  	
 </details>  
