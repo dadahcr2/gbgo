@@ -72,13 +72,26 @@ Videos
 ![](https://cdn.discordapp.com/attachments/902174586047717386/922433414223765534/07.01.2022_eng_.png)  
 
 </details>	
+<details markdown="block">
+  <summary>
+    TE: Tick Tock
+  </summary>
+<br>
+![](https://previews.123rf.com/images/gearstd/gearstd1904/gearstd190400424/122181996-representación-3d-de-la-bomba-de-tiempo-del-palo-de-dinamita-blanca-en-el-piso-de-madera-blanco-con-.jpg)
+	
+![](https://cdn.discordapp.com/attachments/885201027362590720/926548897017516042/te_Strategy.png)  
+
+![](https://cdn.discordapp.com/attachments/894901600974430268/926464284001726494/IMG_3118.png)  
+<br>
+</details>
 
 <details  markdown="block">
   <summary>
     PE: Going the Distance
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/925969177532039188/IMG_3099.png)  	
+![](https://cdn.discordapp.com/attachments/850232585707323402/926755795335540786/IMG_3172.png)  	
+	  	
 </details>	
 	
 ***
