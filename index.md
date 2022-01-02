@@ -168,13 +168,14 @@ boodles  1
 5. getzata
 6. getzata, dada & jimbob  
 7. getzata & dada
+8. getzata & dada
 	
 	
 **`---------------`**  
 **`Tablet of Honor`**    
 `===============`   
-`Getzata.......6`     
-`dada..........3`   
+`Getzata.......7`     
+`dada..........4`   
 `Groot.........2` 
 `Jimbob........1`      
 **`---------------`**  
@@ -191,29 +192,29 @@ boodles  1
 <!--
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
-**December: EV - Bog**
-![](https://cdn.discordapp.com/attachments/820286421323350032/915643045406445629/IMG_2337.png)
+**January: Sbike - Glacier**
+![](https://i.gzn.jp/img/2010/02/13/bike_on_ice/bike_on_ice_12.jpg)
 
 **Last Contest Results**
 	
-**November: Rotator - Plant**  
-🏆 Dada 4069m  
-🥈 *Lonestar 4049m  
-🥉 Date 3866m  
-Maynard  
-Jimbob  
-Boodles  
-Swan  
-T  
-Wolf  
-Sam  
+**December: CC-EV - Backwater Bog**
+🏆 Date 8263m
+🥈 Nesorac 8004m
+🥉 Jimbob 7309m
+Dada
+Wolf
+Josey
+Swan
+JasonK
+Native
+PsyKo
 
 **2021 Adventure Roll of Honor**  
 ```
             🥇   🥈    
 ————————————————————  
-Date         6    1           
-Nesorac      3   
+Date         7    1           
+Nesorac      3    1
 T            1    2    
 Dada         1    1  
 LNL          1
