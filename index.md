@@ -56,8 +56,8 @@
 
 1. Jeep susp=14 wing JS Thrust or EV/Buggy Wing JS LB - Delightful Diversions, Liability free fun
 2. Monster susp=17 AB coin fuel - Factory Cup, Face Plant
-3. Sbike susp=15 tires start coin - Mountain Bridges, Living on the Edge
-4. Rally AB OT coin - Tunnels, On the Rocks
+3. Sbike susp=15 df=10 tires start coin - Mountain Bridges, Living on the Edge
+4. Rally AB coin JS/OT - Tunnels, On the Rocks
 5. Chopper LB thrust fuel or RT AB fuel coin - First Snow, Let is snow
 	
 Videos
