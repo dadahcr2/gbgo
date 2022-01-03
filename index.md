@@ -92,9 +92,9 @@ Videos
   {: .text-delta }
 ### Weekly Kms Contest    
 
-26 Dec 2021
+2 Jan 2022
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/925002523260108820/IMG_3065.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/927570777467945001/IMG_3215.png)  
 	
 <br>  
 </details>  
@@ -153,11 +153,9 @@ RdKill              1
   {: .text-delta }
 ### Co-leader Season Contest
 
-**Joins in Dec**     
+**Joins in Jan**     
 ```
-dada     3
-getzata  3
-boodles  1 
+wolf     1
 ```
 
 **Season Winners**
