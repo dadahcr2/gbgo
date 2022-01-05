@@ -74,10 +74,10 @@ Videos
 
 <details  markdown="block">
   <summary>
-    PE: Going the Distance
+    PE: Garage Power, Make Up!
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/926755795335540786/IMG_3172.png)  	
+![](https://cdn.discordapp.com/attachments/850232585707323402/928274193638887454/IMG_3278.png)  	
 	  	
 </details>	
 	
