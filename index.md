@@ -65,7 +65,8 @@ Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+eyes+on+the+clock%22)
 	
 Vokope tutorial
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/KvuJSwm0zpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KvuJSwm0zpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://cdn.discordapp.com/attachments/817854010161758238/928999621714378782/te_strategy.png)  
 	
