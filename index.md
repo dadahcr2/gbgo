@@ -120,9 +120,9 @@ Videos
   {: .text-delta }
 ### Weekly Kms Contest    
 
-2 Jan 2022
+9 Jan 2022
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/927570777467945001/IMG_3215.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/929892966871494686/IMG_3408.png)  
 	
 <br>  
 </details>  
