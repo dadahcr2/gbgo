@@ -77,13 +77,14 @@ Vokope tutorial
     PE: We Can't Stop!
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/930998179359498322/IMG_3458.png)  	
-__**Minutes after the hour**__
-`00: 15: 30: 45: → `1️⃣
-`03: 18: 33: 48: → `2️⃣
-`06: 21: 36: 51: → `3️⃣
-`09: 24: 39: 54: → `4️⃣
-`12: 27: 42: 57: → `5️⃣
+![](https://cdn.discordapp.com/attachments/850232585707323402/930998179359498322/IMG_3458.png)  
+	
+__**Minutes after the hour**__  
+`00: 15: 30: 45: → `1️⃣  
+`03: 18: 33: 48: → `2️⃣  
+`06: 21: 36: 51: → `3️⃣  
+`09: 24: 39: 54: → `4️⃣  
+`12: 27: 42: 57: → `5️⃣  
 	  	
 </details>	
 	
