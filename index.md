@@ -35,18 +35,15 @@
 ***   
 
 ## Events
-<!--  
+
 <details  markdown="block">
   <summary>
-    TE: Upcoming
+    TE: Down with the Quickness
   </summary>
 <br>  
-![](https://cdn.discordapp.com/attachments/902174586047717386/922433346368327700/31.12.2021_eng_.png)  
-
-![](https://cdn.discordapp.com/attachments/902174586047717386/922433414223765534/07.01.2022_eng_.png)  
+![](https://cdn.discordapp.com/attachments/902174586047717386/930754245559476254/2022.01.14_ENG.png)  
 
 </details>	
--->
 
 <details markdown="block">
   <summary>
