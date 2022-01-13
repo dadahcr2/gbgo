@@ -71,39 +71,19 @@ Vokope tutorial
 <br>
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: Tick Tock
-  </summary>
-<br>
-![](https://previews.123rf.com/images/gearstd/gearstd1904/gearstd190400424/122181996-representación-3d-de-la-bomba-de-tiempo-del-palo-de-dinamita-blanca-en-el-piso-de-madera-blanco-con-.jpg)
-
-1. Jeep susp=14 wing JS Thrust or EV/Buggy Wing JS LB - Delightful Diversions, Liability free fun
-2. Monster susp=17 AB coin fuel - Factory Cup, Face Plant
-3. Sbike susp=15 df=10 tires start coin - Mountain Bridges, Living on the Edge
-4. Rally AB coin JS/OT - Tunnels, On the Rocks
-5. Chopper LB thrust fuel or RT AB fuel coin - First Snow, Let is snow
-	
-Videos
-	
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+tick+tock%22)
-- [22s T4 Rally](https://www.youtube.com/watch?v=Rwaf0HyTxOU)
-- [protect 43k](https://youtu.be/qGpyLZLGsC8)
-- vokope tutorial
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YsByGamfamc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
-	
-![](https://cdn.discordapp.com/attachments/885201027362590720/926548897017516042/te_Strategy.png)  
-
-![](https://cdn.discordapp.com/attachments/894901600974430268/926464284001726494/IMG_3118.png)  
-<br>
-</details>
 
 <details  markdown="block">
   <summary>
-    PE: Garage Power, Make Up!
+    PE: We Can't Stop!
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/928798321819140167/Untitled_93.png)  	
+![](https://cdn.discordapp.com/attachments/850232585707323402/930998179359498322/IMG_3458.png)  	
+__**Minutes after the hour**__
+`00: 15: 30: 45: → `1️⃣
+`03: 18: 33: 48: → `2️⃣
+`06: 21: 36: 51: → `3️⃣
+`09: 24: 39: 54: → `4️⃣
+`12: 27: 42: 57: → `5️⃣
 	  	
 </details>	
 	
