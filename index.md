@@ -36,14 +36,20 @@
 
 ## Events
 
-<details  markdown="block">
-  <summary>
+ <summary>
     TE: Down with the Quickness
   </summary>
-<br>  
-![](https://cdn.discordapp.com/attachments/902174586047717386/930754245559476254/2022.01.14_ENG.png)  
+<br>
+![mk22] ![Monster22] ![Tank2] ![RT2] ![Supercar2]   
+![](https://cdn.discordapp.com/attachments/851566907920089128/931519917021339688/A07A9547-3852-4385-8B69-0A56A93F2174.png)
+	
+	
+![](https://cdn.discordapp.com/attachments/858851529058418765/931523248271790120/IMG_3480.png)
+![](https://media.discordapp.net/attachments/851566907920089128/931542236993323058/te_Strategy.png)
 
-</details>	
+</details>
+	
+
 
 <details markdown="block">
   <summary>
