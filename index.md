@@ -60,33 +60,6 @@ Videos
 ![](https://media.discordapp.net/attachments/851566907920089128/931542236993323058/te_Strategy.png)
 
 </details>
-	
-
-<details markdown="block">
-  <summary>
-    TE: Eyes on the Clock
-  </summary>
-<br>
-![](https://media.tenor.co/videos/e7575a4bb1bba7dd52de1f8d6fdccf0d/mp4)
-
-1. Formula s=5 df=1 wing LB fuel, spring city, rubberist
-2. supercar AB OT coin, bills circuit, carousel
-3. diesel wing start thrust, marshland, tired alligators
-4. rotator s=18 b=1 AB OT coin, hill climb, bottom gear
-5. hotrod mag fuel coin, gloomvale, big log sprint
-	
-Videos
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+eyes+on+the+clock%22)
-- [antrax 41k](https://youtu.be/Rt_8D6HMJJM)
-	
-Vokope tutorial
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KvuJSwm0zpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](https://cdn.discordapp.com/attachments/817854010161758238/928999621714378782/te_strategy.png)  
-	
-<br>
-</details>
 
 
 <details  markdown="block">
