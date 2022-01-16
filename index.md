@@ -94,7 +94,7 @@ Vokope tutorial
     PE: We Can't Stop!
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/930998179359498322/IMG_3458.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/932141883667415071/IMG_3558.png)  
 	
 __**Minutes after the hour**__  
 `00: 15: 30: 45: → `1️⃣  
