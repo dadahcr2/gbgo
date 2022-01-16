@@ -48,8 +48,8 @@
 	
 1. Scar tires AC AB, No-air
 2. RT Df=1, wing magnet fume/coin/WB, reverse at start, Wheelie
-3. Tank s=18 wing JS LB, reverse at start, Multi Jump
-4. mk2 s=18 rc=1 wing JS LB, no fuel, Gloomvale(Monday)
+3. Tank s=18 wing JS LB, reverse at start or MK2 RC1 wing JS LB remove RC, Multi Jump
+4. mk2 s=18 rc=1 wing JS LB or Tank wing RC fume, no fuel, Gloomvale(Monday)
 
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+down+with+the+quickness%22)
