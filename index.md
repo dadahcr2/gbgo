@@ -89,9 +89,9 @@ __**Minutes after the hour**__
   {: .text-delta }
 ### Weekly Kms Contest    
 
-9 Jan 2022
+16 Jan 2022
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/929892966871494686/IMG_3408.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/932425778392616990/IMG_3576.png)  
 	
 <br>  
 </details>  
