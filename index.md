@@ -70,7 +70,7 @@ Videos
     PE: Aerial Automobiles
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/933349161133301881/IMG_3618.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/933421549699104878/IMG_3622.png)  
 	  	
 </details>	
 	
