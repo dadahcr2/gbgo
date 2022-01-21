@@ -50,7 +50,7 @@
 
 ![](https://cdn.discordapp.com/attachments/921752418654502912/933892229154603068/wipbeachjump.jpg)  
 
-Beqch Downhill  
+Beach Downhill  
 ![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
 	
 Videos
