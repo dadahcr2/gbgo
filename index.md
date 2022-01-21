@@ -36,6 +36,27 @@
 
 ## Events
 
+<details markdown="block">
+  <summary>
+    TE: Bill's Excellent Adventure
+  </summary>
+<br> 
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/933950727397728366/IMG_3671.jpg)  
+		
+![jeep2] ![bus2] ![tractor2] ![rally2] ![ev2]
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/933950982373642330/IMG_3670.png)  
+
+![](https://cdn.discordapp.com/attachments/921752418654502912/933892229154603068/wipbeachjump.jpg)  
+
+Beqch Downhill  
+![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
+	
+Videos
+- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+bill's +excellent+adventure%22)	
+	
+</details>	
  
 <details markdown="block">
   <summary>
