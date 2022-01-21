@@ -46,13 +46,15 @@
 		
 ![jeep2] ![bus2] ![tractor2] ![rally2] ![ev2]
 	
-1. Rally AB OT fuel, Wheeler, More Mines
+1. Rally AB OT fuel, Wheeler, More Mines  
+	-   remove roof when going down tunnel
 2. Bus Wing OT Fume/Thrust, Long Jump, Beach Jump
 3. CCEV tires weight coin/wheelie, BreakingBoxes, Demolition 4
 4. Jeep s=17? wing JS LB, high route, Beach Downhill, Downhill 2
 
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+bill's +excellent+adventure%22)	
+- [cis 38k](https://youtu.be/XNYzafcdn-A)  
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/933950982373642330/IMG_3670.png)  
 
