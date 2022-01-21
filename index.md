@@ -50,6 +50,9 @@
 2. Bus Wing OT Fume/Thrust, Long Jump, Beach Jump
 3. CCEV tires weight coin/wheelie, BreakingBoxes, Demolition 4
 4. Jeep s=17? wing JS LB, high route, Beach Downhill, Downhill 2
+
+Videos
+- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+bill's +excellent+adventure%22)	
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/933950982373642330/IMG_3670.png)  
 
@@ -57,10 +60,9 @@
 
 Beach Downhill  
 ![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
-	
-Videos
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+bill's +excellent+adventure%22)	
-	
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/934140837527441408/te_Strategy.png)
+
 </details>	
  
 <details markdown="block">
