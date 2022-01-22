@@ -55,6 +55,8 @@
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+bill's +excellent+adventure%22)	
 - [cis 38k](https://youtu.be/XNYzafcdn-A)  
+- **vokope tutorial**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xnSLk66aiok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/933950982373642330/IMG_3670.png)  
 
