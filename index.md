@@ -70,40 +70,13 @@ Beach Downhill
 
 </details>	
  
-<details markdown="block">
-  <summary>
-    TE: Down with the Quickness
-  </summary>
-<br>  
-![](https://cdn.discordapp.com/attachments/851566907920089128/931519917021339688/A07A9547-3852-4385-8B69-0A56A93F2174.png)
-	
-![mk22] ![Monster2] ![Tank2] ![RT2] ![Supercar2] 	
-	
-1. Scar tires AC AB, No-air
-2. RT Df=1, wing magnet fume/coin/WB, reverse at start, Wheelie
-3. Tank s=18 wing JS LB, reverse at start or **MK2 RC1 wing JS LB** remove RC, Multi Jump
-4. mk2 s=18 rc=1 wing JS LB or **Tank RC coin fume/wing**, no fuel, Gloomvale(Monday)
-- breaking off the gun barrel
-- ![](https://media.discordapp.net/attachments/858094402374598686/932792539487023114/FullSizeRender-compressed.mov)
-
-Videos
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+down+with+the+quickness%22)
-- [vere 40k](https://youtu.be/hj1vIY6VZbc)
-- vokope tutorial
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ExT1COKe1kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](https://cdn.discordapp.com/attachments/858851529058418765/931523248271790120/IMG_3480.png)
-![](https://media.discordapp.net/attachments/851566907920089128/931542236993323058/te_Strategy.png)
-
-</details>
-
 
 <details  markdown="block">
   <summary>
     PE: Aerial Automobiles
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/933421549699104878/IMG_3622.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/934488868361760888/IMG_3721.png)  
 	  	
 </details>	
 	
