@@ -47,7 +47,8 @@
 ![jeep2] ![bus2] ![tractor2] ![rally2] ![ev2]
 	
 1. Rally AB OT fuel, Wheeler, More Mines  
-	-   remove roof when going down tunnel
+	- Remove roof when going down tunnel
+	- Challenge for T1: <https://playhcr.com/challenge?id=9mnOmbQ>
 2. Bus Wing OT Fume/Thrust, Long Jump, Beach Jump
 3.** CCEV  weight start**/tires coin/**wheelie**, BreakingBoxes, Demolition 4
 4. Jeep s=17? wing JS LB, high route, Beach Downhill, Downhill 2
