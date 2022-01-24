@@ -92,9 +92,9 @@ Beach Downhill
   {: .text-delta }
 ### Weekly Kms Contest    
 
-16 Jan 2022
+23 Jan 2022
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/932425778392616990/IMG_3576.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/934971136486289438/IMG_3824.png)  
 	
 <br>  
 </details>  
@@ -156,8 +156,10 @@ RdKill              1
 **Joins in Jan**     
 ```
 wolf     1
-dada     1
-getz     1
+dada     2
+getz     2
+boodles  1
+stryker  1
 ```
 
 **Season Winners**
