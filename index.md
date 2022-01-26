@@ -50,10 +50,10 @@
 	- Remove roof when going down tunnel
 	- Challenge for T1: <https://playhcr.com/challenge?id=9mnOmbQ>
 2. Bus Wing OT/flipboost Fume/Thrust, Long Jump, Beach Jump
-	- ![](https://media.discordapp.net/attachments/797964460869419038/934271424284205076/Screen_Recording_20220121-194710_Hill_Climb_Racing_2.mp4)  
+	- [flipboost video](https://media.discordapp.net/attachments/797964460869419038/934271424284205076/Screen_Recording_20220121-194710_Hill_Climb_Racing_2.mp4)  
 3. **CCEV  weight start**/tires coin/**wheelie** or tractor wing AB fume, BreakingBoxes, Demolition 4
 4. Jeep s=17? wing JS LB/start or tractor RC start AB, high route, Beach Downhill, Downhill 2
-- ![](https://media.discordapp.net/attachments/797964526871379988/935286738597867570/Screen_Recording_20220123-205604_Hill_Climb_Racing_2_800x360.mp4)  
+	- [jeep startboost video](https://media.discordapp.net/attachments/797964526871379988/935286738597867570/Screen_Recording_20220123-205604_Hill_Climb_Racing_2_800x360.mp4)  
 
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+bill's +excellent+adventure%22)	
