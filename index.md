@@ -49,8 +49,9 @@
 1. Rally AB OT fuel, Wheeler, More Mines  
 	- Remove roof when going down tunnel
 	- Challenge for T1: <https://playhcr.com/challenge?id=9mnOmbQ>
-2. Bus Wing OT Fume/Thrust, Long Jump, Beach Jump
-3.** CCEV  weight start**/tires coin/**wheelie** or tractor wing AB fume, BreakingBoxes, Demolition 4
+2. Bus Wing OT/flipboost Fume/Thrust, Long Jump, Beach Jump
+	- ![](https://media.discordapp.net/attachments/797964460869419038/934271424284205076/Screen_Recording_20220121-194710_Hill_Climb_Racing_2.mp4)  
+3. **CCEV  weight start**/tires coin/**wheelie** or tractor wing AB fume, BreakingBoxes, Demolition 4
 4. Jeep s=17? wing JS LB/start or tractor RC start AB, high route, Beach Downhill, Downhill 2
 - ![](https://media.discordapp.net/attachments/797964526871379988/935286738597867570/Screen_Recording_20220123-205604_Hill_Climb_Racing_2_800x360.mp4)  
 
