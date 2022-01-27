@@ -162,6 +162,7 @@ dada     2
 getz     2
 boodles  1
 stryker  1
+lou      2
 ```
 
 **Season Winners**
