@@ -38,6 +38,23 @@
 
 <details markdown="block">
   <summary>
+    TE: Abrupt Automobiles
+  </summary>
+<br> 
+1. jeep wing LB JS, 🌵 multi jump 4  
+2. diesel wing LB JS, 🌵adventure, no fuel distance
+3. hotrod tires coin fuel, 🌵 uphill, Hotrod
+4. chopper wing LB wheelie/start, 🌵Bat Country (Interstate Cup), chopper
+
+Videos
+- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+abrupt+automobiles%22)  
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/936481739604393994/IMG_3923.png)  
+	
+</details>	
+
+<details markdown="block">
+  <summary>
     TE: Bill's Excellent Adventure
   </summary>
 <br> 
