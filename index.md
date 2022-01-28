@@ -42,8 +42,8 @@
   </summary>
 <br> 
 1. jeep wing LB JS, 🌵 multi jump 4  
-2. diesel wing LB JS, 🌵adventure, no fuel distance
-3. hotrod tires coin fuel, 🌵 uphill, Hotrod
+2. diesel/buggy wing LB JS, 🌵adventure, no fuel distance
+3. hotrod magnet/tires coin fuel, 🌵 uphill, Hotrod
 4. chopper wing LB wheelie/start, 🌵Bat Country (Interstate Cup), chopper
 
 Videos
