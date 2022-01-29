@@ -60,43 +60,7 @@ vokope tutorial
 	
 </details>	
 
-<details markdown="block">
-  <summary>
-    TE: Bill's Excellent Adventure
-  </summary>
-<br> 
 
-![](https://cdn.discordapp.com/attachments/851566907920089128/933950727397728366/IMG_3671.jpg)  
-		
-![jeep2] ![bus2] ![tractor2] ![rally2] ![ev2]
-	
-1. Rally AB OT fuel, Wheeler, More Mines  
-	- Remove roof when going down tunnel
-	- Challenge for T1: <https://playhcr.com/challenge?id=9mnOmbQ>
-2. Bus Wing OT/flipboost Fume/Thrust, Long Jump, Beach Jump
-	- [flipboost video](https://media.discordapp.net/attachments/797964460869419038/934271424284205076/Screen_Recording_20220121-194710_Hill_Climb_Racing_2.mp4)  
-3. **CCEV  weight start**/tires coin/**wheelie** or tractor wing AB fume, BreakingBoxes, Demolition 4
-4. Jeep s=17? wing JS LB/start or tractor RC start AB, high route, Beach Downhill, Downhill 2
-	- [jeep startboost video](https://media.discordapp.net/attachments/797964526871379988/935286738597867570/Screen_Recording_20220123-205604_Hill_Climb_Racing_2_800x360.mp4)  
-
-Videos
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+bill's +excellent+adventure%22)	
-- [cis 38k](https://youtu.be/XNYzafcdn-A)  
-- [vere best runs](https://youtu.be/14W1pejgx7E)  
-- **vokope tutorial**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xnSLk66aiok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/933950982373642330/IMG_3670.png)  
-
-![](https://cdn.discordapp.com/attachments/921752418654502912/933892229154603068/wipbeachjump.jpg)  
-
-Beach Downhill  
-![](https://cdn.discordapp.com/attachments/858017329509171201/866134980618485770/image0.jpg)  
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/934140837527441408/te_Strategy.png)
-
-</details>	
- 
 
 <details  markdown="block">
   <summary>
