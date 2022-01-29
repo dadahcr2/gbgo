@@ -57,6 +57,8 @@ vokope tutorial
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/kLJMUiB7tAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/936481739604393994/IMG_3923.png)  
+
+![](https://cdn.discordapp.com/attachments/851566907920089128/937073414399754290/te_Strategy.png)  
 	
 </details>	
 
