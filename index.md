@@ -44,7 +44,8 @@
 1. jeep wing LB JS, 🌵 multi jump 4  
 	
 2. diesel/buggy wing LB JS, 🌵adventure, no fuel distance
-	- roll buggy to bridge and jump when tires touch
+	- getIT: roll buggy to bridge and jump when tires touch
+	- boodles: roll slowly onto the bridge and jump just before nose touches wall
 	
 3. hotrod magnet/tires coin fuel, 🌵 uphill, Hotrod
 	
