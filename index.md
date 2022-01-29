@@ -43,6 +43,7 @@
 <br> 
 1. jeep wing LB JS, 🌵 multi jump 4  
 2. diesel/buggy wing LB JS, 🌵adventure, no fuel distance
+	- roll buggy to bridge and jump when tires touch
 3. hotrod magnet/tires coin fuel, 🌵 uphill, Hotrod
 4. chopper wing LB wheelie/start, 🌵Bat Country (Interstate Cup), chopper
 
