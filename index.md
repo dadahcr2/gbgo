@@ -46,7 +46,7 @@
 2. diesel/buggy wing LB JS, 🌵adventure, no fuel distance
 	- getIT: roll buggy to bridge and jump when tires touch
 	- boodles: roll slowly onto the bridge and jump just before nose touches wall
-	> Diesel is better on gas slightly. Both r easy though. But I have gotten caught with buggy at the drop bridge. Its stops easier than diesel. But with diesel kangaroo everything maxed pretty much just drive as fast as possible really not even jumping u can get to the falling bridge & have it fall and still have tiny bit of gas. Just enough to take off and start jumping. Pretty simple strategy.  👍
+	- Diesel is better on gas slightly. Both r easy though. But I have gotten caught with buggy at the drop bridge. Its stops easier than diesel. But with diesel kangaroo everything maxed pretty much just drive as fast as possible really not even jumping u can get to the falling bridge & have it fall and still have tiny bit of gas. Just enough to take off and start jumping. Pretty simple strategy.  👍
 	
 3. hotrod magnet/tires coin fuel, 🌵 uphill, Hotrod
 	
