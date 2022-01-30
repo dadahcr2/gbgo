@@ -154,6 +154,7 @@ getz     2
 boodles  1
 stryker  1
 lou      2
+avg 	 1
 ```
 
 **Season Winners**
