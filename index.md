@@ -200,16 +200,16 @@ avg 	 1
 	
 **January:  Superbike - Racier Glacier**
 
-🏆 Jimbob 3367m
-🥈 Date 2996m
-🥉 GetIT  2206m
-Dada
-Boodles
-Native
-J
-Flywheel
-Swan
-Josey 
+🏆 Jimbob 3367m  
+🥈 Date 2996m  
+🥉 GetIT  2206m  
+Dada  
+Boodles  
+Native  
+J  
+Flywheel  
+Swan  
+Josey   
 
 **2022 Adventure Roll of Honor**  
 ```
