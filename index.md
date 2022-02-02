@@ -193,41 +193,32 @@ avg 	 1
 <!--
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
-**January: Sbike - Glacier**
-![](https://i.gzn.jp/img/2010/02/13/bike_on_ice/bike_on_ice_12.jpg)
+**February: Supercar - Forest**
+![](https://www.ubackground.com/_ph/84/524809657.jpg)
 
 **Last Contest Results**
 	
-**December: CC-EV - Backwater Bog**
-🏆 Date 8263m
-🥈 Nesorac 8004m
-🥉 Jimbob 7309m
-Dada
-Wolf
-Josey
-Swan
-JasonK
-Native
-PsyKo
+**January:  Superbike - Racier Glacier**
 
-**2021 Adventure Roll of Honor**  
+🏆 Jimbob 3367m
+🥈 Date 2996m
+🥉 GetIT  2206m
+Dada
+Boodles
+Native
+J
+Flywheel
+Swan
+Josey 
+
+**2022 Adventure Roll of Honor**  
 ```
-            🥇   🥈    
-————————————————————  
-Date         7    1           
-Nesorac      3    1
-T            1    2    
-Dada         1    1  
-LNL          1
-Bee          1
-Lonestar          3     
-Josey             2   
-Spyder            1   
-Omelette          1   
-Getzata           1
-RdKill            1
-Sb                1
-————————————————————   
+            🥇   🥈   🥉  
+————————————————————————  
+Jimbob       1             
+Date              1  
+GetIT                  1
+————————————————————————   
 ```
 <br>  	
 </details>  
