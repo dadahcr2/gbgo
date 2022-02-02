@@ -56,6 +56,7 @@
 
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+abrupt+automobiles%22)  
+- [jt money](https://youtu.be/SZ0CdRiO4TQ)  
 
 vokope tutorial  
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/kLJMUiB7tAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
