@@ -50,6 +50,7 @@
 	- <https://youtu.be/3u_QTeWFZp0>
 	
 3. hotrod magnet/tires coin fuel, 🌵 uphill, Hotrod
+	- [9.9k/10k route](https://cdn.discordapp.com/attachments/797964491803459614/937689449242955806/RPReplay_Final1643632217-compressed.mov)
 	
 4. chopper wing LB wheelie/start, 🌵Bat Country (Interstate Cup), chopper
 
