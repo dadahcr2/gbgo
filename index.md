@@ -41,7 +41,7 @@
     TE: Abrupt Automobiles
   </summary>
 <br> 
-1. jeep wing LB JS, 🌵 multi jump 4  
+1. jeep s=18? wing LB JS, 🌵 multi jump 4  
 	
 2. diesel/buggy wing LB JS, 🌵adventure, no fuel distance
 	- getIT: roll buggy to bridge and jump when tires touch
@@ -49,10 +49,10 @@
 	- "Diesel is better on gas slightly. Both r easy though. But I have gotten caught with buggy at the drop bridge. Its stops easier than diesel. But with diesel kangaroo everything maxed pretty much just drive as fast as possible really not even jumping u can get to the falling bridge & have it fall and still have tiny bit of gas. Just enough to take off and start jumping. Pretty simple strategy.  👍"
 	- <https://youtu.be/3u_QTeWFZp0>
 	
-3. hotrod magnet/tires coin fuel, 🌵 uphill, Hotrod
+3. hotrod s=16? magnet/**tires coin fuel**, 🌵 uphill
 	- [9.9k/10k route](https://cdn.discordapp.com/attachments/797964491803459614/937689449242955806/RPReplay_Final1643632217-compressed.mov)
 	
-4. chopper wing LB wheelie/start, 🌵Bat Country (Interstate Cup), chopper
+4. chopper wing LB wheelie/start, 🌵Bat Country (Interstate Cup)
 
 Videos
 - [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+abrupt+automobiles%22)  
