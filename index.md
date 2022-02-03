@@ -71,10 +71,10 @@ vokope tutorial
 
 <details  markdown="block">
   <summary>
-    PE: Aerial Automobiles
+    PE: Lug-nuts & Laid Rubber
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/934488868361760888/IMG_3721.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/938591556494045284/Untitled_137.png)  
 	  	
 </details>	
 	
