@@ -41,7 +41,7 @@
     TE: Abrupt Automobiles
   </summary>
 <br> 
-1. jeep s=18? wing LB JS, 🌵 multi jump 4  
+1. diesel/jeep s=18? wing LB JS, 🌵 multi jump 4  
 	
 2. diesel/buggy wing LB JS, 🌵adventure, no fuel distance
 	- getIT: roll buggy to bridge and jump when tires touch
