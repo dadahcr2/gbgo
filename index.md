@@ -319,12 +319,12 @@ Name | Link
 Boodles | <https://playhcr.com/invite?id=N4qzEl>  
 Canis | <https://playhcr.com/invite?id=oBy7Md>   
 Dada | <https://playhcr.com/invite?id=3dQ10Q>  
-DarKnight | <https://playhcr.com/invite?id=Q4dbKK>  
+~~DarKnight~~ | <https://playhcr.com/invite?id=Q4dbKK>  
 ~~Date~~ | <https://playhcr.com/invite?id=rdKaOg>  
 Diezel | <https://playhcr.com/invite?id=Wrq05d>  
 Flow | <https://playhcr.com/invite?id=wX6Yq3>  
 Flywheel | <https://playhcr.com/invite?id=xdxQbr>  
-~~G🐝G~~ | <https://playhcr.com/invite?id=z57dp1>  
+G🐝G | <https://playhcr.com/invite?id=z57dp1>  
 GetIT | <https://playhcr.com/invite?id=m7897b>  
 Getzata | <https://playhcr.com/invite?id=jEDooe>  
 Hotrod | <https://playhcr.com/invite?id=8vNojo>  
