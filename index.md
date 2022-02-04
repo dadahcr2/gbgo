@@ -35,6 +35,14 @@
 ***   
 
 ## Events
+<details markdown="block">
+  <summary>
+    TE: LUG-NUT FESTIVAL WITH FRIENDS
+  </summary>
+<br> 
+![scooter2] ![mk22] ![rotator2] ![snowmobile2] ![sbike2]
+![](https://cdn.discordapp.com/attachments/851566907920089128/939165736746745976/IMG_4128.png)  
+</details>  
 
 <details markdown="block">
   <summary>
