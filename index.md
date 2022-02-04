@@ -42,6 +42,9 @@
 <br> 
 ![scooter2] ![mk22] ![rotator2] ![snowmobile2] ![sbike2]
 ![](https://cdn.discordapp.com/attachments/851566907920089128/939165736746745976/IMG_4128.png) 
+
+videos
+- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+LUG-NUT+FESTIVAL+WITH+FRIENDS%22)  
 	
 vokope tutorial  
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/8tM9mSGRoCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
