@@ -56,40 +56,7 @@ vokope tutorial
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/8tM9mSGRoCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://cdn.discordapp.com/attachments/851566907920089128/939200761391357992/te_Strategy.png)  
-</details>  
-
-<details markdown="block">
-  <summary>
-    TE: Abrupt Automobiles
-  </summary>
-<br> 
-1. diesel/jeep s=18? wing LB JS, 🌵 multi jump 4  
-	
-2. diesel/buggy wing LB JS, 🌵adventure, no fuel distance
-	- getIT: roll buggy to bridge and jump when tires touch
-	- boodles: roll slowly onto the bridge and jump just before nose touches wall
-	- "Diesel is better on gas slightly. Both r easy though. But I have gotten caught with buggy at the drop bridge. Its stops easier than diesel. But with diesel kangaroo everything maxed pretty much just drive as fast as possible really not even jumping u can get to the falling bridge & have it fall and still have tiny bit of gas. Just enough to take off and start jumping. Pretty simple strategy.  👍"
-	- <https://youtu.be/3u_QTeWFZp0>
-	
-3. hotrod s=16? magnet/**tires coin fuel**, 🌵 uphill
-	- [9.9k/10k route](https://cdn.discordapp.com/attachments/797964491803459614/937689449242955806/RPReplay_Final1643632217-compressed.mov)
-	
-4. chopper wing LB wheelie/start, 🌵Bat Country (Interstate Cup)
-
-Videos
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+abrupt+automobiles%22)  
-- [jt money](https://youtu.be/SZ0CdRiO4TQ)  
-
-vokope tutorial  
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/kLJMUiB7tAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/936481739604393994/IMG_3923.png)  
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/937073414399754290/te_Strategy.png)  
-	
-</details>	
-
-
+</details>
 
 <details  markdown="block">
   <summary>
