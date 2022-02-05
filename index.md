@@ -45,7 +45,7 @@
 
 	
 1. rotator b=1 wing magnet AB, Nian chase no fuel
-2. Sbike g=19 s=10 Df=1 wing AB coin,Spartan Racing (Green Cup)
+2. Sbike 20191001 g=19 s=10 Df=1 wing AB coin,Spartan Racing (Green Cup)
 3. scooter wing tires wheelie or mk2 s=15 rc=1 wing magnet wheelie, City wheelie
 4. snowmobile wing fume OT, Water run no fuel
 	
