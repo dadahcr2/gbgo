@@ -44,9 +44,10 @@
 ![](https://cdn.discordapp.com/attachments/851566907920089128/939165736746745976/IMG_4128.png) 
 
 	
-1. rotator b=1 wing magnet AB, Nian chase no fuel
+1. rotator b=1-3 wing magnet AB/thrusters, Nian chase no fuel  
+	- [thrusters vid](https://www.youtube.com/watch?v=GezrOQuaouA)  
 2. Sbike 20191001 g=19 s=10 Df=1 wing AB coin,Spartan Racing (Green Cup)
-3. scooter wing tires wheelie or mk2 s=15 rc=1 wing magnet wheelie, City wheelie
+3. scooter wing tires wheelie or mk2 s=15 rc=1/20 wing magnet wheelie/AB, City wheelie
 4. snowmobile wing fume OT, Water run no fuel
 	
 videos
