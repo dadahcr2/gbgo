@@ -61,10 +61,10 @@ vokope tutorial
 
 <details  markdown="block">
   <summary>
-    PE: Lug-nuts & Laid Rubber
+    PE: Fractured Romance
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/938591556494045284/Untitled_137.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/941164860811640832/IMG_4286.png)  
 	  	
 </details>	
 	
