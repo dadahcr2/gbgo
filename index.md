@@ -35,6 +35,17 @@
 ***   
 
 ## Events
+
+<details markdown="block">
+  <summary>
+    TE: The Friendzone
+  </summary>
+<br> 
+![moto2] ![sportscar2] ![monster2] ![RT2] ![EV2]   
+![](https://cdn.discordapp.com/attachments/851566907920089128/941542602786885632/IMG_4329.png)  
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/941697502258794516/te_Strategy.png)  
+</details>
 <details markdown="block">
   <summary>
     TE: LUG-NUT FESTIVAL WITH FRIENDS
