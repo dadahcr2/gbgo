@@ -43,6 +43,9 @@
 <br> 
 ![moto2] ![sportscar2] ![monster2] ![RT2] ![EV2]   
 ![](https://cdn.discordapp.com/attachments/851566907920089128/941542602786885632/IMG_4329.png)  
+
+#### Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2W2McOt7Nrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/941697502258794516/te_Strategy.png)  
 </details>
