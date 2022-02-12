@@ -119,28 +119,28 @@ vokope tutorial
 -->
 Rules:
 - Compete each day in same daily as fw.hcr2.info
+	
+<https://fw.hcr2.info> for recent center;"}
 
-**Week 33 Results**
+***GBG Podium Placements:***
+
+`————————————`🏆`——`🥈`——`🥉
 ```
-🥇 Getz   
-🥈 date
-🥉 dada
-2021 Time Trial Roll of Honor
-
-         🥇   🥈   🥉
-——————————————————————
-
-Getzata  19   10    2  
-Dada      8    9    7
-Date      6   15   10    
-Boodles             6
-MrFixit             2
-PDB                 1 
-Spyder              1   
-RdKill              1
-
-——————————————————————
+Getzata     13    6    7  
+Dada         8    7    1  
+Date         6    4    8   
+Typhoon/PDB  -    -    1  
+Boodles      -    -    1  
 ```
+
+***Top 5 Highest Points***  
+🏆 ***Getzata*** - 824p - Week 20, 26  
+🏆 ***Date*** - 824p - Week 30  
+🥈 ***Getzata*** - 821p - Week 19, 21, 22  
+🥉 ***Getzata*** - 818p - Week 17, 27  
+🥉 ***Dada*** - 818p - Week 18    
+🥉 ***Data*** - 818p - Week 31  
+🏅 ***Getzata*** - 815p - Week 18  
 	
 **To compete in the daily Time Trial contest**
 1. Make sure that to add Folo and Gutta to your friend list 
