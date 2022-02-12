@@ -124,7 +124,7 @@ Rules:
 
 ***GBG Podium Placements:***  
 
-`————————————`🏆`——`🥈`——`🥉
+`———————————`🏆`—`🥈`—`🥉
 ```
 Getzata     13    6    7  
 Dada         8    7    1  
@@ -151,8 +151,7 @@ Boodles      -    -    1
 4. Choose 4-square tab under flag tab on left
 5. Scroll down to find that day's cup and track
 6. Run it at many times as you like using that day’s vehicle
-
-![](https://cdn.discordapp.com/attachments/815005702245449728/915598790273171456/IMG_2331.png)  	
+ 	
 <br>  	
 </details>  
 <details markdown="block">
