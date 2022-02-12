@@ -120,7 +120,7 @@ vokope tutorial
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 	
-<https://fw.hcr2.info> for recent center;"}
+<https://fw.hcr2.info> for recent results
 
 ***GBG Podium Placements:***
 
