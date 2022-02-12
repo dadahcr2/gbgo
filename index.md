@@ -41,9 +41,16 @@
     TE: The Friendzone
   </summary>
 <br> 
+![](https://cdn.discordapp.com/attachments/858094235446411264/941852454352470036/IMG_4386.png)  
+
 ![moto2] ![sportscar2] ![monster2] ![RT2] ![EV2]   
 ![](https://cdn.discordapp.com/attachments/851566907920089128/941542602786885632/IMG_4329.png)  
 
+1. EV wing LB coin, Cargo (Drive Through, Capital)
+2. monster start AB coin, Valentine 3
+3. moto s=17 wing fume thrust, Danger Ahead (Rocky Road)
+4. RT Df=1 wing JS thrust, Floor is Lava	
+	
 ### Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2W2McOt7Nrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
