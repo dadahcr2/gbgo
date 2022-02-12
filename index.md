@@ -101,9 +101,9 @@ vokope tutorial
   {: .text-delta }
 ### Weekly Kms Contest    
 
-30 Jan 2022
+6 Feb 2022
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/937499157831245824/IMG_4021.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/942111039632343060/IMG_4243.png)  
 	
 <br>  
 </details>  
