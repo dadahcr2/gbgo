@@ -117,12 +117,12 @@ vokope tutorial
 <!--
 	<div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
-Rules:
-- Compete each day in same daily as fw.hcr2.info
+Rules:  
+- Compete each day in same daily as fw.hcr2.info  
 	
-<https://fw.hcr2.info> for recent results
+<https://fw.hcr2.info> for recent results  
 
-***GBG Podium Placements:***
+***GBG Podium Placements:***  
 
 `————————————`🏆`——`🥈`——`🥉
 ```
