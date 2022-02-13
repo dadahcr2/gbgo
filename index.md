@@ -48,7 +48,7 @@
 
 1. EV wing LB coin, Cargo (Drive Through, Capital)
 2. monster start AB coin, Valentine 3
-3. moto s=17 wing fume thrust, Danger Ahead (Rocky Road)
+3. moto s=17 wing thrust fume/fuel, Danger Ahead (Rocky Road)
 4. RT Df=1 wing JS thrust, Floor is Lava	
 	
 ### Tutorial
