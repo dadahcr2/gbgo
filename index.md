@@ -45,9 +45,9 @@
 	
 ![jeep2] ![bus2] ![tank2] ![formula2] ![supercar2]  
 
-1. supercar,wintertires/AB,coinboost,overchargedturbo
-2. formula,afterburner,tires~~coinboost~~,fuelboost (jump over switch)
-3. bus,thrusters,magnet,fuel/wings
+1. supercar,wings/wintertires/AB,coinboost,overchargedturbo
+2. formula,afterburner,tires/OT~~coinboost~~,fuelboost (jump over switch)
+3. bus,thrusters,magnet,fuel/wings/JS
 	- [10k vid](https://youtu.be/5l_N5GsiceU)
 4. tank **fume coin rollcage**/wheelie or kangaroo
 
