@@ -38,7 +38,7 @@
 
 <details markdown="block">
   <summary>
-    TE: The Friendzone
+    TE: Impatience
   </summary>
 <br>
 1. supercar,wintertires,coinboost,overchargedturbo
