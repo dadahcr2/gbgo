@@ -41,10 +41,19 @@
     TE: Impatience
   </summary>
 <br>
+![]()  
+	
+!![jeep2] ![bus2] ![tank2] ![formula2] ![supercar2]  
+
 1. supercar,wintertires,coinboost,overchargedturbo
-2. formula,afterburner,coinboost,fuelboost
+2. formula,afterburner,coinboost,fuelboost (flip switch)
 3. bus,wings,thrusters,magnet
 4. tank,kangaroo,or,wheelieboost,coinboost,fumeboost
+	
+![]()  
+![]()  
+
+	
 </details>
 
 <details markdown="block">
