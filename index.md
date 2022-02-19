@@ -45,8 +45,8 @@
 	
 ![jeep2] ![bus2] ![tank2] ![formula2] ![supercar2]  
 
-1. supercar,wintertires,coinboost,overchargedturbo
-2. formula,afterburner,coinboost,fuelboost (flip switch)
+1. supercar,wintertires/AB,coinboost,overchargedturbo
+2. formula,afterburner,coinboost,fuelboost (don't flip switch)
 3. bus,thrusters,magnet,fuel/wings
 	- [10k vid](https://youtu.be/5l_N5GsiceU)
 4. tank,kangaroo,or,wheelieboost,coinboost,fumeboost
