@@ -40,6 +40,17 @@
   <summary>
     TE: The Friendzone
   </summary>
+<br>
+1. supercar,wintertires,coinboost,overchargedturbo
+2. formula,afterburner,coinboost,fuelboost
+3. bus,wings,thrusters,magnet
+4. tank,kangaroo,or,wheelieboost,coinboost,fumeboost
+</details>
+
+<details markdown="block">
+  <summary>
+    TE: The Friendzone
+  </summary>
 <br> 
 ![](https://cdn.discordapp.com/attachments/858094235446411264/941852454352470036/IMG_4386.png)  
 
