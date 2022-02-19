@@ -47,7 +47,8 @@
 
 1. supercar,wintertires,coinboost,overchargedturbo
 2. formula,afterburner,coinboost,fuelboost (flip switch)
-3. bus,wings,thrusters,magnet
+3. bus,thrusters,magnet,fuel/wings
+	- [10k vid](https://youtu.be/5l_N5GsiceU)
 4. tank,kangaroo,or,wheelieboost,coinboost,fumeboost
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/944200086647365682/IMG_4486.png)  
