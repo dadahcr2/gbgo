@@ -50,6 +50,13 @@
 3. bus,thrusters,magnet,fuel/wings
 	- [10k vid](https://youtu.be/5l_N5GsiceU)
 4. tank **fume coin rollcage**/wheelie or kangaroo
+
+**videos**  
+- [**ytsearch**](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+impatience%22) 
+	
+**tutorial**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YTaYEzxL3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/944200086647365682/IMG_4486.png)  
 	
