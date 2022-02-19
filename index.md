@@ -75,47 +75,12 @@
 ![moto2] ![sportscar2] ![monster2] ![RT2] ![EV2]   
 ![](https://cdn.discordapp.com/attachments/851566907920089128/941542602786885632/IMG_4329.png)  
 
-1. EV wing LB coin, Cargo (Drive Through, Capital)
-2. monster start AB coin, Valentine 3
-3. moto s=17 wing thrust fume/fuel, Danger Ahead (Rocky Road)
-4. RT Df=1 wing JS thrust, Floor is Lava	
-	
-### Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2W2McOt7Nrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/941697502258794516/te_Strategy.png)  
-</details>
-<details markdown="block">
-  <summary>
-    TE: LUG-NUT FESTIVAL WITH FRIENDS
-  </summary>
-<br> 
-![scooter2] ![mk22] ![rotator2] ![snowmobile2] ![sbike2]
-![](https://cdn.discordapp.com/attachments/851566907920089128/939165736746745976/IMG_4128.png) 
-
-	
-1. rotator b=1-3 wing magnet AB/thrusters, Nian chase no fuel  
-	- [thrusters vid](https://www.youtube.com/watch?v=GezrOQuaouA)  
-2. Sbike 20191001 g=19 s=10/11 Df=1 wing AB coin,Spartan Racing (Green Cup)
-3. scooter wing tires wheelie or mk2 s=15 rc=1/20 wing magnet wheelie/AB, City wheelie
-4. snowmobile wing fume OT, Water run no fuel
-	
-videos
-- [ytsearch](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+LUG-NUT+FESTIVAL+WITH+FRIENDS%22)  
-	
-vokope tutorial  
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8tM9mSGRoCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](https://cdn.discordapp.com/attachments/851566907920089128/939200761391357992/te_Strategy.png)  
-</details>
-
 <details  markdown="block">
   <summary>
-    PE: Fractured Romance
+    PE: Steady Hands
   </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/850232585707323402/941164860811640832/IMG_4286.png)  
+![](https://cdn.discordapp.com/attachments/850232585707323402/944587560041189386/Untitled_162.png)  
 	  	
 </details>	
 	
