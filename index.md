@@ -43,7 +43,7 @@
 <br>
 ![](https://cdn.discordapp.com/attachments/851566907920089128/944204415735328778/IMG_4487.jpg)  
 	
-!![jeep2] ![bus2] ![tank2] ![formula2] ![supercar2]  
+![jeep2] ![bus2] ![tank2] ![formula2] ![supercar2]  
 
 1. supercar,wintertires,coinboost,overchargedturbo
 2. formula,afterburner,coinboost,fuelboost (flip switch)
