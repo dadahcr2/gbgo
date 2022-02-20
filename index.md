@@ -65,15 +65,6 @@
 	
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: The Friendzone
-  </summary>
-<br> 
-![](https://cdn.discordapp.com/attachments/858094235446411264/941852454352470036/IMG_4386.png)  
-
-![moto2] ![sportscar2] ![monster2] ![RT2] ![EV2]   
-![](https://cdn.discordapp.com/attachments/851566907920089128/941542602786885632/IMG_4329.png)  
 
 <details  markdown="block">
   <summary>
