@@ -61,10 +61,10 @@
 
 1. supercar,wings/wintertires/AB,coinboost,overchargedturbo
 2. formula,afterburner,tires/OT~~coinboost~~,fuelboost (jump over switch)
-3. bus,thrusters,magnet,fuel/wings/JS
+3. bus,thrusters,magnet,fuel/wings/JS, reverse from front of air tunnel to remove passengers  
 	- [10k vid](https://youtu.be/5l_N5GsiceU)
 	- [278m thrusters only level 2](https://youtu.be/3YYywOjNzto)
-4. tank **fume LB/coin rollcage**/wheelie or kangaroo
+4. tank **fume coin/LB rollcage**/wheelie or kangaroo(with tank or jeep)  
 
 **videos**  
 - [**ytsearch**](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+impatience%22) 
