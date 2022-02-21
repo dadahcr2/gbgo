@@ -312,6 +312,7 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](h
 
 Name | Link  
 : -- | :--  
+*Lonestar | <https://playhcr.com/invite?id=YAKzzp>  
 69Camaro | <https://playhcr.com/invite?id=6YgJX4>  
 Boodles | <https://playhcr.com/invite?id=N4qzEl>  
 Canis | <https://playhcr.com/invite?id=oBy7Md>   
@@ -335,9 +336,10 @@ Lou | <https://playhcr.com/invite?id=yX53Vd>
 Mrfixit | <https://playhcr.com/invite?id=zEaegD>  
 Native | <https://playhcr.com/invite?id=dEgpVA>
 Nesorac | <https://playhcr.com/invite?id=Zlapzy>  
-Rock | <https://playhcr.com/invite?id=pBVAYN>
-sb | <https://playhcr.com/invite?id=P0ZYO3>
+Rock | <https://playhcr.com/invite?id=pBVAYN>  
+sb | <https://playhcr.com/invite?id=P0ZYO3>  
 Slicksam | <https://playhcr.com/invite?id=bEgMXb>  
+Spyder | <https://playhcr.com/invite?id=1Y1v73>   
 Swan | <https://playhcr.com/invite?id=Q4rWYA>  
 T | <https://playhcr.com/invite?id=3YgYnj>  
 Typhoon(pdb) | <https://playhcr.com/invite?id=OOZb13>  
