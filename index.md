@@ -49,6 +49,7 @@
 2. formula,afterburner,tires/OT~~coinboost~~,fuelboost (jump over switch)
 3. bus,thrusters,magnet,fuel/wings/JS
 	- [10k vid](https://youtu.be/5l_N5GsiceU)
+	- [278m thrusters only level 2](https://youtu.be/3YYywOjNzto)
 4. tank **fume coin rollcage**/wheelie or kangaroo
 
 **videos**  
