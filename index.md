@@ -50,7 +50,7 @@
 3. bus,thrusters,magnet,fuel/wings/JS
 	- [10k vid](https://youtu.be/5l_N5GsiceU)
 	- [278m thrusters only level 2](https://youtu.be/3YYywOjNzto)
-4. tank **fume coin rollcage**/wheelie or kangaroo
+4. tank **fume LB/coin rollcage**/wheelie or kangaroo
 
 **videos**  
 - [**ytsearch**](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+impatience%22) 
