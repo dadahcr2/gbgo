@@ -38,6 +38,20 @@
 
 <details markdown="block">
   <summary>
+    TE: Beyond Infinity
+  </summary>
+<br>
+
+![tractor2] ![buggy2] ![mono2] ![Hotrod2] ![moonlander2]  
+1. stunt coins
+2. timed
+3. timed
+4. wheelie
+
+</details>  
+
+<details markdown="block">
+  <summary>
     TE: Impatience
   </summary>
 <br>
