@@ -86,9 +86,9 @@
   {: .text-delta }
 ### Weekly Kms Contest    
 
-6 Feb 2022
+20 Feb 2022
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/942111039632343060/IMG_4243.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/945116829293088809/IMG_4565.png)  
 	
 <br>  
 </details>  
