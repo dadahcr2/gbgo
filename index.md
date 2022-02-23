@@ -62,8 +62,7 @@
 1. supercar,wings/wintertires/AB,coinboost,overchargedturbo
 2. formula,afterburner,tires/OT~~coinboost~~,fuelboost (jump over switch)
 3. bus,thrusters,magnet,fuel/wings/JS, reverse from front of air tunnel to remove passengers  
-	- [10k vid](https://youtu.be/5l_N5GsiceU)
-	- [278m thrusters only level 2](https://youtu.be/3YYywOjNzto)
+	- [dada 284m video](https://cdn.discordapp.com/attachments/858094304102449162/945841375293898782/FullSizeRender-compressed.mov)  
 4. tank **fume coin/LB rollcage**/wheelie or kangaroo(with tank or jeep)  
 
 **videos**  
