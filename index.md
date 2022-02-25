@@ -395,7 +395,7 @@ Zay | <https://playhcr.com/invite?id=avmvPP>
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.  
 
-3. **In-game chat** is the preferred means of communication. In the rare event of not being able to communicate in-game, feel free to use other means (e.g. my contact detail at the bottom or the discord server <https://discord.gg/HHJB2qcR> - *if the link has expired, let me know and I will refresh it*)  
+3. **In-game chat** is the preferred means of communication. In the rare event of not being able to communicate in-game, feel free to use other means (e.g. my contact detail at the bottom or the discord server <https://dsc.gg/gbg>  
 
 4. **Relax and have fun!**  Rankings are secondary. (Please don't pressure anyone to perform better. If there is an issue that detracts from the positive environment, steps will be taken to address it.) 
 
