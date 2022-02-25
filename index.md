@@ -41,13 +41,18 @@
     TE: Beyond Infinity
   </summary>
 <br>
-
+![](https://img.youtube.com/vi/84tiiD7kgJg/0.jpg) 
+	
 ![tractor2] ![buggy2] ![mono2] ![Hotrod2] ![moonlander2]  
 1. stunt coins
 2. timed
 3. timed
 4. wheelie
-
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/946637731633692732/IMG_4636.png)
+	
+![](https://cdn.discordapp.com/attachments/851566907920089128/946834678831255562/te_Strategy.png)  
+	
 </details>  
 
 <details markdown="block">
