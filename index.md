@@ -44,7 +44,8 @@
 ![](https://img.youtube.com/vi/84tiiD7kgJg/0.jpg) 
 	
 ![tractor2] ![buggy2] ![mono2] ![Hotrod2] ![moonlander2]  
-1. moonlander magnet AC Wheelie, two passages, moon stunts
+1. moonlander magnet AC flipboostWheelie, two passages, moon stunts
+	- [easier route](https://youtu.be/0zOgq3dxAN4)  
 2. tractor AB OT Fuel, 2km canyoneer sprint 
 3. hotrod magnet fuel coin, timed uphill
 4. buggy wing wheelie coin, wheelie 1 (bog)
