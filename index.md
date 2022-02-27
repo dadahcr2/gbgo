@@ -44,10 +44,14 @@
 ![](https://img.youtube.com/vi/84tiiD7kgJg/0.jpg) 
 	
 ![tractor2] ![buggy2] ![mono2] ![Hotrod2] ![moonlander2]  
-1. stunt coins
-2. timed
-3. timed
-4. wheelie
+1. moonlander magnet AC Wheelie, two passages, moon stunts
+2. tractor AB OT Fuel, 2km canyoneer sprint 
+3. hotrod magnet fuel coin, timed uphill
+4. buggy wing wheelie coin, wheelie 1 (bog)
+
+**Tutorial**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ev9znIFwJ0?start=443" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/946637731633692732/IMG_4636.png)
 	
