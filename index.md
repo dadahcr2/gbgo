@@ -50,7 +50,7 @@
 4. buggy wing wheelie coin, wheelie 1 (bog)
 
 **Tutorial**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ev9znIFwJ0?start=443" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ev9znIFwJ0?start=90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 	
 ![](https://cdn.discordapp.com/attachments/851566907920089128/946637731633692732/IMG_4636.png)
