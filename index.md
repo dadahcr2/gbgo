@@ -221,7 +221,7 @@ Native
 Terd  
 Canis  
 Dada  
-Lonestar
+Lonestar  
 Zay  
 
 **2022 Adventure Roll of Honor**  
