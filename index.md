@@ -207,9 +207,6 @@ avg 	 1
 	
 **March: Moonlander - Winter**  
 ![](http://www.alyudesign.com/images/main/car_SnowRover.jpg)  
-	
-**February: Supercar - Forest**
-![](https://www.ubackground.com/_ph/84/524809657.jpg)
 
 **Last Contest Results**
 	
