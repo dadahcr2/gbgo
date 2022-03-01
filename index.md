@@ -110,9 +110,9 @@
   {: .text-delta }
 ### Weekly Kms Contest    
 
-20 Feb 2022
+28 Feb 2022
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/945116829293088809/IMG_4565.png)  
+![](https://cdn.discordapp.com/attachments/777301191474282546/948061921347788820/IMG_4669.png)  
 	
 <br>  
 </details>  
@@ -163,7 +163,7 @@ Boodles      -    -    1
  	
 <br>  	
 </details>  
-<details markdown="block">
+<!-- <details markdown="block">
   <summary>
     Co-leader joins
   </summary>
@@ -202,7 +202,7 @@ avg 	 1
 **`---------------`**  
 
 <br>  	
-</details>
+</details> -->
 <details markdown="block">
   <summary>
     Adventure
