@@ -135,21 +135,12 @@ Rules:
 
 `————————————`🏆 — 🥈 — 🥉
 ```
-Getzata     13    6    7  
+Getzata     14    7    7  
 Dada         8    7    1  
 Date         6    4    8   
 Typhoon/PDB  -    -    1  
 Boodles      -    -    1  
 ```
-
-***Top 5 Highest Points***  
-🏆 ***Getzata*** - 824p - Week 20, 26  
-🏆 ***Date*** - 824p - Week 30  
-🥈 ***Getzata*** - 821p - Week 19, 21, 22  
-🥉 ***Getzata*** - 818p - Week 17, 27  
-🥉 ***Dada*** - 818p - Week 18    
-🥉 ***Data*** - 818p - Week 31  
-🏅 ***Getzata*** - 815p - Week 18  
 	
 **To compete in the daily Time Trial contest**
 1. Make sure that to add Folo and Gutta to your friend list 
