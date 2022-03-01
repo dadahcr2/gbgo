@@ -213,26 +213,29 @@ avg 	 1
 
 **Last Contest Results**
 	
-**January:  Superbike - Racier Glacier**
-
-🏆 Jimbob 3367m  
-🥈 Date 2996m  
-🥉 GetIT  2206m  
-Dada  
+**February: Supercar - Forest**  
+🏆 Jimbob 11746m  
+🥈 Nesorac 9909m  
+🥉 Josey 9076m  
+Camaro  
 Boodles  
+Rock  
 Native  
-J  
-Flywheel  
-Swan  
-Josey   
+Terd  
+Canis  
+Dada  
+*  
+Zay  
 
 **2022 Adventure Roll of Honor**  
 ```
             🥇   🥈   🥉  
 ————————————————————————  
-Jimbob       1             
+Jimbob       2             
 Date              1  
+Nesorac           1  
 GetIT                  1
+Josey                  1
 ————————————————————————   
 ```
 <br>  	
