@@ -61,34 +61,7 @@
 	
 </details>  
 
-<details markdown="block">
-  <summary>
-    TE: Impatience
-  </summary>
-<br>
-![](https://cdn.discordapp.com/attachments/851566907920089128/944204415735328778/IMG_4487.jpg)  
-	
-![jeep2] ![bus2] ![tank2] ![formula2] ![supercar2]  
 
-1. supercar,wings/wintertires/AB,coinboost,overchargedturbo
-2. formula,afterburner,tires/OT~~coinboost~~,fuelboost (jump over switch)
-3. bus,thrusters,magnet,fuel/wings/JS, reverse from front of air tunnel to remove passengers  
-	- [dada 284m video](https://cdn.discordapp.com/attachments/858094304102449162/945841375293898782/FullSizeRender-compressed.mov)  
-4. tank **fume coin/LB rollcage**/wheelie or kangaroo(with tank or jeep)  
-
-**videos**  
-- [**ytsearch**](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+impatience%22) 
-	
-**tutorial**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5YTaYEzxL3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/944200086647365682/IMG_4486.png)  
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/944399339944570930/te_Strategy.png)  
-
-	
-</details>
 
 
 <details  markdown="block">
