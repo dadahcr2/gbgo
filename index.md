@@ -46,6 +46,7 @@
 ![tractor2] ![buggy2] ![mono2] ![Hotrod2] ![moonlander2]  
 1. moonlander magnet AC flipboostWheelie, two passages, moon stunts
 	- [easier route](https://youtu.be/0zOgq3dxAN4)  
+	- with flipboost, easiest route: use tiny amount of fuel to flip over first hill. Land the ndrop and flip down the dip to get the fuel at the bottom. After landing fly up to get the fuel at the top right.  Then drive forward and do a whole lot of flips.  Before fuel is half empty, fly up to get fuel by the aerial then reverse all the way flipping down into the dip.  Don’t take a chance and  get the last fuel at the bottom, and then reverse and keep on doing flips in the dip while reversing.
 2. tractor AB OT Fuel, 2km canyoneer sprint 
 3. hotrod magnet fuel coin, timed uphill
 4. buggy wing wheelie coin, wheelie 1 (bog)
