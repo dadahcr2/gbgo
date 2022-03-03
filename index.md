@@ -41,7 +41,7 @@
     TE: Beyond Infinity
   </summary>
 <br>
-![](https://img.youtube.com/vi/84tiiD7kgJg/0.jpg) 
+![](https://media.discordapp.net/attachments/851566907920089128/949036640511332442/IMG_4723.jpg) 
 	
 ![tractor2] ![buggy2] ![mono2] ![Hotrod2] ![moonlander2]  
 1. moonlander magnet AC flipboostWheelie, two passages, moon stunts
