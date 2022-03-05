@@ -41,7 +41,7 @@
     TE: Overseasoned
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/851566907920089128/949296684633043004/IMG_4772.png)  
+![](https://media.discordapp.net/attachments/858017263989948447/949567887646003230/B06B7B8B-18C6-4E7D-A1FC-4199078E2F33.png)  
 
 ![scooter2]  ![rotator2]  ![diesel2]  ![chopper2]  ![rally2]  
 	
