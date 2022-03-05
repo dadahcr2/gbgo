@@ -54,33 +54,6 @@
 
 ![](https://media.discordapp.net/attachments/851566907920089128/949343873078018058/te_Strategy.png)  
 </details>
-	
-<details markdown="block">
-  <summary>
-    TE: Beyond Infinity
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/851566907920089128/949036640511332442/IMG_4723.jpg) 
-	
-![tractor2] ![buggy2] ![mono2] ![Hotrod2] ![moonlander2]  
-1. moonlander magnet AC flipboostWheelie, two passages, moon stunts
-	- [easier route](https://youtu.be/0zOgq3dxAN4)  
-	- with flipboost, easiest route: use tiny amount of fuel to flip over first hill. Land then drop and flip down the dip to get the fuel in the air. After landing fly up to get the fuel at the top right.  Then drive forward and do a whole lot of flips.  Before fuel is half empty, fly up to get fuel by the aerial then reverse all the way flipping down into the dip.  Don’t take a chance and  get the last fuel at the bottom, and then reverse and keep on doing flips in the dip while reversing. [video](https://media.discordapp.net/attachments/858094235446411264/949034836021117028/FullSizeRender-compressed.mov)  
-	- <iframe width="560" height="315" src="https://www.youtube.com/embed/7hJMaBYyEgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-2. tractor AB OT Fuel, 2km canyoneer sprint 
-3. hotrod magnet fuel coin, timed uphill
-4. buggy wing wheelie coin, wheelie 1 (bog)
-
-**Tutorial**   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ev9znIFwJ0?start=95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/946637731633692732/IMG_4636.png)
-	
-![](https://cdn.discordapp.com/attachments/851566907920089128/946834678831255562/te_Strategy.png)  
-	
-</details>  
-
 
 
 
