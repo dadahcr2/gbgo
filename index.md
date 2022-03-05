@@ -45,13 +45,16 @@
 
 ![scooter2]  ![rotator2]  ![diesel2]  ![chopper2]  ![rally2]  
 
-1. chopper wing RC thrust / rally wing JS thrust, Winter Targets  
+1. **rotator b=1 wing AC thrust** / chopper wing RC thrust / rally wing JS thrust, Winter Targets  
 2. rally weight tire wheelie / chopper tire fume coin, Winter No Air Distance  
-3. rotator wing OT AB, Liability Free Fun (Delightful Diversions)  
+3. **chopper s=1 wing LB thrust** / rotator wing OT AB, Liability Free Fun (Delightful Diversions)  
 4. diesel weight start AB! Breaking (Demolition 2) 
 	
 videos
 - [YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+Overseasoned%22)
+	
+**tutorial**  	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVPYPWJLEF4?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 	
 ![](https://media.discordapp.net/attachments/851566907920089128/949296925415444480/IMG_4771.png)  
 
