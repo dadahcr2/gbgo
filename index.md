@@ -38,6 +38,19 @@
 
 <details markdown="block">
   <summary>
+    TE: Overseasoned
+  </summary>
+<br>
+![](https://media.discordapp.net/attachments/851566907920089128/949296684633043004/IMG_4772.png)  
+
+![scooter2]  ![rotator2]  ![diesel2]  ![chopper2]  ![rally2]  
+![](https://media.discordapp.net/attachments/851566907920089128/949296925415444480/IMG_4771.png)  
+
+![](https://media.discordapp.net/attachments/851566907920089128/949343873078018058/te_Strategy.png)  
+</details>
+	
+<details markdown="block">
+  <summary>
     TE: Beyond Infinity
   </summary>
 <br>
