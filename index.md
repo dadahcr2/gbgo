@@ -301,6 +301,8 @@ Draft based on VMinchBosch data - **work-in-progress do not distribute!**  ![](h
 
 ### Friends  
 
+![](https://media.discordapp.net/attachments/946814541348622348/950094065003794432/IMG_4816.png)
+	
 Name | Link  
 : -- | :--  
 *Lonestar | <https://playhcr.com/invite?id=YAKzzp>  
