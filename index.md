@@ -68,7 +68,7 @@ videos
     PE: Multipart Madness
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/949488855055208488/Untitled_176.png)  
+![](https://images-ext-1.discordapp.net/external/sb__8Etg_GRUuk6MtL1FzUhZUTEEC1BLVqw-7Kat7Q0/https/media.discordapp.net/attachments/850232585707323402/950085245867262022/Untitled_179.png)  
 	
 </details>	
 	
