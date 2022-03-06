@@ -312,6 +312,7 @@ Canis | <https://playhcr.com/invite?id=oBy7Md>
 Dada | <https://playhcr.com/invite?id=3dQ10Q>  
 ~~DarKnight~~ | <https://playhcr.com/invite?id=Q4dbKK>  
 ~~Date~~ | <https://playhcr.com/invite?id=rdKaOg>  
+DEZ | <https://playhcr.com/invite?id=wX5Wl6>  
 Diezel | <https://playhcr.com/invite?id=Wrq05d>  
 Flow | <https://playhcr.com/invite?id=wX6Yq3>  
 Flywheel | <https://playhcr.com/invite?id=xdxQbr>  
