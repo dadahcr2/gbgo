@@ -53,6 +53,7 @@
 	
 videos
 - [YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+Overseasoned%22)
+- [T2 Chopper T3 Rally](https://youtu.be/rsyIDwVhu0w)  
 	
 **tutorial**  	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kVPYPWJLEF4?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
