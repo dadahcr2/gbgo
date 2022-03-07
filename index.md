@@ -49,6 +49,7 @@
 2. **rally weight tire wheelie / chopper tire coin wheelie**/fume, Winter No Air Distance
 	- go slower with chopper to make sure to stay on the ground
 3. rally wing JS LB / chopper s=1 wing LB thrust / rotator wing OT AB, Liability Free Fun (Delightful Diversions)  
+	- I got 17.387s in Liability Free Fun. Check out how fast you can go: https://playhcr.com/challenge?id=5nzvZa0  
 4. **diesel weight start AB**, Breaking (Demolition 2) 
 	
 videos
