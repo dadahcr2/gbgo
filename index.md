@@ -83,9 +83,9 @@ videos
   {: .text-delta }
 ### Weekly Kms Contest    
 
-28 Feb 2022
+7 Mar 2022
 	
-![](https://cdn.discordapp.com/attachments/777301191474282546/948061921347788820/IMG_4669.png)  
+![](https://media.discordapp.net/attachments/777301191474282546/950258734897188885/IMG_4820.png)  
 	
 <br>  
 </details>  
