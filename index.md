@@ -68,11 +68,12 @@ videos
 
 <details  markdown="block">
   <summary>
-    PE: Multipart Madness
+    PE: Newton's Law
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/950211612973867008/Untitled_181.png)  
-	
+![](https://media.discordapp.net/attachments/850232585707323402/951136220208054332/Untitled_182.png)  
+
+![< https://media.discordapp.net/attachments/763397735172669441/816650898364563489/VID_20210303_143835.mp4>](https://media.discordapp.net/attachments/763397735172669441/816650898364563489/VID_20210303_143835.mp4)  
 </details>	
 	
 ***
