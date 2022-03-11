@@ -41,27 +41,16 @@
     TE: Overseasoned
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/858017263989948447/949567887646003230/B06B7B8B-18C6-4E7D-A1FC-4199078E2F33.png)  
-
-![scooter2]  ![rotator2]  ![diesel2]  ![chopper2]  ![rally2]  
-
-1. **rotator b=1 wing AC thrust** / chopper wing RC thrust / rally wing JS thrust, Winter Targets  
-2. **rally weight tire wheelie / chopper tire coin wheelie**/fume, Winter No Air Distance
-	- go slower with chopper to make sure to stay on the ground
-3. rally wing JS LB / chopper s=1 wing LB thrust / rotator wing OT AB, Liability Free Fun (Delightful Diversions)  
-	- I got 17.387s in Liability Free Fun. Check out how fast you can go: https://playhcr.com/challenge?id=5nzvZa0  
-4. **diesel weight start AB**, Breaking (Demolition 2) 
+![](https://media.discordapp.net/attachments/894901600974430268/951902693675372544/20220311_130053.gif)  
 	
-videos
-- [YT Search](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2+%22+Overseasoned%22)
-- [T2 Chopper T3 Rally](https://youtu.be/rsyIDwVhu0w)  
-	
-**tutorial**  	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kVPYPWJLEF4?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
-	
-![](https://media.discordapp.net/attachments/851566907920089128/949296925415444480/IMG_4771.png)  
 
-![](https://media.discordapp.net/attachments/851566907920089128/949343873078018058/te_Strategy.png)  
+![mk22] ![sportscar2] ![snowmobile2] ![formula2] ![sbike2]  
+![](https://media.discordapp.net/attachments/858851529058418765/951894376357953626/IMG_4923.png)  
+
+	
+	
+![](https://images-ext-1.discordapp.net/external/tKbZYeFVsCSgaezXyKnS3B78N1gjoO0FAfpf4scEgII/https/media.discordapp.net/attachments/817854010161758238/951849617379696670/te_strategy.png)  
+
 </details>
 
 
