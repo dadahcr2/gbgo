@@ -43,8 +43,15 @@
 <br>
 ![](https://media.discordapp.net/attachments/894901600974430268/951902693675372544/20220311_130053.gif)  
 	
-
 ![mk22] ![sportscar2] ![snowmobile2] ![formula2] ![sbike2]  
+	
+1. Sbike AB coin Wings, cargo, Fingerwoods, dirty rally
+	- [10k vid](https://youtu.be/B8URhFDX3kQ)  
+2. formula start JS LB / sports JS LB AB, commence fright, embark on entertainment
+3. mk2/formula wing JS LB, multijump 
+4. sports wing JS LB / mk2 wing LB thrust, winter downhill
+	
+	
 ![](https://media.discordapp.net/attachments/858851529058418765/951894376357953626/IMG_4923.png)  
 
 	
