@@ -69,12 +69,10 @@
 
 <details  markdown="block">
   <summary>
-    PE: Newton's Law
+    PE: The Sky is Lava
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/952128889600213062/Untitled_188.png)  
-
-![[Video showing how to do it](https://media.discordapp.net/attachments/763397735172669441/816650898364563489/VID_20210303_143835.mp4)](https://media.discordapp.net/attachments/763397735172669441/816650898364563489/VID_20210303_143835.mp4)  
+![](https://media.discordapp.net/attachments/819589691656503336/953711598139220058/93B90AD0-BF0C-4681-AB27-01070F7AC000.jpg)  
 </details>	
 	
 ***
