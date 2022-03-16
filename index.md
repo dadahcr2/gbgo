@@ -45,13 +45,15 @@
 	
 ![mk22] ![sportscar2] ![snowmobile2] ![formula2] ![sbike2]  
 	
-1. **Sbike s=18 DF=1 AB coin Wings**, cargo, Fingerwoods, dirty rally
+1. **Sbike s=18 DF=1/3 AB coin Wings**, cargo, Fingerwoods, dirty rally
 	- [10k vid](https://youtu.be/B8URhFDX3kQ)  
-2. **formula s=16 start JS LB** / sports JS LB AB, commence fright, embark on entertainment
+2. **formula s=16/17 start JS AB/LB** / sports JS LB AB, commence fright, embark on entertainment
 3. **mk2 rc=1** (/formula) wing JS LB, multijump 
 	- remove roof. Jump before flag
 4. **sports JS LB start**/wing / mk2 wing LB thrust, winter downhill
 
+[jtmoney 36k vid](https://youtu.be/PhawxIr5CIk)  
+	
 **Tutorial**  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tSYZSdZ0srg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
