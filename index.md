@@ -72,7 +72,8 @@
     PE: The Sky is Lava
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/819589691656503336/953711598139220058/93B90AD0-BF0C-4681-AB27-01070F7AC000.jpg)  
+![](https://images-ext-2.discordapp.net/external/NzSwWm-eDVq7HlaEZcr0hZ3KT2K8jMqrP2tMkofcARM/https/media.discordapp.net/attachments/850232585707323402/953724866442461244/Untitled_189.png)  
+![](https://images-ext-2.discordapp.net/external/efd3ebVxMTUf76Ht79XhTdx_AUj9-Z-zbNDydT7j1yY/https/media.discordapp.net/attachments/864520500007927819/873016114664321064/image0.jpg) 
 </details>	
 	
 ***
