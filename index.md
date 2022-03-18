@@ -38,6 +38,20 @@
 
 <details markdown="block">
   <summary>
+    TE: Edge of Someday
+  </summary>
+<br>
+![jeep2] ![moto2] ![monster2] ![RT2] ![EV2]   
+![](https://media.discordapp.net/attachments/662142801084940298/954260096840511508/IMG_5005.png)
+
+![]()  
+	
+![](https://f4.bcbits.com/img/a3610117532_10.jpg)
+	
+	
+</details>
+<details markdown="block">
+  <summary>
     TE: Deja Vu Drive
   </summary>
 <br>
