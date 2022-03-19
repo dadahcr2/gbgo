@@ -44,7 +44,7 @@
 ![jeep2] ![moto2] ![monster2] ![RT2] ![EV2]   
 	
 1. RT df=1 wing LB AB, Logs and Rocks (Forest Cup)
-2. jeep wing JS Thrusf / moto AC FlipB Thrust ,Seaside (Beach Cup)
+2. jeep wing JS Flipb/Thrust / moto AC FlipB Thrust ,Seaside (Beach Cup)
 3. monster weight start AB, Breaking (Demolition 1)
 4. EV/Jeep wing JS LB, No Fuel (Racer Glacier)
 	
