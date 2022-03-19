@@ -43,10 +43,13 @@
 <br>
 ![jeep2] ![moto2] ![monster2] ![RT2] ![EV2]   
 	
-1. RT wing LB AB, Logs and Rocks (Forest Cup)
+1. RT df=1 wing LB AB, Logs and Rocks (Forest Cup)
 2. jeep wing JS Thrusf / moto AC FlipB Thrust ,Seaside (Beach Cup)
 3. monster weight start AB, Breaking (Demolition 1)
 4. EV/Jeep wing JS LB, No Fuel (Racer Glacier)
+	
+vidoes
+- [vere](https://www.youtube.com/watch?v=q0XMsQxE6aw)   
 
 ![](https://media.discordapp.net/attachments/662142801084940298/954260096840511508/IMG_5005.png)
 
@@ -54,38 +57,7 @@
 	
 ![](https://f4.bcbits.com/img/a3610117532_10.jpg)
 	
-	
 </details>
-<details markdown="block">
-  <summary>
-    TE: Deja Vu Drive
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/894901600974430268/951902693675372544/20220311_130053.gif)  
-	
-![mk22] ![sportscar2] ![snowmobile2] ![formula2] ![sbike2]  
-	
-1. **Sbike s=18 DF=1/3 AB coin Wings**, cargo, Fingerwoods, dirty rally
-	- [10k vid](https://youtu.be/B8URhFDX3kQ)  
-2. **formula s=16/17 start JS AB/LB** / sports JS LB AB, commence fright, embark on entertainment
-3. **mk2 rc=1** (/formula) wing JS LB, multijump 
-	- remove roof. Jump before flag
-4. **sports JS LB start**/wing / mk2 wing LB thrust, winter downhill
-
-[jtmoney 36k vid](https://youtu.be/PhawxIr5CIk)  
-	
-**Tutorial**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tSYZSdZ0srg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-![](https://media.discordapp.net/attachments/858851529058418765/951894376357953626/IMG_4923.png)  
-
-	
-	
-![](https://images-ext-1.discordapp.net/external/tKbZYeFVsCSgaezXyKnS3B78N1gjoO0FAfpf4scEgII/https/media.discordapp.net/attachments/817854010161758238/951849617379696670/te_strategy.png)  
-
-</details>
-
-
 
 <details  markdown="block">
   <summary>
