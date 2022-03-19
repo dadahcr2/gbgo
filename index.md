@@ -50,6 +50,7 @@
 	
 vidoes
 - [vere](https://www.youtube.com/watch?v=q0XMsQxE6aw)   
+- [deflo 38k](https://youtu.be/aKEeHOK9ZhE)  
 
 ![](https://media.discordapp.net/attachments/662142801084940298/954260096840511508/IMG_5005.png)
 
