@@ -42,6 +42,12 @@
   </summary>
 <br>
 ![jeep2] ![moto2] ![monster2] ![RT2] ![EV2]   
+	
+1. RT wing LB AB, Logs and Rocks (Forest Cup)
+2. jeep wing JS Thrusf / moto AC FlipB Thrust ,Seaside (Beach Cup)
+3. monster weight start AB, Breaking (Demolition 1)
+4. EV/Jeep wing JS LB, No Fuel (Racer Glacier)
+
 ![](https://media.discordapp.net/attachments/662142801084940298/954260096840511508/IMG_5005.png)
 
 ![](https://media.discordapp.net/attachments/851566907920089128/954263388060524584/te_Strategy.png)  
