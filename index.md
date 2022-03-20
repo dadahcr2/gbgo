@@ -85,9 +85,9 @@ Tutorial
   {: .text-delta }
 ### Weekly Kms Contest    
 
-7 Mar 2022
+13 Mar 2022
 	
-![](https://media.discordapp.net/attachments/777301191474282546/950258734897188885/IMG_4820.png)  
+![](https://media.discordapp.net/attachments/777301191474282546/955147411997728888/IMG_4967.png)  
 	
 <br>  
 </details>  
