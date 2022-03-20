@@ -3,7 +3,6 @@
 {: style="text-align: center;"}
 <!--
 ***
-![](https://images-ext-2.discordapp.net/external/fFH6sFGDHKCZ5oxuhvXrJu_6zrgMmxMVYMz5DWInoJo/%3Fc%3DVjFfZGlzY29yZA/https/media.tenor.com/bGCuW8uql2kAAAPo/office-server.mp4)  
 
 <details markdown="block">
   <summary>
