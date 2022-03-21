@@ -45,7 +45,7 @@
 	
 1. RT df=1 wing LB AB, Logs and Rocks (Forest Cup)
 2. jeep wing JS Flipb/Thrust / moto AC FlipB Thrust ,Seaside (Beach Cup)
-	- [10k vid jeep](https://media.discordapp.net/attachments/954286785259782164/955286317388939264/Screen_Recording_20220320-190033_Hill_Climb_Racing_2.mp4)
+	- [10k vid jeep](https://media.discordapp.net/attachments/954286785259782164/955286317388939264/Screen_Recording_20220320-190033_Hill_Climb_Racing_2.mp4)  [10k vid2 jeep](https://media.discordapp.net/attachments/954286785259782164/955289875727396894/RPReplay_Final1647801663.mov)  
 3. monster weight start AB, Breaking (Demolition 1)
 4. EV/Jeep wing JS LB, No Fuel (Racer Glacier)
 	
