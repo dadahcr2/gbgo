@@ -105,10 +105,11 @@ Tutorial
 	<div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
 Rules:  
-- Compete each day in same daily as fw.hcr2.info  
+- Compete each day in Friendly Wars  
 	
 <https://fw.hcr2.info> for recent results  
 
+<!--
 ***GBG Podium Placements:***  
 
 `————————————`🏆 — 🥈 — 🥉
@@ -119,7 +120,7 @@ Date         6    4    8
 Typhoon/PDB  -    -    1  
 Boodles      -    -    1  
 ```
-	
+--> 
 **To compete in the daily Time Trial contest**
 1. Make sure that to add Folo and Gutta to your friend list 
 - Gutta: <https://playhcr.com/invite?id=JmjQdp>
