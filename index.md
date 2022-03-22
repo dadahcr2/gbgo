@@ -53,9 +53,10 @@
 vidoes
 - [vere](https://www.youtube.com/watch?v=q0XMsQxE6aw)   
 - [deflo 38k](https://youtu.be/aKEeHOK9ZhE)  
+- [big al 39k](https://media.discordapp.net/attachments/954286785259782164/955827904728690708/XRecorder_Edited_21032022_224834.mp4)
 	
 Tutorial  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vs0HJt6Ac-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vs0HJt6Ac-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 	
 	
 
