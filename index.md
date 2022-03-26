@@ -46,7 +46,7 @@
 ![bus2] ![buggy2] ![mono2] ![supercar2] ![moonlander2]  
 1. buggy s=8? wings magnet fume/coin/wheelie, winter wheelie
 2. bus wings magnet thrust, remove 1+ people at start, slow and low for fuel, then up and across, winter long jump
-3. moonlander ac flip coin, take off at start thrust up diagonally, moon time trial
+3. moonlander ac flip coin/start, take off at start thrust up diagonally, moon time trial
 4. supercar wings JS LB, beach multijump
 	
 Tutorial  
