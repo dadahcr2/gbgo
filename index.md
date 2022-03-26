@@ -49,6 +49,9 @@
 3. moonlander ac flip coin, take off at start thrust up diagonally, moon time trial
 4. supercar wings JS LB, beach multijump
 	
+Tutorial  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_cJVTQCoo-U?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+	
 ![](https://media.discordapp.net/attachments/851566907920089128/956791131725762591/IMG_5112.png)  
 	
 ![](https://media.discordapp.net/attachments/851566907920089128/957288683864739921/te_Strategy.png)  
