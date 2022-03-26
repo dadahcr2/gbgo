@@ -41,16 +41,16 @@
   </summary>
 <br>
 	
-!()[https/blog.irisconnect.com/hs-fs/hubfs/Stock%2520images/Confidence%2520sign%2520with%2520a%2520beautiful%2520day.jpeg]  
+![](https/blog.irisconnect.com/hs-fs/hubfs/Stock%2520images/Confidence%2520sign%2520with%2520a%2520beautiful%2520day.jpeg)  
 
 ![bus2] ![buggy2] ![mono2] ![supercar2] ![moonlander2]  
 1. buggy s=8? wings magnet fume/coin/wheelie, winter wheelie
 2. bus wings magnet thrust, remove 1+ people at start, slow and low for fuel, then up and across
 3. moonlander ac flip coin, take off at start thrust up diagonally
 	
-!()[https://media.discordapp.net/attachments/851566907920089128/956791131725762591/IMG_5112.png]  
+![](https://media.discordapp.net/attachments/851566907920089128/956791131725762591/IMG_5112.png)  
 	
-!()[https://media.discordapp.net/attachments/851566907920089128/957288683864739921/te_Strategy.png]  
+![](https://media.discordapp.net/attachments/851566907920089128/957288683864739921/te_Strategy.png)  
 	
 	
 </details>
