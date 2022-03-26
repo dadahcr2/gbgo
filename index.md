@@ -35,39 +35,26 @@
 ***   
 
 ## Events
-
 <details markdown="block">
   <summary>
-    TE: Edge of Someday
+    TE: Confidence
   </summary>
 <br>
-![jeep2] ![moto2] ![monster2] ![RT2] ![EV2]   
 	
-1. RT df=1 wing LB AB, Logs and Rocks (Forest Cup)
-2. jeep wing JS Flipb/Thrust / moto AC FlipB Thrust ,Seaside (Beach Cup)
-	- [vid1 jeep](https://media.discordapp.net/attachments/954286785259782164/955286317388939264/Screen_Recording_20220320-190033_Hill_Climb_Racing_2.mp4)
-	- [vid2 jeep](https://media.discordapp.net/attachments/954286785259782164/955289875727396894/RPReplay_Final1647801663.mov)  
-3. monster weight start AB, Breaking (Demolition 1)
-4. EV/Jeep wing JS LB, No Fuel (Racer Glacier)
-	
-vidoes
-- [vere](https://www.youtube.com/watch?v=q0XMsQxE6aw)   
-- [deflo 38k](https://youtu.be/aKEeHOK9ZhE)  
-- [big al 39k](https://media.discordapp.net/attachments/954286785259782164/955827904728690708/XRecorder_Edited_21032022_224834.mp4)
-	
-Tutorial  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vs0HJt6Ac-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-	
-	
+!()[https/blog.irisconnect.com/hs-fs/hubfs/Stock%2520images/Confidence%2520sign%2520with%2520a%2520beautiful%2520day.jpeg]  
 
-![](https://media.discordapp.net/attachments/662142801084940298/954260096840511508/IMG_5005.png)
-
-![](https://media.discordapp.net/attachments/851566907920089128/954263388060524584/te_Strategy.png)  
+![bus2] ![buggy2] ![mono2] ![supercar2] ![moonlander2]  
+1. buggy s=8? wings magnet fume/coin/wheelie, winter wheelie
+2. bus wings magnet thrust, remove 1+ people at start, slow and low for fuel, then up and across
+3. moonlander ac flip coin, take off at start thrust up diagonally
 	
-![](https://f4.bcbits.com/img/a3610117532_10.jpg)
+!()[https://media.discordapp.net/attachments/851566907920089128/956791131725762591/IMG_5112.png]  
+	
+!()[https://media.discordapp.net/attachments/851566907920089128/957288683864739921/te_Strategy.png]  
+	
 	
 </details>
-
+	
 
 <details  markdown="block">
   <summary>
