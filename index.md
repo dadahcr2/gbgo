@@ -41,7 +41,7 @@
   </summary>
 <br>
 	
-![](https/blog.irisconnect.com/hs-fs/hubfs/Stock%2520images/Confidence%2520sign%2520with%2520a%2520beautiful%2520day.jpeg)  
+![](https://blog.irisconnect.com/hs-fs/hubfs/Stock%20images/Confidence%20sign%20with%20a%20beautiful%20day.jpeg?width=1978&height=1222&name=Confidence%20sign%20with%20a%20beautiful%20day.jpeg)  
 
 ![bus2] ![buggy2] ![mono2] ![supercar2] ![moonlander2]  
 1. buggy s=8? wings magnet fume/coin/wheelie, winter wheelie
