@@ -62,10 +62,10 @@ Tutorial
 
 <details  markdown="block">
   <summary>
-    PE: NO AIR and NO CARES
+    PE: HIIIIIIIIL RACER!
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/956259305559060511/Untitled_200.png)  
+![](https://images-ext-1.discordapp.net/external/bw3OE6OKPmjbflgqFWG_H12wI_KSHsVtNLm7FOiwOfY/https/media.discordapp.net/attachments/850232585707323402/958908673504215070/Untitled_204.png)  
 </details>	
 	
 ***
