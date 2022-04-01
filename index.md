@@ -41,7 +41,8 @@
   </summary>
 <br>
 ![](https://media.discordapp.net/attachments/851566907920089128/959320203903254578/IMG_5182.png)  
-
+{: style="text-align: center;"}
+	
 ![tractor2] ![rotator2] ![diesel2] ![formula2] ![sbike2]  
 ![](https://images-ext-1.discordapp.net/external/sbR3rjkLUKg8KF3Q5U-flWwS7FGeEHATdc_W3hQOAXw/https/media.discordapp.net/attachments/851566907920089128/959320470220603413/IMG_5180.png)  
 
