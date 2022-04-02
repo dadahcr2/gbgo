@@ -187,7 +187,8 @@ boodles  1
 **`---------------`**  
 
 <br>  	
-</details> -->
+</details>
+
 <details markdown="block">
   <summary>
     Adventure
