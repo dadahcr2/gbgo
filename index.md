@@ -154,22 +154,16 @@ Boodles      -    -    1
  	
 <br>  	
 </details>  
-<!-- <details markdown="block">
+<details markdown="block"> 
   <summary>
     Co-leader joins
   </summary>
   {: .text-delta }
 ### Co-leader Season Contest
 
-**Joins in Jan**     
+**Joins in April**     
 ```
-wolf     1
-dada     2
-getz     2
 boodles  1
-stryker  1
-lou      2
-avg 	 1
 ```
 
 **Season Winners**
