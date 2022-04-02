@@ -44,6 +44,16 @@
 {: style="text-align: center;"}
 	
 ![tractor2] ![rotator2] ![diesel2] ![formula2] ![sbike2]  
+	
+1.diesel s=19? wing JS LB
+2.rotator wing AB coin
+3.sbike s=18? df=1 wing AB OT
+4.forumula s=18? AB OT coin
+	
+Tutorial  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5U0JQ-d99FU?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 ![](https://images-ext-1.discordapp.net/external/sbR3rjkLUKg8KF3Q5U-flWwS7FGeEHATdc_W3hQOAXw/https/media.discordapp.net/attachments/851566907920089128/959320470220603413/IMG_5180.png)  
 
 ![](https://media.discordapp.net/attachments/921752418654502912/923271317174747216/Untitled_44.png)  
