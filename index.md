@@ -60,7 +60,7 @@ Tutorial
 
 ![](https://media.discordapp.net/attachments/921752418654502912/923271317174747216/Untitled_44.png)  
 	
-![](https://media.discordapp.net/attachments/851566907920089128/959770123634368552/te_Strategy.png)  
+![](https://media.discordapp.net/attachments/817854010161758238/959785526079160330/te_strategy.png)  
 	
 </details>
 	
