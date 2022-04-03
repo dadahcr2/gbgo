@@ -46,8 +46,11 @@
 ![tractor2] ![rotator2] ![diesel2] ![formula2] ![sbike2]  
 	
 1. diesel s=19? wing JS LB
-2. rotator wing AB coin
+2. rotator b=3? wing AB coin
+	> T2 when you come out of the tunnels with the rotator hit the lowest lip first and the second landing will be right above the line of coins.. and just launch Over the top
 3. sbike s=18? df=1 wing AB OT
+	> On T3 with the bike … perfect start.. let off for a quick sec and throttle down and the turbo should engage right on
+take off and shoot you over the first
 4. forumula s=18? AB OT coin
 	
 Tutorial  
