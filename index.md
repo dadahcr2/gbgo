@@ -54,38 +54,13 @@ take off and shoot you over the first
 4. forumula s=18? AB OT coin
 	
 Tutorial  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5U0JQ-d99FU?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/5U0JQ-d99FU?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ![](https://images-ext-1.discordapp.net/external/sbR3rjkLUKg8KF3Q5U-flWwS7FGeEHATdc_W3hQOAXw/https/media.discordapp.net/attachments/851566907920089128/959320470220603413/IMG_5180.png)  
 
 ![](https://media.discordapp.net/attachments/921752418654502912/923271317174747216/Untitled_44.png)  
 	
 ![](https://media.discordapp.net/attachments/851566907920089128/959770123634368552/te_Strategy.png)  
-	
-</details>
-	
-<details markdown="block">
-  <summary>
-    TE: Confidence
-  </summary>
-<br>
-	
-![](https://blog.irisconnect.com/hs-fs/hubfs/Stock%20images/Confidence%20sign%20with%20a%20beautiful%20day.jpeg?width=1978&height=1222&name=Confidence%20sign%20with%20a%20beautiful%20day.jpeg)  
-
-![bus2] ![buggy2] ![mono2] ![supercar2] ![moonlander2]  
-1. buggy s=8? wings magnet fume/coin/wheelie, winter wheelie
-2. bus wings magnet thrust, remove 1+ people at start, slow and low for fuel, then up and across, winter long jump
-3. moonlander ac flip coin/start, take off at start thrust up diagonally, moon time trial
-4. supercar wings JS LB, beach multijump
-	
-Tutorial  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_cJVTQCoo-U?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/956791131725762591/IMG_5112.png)  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/957288683864739921/te_Strategy.png)  
-	
 	
 </details>
 	
