@@ -67,10 +67,10 @@ Tutorial
 
 <details  markdown="block">
   <summary>
-    PE: HIIIIIIIIL RACER!
+   PE: CAR-KOUR
   </summary>
 <br>
-![](https://images-ext-1.discordapp.net/external/bw3OE6OKPmjbflgqFWG_H12wI_KSHsVtNLm7FOiwOfY/https/media.discordapp.net/attachments/850232585707323402/958908673504215070/Untitled_204.png)  
+![](https://media.discordapp.net/attachments/850232585707323402/961276752557125672/Untitled_2.png)  
 </details>	
 	
 ***
