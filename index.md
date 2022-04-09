@@ -44,40 +44,14 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg) 
 	
 ![jeep2] ![scooter2] ![chopper2] ![rally2] ![hotrod2]  
+	
+tutorial  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QdIyL5G4mao?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 ![](https://media.discordapp.net/attachments/851566907920089128/961852908553515008/IMG_5258.png)  
 
 ![](https://media.discordapp.net/attachments/851566907920089128/961854818761183252/te_Strategy.png)  
 </details>
-
-<details markdown="block">
-  <summary>
-    TE: Torqued
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/851566907920089128/959320203903254578/IMG_5182.png)  
-{: style="text-align: center;"}
-	
-![tractor2] ![rotator2] ![diesel2] ![formula2] ![sbike2]  
-	
-1. diesel s=19? wing JS LB
-2. rotator b=3? wing AB coin
-	> T2 when you come out of the tunnels with the rotator hit the lowest lip first and the second landing will be right above the line of coins.. and just launch Over the top
-3. sbike s=18? df=1 wing AB OT
-	> On T3 with the bike … perfect start.. let off for a quick sec and throttle down and the turbo should engage right on
-take off and shoot you over the first
-4. forumula s=18? AB OT coin
-	
-Tutorial  
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/5U0JQ-d99FU?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-![](https://images-ext-1.discordapp.net/external/sbR3rjkLUKg8KF3Q5U-flWwS7FGeEHATdc_W3hQOAXw/https/media.discordapp.net/attachments/851566907920089128/959320470220603413/IMG_5180.png)  
-
-![](https://media.discordapp.net/attachments/921752418654502912/923271317174747216/Untitled_44.png)  
-	
-![](https://media.discordapp.net/attachments/817854010161758238/959785526079160330/te_strategy.png)  
-	
-</details>
-	
 
 <details  markdown="block">
   <summary>
