@@ -73,10 +73,10 @@ tutorial
 
 <details  markdown="block">
   <summary>
-   PE: CAR-KOUR
+   PE: HOW EGGS-HAUSTING
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/961276752557125672/Untitled_2.png)  
+![](https://media.discordapp.net/attachments/850232585707323402/964532892988497970/Untitled_211.png)  
 </details>	
 	
 ***
