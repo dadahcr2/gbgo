@@ -46,6 +46,11 @@
 	
 ![bus2] ![mk22] ![moto2] ![sportscar2] ![RT2]  
 
+	
+
+**Tutorial**
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/_rjSzjMHDhE?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+	
 ![](https://media.discordapp.net/attachments/851566907920089128/964421774961934366/IMG_5338.png)  
 
 ![](https://media.discordapp.net/attachments/851566907920089128/964421872680857620/te_Strategy.png)  
