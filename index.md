@@ -48,7 +48,7 @@
 1. RT Df=1 Wing AB Coin, circuit 9, countryside cup
 2. bus wing OT fume/thrust
 3. mk2 s=18 rc=1 wing JS LB remove RC
-4. moto wing LB thrust/start/coin, metal gear, epic hills
+4. moto wing LB thrust/AB, metal gear, epic hills
 	
 
 **Tutorial**
