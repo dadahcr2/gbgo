@@ -60,10 +60,17 @@
 	
 ![](https://media.discordapp.net/attachments/921752418654502912/934064668937449492/artflow_202201202308.jpg)  
 	
-1. ![](https://media.discordapp.net/attachments/858017263989948447/965326383297466458/incollage_save.jpg)  
-2. ![](https://media.discordapp.net/attachments/858017329509171201/965326461240225802/incollage_save.jpg)  
-3. ![](https://media.discordapp.net/attachments/858017412174577716/965326489933471764/incollage_save.jpg)  
-4. ![](https://media.discordapp.net/attachments/858017616181461022/965326509906747543/incollage_save.jpg)  
+**T1 Vokope**  
+- ![](https://media.discordapp.net/attachments/858017263989948447/965326383297466458/incollage_save.jpg)  
+
+**T2 Vokope**  
+- ![](https://media.discordapp.net/attachments/858017329509171201/965326461240225802/incollage_save.jpg)  
+	
+**T3 Vokope**  
+- ![](https://media.discordapp.net/attachments/858017412174577716/965326489933471764/incollage_save.jpg)  
+	
+**T4 Vokope**  
+- ![](https://media.discordapp.net/attachments/858017616181461022/965326509906747543/incollage_save.jpg)  
 	
 </details>
 
