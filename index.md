@@ -44,6 +44,11 @@
 ![](https://media.discordapp.net/attachments/851566907920089128/967088758392504370/IMG_5489.jpg)  
 	
 ![jeep2] ![monster2] ![snowmobile2] ![ev2] ![supercar2]   
+	
+**Tutorial**
+><iframe width="560" height="315" src="https://www.youtube.com/embed/t_kw2cEYG44?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+	
 ![](https://media.discordapp.net/attachments/851566907920089128/967089364414902333/IMG_5488.png)  
 	
 ![](https://media.discordapp.net/attachments/851566907920089128/967089442839990302/te_Strategy.png)  
