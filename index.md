@@ -44,7 +44,7 @@
 ![](https://media.discordapp.net/attachments/851566907920089128/967088758392504370/IMG_5489.jpg)  
 	
 ![jeep2] ![monster2] ![snowmobile2] ![ev2] ![supercar2]   
-1. CCEV wing JS LB 
+1. CCEV wing LB coin/JS
 2. SnowM wing fume OT
 3. monster s=18 wing AB coin
 4. jeep wing JS LB
