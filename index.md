@@ -21,7 +21,7 @@
  </b></summary>
 {: .text-delta}  
      
-![](https://rentry.co/fwdaily/png)
+![](https://rentry.org/fwdaily/png)
 	
 <!--
 <div>Time Trial <iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
@@ -44,7 +44,7 @@
 ![](https://media.discordapp.net/attachments/851566907920089128/967088758392504370/IMG_5489.jpg)  
 	
 ![jeep2] ![monster2] ![snowmobile2] ![ev2] ![supercar2]   
-1. CCEV wing LB coin/JS
+1. CCEV wing LB coin/JS or suoercar rc wing LB
 2. SnowM wing fume OT
 3. monster s=18 wing AB coin
 4. jeep wing JS LB
