@@ -78,13 +78,10 @@
   </summary>
   {: .text-delta }
 ### Weekly Kms Contest    
-3 Apr 2022
+
+![](https://images-ext-2.discordapp.net/external/1MQUgn97rPyUrN_wVWmx297uDQkRFw8q52KBDNZNvfE/https/media.discordapp.net/attachments/806343355264401478/969061206822383686/935E7C15-0356-494C-90CC-B94F65288A5C.png)  
 	
-![](https://media.discordapp.net/attachments/777301191474282546/961867100538933328/IMG_5227.png)  
-	
-10 Apr 2022
-	
-![](https://media.discordapp.net/attachments/777301191474282546/965014933840466020/IMG_5310.png)  
+![](https://images-ext-1.discordapp.net/external/DJQca2gIJwLijQwjMGP_B1DWNBBKro7eQtS1WAuTsSg/https/media.discordapp.net/attachments/806343355264401478/969061794888953856/E4959E01-8EBB-400F-9E1B-61A807C84560.jpg)  
 	
 <br>  
 </details>  
