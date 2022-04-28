@@ -59,50 +59,13 @@
 	
 </details>
 
-<details markdown="block">
-  <summary>
-    TE: Perfect Poise
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/851566907920089128/964421322824384552/9CB349F4-F001-4815-9699-E59E458C13D1.png)  
-{: style="text-align: center;"}
-	
-![bus2] ![mk22] ![moto2] ![sportscar2] ![RT2]  
-1. RT Df=1 Wing AB Coin, circuit 9, countryside cup
-2. bus wing OT fume/thrust
-3. mk2 s=18 rc=1 wing JS LB remove RC
-4. moto wing LB thrust/AB - no perfect start, metal gear, epic hills
-	
-
-**Tutorial**
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/_rjSzjMHDhE?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/964421774961934366/IMG_5338.png)  
-
-![](https://media.discordapp.net/attachments/851566907920089128/964421872680857620/te_Strategy.png)  
-	
-![](https://media.discordapp.net/attachments/921752418654502912/934064668937449492/artflow_202201202308.jpg)  
-	
-**T1 Vokope**  
-![](https://media.discordapp.net/attachments/858017263989948447/965326383297466458/incollage_save.jpg)  
-
-**T2 Vokope**  
-![](https://media.discordapp.net/attachments/858017329509171201/965326461240225802/incollage_save.jpg)  
-	
-**T3 Vokope**  
-![](https://media.discordapp.net/attachments/858017412174577716/965326489933471764/incollage_save.jpg)  
-	
-**T4 Vokope**  
-![](https://media.discordapp.net/attachments/858017616181461022/965326509906747543/incollage_save.jpg)  
-	
-</details>
 
 <details  markdown="block">
   <summary>
-   PE: Masochistic Mountaineering
+   PE: Queen of the Bay
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/850232585707323402/966695923902189618/Untitled_220.png)    
+![](https://media.discordapp.net/attachments/850232585707323402/969057329108615178/Untitled_227.png)    
 </details>	
 	
 ***
