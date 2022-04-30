@@ -38,27 +38,21 @@
 
 <details markdown="block">
   <summary>
-    TE: No I in Team
+    TE: Car Kata
   </summary>
 <br>
-![](https://media.discordapp.net/attachments/851566907920089128/967088758392504370/IMG_5489.jpg)  
-	
-![jeep2] ![monster2] ![snowmobile2] ![ev2] ![supercar2]   
-1. CCEV wing LB coin/JS or suoercar rc wing LB
-2. SnowM wing fume OT
-3. monster s=18 wing AB coin
-4. jeep wing JS LB
-	
-**Tutorial**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t_kw2cEYG44?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-	
-![](https://media.discordapp.net/attachments/851566907920089128/967089364414902333/IMG_5488.png)  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/967089442839990302/te_Strategy.png)  
-	
-</details>
+![](https://media.discordapp.net/attachments/851566907920089128/969577661343100999/image0.jpg)  
 
+![tractor2] ![buggy2] ![rotator2] ![diesel2] ![sbike2]  
+1. rotator s=1 wing ac thrust - target
+2. diesel wing JS coin - 2km canyon sprint
+3. buggy wing wheelie coin - wheelie
+4. Sbike Df=1 wing ab coin - coconut cove, travel cup
+	
+![](https://media.discordapp.net/attachments/851566907920089128/969577915366907934/IMG_4659.png)  
+
+![](https://media.discordapp.net/attachments/851566907920089128/969583221153103912/te_Strategy.png)  
+</details>
 
 <details  markdown="block">
   <summary>
