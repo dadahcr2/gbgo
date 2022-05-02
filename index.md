@@ -45,9 +45,12 @@
 
 ![tractor2] ![buggy2] ![rotator2] ![diesel2] ![sbike2]  
 1. rotator s=1 wing ac thrust - target
-2. diesel wing JS coin - 2km canyon sprint
+2. diesel wing coin JS/AB - 2km canyon sprint
 3. buggy wing wheelie coin - wheelie
-4. Sbike Df=1 wing ab coin - coconut cove, travel cup
+4. Sbike wing ab coin - coconut cove, travel cup
+	
+**TUTORIAL**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8s1vj4EbhHc?start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 ![](https://media.discordapp.net/attachments/851566907920089128/969577915366907934/IMG_4659.png)  
 
