@@ -128,10 +128,9 @@ Boodles      -    -    1
   {: .text-delta }
 ### Co-leader Season Contest
 
-**Joins in April**     
+**Joins in May**     
 ```
-boodles  2
-lou 3
+boodles  1
 ```
 
 **Season Winners**
@@ -143,7 +142,7 @@ lou 3
 6. getzata, dada & jimbob  
 7. getzata & dada
 8. getzata & dada
-	
+12. Ripride & Boodles
 	
 **`---------------`**  
 **`Tablet of Honor`**    
@@ -152,7 +151,9 @@ lou 3
 `dada..........3`   
 `Groot.........2`   
 `Jimbob........1`      
-**`---------------`**  
+`Ripride.......1`      
+*`Boodles.......1`      
+*`---------------`**  
 
 <br>  	
 </details>
@@ -168,6 +169,9 @@ lou 3
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 -->
 	
+**May : Scooter - Overspill Fun Rig**  
+![](https://media.discordapp.net/attachments/820286421323350032/970614117440290846/IMG_5574.jpg)  
+
 **April: Jeep/Hill Climber - City**  
 ![](https://media.tenor.com/zYegJrPiL7EAAAPo/beep-friday-mood.mp4)  
 
