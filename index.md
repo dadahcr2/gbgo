@@ -38,6 +38,21 @@
 
 <details markdown="block">
   <summary>
+    TE: It's a Rental
+  </summary>
+<br>
+
+![mk22] ![sportscar2] ![chopper2] ![formula2] ![moonlander2]  
+	
+![](https://media.discordapp.net/attachments/851566907920089128/974556815889145876/IMG_5645.png)  
+	
+![](https://media.discordapp.net/attachments/851566907920089128/974556879906828288/te_Strategy.png)  
+
+</details>
+
+
+<details markdown="block">
+  <summary>
     TE: BIll's Cruel Thesis
   </summary>
 <br>
