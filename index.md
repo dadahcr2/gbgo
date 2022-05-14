@@ -44,6 +44,12 @@
 
 ![mk22] ![sportscar2] ![chopper2] ![formula2] ![moonlander2]  
 
+	
+1. sports weight wheelie AB
+2. formula s=10 Df=1 wing JS LB
+3. chopper wing AB LB / s=1 wing fume thrust
+4. mk2 rc=1 remove wing JS LB
+	
 **Tutorial**
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/mTRz1DxTb0w?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
