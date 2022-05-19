@@ -59,34 +59,6 @@
 
 </details>
 
-
-<details markdown="block">
-  <summary>
-    TE: BIll's Cruel Thesis
-  </summary>
-<br>
-![scooter2] ![moto2] ![mono2] ![rally2] ![ev2]  
-1. Carting (It’s Mine!) moto start LB AB  
-2. Underwater Long Jump scooter magnet thrust fuel
-3. Demolition4 EV weight start wheelie
-4. Uphill rally wing tires fume remove RC & bonnet 
-	
-**Tutorial**  
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jkMa9Vn6FUk?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](https://media.discordapp.net/attachments/851566907920089128/971985161740771358/IMG_5589.png)  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/972007727364706314/te_Strategy.png)  
-	
-</details>	
-	
-<details  markdown="block">
-  <summary>
-   PE: Satellite Sprint
-  </summary>
-<br>
-![](https://media.discordapp.net/attachments/850232585707323402/928274193638887454/IMG_3278.png)    
-</details>		
 	
 ***
 	
