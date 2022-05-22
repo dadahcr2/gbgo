@@ -34,36 +34,15 @@
 
 ***   
 
-## Events
+## Event info on <https;//reference.hcr2info.com>
 
-<details markdown="block">
-  <summary>
-    TE: It's a Rental
-  </summary>
-<br>
 
-![mk22] ![sportscar2] ![chopper2] ![formula2] ![moonlander2]  
-
-	
-1. sports weight wheelie AB
-2. formula s=10 Df=1 wing JS LB
-3. chopper wing AB LB / s=1 wing fume thrust
-4. mk2 rc=1 remove wing JS LB
-	
-**Tutorial**
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/mTRz1DxTb0w?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-![](https://media.discordapp.net/attachments/851566907920089128/974556815889145876/IMG_5645.png)  
-	
-![](https://media.discordapp.net/attachments/851566907920089128/974556879906828288/te_Strategy.png)  
-
-</details>
 
 	
 ***
 	
-## Contests
-	
+## Contests Results on Discord <https://discord.gg/F6dEmqyNNw>
+<!--	
 <details markdown="block">  
   <summary>
     Weekly Kms
@@ -86,7 +65,7 @@
 ### Daily Time Trial Contest
 <!--
 	<div><iframe src="https://fw.hcr2.info/daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
--->
+
 Rules:  
 - Compete each day in Friendly Wars  
 	
@@ -103,7 +82,7 @@ Date         6    4    8
 Typhoon/PDB  -    -    1  
 Boodles      -    -    1  
 ```
---> 
+
 **To compete in the daily Time Trial contest**
 1. Make sure that to add Folo and Gutta to your friend list 
 - Gutta: <https://playhcr.com/invite?id=JmjQdp>
@@ -162,7 +141,7 @@ boodles  1
 ### Adventure Contest	
 <!--
 <div>Adventure <iframe src="https://fw.hcr2.info/adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
--->
+
 	
 **May : Scooter - Overspill Fun Rig**  
 ![](https://media.discordapp.net/attachments/820286421323350032/970614117440290846/IMG_5574.jpg)  
@@ -206,6 +185,7 @@ Bee                    1
 - Tractor Wars: <http://tw.hcr2.info>  
 - Friendly Wars: <http://fw.hcr2.info>
 </details>   	
+-->
 
 	
 ***
