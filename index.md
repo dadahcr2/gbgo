@@ -34,11 +34,11 @@
 
 ***   
 
-## Event info on [hcr2info.com](<https://reference.hcr2info.com>)
+## Event info on <https://reference.hcr2info.com>
 	
 ***
 	
-## Contests Results on [Team Discord Server](<https://discord.gg/F6dEmqyNNw>)
+## Contests Results on Discord: <https://dsc.gg/gbg>  
 <!--	
 <details markdown="block">  
   <summary>
