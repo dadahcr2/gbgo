@@ -34,10 +34,7 @@
 
 ***   
 
-## Event info on <https;//reference.hcr2info.com>
-
-
-
+## Event info on <https://reference.hcr2info.com>
 	
 ***
 	
