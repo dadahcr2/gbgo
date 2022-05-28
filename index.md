@@ -36,8 +36,6 @@
 
 ## Event info on <https://reference.hcr2info.com>
 
-T4 9.6k  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v-6X9_UTQgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 ***
 	
