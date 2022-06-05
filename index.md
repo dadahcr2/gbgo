@@ -33,10 +33,31 @@
 </details>	   
 
 ***   
+<!--
+## Event info on <https://reference.hcr2info.com> -->
 
-## Event info on <https://reference.hcr2info.com>
+<details  markdown="block">
+<summary>
+    TE: Giant Enemy Clock
+  </summary>
+<br>
+![](https://media.tenor.com/_Xj_pcAdBEAAAAPo/time-change-daylight-savings.mp4)  
 
+	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-0rMeCdD34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+![](https://media.discordapp.net/attachments/851566907920089128/982293716180017172/IMG_5776.png)
+
+![](https://media.discordapp.net/attachments/851566907920089128/982293819640930364/te_Strategy.png)
+
+
+T2
+![](https://media.discordapp.net/attachments/880712810542297148/880712846344871956/image0.jpg)
+
+![]()  
+	
+
+</details>
 
 ***
 	
