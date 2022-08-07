@@ -290,6 +290,7 @@ Jimbob | <https://playhcr.com/invite?id=wznXZW>
 Josey | <https://playhcr.com/invite?id=Z46v9Z>  
 LnL | <https://playhcr.com/invite?id=Ve1rrw>    
 Lou | <https://playhcr.com/invite?id=yX53Vd>  
+M!sbar | <https://playhcr.com/invite?id=P0Nv60>
 ~~Maynard~~ | <https://playhcr.com/invite?id=wdanoa>  
 Mrfixit | <https://playhcr.com/invite?id=zEaegD>  
 Native | <https://playhcr.com/invite?id=dEgpVA>  
