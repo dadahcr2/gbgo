@@ -32,15 +32,13 @@
 </details>	   
 
 ***   
-
-![](https://media.discordapp.net/attachments/858094270821040188/1024574936456634398/FullSizeRender-compressed.mov)
 	
 
 ## Event info on <https://reference.hcr2info.com> 
 
 ***
-	
-## Contests Results on Discord: <https://dsc.gg/gbg>  
+<!--	
+## Contests Results on Discord: <https://dsc.gg/gbg>  -->
 <!--	
 <details markdown="block">  
   <summary>
